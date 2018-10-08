@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_btn_chat",
+    "texture": "017e464f-b421-4854-aadf-7428da72d89b",
+    "atlas": "2be761ca-4603-4e75-931a-94f775e86097",
+    "rect": [
+      692,
+      685,
+      75,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      76
+    ],
+    "rotated": 1
+  }
+}

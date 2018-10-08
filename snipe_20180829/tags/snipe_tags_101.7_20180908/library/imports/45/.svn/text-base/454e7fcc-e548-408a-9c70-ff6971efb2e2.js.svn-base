@@ -1,0 +1,40 @@
+"use strict";
+cc._RF.push(module, '454e7/M5UhAipxw/2lx77Li', 'newerNode');
+// Script/ComponentScript/window/newerNode.js
+
+"use strict";
+
+// Learn cc.Class:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/class.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/class.html
+// Learn Attribute:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/reference/attributes.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
+
+cc.Class({
+    extends: cc.Component,
+
+    properties: {},
+
+    iKnowAction: function iKnowAction() {
+        hall.GlobalFuncs.setInLocalStorage(shot.gameModel.IS_NEW_USER, false);
+        ty.NotificationCenter.trigger(shot.EventType.GAME_START, "start");
+        this.node.destroy();
+    },
+    onPictureAction: function onPictureAction() {}
+
+    // LIFE-CYCLE CALLBACKS:
+
+    // onLoad () {},
+
+    // start () {
+    //
+    // },
+
+    // update (dt) {},
+});
+
+cc._RF.pop();

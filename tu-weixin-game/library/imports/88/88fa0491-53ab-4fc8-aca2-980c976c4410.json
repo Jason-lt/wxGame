@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "dizhu_table_chuntian.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ddz_feiji_chuntian": {
+      "__uuid__": "cc867244-7fab-4913-b793-9f9b91a1d039"
+    },
+    "ddz_feiji_hudie": {
+      "__uuid__": "0cefe224-82b7-4a5f-b66a-60cdb6705d44"
+    },
+    "ddz_feiji_taohua01": {
+      "__uuid__": "429c8371-f9a1-4eae-a092-114723fb67a5"
+    },
+    "ddz_feiji_taohua02": {
+      "__uuid__": "5f550d86-fd35-4731-bbe2-45b484e22e0e"
+    },
+    "ddz_feiji_taohua03": {
+      "__uuid__": "e7ca0e5a-35ec-47d6-974a-841146dac1c7"
+    },
+    "ddz_feiji_taohua04": {
+      "__uuid__": "b6d14287-119d-4242-975c-f58955cf4f54"
+    },
+    "ddz_feiji_yezi": {
+      "__uuid__": "4109fa9c-99d1-449e-9388-506391555710"
+    }
+  }
+}

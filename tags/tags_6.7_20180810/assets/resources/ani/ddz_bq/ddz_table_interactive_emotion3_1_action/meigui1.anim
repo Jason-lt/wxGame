@@ -1,0 +1,357 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "meigui1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "interactive_emo_flower_1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.4,
+              "value": 1.2000000476837158
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.4,
+              "value": 1.2000000476837158
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_heart_1": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0.6800000071525574
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0.6800000071525574
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_2": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0.6800000071525574
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0.6800000071525574
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_4": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0.9399999976158142
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0.9399999976158142
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_6": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0.800000011920929
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0.800000011920929
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_7": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0.800000011920929
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0.800000011920929
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0.6800000071525574
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 0.6800000071525574
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_3": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0.6800000071525574
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0.6800000071525574
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_5": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_8": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0.6499999761581421
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0.6499999761581421
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_9": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0.6399999856948853
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0.6399999856948853
+            }
+          ]
+        }
+      },
+      "interactive_emo_flower_2_10": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0.5
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0.5
+            }
+          ]
+        }
+      },
+      "particlesystem": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.3333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": 30
+              },
+              {
+                "frame": 2,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "interactive_emo",
+    "texture": "28Kg+FAqNK1Ylm5Jd4KQ+3",
+    "rect": [
+      3,
+      4,
+      986,
+      1001
+    ],
+    "offset": [
+      -4,
+      0.5
+    ],
+    "originalSize": [
+      1000,
+      1010
+    ]
+  }
+}

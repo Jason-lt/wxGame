@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_feiji_taohua01",
+    "texture": "aa645208-19fa-4cbd-aca5-38d8dfd1aa59",
+    "atlas": "88fa0491-53ab-4fc8-aca2-980c976c4410",
+    "rect": [
+      2,
+      271,
+      266,
+      198
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      266,
+      198
+    ]
+  }
+}

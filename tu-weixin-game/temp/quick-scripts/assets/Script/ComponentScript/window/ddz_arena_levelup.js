@@ -1,0 +1,143 @@
+(function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/Script/ComponentScript/window/ddz_arena_levelup.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
+cc._RF.push(module, '34f4fFWTjdLAK7LgiNyaeHF', 'ddz_arena_levelup', __filename);
+// Script/ComponentScript/window/ddz_arena_levelup.js
+
+"use strict";
+
+// var ddz_main = cc.instantiate(this.tipsWindow);
+// this.node.addChild(ddz_main);
+// var window = ddz_main.getComponent('ddz_fail');
+// window.setDiamondCount("五","56");
+cc.Class({
+    extends: cc.Component,
+    ctor: function ctor() {},
+
+    properties: {
+        continueBtn: cc.Button,
+        continueBtnLabel: cc.RichText,
+        rankLabel: cc.RichText,
+        rankBaseLabel: cc.RichText,
+        saveBtn: cc.Button,
+        aniNode: cc.Node,
+        progressNode: cc.Node
+    },
+
+    onLoad: function onLoad() {
+        //当前的progress展示
+        //var backButtonH = ddz.GlobalFuncs.getBackButtonPositionY();
+        //if (backButtonH){
+        //    this.backButton.node.y = backButtonH;
+        //}
+        this.actionCount = 1; //防止用户行为与定时器行为相冲突
+        this.timeLeft = 5;
+        this.continueBtnLabel.string = "<color=#FFFFFF>进入下一轮（" + this.timeLeft + "）</c>";
+        ty.Timer.setTimer(this, this.timeCount, 1, 5, 0);
+        var ani = this.aniNode.getComponent(cc.Animation);
+        ani.play('chenggongjinji');
+        //ty.NotificationCenter.listen(ddz.EventType.RECIVE_TABLE_INFO, this.newTableInfo, this);
+        ty.NotificationCenter.listen(ddz.EventType.GAME_HIDE, this.shutSelf, this);
+        ty.NotificationCenter.listen(ddz.EventType.ACTION_CHALLENGE, this.shutSelf, this);
+        ty.NotificationCenter.listen(ddz.EventType.SAVE_MATCH_SUCCESS, this.saveMatchSuccess, this);
+        ty.NotificationCenter.listen(ddz.EventType.ARENA_BACK_TO_SCENE, this.shutSelf, this);
+    },
+
+    setRankString: function setRankString(rankString) {
+        var ret = rankString.split('/');
+        this.rankLabel.string = "<color=#FDE755>" + ret[0] + "</color>";
+        this.rankBaseLabel.string = '<color=#FFFDDA>/' + ret[1] + '</color>';
+    },
+
+    showArenaStageProgress: function showArenaStageProgress(curStage, stages, playani) {
+        ty.Timer.setTimer(this, function () {
+            var scr = this.progressNode.getComponent("MatchRankProgressScript");
+            scr.initWithPars(curStage - 1, stages, playani);
+        }, 0.36, 0, 0);
+    },
+
+    setMatchDes: function setMatchDes(matchDes) {
+        this.matchDes = matchDes;
+    },
+
+    saveMatchSuccess: function saveMatchSuccess(value) {
+        var saveInfo = value.saveInfo;
+        var matchId = value.matchId;
+        var matchDes = hall.ME.matchInfo.getMatchDesByMatchId(matchId);
+        var stageString = "轮次: " + saveInfo.stageIndex + '/' + matchDes.stages.length;
+        var scoreString = "积分: " + saveInfo.mscore;
+        var preFabPath = "prefabs/ddz_window_save_match_result";
+        ddz.AudioHelper.playMusic(ddz.MusicPath_mp3.table_background_music, true, ty.SystemInfo.tableBgMusicVolume);
+        hall.GlobalFuncs.showPopWinByPreFab(preFabPath, function (preFabNode) {
+            var com = preFabNode.getComponent("ddz_window_save_match_result");
+            com.updateByMatchInfo([stageString, scoreString]);
+        });
+    },
+
+    shutSelf: function shutSelf() {
+        ty.NotificationCenter.trigger(ddz.EventType.HIDE_DDZ_MAIN);
+        ty.Timer.cancelTimer(this, this.timeCount);
+        ty.NotificationCenter.ignoreScope(this);
+        this.node.removeFromParent();
+    },
+
+    timeCount: function timeCount() {
+        this.timeLeft--;
+        if (this.timeLeft <= 0) {
+            this.continueBtnLabel.string = "<color=#FFFFFF>进入下一轮</c>";
+            this.onContinueClick();
+        } else {
+            this.continueBtnLabel.string = "<color=#FFFFFF>进入下一轮（" + this.timeLeft + "）</c>";
+        }
+    },
+
+    onButtonClick: function onButtonClick(event, type) {
+        ty.Timer.cancelTimer(this, this.timeCount);
+        if (type == 'continue') {
+            this.onContinueClick();
+        } else if (type == "save") {
+            this.onSaveClick();
+        }
+        this.continueBtn.interactable = false;
+        this.saveBtn.interactable = false;
+    },
+
+    onContinueClick: function onContinueClick() {
+        this.continueBtnLabel.string = "<color=#FFFFFF>进入下一轮</c>";
+        if (this.matchDes) {
+            ddz.matchModel.matchChallenge(this.matchDes.roomId, this.matchDes.matchId);
+            this.matchDes = null;
+        }
+    },
+
+    onSaveClick: function onSaveClick() {
+        this.continueBtnLabel.string = "<color=#FFFFFF>进入下一轮</c>";
+        if (this.matchDes) {
+            ddz.matchModel.matchSave(this.matchDes.roomId, this.matchDes.matchId);
+            this.matchDes = null;
+        }
+    },
+
+    shut: function shut() {
+        ty.Timer.cancelTimer(this, this.timeCount);
+        ty.NotificationCenter.ignoreScope(this);
+        this.node.destroy();
+    },
+
+    onDestroy: function onDestroy() {
+        ty.NotificationCenter.ignoreScope(this);
+    }
+    // update (dt) {},
+});
+
+cc._RF.pop();
+        }
+        if (CC_EDITOR) {
+            __define(__module.exports, __require, __module);
+        }
+        else {
+            cc.registerModuleFunc(__filename, function () {
+                __define(__module.exports, __require, __module);
+            });
+        }
+        })();
+        //# sourceMappingURL=ddz_arena_levelup.js.map
+        

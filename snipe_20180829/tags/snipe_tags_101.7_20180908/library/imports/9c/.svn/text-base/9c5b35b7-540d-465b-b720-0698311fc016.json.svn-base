@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_grenade_ba_07",
+    "texture": "601f96cc-7334-451e-9082-85222111a928",
+    "atlas": "d0c4f39c-6e02-4283-823a-c18a10f4ffe6",
+    "rect": [
+      516,
+      2,
+      256,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

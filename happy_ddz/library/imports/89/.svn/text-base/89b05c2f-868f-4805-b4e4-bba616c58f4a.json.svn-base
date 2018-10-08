@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fh_lanbai",
+    "texture": "bf339125-b2b5-4079-acd1-789042200e27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      191
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      195,
+      192
+    ]
+  }
+}

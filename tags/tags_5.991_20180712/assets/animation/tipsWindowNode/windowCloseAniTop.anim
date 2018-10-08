@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "windowCloseAniTop",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "shade": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 170
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ddz_white_bottom": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": [
+                -320,
+                568
+              ]
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": -320
+            }
+          ]
+        },
+        "comps": {
+          "cc.Widget": {
+            "top": [
+              {
+                "frame": 0,
+                "value": -325
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": -568
+              }
+            ],
+            "left": [
+              {
+                "frame": 0,
+                "value": -293
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": -320
+              }
+            ],
+            "right": [
+              {
+                "frame": 0,
+                "value": -293
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": 320
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

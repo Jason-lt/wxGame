@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "personBg",
+    "texture": "fd9b8aec-35a1-492f-a64e-8dd95d91ef60",
+    "atlas": "67f7d206-dee1-4de3-9e3d-ea45af0ddc1c",
+    "rect": [
+      2,
+      2,
+      528,
+      728
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      528,
+      728
+    ],
+    "rotated": 1,
+    "capInsets": [
+      57,
+      115,
+      48,
+      39
+    ]
+  }
+}

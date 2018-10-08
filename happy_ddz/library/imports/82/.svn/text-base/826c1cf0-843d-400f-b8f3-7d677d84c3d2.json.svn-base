@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daquan",
+    "texture": "7fa16236-d650-4d5e-856b-dacf30fd9a99",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      418,
+      983
+    ],
+    "offset": [
+      -47,
+      20.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

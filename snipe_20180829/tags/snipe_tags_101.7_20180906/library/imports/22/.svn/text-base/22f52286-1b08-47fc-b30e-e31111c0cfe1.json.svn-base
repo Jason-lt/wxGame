@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pingzi_02_posui07",
+    "texture": "8f7adf73-91b6-46c2-a671-a8c5dd5215a9",
+    "atlas": "8516802d-dd84-4747-b2e4-cde47bf11bd1",
+    "rect": [
+      463,
+      270,
+      24,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      32
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_b_golden_2",
+    "texture": "645F9umc9MgYba3ZLzrL+A",
+    "rect": [
+      8,
+      3,
+      28,
+      42
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      46,
+      48
+    ]
+  }
+}

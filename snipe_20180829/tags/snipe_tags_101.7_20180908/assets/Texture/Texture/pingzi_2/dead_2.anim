@@ -1,0 +1,496 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dead_2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "posui": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -1,
+                6
+              ],
+              "motionPath": [
+                [
+                  120,
+                  42,
+                  69,
+                  -51,
+                  167,
+                  188
+                ]
+              ]
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": [
+                247,
+                465
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 540
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.7,
+              "value": 255
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui09": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -2,
+                15
+              ],
+              "motionPath": [
+                [
+                  -117,
+                  36,
+                  -79,
+                  -50,
+                  -172,
+                  163
+                ]
+              ]
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": [
+                -194,
+                458
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 720
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui07": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -12,
+                39
+              ],
+              "motionPath": [
+                [
+                  -49,
+                  116,
+                  -36,
+                  49,
+                  -74,
+                  247
+                ]
+              ]
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": [
+                -96,
+                480
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 999
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui08": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                6,
+                31
+              ],
+              "motionPath": [
+                [
+                  172,
+                  68,
+                  98,
+                  22,
+                  273,
+                  129
+                ]
+              ]
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": [
+                364,
+                250
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 788
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui06": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                7,
+                63
+              ],
+              "motionPath": [
+                [
+                  66,
+                  158,
+                  47,
+                  79,
+                  102,
+                  311
+                ]
+              ]
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": [
+                130,
+                581
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": -837
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.7333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui05": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -14,
+                64
+              ],
+              "motionPath": [
+                [
+                  -93,
+                  63,
+                  -57,
+                  50,
+                  -206,
+                  104
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -423,
+                212
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 555
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui04": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                7.3,
+                92.2
+              ]
+            },
+            {
+              "frame": 1.1,
+              "value": [
+                229,
+                549
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.1,
+              "value": 312
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -15,
+                91
+              ],
+              "motionPath": [
+                [
+                  -114,
+                  120,
+                  -70,
+                  83,
+                  -222,
+                  211
+                ]
+              ]
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": [
+                -382,
+                400
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 556
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -1.2,
+                103
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -1,
+                508
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 1334
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/particlesystem": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 150
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

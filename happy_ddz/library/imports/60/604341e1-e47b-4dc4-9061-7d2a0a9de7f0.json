@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_withdraw_yellow_bg",
+    "texture": "043509ca-dbea-4940-9495-3de215ccc720",
+    "atlas": "f9560ec4-d326-4856-9a40-e1010911599d",
+    "rect": [
+      2,
+      101,
+      566,
+      449
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      566,
+      449
+    ],
+    "capInsets": [
+      0,
+      413,
+      0,
+      5
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "animan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.77,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "label": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jaingpin/ddz_mall_coin_icon_mall": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1.2
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1.2
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 40
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jaingpin/ddz_mall_diamond_icon": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 1.2
+            },
+            {
+              "frame": 0.3,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 1.2
+            },
+            {
+              "frame": 0.3,
+              "value": 1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 40
+            },
+            {
+              "frame": 0.3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jaingpin/ddz_daoju_jipaiqi_daoju": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.2
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.2
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 40
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jaingpin/ddz_mall_coin_icon_mall/ddz_mall_coin_icon_mall": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 1
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 1.5
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 1
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 1.5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jaingpin/ddz_mall_diamond_icon/ddz_mall_diamond_icon": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 1
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.4
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.3,
+              "value": 1
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.4
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jaingpin/ddz_daoju_jipaiqi_daoju/ddz_daoju_jipaiqi_daoju": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 1.4
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 1.4
+            }
+          ]
+        }
+      },
+      "sprite_splash": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 180
+            }
+          ]
+        }
+      },
+      "ddz_welfare_btn_red": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

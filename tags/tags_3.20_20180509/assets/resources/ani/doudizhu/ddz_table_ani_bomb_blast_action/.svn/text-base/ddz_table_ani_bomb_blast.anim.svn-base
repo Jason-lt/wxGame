@@ -1,0 +1,283 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ddz_table_ani_bomb_blast",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.3333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bomb/ddz_table_bomb_1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "47197adb-877b-4325-b50e-7e7924310333"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "ce9b7d46-413f-421d-81db-230fe580e645"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "b45ade20-94b7-496d-98ab-dbd7aa362a60"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "2ec69379-eeb1-4670-9e12-633b01e7bd3b"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "176e0c5a-27d8-44ef-9783-4ae138d0debd"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "b73f5194-878d-44c8-aa33-365c165ed184"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "7b358371-67fd-4994-83d0-2ef2ef4d155a"
+                }
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": {
+                  "__uuid__": "9668300c-d407-4dfb-9eae-c555e2104b53"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 3
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 3
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ddz_table_bomb_bomb_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 2
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "ddz_table_bomb_bomb_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 0.6,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 0.6,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "ddz_table_bomb_bomb_3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6,
+              "value": 1
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 3
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6,
+              "value": 1
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 3
+            }
+          ]
+        }
+      },
+      "ddz_table_wordzhadan": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 2
+            },
+            {
+              "frame": 0.8,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 2
+            },
+            {
+              "frame": 0.8,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "particlesystem": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.4666666666666667,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": 20
+              },
+              {
+                "frame": 0.8,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

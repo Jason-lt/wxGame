@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_result_avatar_bg_middle",
+    "texture": "865yImKS1OdozoWvLLEJxo",
+    "rect": [
+      0,
+      0,
+      167,
+      236
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      236
+    ]
+  }
+}

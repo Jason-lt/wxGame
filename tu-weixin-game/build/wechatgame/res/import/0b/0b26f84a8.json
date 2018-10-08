@@ -1,0 +1,99 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "gameFlow",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "shibai",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "d2+tEIAjREZZZ65IUdgSve"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7d2N5USCBAXLIX7UKLm58v"
+        },
+        "fileId": "e7uamUxVJOeaiUJXeRJRxK"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz_table_fail",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "7eKz0TPvFPbpIRuuoGXQuU"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7d2N5USCBAXLIX7UKLm58v"
+        },
+        "fileId": "e3j+tSHKlEq7K0xxEdFINI"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 194,
+        "height": 101
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_game_flow",
+      "texture": "92ChJFNwNIgL9LnbqYcxrp",
+      "rect": [
+        894,
+        120,
+        194,
+        101
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        105
+      ],
+      "rotated": 1
+    }
+  }
+]

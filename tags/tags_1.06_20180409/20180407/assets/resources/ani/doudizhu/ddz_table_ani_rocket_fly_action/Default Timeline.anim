@@ -1,0 +1,88 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Default Timeline",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.800000011920929,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "rocket/rocket－0": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.10000000149011612,
+              "value": 255,
+              "curve": "constant"
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -11,
+                -94
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 0.10000000149011612,
+              "value": [
+                -11,
+                -67
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 0.23333333432674408,
+              "value": [
+                -11,
+                -62
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": [
+                -11,
+                450
+              ],
+              "curve": "constant"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 0,
+              "curve": "constant"
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": false
+            }
+          ]
+        },
+        "comps": {}
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,365 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_hongbao_bj5",
+      "texture": "b9BJyzfrFJe4Xgb0kdWcn3",
+      "rect": [
+        0,
+        0,
+        190,
+        190
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        190,
+        190
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_hongbao_bj9",
+      "texture": "f1XoWxwBVCcY1pOguPBgMZ",
+      "rect": [
+        0,
+        0,
+        12,
+        167
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        12,
+        167
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_hongbao_bj8",
+      "texture": "3cwK4AV+lE3r1qp5eXZKTw",
+      "rect": [
+        0,
+        0,
+        86,
+        167
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        167
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_hongbao_bj7_1",
+      "texture": "a1ZZYx7hVGCIQZMOgMFRV9",
+      "rect": [
+        0,
+        0,
+        128,
+        167
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        128,
+        167
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_hongbao_bj6",
+      "texture": "73of7YrPREEJ6xBlu3CAez",
+      "rect": [
+        0,
+        0,
+        162,
+        168
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        162,
+        168
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_hongbao_bj7",
+      "texture": "faMbE+xatC146YGHqS4MOJ",
+      "rect": [
+        0,
+        0,
+        128,
+        167
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        128,
+        167
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_hongbao_bj8_1",
+      "texture": "97rArOq/BHwqD8hULUTMGA",
+      "rect": [
+        0,
+        0,
+        86,
+        167
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        167
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "hongbao",
+    "_duration": 0.77,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "ddz_hb_coos/ddz_hongbao_bj5": {
+          "comps": {
+            "cc.Sprite": {
+              "spriteFrame": [
+                {
+                  "frame": 0,
+                  "value": {
+                    "__uuid__": "03L9yB5qNBuZre814S93xZ"
+                  }
+                },
+                {
+                  "frame": 0.1,
+                  "value": {
+                    "__uuid__": "7b8nA9zbpF84y85aVW9mSf"
+                  }
+                },
+                {
+                  "frame": 0.16666666666666666,
+                  "value": {
+                    "__uuid__": "3fKIL7y7tHfosfbcLZd60y"
+                  }
+                },
+                {
+                  "frame": 0.23333333333333334,
+                  "value": {
+                    "__uuid__": "09pt/Ht6BE7bfbvsxpsyXy"
+                  }
+                },
+                {
+                  "frame": 0.3,
+                  "value": {
+                    "__uuid__": "9bo3c7MHtPRrz97EnpTnUl"
+                  }
+                },
+                {
+                  "frame": 0.36666666666666664,
+                  "value": {
+                    "__uuid__": "45zO8ztVVD56NjW8PsxDdf"
+                  }
+                },
+                {
+                  "frame": 0.43333333333333335,
+                  "value": {
+                    "__uuid__": "66fiZ1YqJJy4P8L97NrB5n"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "button": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": 255
+              }
+            ]
+          }
+        },
+        "ddz_redPacket": {
+          "props": {
+            "active": [
+              {
+                "frame": 0.43333333333333335,
+                "value": false
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": true
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": true
+              }
+            ]
+          }
+        },
+        "ddz_hb_coos": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.43333333333333335,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "ddz_redPacket/ddz_hongbao_bj12": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.4666666666666667,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 255
+              }
+            ],
+            "y": [
+              {
+                "frame": 0.4666666666666667,
+                "value": 80
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 183
+              }
+            ]
+          }
+        },
+        "ddz_redPacket/titleLabel": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.4666666666666667,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 255
+              }
+            ],
+            "y": [
+              {
+                "frame": 0.4666666666666667,
+                "value": 180
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 268
+              }
+            ]
+          }
+        },
+        "ddz_redPacket/numberLabel": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.4666666666666667,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 255
+              }
+            ],
+            "y": [
+              {
+                "frame": 0.4666666666666667,
+                "value": 80
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 183
+              }
+            ]
+          }
+        },
+        "ddz_redPacket/ddz_hongbao_bj10": {
+          "props": {
+            "scaleY": [
+              {
+                "frame": 0.5333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 1
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.5333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 255
+              }
+            ]
+          }
+        },
+        "ddz_hb_coos/ddz_hongbao_bj2": {
+          "props": {
+            "scaleY": [
+              {
+                "frame": 0.43333333333333335,
+                "value": 1
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+]

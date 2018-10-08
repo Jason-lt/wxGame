@@ -1,0 +1,116 @@
+[
+  {
+    "__type__": "cc.BitmapFont",
+    "_name": "fnt01",
+    "spriteFrame": {
+      "__uuid__": "e6RfbN8apDgJsE13U0n3CK"
+    },
+    "fontSize": 32,
+    "_fntConfig": {
+      "commonHeight": 140,
+      "fontSize": 32,
+      "atlasName": "fnt01.png",
+      "fontDefDictionary": {
+        "9": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 472
+        },
+        "32": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 59
+        },
+        "49": {
+          "rect": {
+            "x": 200,
+            "y": 0,
+            "width": 55,
+            "height": 138
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 55
+        },
+        "50": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 105,
+            "height": 139
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 105
+        },
+        "51": {
+          "rect": {
+            "x": 106,
+            "y": 0,
+            "width": 93,
+            "height": 139
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 93
+        },
+        "21517": {
+          "rect": {
+            "x": 0,
+            "y": 197,
+            "width": 51,
+            "height": 56
+          },
+          "xOffset": 0,
+          "yOffset": 50,
+          "xAdvance": 51
+        },
+        "31532": {
+          "rect": {
+            "x": 0,
+            "y": 140,
+            "width": 55,
+            "height": 56
+          },
+          "xOffset": 0,
+          "yOffset": 50,
+          "xAdvance": 55
+        }
+      },
+      "kerningDict": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fnt01",
+      "texture": "f3B9s7siRHMbc1FY7I0JMx",
+      "rect": [
+        0,
+        0,
+        255,
+        253
+      ],
+      "offset": [
+        -0.5,
+        1.5
+      ],
+      "originalSize": [
+        256,
+        256
+      ]
+    }
+  }
+]

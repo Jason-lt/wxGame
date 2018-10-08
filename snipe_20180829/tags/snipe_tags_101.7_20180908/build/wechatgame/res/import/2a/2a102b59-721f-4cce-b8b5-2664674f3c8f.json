@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_scene_ui_2",
+    "texture": "ebtRIV+OZPhYF0TnubuDjt",
+    "rect": [
+      2,
+      2,
+      1249,
+      2040
+    ],
+    "offset": [
+      -397.5,
+      2
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ]
+  }
+}

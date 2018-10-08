@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "famhsheguang01",
+    "texture": "8e804777-2839-44e6-84a3-d02864099926",
+    "atlas": "",
+    "rect": [
+      15,
+      27,
+      571,
+      524
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      602,
+      580
+    ]
+  }
+}

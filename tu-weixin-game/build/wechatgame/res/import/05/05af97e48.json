@@ -1,0 +1,126 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "interactive_emo_egg_fly",
+      "texture": "28Kg+FAqNK1Ylm5Jd4KQ+3",
+      "rect": [
+        911,
+        772,
+        54,
+        68
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        54,
+        68
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "jidan",
+    "_duration": 0.43333333333333335,
+    "sample": 30,
+    "wrapMode": 2,
+    "curveData": {
+      "props": {
+        "rotation": [
+          {
+            "frame": 0,
+            "value": 0
+          },
+          {
+            "frame": 0.43333333333333335,
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "jidan",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jidan",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "8fKVM8hB5G3qHR1meYBrlZ"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "a2dkR5TS9DYr3WQfSEttqc"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "interactive_emo_egg_fly",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "40gN9SLe1DW7OaijpyV1sK"
+          },
+          "_sizeMode": 2,
+          "_isTrimmedMode": false
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "6aO+RWX2NDjoKhha35IGGN"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 54,
+        "height": 68
+      },
+      "_rotationX": 360,
+      "_rotationY": 360
+    }
+  ]
+]

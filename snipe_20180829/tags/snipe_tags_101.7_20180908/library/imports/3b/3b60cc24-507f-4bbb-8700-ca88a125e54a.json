@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boliping",
+    "texture": "8f7adf73-91b6-46c2-a671-a8c5dd5215a9",
+    "atlas": "8516802d-dd84-4747-b2e4-cde47bf11bd1",
+    "rect": [
+      228,
+      196,
+      135,
+      155
+    ],
+    "offset": [
+      7,
+      11
+    ],
+    "originalSize": [
+      159,
+      177
+    ],
+    "rotated": 1
+  }
+}

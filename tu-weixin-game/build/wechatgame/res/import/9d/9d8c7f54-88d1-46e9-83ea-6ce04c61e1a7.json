@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_onpuker_hui9sprite",
+    "texture": "d2rO9JvEdLVZTHBU4dYYes",
+    "rect": [
+      0,
+      0,
+      57,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      54
+    ]
+  }
+}

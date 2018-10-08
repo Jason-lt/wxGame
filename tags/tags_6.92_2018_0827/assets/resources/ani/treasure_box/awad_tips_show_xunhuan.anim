@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "awad_tips_show_xunhuan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 12,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg/light": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 30
+            },
+            {
+              "frame": 12,
+              "value": 390
+            }
+          ]
+        }
+      },
+      "bg/glow_ringglowwhite4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg/glow_ringglowwhite3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg/box/spritetx": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg/title_bg/layout/ddz_result_dachutx": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

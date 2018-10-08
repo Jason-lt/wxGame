@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_box_bulletType_ Barrett",
+    "texture": "ebb51215-f8e6-4f85-8174-4e7b9bb838ed",
+    "atlas": "86c7f060-2dcc-44e9-a31a-2302bf178dfa",
+    "rect": [
+      597,
+      2,
+      505,
+      165
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      505,
+      165
+    ],
+    "rotated": 1
+  }
+}

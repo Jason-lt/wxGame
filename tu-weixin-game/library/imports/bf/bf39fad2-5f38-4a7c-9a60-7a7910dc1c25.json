@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_reward_bag",
+    "texture": "ea580997-105f-4bb7-9505-e9359f3d3d36",
+    "atlas": "2ae225a8-6210-4ab3-ae70-a9e90cfeedcd",
+    "rect": [
+      197,
+      2,
+      270,
+      203
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      203
+    ],
+    "rotated": 1
+  }
+}

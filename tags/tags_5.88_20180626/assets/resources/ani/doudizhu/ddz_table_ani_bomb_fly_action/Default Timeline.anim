@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Default Timeline",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.36666667461395264,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bomb/bomb－0": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.36666667461395264,
+              "value": 360,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCSprite": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.06666667014360428,
+              "value": 255,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.1666666716337204,
+              "value": 155,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.23333333432674408,
+              "value": 255,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.06666667014360428,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.1666666716337204,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.23333333432674408,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.30000001192092896,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.06666667014360428,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.1666666716337204,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.23333333432674408,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.30000001192092896,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz__box_bronze",
+      "texture": "d9bdpN8FxHXotv59ZVW5eE",
+      "rect": [
+        859,
+        895,
+        252,
+        205
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        252,
+        205
+      ],
+      "rotated": 1
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "box_doudong",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "box_doudong",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "6edoDN45ZFi7R9FAdDZuly"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "771MnNHcBOoZErrGxHq37Y"
+        },
+        "fileId": "56K7omz0BMSatdDHQxVz+x"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "suofang",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "771MnNHcBOoZErrGxHq37Y"
+        },
+        "fileId": "12rF/XoZFA7ZXP9RlTSmRf"
+      },
+      "_scaleX": 0.3,
+      "_scaleY": 0.3
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz__box_bronze",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "4fkzsaQyNNQ6Gs29mUaNOy"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "771MnNHcBOoZErrGxHq37Y"
+        },
+        "fileId": "822RIfpadI/6SO2SpLDLH7"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 252,
+        "height": 205
+      }
+    }
+  ]
+]

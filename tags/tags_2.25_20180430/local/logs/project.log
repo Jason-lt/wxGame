@@ -1,0 +1,1021 @@
+2018-04-13T09:18:44.139Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-13T09:18:44.142Z - normal: checking language setting...
+2018-04-13T09:18:44.142Z - normal: Language: zh
+2018-04-13T09:18:44.710Z - success: protocol editor-framework registered
+2018-04-13T09:18:44.711Z - success: protocol app registered
+2018-04-13T09:18:44.711Z - success: protocol theme registered
+2018-04-13T09:18:44.711Z - success: protocol packages registered
+2018-04-13T09:18:44.711Z - success: protocol unpack registerred
+2018-04-13T09:18:44.711Z - success: protocol disable-commonjs registerred
+2018-04-13T09:18:44.848Z - normal: connected!
+2018-04-13T09:18:44.850Z - normal: Check project /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game
+2018-04-13T09:18:44.851Z - normal: Initializing Cocos2d
+2018-04-13T09:18:45.022Z - normal: Initializing Asset Database
+2018-04-13T09:18:45.052Z - success: protocol uuid registerred
+2018-04-13T09:18:45.052Z - success: protocol db registerred
+2018-04-13T09:18:45.052Z - success: protocol thumbnail registerred
+2018-04-13T09:18:45.053Z - normal: Loading editor/builtin packages
+2018-04-13T09:18:45.070Z - success: anysdk loaded
+2018-04-13T09:18:45.174Z - success: assets loaded
+2018-04-13T09:18:45.177Z - success: builder loaded
+2018-04-13T09:18:45.179Z - success: cocos-analytics loaded
+2018-04-13T09:18:45.183Z - success: console loaded
+2018-04-13T09:18:45.214Z - success: fb-instant-games loaded
+2018-04-13T09:18:45.219Z - success: hierarchy loaded
+2018-04-13T09:18:45.223Z - success: inspector loaded
+2018-04-13T09:18:45.224Z - success: keystore loaded
+2018-04-13T09:18:45.232Z - success: node-library loaded
+2018-04-13T09:18:45.234Z - success: package-asset loaded
+2018-04-13T09:18:45.236Z - success: preferences loaded
+2018-04-13T09:18:45.239Z - success: project-exporter loaded
+2018-04-13T09:18:45.254Z - success: project-importer loaded
+2018-04-13T09:18:45.258Z - success: project-settings loaded
+2018-04-13T09:18:45.261Z - success: ui-kit loaded
+2018-04-13T09:18:45.265Z - success: ui-grid loaded
+2018-04-13T09:18:45.270Z - success: scene loaded
+2018-04-13T09:18:45.271Z - success: sprite-editor loaded
+2018-04-13T09:18:45.274Z - success: store loaded
+2018-04-13T09:18:45.279Z - success: timeline loaded
+2018-04-13T09:18:45.279Z - normal: Loading builtin packages
+2018-04-13T09:18:45.283Z - success: asset-db-debugger loaded
+2018-04-13T09:18:45.283Z - success: color-picker loaded
+2018-04-13T09:18:45.287Z - success: package-manager loaded
+2018-04-13T09:18:45.291Z - success: sdkbox loaded
+2018-04-13T09:18:45.296Z - success: tester loaded
+2018-04-13T09:18:45.299Z - success: ui-kit-preview-extra loaded
+2018-04-13T09:18:45.303Z - success: ui-kit-preview loaded
+2018-04-13T09:18:45.306Z - success: ui-tree loaded
+2018-04-13T09:18:46.191Z - normal: Initializing project /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game
+2018-04-13T09:18:46.194Z - normal: Loading packages
+2018-04-13T09:18:46.198Z - normal: Watching packages
+2018-04-13T09:18:46.210Z - normal: Run Application
+2018-04-13T09:18:47.740Z - success: preview server running at http://localhost:7456
+2018-04-13T09:18:52.694Z - normal: 1.9.0
+2018-04-13T09:18:53.793Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/BiLog.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/BiLog.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/BiLog.js:126:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/BiLog.js:133:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/BiLog.js:136:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.794Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/EventType.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/EventType.js:14:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/EventType.js:99:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/EventType.js:106:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/EventType.js:109:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.795Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/HttpUtil.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:40:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:47:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:50:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.797Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:67:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:74:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:77:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.800Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/SystemInfo.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:16:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:107:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:114:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.803Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TCP.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TCP.js:16:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TCP.js:185:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TCP.js:192:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TCP.js:195:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.805Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/Timer.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/Timer.js:12:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/Timer.js:65:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/Timer.js:72:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/Timer.js:75:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.808Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:16:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:573:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:580:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:583:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.810Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/UserInfo.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/UserInfo.js:15:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/UserInfo.js:46:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/UserInfo.js:53:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/Framework/UserInfo.js:56:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.814Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:14:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:78:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:85:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:88:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.821Z - failed: load script [AILongestType] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:14:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:78:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:85:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:88:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.821Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:44:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:688:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:695:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:698:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.829Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AITypeJudger.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AITypeJudger.js:756:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AITypeJudger.js:818:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AITypeJudger.js:825:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AITypeJudger.js:828:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.832Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:138:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:145:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:148:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.836Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzEventType.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzEventType.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzEventType.js:248:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzEventType.js:255:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzEventType.js:258:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.840Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzGlobalFuncs.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzGlobalFuncs.js:15:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzGlobalFuncs.js:462:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzGlobalFuncs.js:469:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzGlobalFuncs.js:472:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.853Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/RobotGlobal.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/RobotGlobal.js:15:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/RobotGlobal.js:1376:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/RobotGlobal.js:1383:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/RobotGlobal.js:1386:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.859Z - failed: load script [AILongestType] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:14:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:78:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:85:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AILongestType.js:88:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.859Z - failed: load script [AIRobot] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:44:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:688:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:695:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/AIRobot.js:698:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.859Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_boot.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_boot.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_boot.js:205:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_boot.js:212:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_boot.js:215:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.860Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_res.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_res.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_res.js:114:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_res.js:121:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/ddz_res.js:124:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.862Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/game_world.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/game_world.js:8:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/game_world.js:195:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/game_world.js:202:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/game_world.js:205:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.863Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardInfo.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardInfo.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardInfo.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardInfo.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardInfo.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.865Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardType.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardType.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardType.js:189:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardType.js:196:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/CardType.js:199:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.866Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/ConfigRoomSession.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/ConfigRoomSession.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/ConfigRoomSession.js:66:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/ConfigRoomSession.js:73:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/ConfigRoomSession.js:76:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.867Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/HallInfoModel.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/HallInfoModel.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/HallInfoModel.js:65:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/HallInfoModel.js:72:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/HallInfoModel.js:75:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.870Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/MatchModel.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/MatchModel.js:17:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/MatchModel.js:682:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/MatchModel.js:689:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/MatchModel.js:692:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.870Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/NormalRoomInfo.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/NormalRoomInfo.js:8:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/NormalRoomInfo.js:48:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/NormalRoomInfo.js:55:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/NormalRoomInfo.js:58:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.871Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/QuickStartModel.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/QuickStartModel.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/QuickStartModel.js:24:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/QuickStartModel.js:31:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/QuickStartModel.js:34:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.874Z - failed: load script [LoginRewardInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:31:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:38:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:41:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.875Z - failed: load script [UserInfoUData] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:130:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:137:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:140:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.876Z - failed: load script [UserInfoGdata] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:113:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:120:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:123:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.877Z - failed: load script [RebateRankInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:42:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:49:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:52:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.877Z - failed: load script [LoginInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:27:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:34:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:37:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.878Z - failed: load script [NormalInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:47:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:54:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:57:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.879Z - failed: load script [MsgInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:63:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:70:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:73:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.879Z - failed: load script [RebateRankInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:42:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:49:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:52:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.880Z - failed: load script [UserHeartBeat] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:7:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.880Z - failed: load script [HallUserInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:19:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:342:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:349:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:352:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.880Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/SeatInfo.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/SeatInfo.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/SeatInfo.js:174:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/SeatInfo.js:181:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/SeatInfo.js:184:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.881Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfo.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfo.js:169:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfo.js:176:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfo.js:179:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.882Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfoModel.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfoModel.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfoModel.js:25:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfoModel.js:32:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableInfoModel.js:35:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.883Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableState.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableState.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableState.js:211:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableState.js:218:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/models/TableState.js:221:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.884Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzMsgFactory.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzMsgFactory.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzMsgFactory.js:111:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzMsgFactory.js:118:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzMsgFactory.js:121:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.885Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js:12:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js:156:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js:163:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js:166:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.888Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/PlayingNetMsg.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/PlayingNetMsg.js:21:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/PlayingNetMsg.js:350:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/PlayingNetMsg.js:357:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/msg_handler/PlayingNetMsg.js:360:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.888Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/ChuntianLayer.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/ChuntianLayer.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/ChuntianLayer.js:57:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/ChuntianLayer.js:64:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/ChuntianLayer.js:67:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.889Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NoWinLayer.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NoWinLayer.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NoWinLayer.js:99:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NoWinLayer.js:106:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NoWinLayer.js:109:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.890Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NodecardController.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NodecardController.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NodecardController.js:143:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NodecardController.js:150:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/NodecardController.js:153:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.892Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PlayInfoNode.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PlayInfoNode.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PlayInfoNode.js:284:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PlayInfoNode.js:291:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PlayInfoNode.js:294:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.893Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PopResultLayer.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PopResultLayer.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PopResultLayer.js:186:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PopResultLayer.js:193:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/PopResultLayer.js:196:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.894Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/TipNode.js] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/TipNode.js:7:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/TipNode.js:133:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/TipNode.js:140:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/scene/TipNode.js:143:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.896Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:14:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:514:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:521:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:524:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.900Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:458:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:465:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:468:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.902Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/MsgFactory.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/MsgFactory.js:12:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/MsgFactory.js:516:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/MsgFactory.js:523:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/MsgFactory.js:526:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.906Z - failed: load script [LoginRewardInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:31:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:38:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:41:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.906Z - failed: load script [UserInfoUData] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:130:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:137:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:140:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.906Z - failed: load script [UserInfoGdata] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:113:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:120:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:123:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.907Z - failed: load script [RebateRankInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:42:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:49:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:52:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.907Z - failed: load script [LoginInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:27:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:34:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:37:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.907Z - failed: load script [NormalInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:47:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:54:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:57:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.907Z - failed: load script [MsgInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:63:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:70:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:73:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.908Z - failed: load script [RebateRankInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:42:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:49:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:52:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.908Z - failed: load script [UserHeartBeat] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:7:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.908Z - failed: load script [HallUserInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:19:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:342:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:349:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:352:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.908Z - failed: load script [DdzAudioHelper] failed : ReferenceError: ddz is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:138:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:145:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/ddz/DdzAudioHelper.js:148:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.909Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/boot.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/boot.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/boot.js:45:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/boot.js:52:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/boot.js:55:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.911Z - failed: load script [LoginRewardInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:31:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:38:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:41:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.911Z - failed: load script [UserInfoUData] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:130:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:137:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:140:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.911Z - failed: load script [UserInfoGdata] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:113:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:120:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:123:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.911Z - failed: load script [RebateRankInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:42:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:49:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:52:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.912Z - failed: load script [LoginInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:27:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:34:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:37:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.912Z - failed: load script [NormalInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:47:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:54:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:57:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.912Z - failed: load script [MsgInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:63:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:70:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:73:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.912Z - failed: load script [RebateRankInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:42:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:49:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:52:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.913Z - failed: load script [UserHeartBeat] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:7:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.913Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:19:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:342:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:349:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:352:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.913Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:27:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:34:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginInfo.js:37:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.913Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:31:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:38:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/LoginRewardInfo.js:41:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.915Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:63:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:70:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/MsgInfo.js:73:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.915Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:11:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:47:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:54:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/NormalInfo.js:57:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.916Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:13:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:42:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:49:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/RebateRankInfo.js:52:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.916Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/StoreItemInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/StoreItemInfo.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/StoreItemInfo.js:62:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/StoreItemInfo.js:69:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/StoreItemInfo.js:72:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.916Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/TodoTask.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:32:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:39:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:42:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.916Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:7:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserHeartBeat.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.916Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:113:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:120:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoGdata.js:123:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.917Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:130:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:137:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:140:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-04-13T09:18:53.917Z - failed: load script [/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:10:1)
+    at /Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:41:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:48:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/xujingwork/ddz_h5/h5/tu-weixin-game/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:51:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_welfare_btn",
+    "texture": "3ec39a66-ce7b-4701-b7b6-897e3711efae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      116
+    ],
+    "capInsets": [
+      50,
+      42,
+      49,
+      64
+    ]
+  }
+}

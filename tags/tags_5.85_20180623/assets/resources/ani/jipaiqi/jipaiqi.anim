@@ -1,0 +1,263 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jipaiqi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.17,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "xiaopai/3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "xiaopai/4": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -34
+            }
+          ]
+        }
+      },
+      "xiaopai/5": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -68
+            }
+          ]
+        }
+      },
+      "xiaopai/6": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -102
+            }
+          ]
+        }
+      },
+      "xiaopai/7": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -136
+            }
+          ]
+        }
+      },
+      "xiaopai/8": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -170
+            }
+          ]
+        }
+      },
+      "xiaopai/9": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -204
+            }
+          ]
+        }
+      },
+      "xiaopai/10": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -238
+            }
+          ]
+        }
+      },
+      "xiaopai/j": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -272
+            }
+          ]
+        }
+      },
+      "xiaopai/q": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -306
+            }
+          ]
+        }
+      },
+      "xiaopai/k": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -340
+            }
+          ]
+        }
+      },
+      "xiaopai/A": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -374
+            }
+          ]
+        }
+      },
+      "xiaopai/2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -408
+            }
+          ]
+        }
+      },
+      "xiaopai/xiaowang": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -442
+            }
+          ]
+        }
+      },
+      "xiaopai/dawang": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -476
+            }
+          ]
+        }
+      },
+      "xiaopai/shengyu": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -506.6
+            }
+          ]
+        }
+      },
+      "xiaopai": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -4.7
+            },
+            {
+              "frame": 0.1,
+              "value": -57.9
+            }
+          ]
+        }
+      },
+      "ddz_daoju_jipaiqi_di02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

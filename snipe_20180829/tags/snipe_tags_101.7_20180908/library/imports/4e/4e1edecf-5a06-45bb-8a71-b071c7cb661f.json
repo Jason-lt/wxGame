@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank_line",
+    "texture": "1b621c62-6d38-4a37-99d9-ef5fb3c92f80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      503,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      503,
+      2
+    ]
+  }
+}

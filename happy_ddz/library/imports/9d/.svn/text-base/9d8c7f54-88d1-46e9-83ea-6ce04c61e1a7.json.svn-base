@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_onpuker_hui9sprite",
+    "texture": "d2acef49-bc47-4b55-94c7-054e1d6187ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      54
+    ]
+  }
+}

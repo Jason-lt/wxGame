@@ -1,0 +1,143 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "shot_toast_tips",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "shot_toast_tips",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "38b1emJqsVAnI/2zTrUiguE",
+          "node": {
+            "__id__": 1
+          },
+          "titleLabel": {
+            "__id__": 4
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "2ayJBhbnVJZb67sC5lnOym"
+        },
+        "fileId": "153lrXz05Bj6f0v2SM7BIm"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "main_toast_bg",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "a4MSFGlkdO6bMs+yfzodPT"
+          },
+          "_type": 1,
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "2ayJBhbnVJZb67sC5lnOym"
+        },
+        "fileId": "5bC31QVftLu5TkGbrwwWrY"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 600,
+        "height": 100
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "label",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__id__": 4
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "2ayJBhbnVJZb67sC5lnOym"
+        },
+        "fileId": "dbcGWJ8fpEW6HoZVlYXT7j"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 60,
+        "height": 40
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 3
+      },
+      "_useOriginalSize": false,
+      "_actualFontSize": 30,
+      "_fontSize": 30,
+      "_N$string": "提示",
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "main_toast_bg",
+      "texture": "66eq2POW1GNbZ9rtHTRS0I",
+      "rect": [
+        1870,
+        2,
+        30,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        30,
+        150
+      ],
+      "rotated": 1
+    }
+  }
+]

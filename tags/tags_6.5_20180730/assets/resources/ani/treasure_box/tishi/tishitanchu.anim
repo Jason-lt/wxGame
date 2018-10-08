@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tishitanchu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.3333333333333335,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": [
+            0.3,
+            1.28,
+            0.37,
+            1.41
+          ]
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 1
+        },
+        {
+          "frame": 2,
+          "value": 1,
+          "curve": [
+            0.6,
+            -0.27,
+            0.73,
+            0.04
+          ]
+        },
+        {
+          "frame": 2.3333333333333335,
+          "value": 0
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": [
+            0.26,
+            1.21,
+            0.59,
+            1.45
+          ]
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 1
+        },
+        {
+          "frame": 2,
+          "value": 1,
+          "curve": [
+            0.6,
+            -0.27,
+            0.73,
+            0.04
+          ]
+        },
+        {
+          "frame": 2.3333333333333335,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

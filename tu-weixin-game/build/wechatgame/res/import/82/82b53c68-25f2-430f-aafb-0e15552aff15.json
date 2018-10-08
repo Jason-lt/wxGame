@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_dizhutag",
+    "texture": "9c5f30MxdHkKnQij575kdJ",
+    "rect": [
+      0,
+      0,
+      88,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      74
+    ]
+  }
+}

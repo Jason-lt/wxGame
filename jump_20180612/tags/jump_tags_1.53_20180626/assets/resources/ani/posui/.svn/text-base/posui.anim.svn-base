@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "posui",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "main_scene_0007_1buketiaotiaoban": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                43,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                40.2,
+                -135.8
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main_scene_0007_buketiaotiaoban": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                -53.4,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -28.6,
+                -193.7
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 85
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

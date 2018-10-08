@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_ani_rocket",
+    "texture": "f2uNLYTZ5KFL5JZeszJB5T",
+    "rect": [
+      2,
+      2,
+      999,
+      642
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      1003,
+      648
+    ]
+  }
+}

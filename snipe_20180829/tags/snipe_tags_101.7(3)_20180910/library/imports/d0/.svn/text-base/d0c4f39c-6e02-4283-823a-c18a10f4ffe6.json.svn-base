@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shot_grenade.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "h_shoulei": {
+      "__uuid__": "dc7dd2ac-0d0c-45ed-8e6b-75cee920ae0f"
+    },
+    "shot_grenade_ba_01": {
+      "__uuid__": "533a95b2-e8e9-42be-af13-fd395e4f10d9"
+    },
+    "shot_grenade_ba_02": {
+      "__uuid__": "942726e3-b2dd-4ec4-bbed-cad1c3f6057a"
+    },
+    "shot_grenade_ba_03": {
+      "__uuid__": "0f74f224-3034-4696-a7fa-d150f33e737c"
+    },
+    "shot_grenade_ba_04": {
+      "__uuid__": "cd16904b-cb05-47c7-a42c-a6943a154ab2"
+    },
+    "shot_grenade_ba_05": {
+      "__uuid__": "8d6ca608-9584-4f8c-9833-a35a7eefe301"
+    },
+    "shot_grenade_ba_06": {
+      "__uuid__": "9886e705-4fed-40d9-80ba-e7b8d9e21932"
+    },
+    "shot_grenade_ba_07": {
+      "__uuid__": "9c5b35b7-540d-465b-b720-0698311fc016"
+    },
+    "shot_grenade_ba_08": {
+      "__uuid__": "fcb99d4c-9f17-4b71-a1a0-760264e2ba89"
+    }
+  }
+}

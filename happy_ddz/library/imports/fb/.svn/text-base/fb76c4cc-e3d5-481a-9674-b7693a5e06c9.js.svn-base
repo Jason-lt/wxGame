@@ -1,0 +1,88 @@
+"use strict";
+cc._RF.push(module, 'fb76cTM49VIGpZ0t2k6XgbJ', 'HistoryModel');
+// Script/ddz/models/HistoryModel.js
+
+"use strict";
+
+/*
+*  历史战绩 数据解析
+* */
+
+ddz.historyModel = {
+    historyData: [],
+
+    parseHistory: function parseHistory(result) {
+        this.historyData = [];
+        if (result.records && result.records.length > 0) {
+            var _records = result.records;
+            for (var i = 0; i < _records.length; i++) {
+                this.parseResults(_records[i].results, _records[i].curSeatId, _records[i].time, _records[i].totalRound, _records[i].curRound, _records[i].palyMode);
+            }
+        }
+    },
+
+    parseResults: function parseResults(results, _mySeatIndex, timer, totalRound, curRound, palyMode) {
+        ddz.detailsModel.parseResults(results);
+        ddz.detailsModel.setIsHisTory(true);
+        ddz.detailsModel.setMySeatIndex(_mySeatIndex);
+
+        var data = {};
+        data.avatars = ddz.detailsModel.getAvatars();
+        var sumScore = ddz.detailsModel.getSumScore();
+        data.score = sumScore[_mySeatIndex - 1];
+        data.timer = timer;
+        data.mySeatIndex = _mySeatIndex;
+        data.results = results;
+        data.totalRound = totalRound;
+        data.curRound = curRound;
+        data.palyMode = palyMode;
+        this.historyData.push(data);
+    },
+
+    getHistoryData: function getHistoryData() {
+        return this.historyData;
+    },
+
+    getAvatars: function getAvatars(index) {
+        var avatars = [];
+        if (this.historyData[index]) {
+            avatars = this.historyData[index].avatars;
+        }
+        return avatars;
+    },
+
+    getScore: function getScore(index) {
+        var score = 0;
+        if (this.historyData[index]) {
+            score = this.historyData[index].score;
+        }
+        return score;
+    },
+
+    getPlayMode: function getPlayMode(index) {
+        var playMode = "";
+        if (this.historyData[index]) {
+            playMode = this.historyData[index].palyMode;
+        }
+        return playMode;
+    },
+
+    getTimer: function getTimer(index) {
+        var timer = 0;
+        if (this.historyData[index]) {
+            timer = this.historyData[index].timer;
+        }
+        return timer;
+    },
+
+    getMySeatIndex: function getMySeatIndex(index) {
+        var mySeatIndex = 0;
+        if (this.historyData[index] && this.historyData[index].mySeatIndex) {
+            mySeatIndex = this.historyData[index].mySeatIndex;
+        }
+        return mySeatIndex;
+    }
+
+};
+
+cc._RF.pop();

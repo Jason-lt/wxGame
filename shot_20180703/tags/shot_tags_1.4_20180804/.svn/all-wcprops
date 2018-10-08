@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/newsvn/hall-js/!svn/ver/20618/h5/shot_20180703/tags/shot_tags_1.4_20180804
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/newsvn/hall-js/!svn/ver/20618/h5/shot_20180703/tags/shot_tags_1.4_20180804/.gitignore
+END
+creator.d.ts
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/newsvn/hall-js/!svn/ver/20618/h5/shot_20180703/tags/shot_tags_1.4_20180804/creator.d.ts
+END
+jsconfig.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/newsvn/hall-js/!svn/ver/20618/h5/shot_20180703/tags/shot_tags_1.4_20180804/jsconfig.json
+END
+removeRemoteRes3.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/newsvn/hall-js/!svn/ver/20618/h5/shot_20180703/tags/shot_tags_1.4_20180804/removeRemoteRes3.py
+END
+copy_openData.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20618/h5/shot_20180703/tags/shot_tags_1.4_20180804/copy_openData.sh
+END
+project.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/newsvn/hall-js/!svn/ver/20618/h5/shot_20180703/tags/shot_tags_1.4_20180804/project.json
+END

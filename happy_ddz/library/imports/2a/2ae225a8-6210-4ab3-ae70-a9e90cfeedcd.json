@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddz_message.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ddz_message_bar": {
+      "__uuid__": "cec09da8-350d-46fd-8dfd-039280cba7a8"
+    },
+    "ddz_message_bg": {
+      "__uuid__": "4c2465fb-37a0-4475-94cf-941bd4a810ac"
+    },
+    "ddz_message_bg_small": {
+      "__uuid__": "c5a28c92-c9d8-4d92-a000-ca4b9dd8d7d7"
+    },
+    "ddz_message_close": {
+      "__uuid__": "8dd0cc87-aabd-4659-b403-bab7d3ebac57"
+    },
+    "ddz_message_icon_1": {
+      "__uuid__": "24f7422c-e199-4a29-b4be-2b7323114fab"
+    },
+    "ddz_message_juxin": {
+      "__uuid__": "a263e2ef-0ddc-4a1f-a6ab-8698d910c78d"
+    },
+    "ddz_message_line": {
+      "__uuid__": "ff43c78d-84f1-4afb-89c0-c8cc96f297e8"
+    },
+    "ddz_message_open": {
+      "__uuid__": "e2602d95-6e76-4723-9640-f26989f04395"
+    },
+    "ddz_message_read": {
+      "__uuid__": "d0ca0bee-6f5c-43af-8bee-0c48e641f31d"
+    },
+    "ddz_message_rectangle": {
+      "__uuid__": "ef7802c1-d5ce-4326-af75-1dc34d3c5715"
+    },
+    "ddz_message_red": {
+      "__uuid__": "26549a94-33ce-4054-acc6-85c6178abe86"
+    },
+    "ddz_message_unopen": {
+      "__uuid__": "96cc6e0b-94c0-4479-8d51-6d5ef3a01457"
+    },
+    "ddz_message_white": {
+      "__uuid__": "ceb776cb-6f12-4fde-a43a-7ecdc3b20130"
+    }
+  }
+}

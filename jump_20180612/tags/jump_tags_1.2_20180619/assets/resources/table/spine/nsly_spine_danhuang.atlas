@@ -1,0 +1,27 @@
+
+nsly_spine_danhuang.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nsly_spine_danhuang01
+  rotate: false
+  xy: 2, 16
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+nsly_spine_danhuang02
+  rotate: true
+  xy: 2, 2
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: -1
+nsly_spine_danhuang03
+  rotate: false
+  xy: 86, 67
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1

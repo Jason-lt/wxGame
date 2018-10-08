@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_ani_common",
+    "texture": "fd9a5b10-97cf-463e-9ac0-3ead5d4acac2",
+    "atlas": "",
+    "rect": [
+      9,
+      2,
+      969,
+      537
+    ],
+    "offset": [
+      2.5,
+      0
+    ],
+    "originalSize": [
+      982,
+      541
+    ]
+  }
+}

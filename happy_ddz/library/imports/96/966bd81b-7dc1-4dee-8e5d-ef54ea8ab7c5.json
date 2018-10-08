@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_ui",
+    "texture": "017e464f-b421-4854-aadf-7428da72d89b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      972,
+      1012
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      976,
+      1016
+    ]
+  }
+}

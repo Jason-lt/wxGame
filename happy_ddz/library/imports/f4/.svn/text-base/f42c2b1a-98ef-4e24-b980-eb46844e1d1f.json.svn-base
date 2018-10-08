@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_roomlist_scoreBg",
+    "texture": "1ccf0946-139b-4872-a54c-1612c0a13acb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      50
+    ],
+    "capInsets": [
+      23,
+      1,
+      23,
+      1
+    ]
+  }
+}

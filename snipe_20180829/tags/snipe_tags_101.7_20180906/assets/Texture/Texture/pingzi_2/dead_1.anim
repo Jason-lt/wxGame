@@ -1,0 +1,232 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dead_1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "posui/pingzi_02_posui01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1,
+                141
+              ],
+              "motionPath": [
+                [
+                  -94,
+                  82,
+                  -19.6,
+                  66.7,
+                  -181.4,
+                  116.3
+                ]
+              ]
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": [
+                -186.3,
+                397
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": -720
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui05": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui06": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui08": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui07": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui09": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_02_posui10": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/particlesystem": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 90
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": 0
+              }
+            ],
+            "startSize": [
+              {
+                "frame": 0,
+                "value": 9
+              }
+            ]
+          }
+        }
+      },
+      "posui": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

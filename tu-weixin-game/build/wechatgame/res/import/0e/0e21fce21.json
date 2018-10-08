@@ -1,0 +1,421 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_5",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        308,
+        578,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_7",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        2,
+        532,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_4",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        2,
+        850,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tx_zuanshi02",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        186,
+        532,
+        120,
+        198
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        120,
+        198
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_wordzhadan",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        186,
+        732,
+        179,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        179,
+        72
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_1",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        603,
+        758,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_bomb_2",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        516,
+        2,
+        301,
+        265
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        301,
+        265
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_8",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        319,
+        419,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_9",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        319,
+        260,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_3",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        260,
+        737,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_6",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        2,
+        691,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_bomb_3",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        2,
+        260,
+        315,
+        270
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        315,
+        270
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_yingzi",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        746,
+        553,
+        73,
+        25
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        73,
+        25
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_2",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        444,
+        758,
+        182,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        157
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tx_zuanshi04",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        503,
+        553,
+        241,
+        203
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        241,
+        203
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_bomb_bomb_1",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        503,
+        305,
+        254,
+        246
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        254,
+        246
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tx_zuanshi03",
+      "texture": "38MBmhI91N7ZSu256Y76FA",
+      "rect": [
+        2,
+        2,
+        512,
+        256
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        512,
+        256
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "ddz_table_ani_bomb.plist",
+    "_spriteFrames": {
+      "ddz_table_bomb_1": {
+        "__uuid__": "47GXrbh3tDJbUOfnkkMQMz"
+      },
+      "ddz_table_bomb_2": {
+        "__uuid__": "cem31GQT9CHYHbIw/lgOZF"
+      },
+      "ddz_table_bomb_3": {
+        "__uuid__": "b4Wt4glLdJbZir29eqNipg"
+      },
+      "ddz_table_bomb_4": {
+        "__uuid__": "2expN57rFGcJ4SYzsB5707"
+      },
+      "ddz_table_bomb_5": {
+        "__uuid__": "17bgxaJ9hE75eDSuE40N69"
+      },
+      "ddz_table_bomb_6": {
+        "__uuid__": "b7P1GUh41EyKozNlwWXtGE"
+      },
+      "ddz_table_bomb_7": {
+        "__uuid__": "27ym7rHHNF3KaPZnqorSTw"
+      },
+      "ddz_table_bomb_8": {
+        "__uuid__": "7bNYNxZ/1JlIPQLvLvTRVa"
+      },
+      "ddz_table_bomb_9": {
+        "__uuid__": "96aDAM1AdN+56uxVXiEEtT"
+      },
+      "ddz_table_bomb_bomb_1": {
+        "__uuid__": "e6u9UTzhJEGaHzkCSPVfC0"
+      },
+      "ddz_table_bomb_bomb_2": {
+        "__uuid__": "5cu7J17N5MBKcqcozidaHE"
+      },
+      "ddz_table_bomb_bomb_3": {
+        "__uuid__": "bdVaA5NptPzKTEmDMQzBhE"
+      },
+      "ddz_table_bomb_yingzi": {
+        "__uuid__": "c2e3MnDdNPlKOUgkpO1DQu"
+      },
+      "ddz_table_wordzhadan": {
+        "__uuid__": "41Z4s/BS1JkomUAE+LkCVG"
+      },
+      "ddz_tx_zuanshi02": {
+        "__uuid__": "2fSt5zNUhJ4o3t0gyIRDDk"
+      },
+      "ddz_tx_zuanshi03": {
+        "__uuid__": "e82Jc8hs9LAa4JdPah13An"
+      },
+      "ddz_tx_zuanshi04": {
+        "__uuid__": "d56gjFMdFO2KFojZ9xhrEp"
+      }
+    }
+  }
+]

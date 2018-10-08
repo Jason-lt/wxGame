@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_split_line",
+    "texture": "017e464f-b421-4854-aadf-7428da72d89b",
+    "atlas": "2be761ca-4603-4e75-931a-94f775e86097",
+    "rect": [
+      676,
+      1012,
+      99,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      2
+    ]
+  }
+}

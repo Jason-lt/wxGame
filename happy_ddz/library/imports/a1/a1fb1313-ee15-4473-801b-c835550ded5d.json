@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lan",
+    "texture": "0486a60d-61d4-4b6a-85fc-edd43079233a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      244,
+      244
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      245,
+      245
+    ]
+  }
+}

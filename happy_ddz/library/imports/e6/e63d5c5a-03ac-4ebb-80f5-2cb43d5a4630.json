@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_welfare_banner_2",
+    "texture": "7f810105-6199-400e-ab33-7920478538c2",
+    "atlas": "5b86c0dc-0671-45cd-869b-1c9a5cb087d8",
+    "rect": [
+      707,
+      558,
+      50,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      3,
+      3,
+      3,
+      3
+    ]
+  }
+}

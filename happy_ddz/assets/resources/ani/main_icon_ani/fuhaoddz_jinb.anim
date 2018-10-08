@@ -1,0 +1,123 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fuhaoddz_jinb",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "zhadan": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 4
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -0.1,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                75.9,
+                93
+              ]
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": [
+                71.5,
+                88.3
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                75.9,
+                93
+              ]
+            }
+          ]
+        }
+      },
+      "jb02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                64.9,
+                32
+              ]
+            },
+            {
+              "frame": 1.4,
+              "value": [
+                63.8,
+                31
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                64.9,
+                32
+              ]
+            }
+          ]
+        }
+      },
+      "jb03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -66.1,
+                55
+              ]
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": [
+                -63,
+                54.8
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -66.1,
+                55
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

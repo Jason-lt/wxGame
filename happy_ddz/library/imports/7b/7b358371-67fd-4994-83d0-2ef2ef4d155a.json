@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_bomb_8",
+    "texture": "383019a1-23dd-4ded-94ae-db9e98efa140",
+    "atlas": "fe9a4021-d330-4d6c-973d-1236ae0dedf5",
+    "rect": [
+      319,
+      419,
+      182,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      157
+    ]
+  }
+}

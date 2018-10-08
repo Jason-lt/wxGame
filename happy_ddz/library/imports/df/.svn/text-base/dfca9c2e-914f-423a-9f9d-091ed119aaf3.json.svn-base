@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flare_Glow_Flair_000_0089",
+    "texture": "9e4673e2-807b-476d-bd86-f8c9ea3293e9",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      256,
+      57
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      64
+    ]
+  }
+}

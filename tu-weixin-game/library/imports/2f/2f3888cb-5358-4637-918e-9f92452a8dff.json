@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "glow_qiu_Spark",
+    "texture": "6cb2cdbe-4e38-436e-8136-23e7887eac00",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      31,
+      30
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ]
+  }
+}

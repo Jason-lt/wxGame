@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="2ef8d7cb-b5c6-4d42-b87c-b44ea7b9b6bb" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/ani/fangjiantx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/ani/fangjiantx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/main/font.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/main/font" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/prefabs/feibaoxiang.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/prefabs/feibaoxiang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/prefabs/guanggaoshipin.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/prefabs/guanggaoshipin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/prefabs/huzhubaoxiang.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/resources/prefabs/huzhubaoxiang" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js" afterPath="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js" afterPath="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js" afterPath="$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/GlobalScript.js" afterPath="$PROJECT_DIR$/assets/Script/GlobalScript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js" afterPath="$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js" afterPath="$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js" afterPath="$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/wechatgame/cocos2d-js-min.js" afterPath="$PROJECT_DIR$/build/wechatgame/cocos2d-js-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/wechatgame/game.json" afterPath="$PROJECT_DIR$/build/wechatgame/game.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/wechatgame/project.config.json" afterPath="$PROJECT_DIR$/build/wechatgame/project.config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/03/0357da77-bdcf-41e8-83ad-aac6b5469a6f.json" afterPath="$PROJECT_DIR$/library/imports/03/0357da77-bdcf-41e8-83ad-aac6b5469a6f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/03/03a45ba3-89e5-4d31-a223-5429c900a41e.js" afterPath="$PROJECT_DIR$/library/imports/03/03a45ba3-89e5-4d31-a223-5429c900a41e.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/03/03a45ba3-89e5-4d31-a223-5429c900a41e.js.map" afterPath="$PROJECT_DIR$/library/imports/03/03a45ba3-89e5-4d31-a223-5429c900a41e.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/06/067a9675-a1a6-427d-803e-59f6746bbab8.json" afterPath="$PROJECT_DIR$/library/imports/06/067a9675-a1a6-427d-803e-59f6746bbab8.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/06/067d9419-c662-4f31-b11d-5385ec90114e.json" afterPath="$PROJECT_DIR$/library/imports/06/067d9419-c662-4f31-b11d-5385ec90114e.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/0b/0b6e0458-5927-4f3b-8fca-44387cc82116.json" afterPath="$PROJECT_DIR$/library/imports/0b/0b6e0458-5927-4f3b-8fca-44387cc82116.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/0c/0c8b4af2-88c5-45ed-b649-ea03733ff053.json" afterPath="$PROJECT_DIR$/library/imports/0c/0c8b4af2-88c5-45ed-b649-ea03733ff053.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/0d/0dc0b629-382a-4f1a-9f58-ef299f5f1c8f.json" afterPath="$PROJECT_DIR$/library/imports/0d/0dc0b629-382a-4f1a-9f58-ef299f5f1c8f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/13/13776cd4-a1c3-4610-a9a2-5f4f9e1a86db.json" afterPath="$PROJECT_DIR$/library/imports/13/13776cd4-a1c3-4610-a9a2-5f4f9e1a86db.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/13/13d84ab2-e339-40ac-b271-c881be5ba095.json" afterPath="$PROJECT_DIR$/library/imports/13/13d84ab2-e339-40ac-b271-c881be5ba095.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/14/143f3064-7bd0-4cc9-9a01-7e4c82be8358.json" afterPath="$PROJECT_DIR$/library/imports/14/143f3064-7bd0-4cc9-9a01-7e4c82be8358.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/17/17014efb-84c9-4b5e-8768-3580d23baa3c.json" afterPath="$PROJECT_DIR$/library/imports/17/17014efb-84c9-4b5e-8768-3580d23baa3c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/19/194a2c6f-5419-4e96-ab55-6fa8d368d20e.json" afterPath="$PROJECT_DIR$/library/imports/19/194a2c6f-5419-4e96-ab55-6fa8d368d20e.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/1a/1a171a3d-3519-488c-a405-ce5fa65d8c99.json" afterPath="$PROJECT_DIR$/library/imports/1a/1a171a3d-3519-488c-a405-ce5fa65d8c99.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/20/201fbb21-e376-41f8-95b6-4e21895551b8.json" afterPath="$PROJECT_DIR$/library/imports/20/201fbb21-e376-41f8-95b6-4e21895551b8.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/21/21ac825c-880a-4682-98e3-b8a67b7a1b6b.json" afterPath="$PROJECT_DIR$/library/imports/21/21ac825c-880a-4682-98e3-b8a67b7a1b6b.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/28/280c3aec-6492-4a9d-9f51-a9b00b570b4a.js" afterPath="$PROJECT_DIR$/library/imports/28/280c3aec-6492-4a9d-9f51-a9b00b570b4a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/28/280c3aec-6492-4a9d-9f51-a9b00b570b4a.js.map" afterPath="$PROJECT_DIR$/library/imports/28/280c3aec-6492-4a9d-9f51-a9b00b570b4a.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/2a/2ad90dcb-ed88-4e77-9148-cecdfc61a50c.json" afterPath="$PROJECT_DIR$/library/imports/2a/2ad90dcb-ed88-4e77-9148-cecdfc61a50c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/2e/2e4657c9-79fc-4757-bce1-03cf598e9a59.json" afterPath="$PROJECT_DIR$/library/imports/2e/2e4657c9-79fc-4757-bce1-03cf598e9a59.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/2f/2ffa4cd6-8225-434a-b26f-5e92ed0adf57.js" afterPath="$PROJECT_DIR$/library/imports/2f/2ffa4cd6-8225-434a-b26f-5e92ed0adf57.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/2f/2ffa4cd6-8225-434a-b26f-5e92ed0adf57.js.map" afterPath="$PROJECT_DIR$/library/imports/2f/2ffa4cd6-8225-434a-b26f-5e92ed0adf57.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/31/310d09a0-992c-431a-87c4-d7ffdffb92e3.json" afterPath="$PROJECT_DIR$/library/imports/31/310d09a0-992c-431a-87c4-d7ffdffb92e3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/3e/3eebac5e-238f-4812-9648-7e4733877823.json" afterPath="$PROJECT_DIR$/library/imports/3e/3eebac5e-238f-4812-9648-7e4733877823.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/3f/3faf3e81-ef00-42e2-abec-43cd84afe144.js" afterPath="$PROJECT_DIR$/library/imports/3f/3faf3e81-ef00-42e2-abec-43cd84afe144.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/3f/3faf3e81-ef00-42e2-abec-43cd84afe144.js.map" afterPath="$PROJECT_DIR$/library/imports/3f/3faf3e81-ef00-42e2-abec-43cd84afe144.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/44/44d9c802-c269-4c35-a9d1-5c0563981488.json" afterPath="$PROJECT_DIR$/library/imports/44/44d9c802-c269-4c35-a9d1-5c0563981488.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/47/4747d080-8a6f-483b-b406-bbbc333e5421.json" afterPath="$PROJECT_DIR$/library/imports/47/4747d080-8a6f-483b-b406-bbbc333e5421.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/4a/4abeb519-4306-4450-a9ee-56acfde81866.json" afterPath="$PROJECT_DIR$/library/imports/4a/4abeb519-4306-4450-a9ee-56acfde81866.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/4c/4c7169b1-c9d1-4b2a-98b6-521694188e22.json" afterPath="$PROJECT_DIR$/library/imports/4c/4c7169b1-c9d1-4b2a-98b6-521694188e22.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/59/59d62fde-a36a-46d2-ad22-e65b84dcafaf.json" afterPath="$PROJECT_DIR$/library/imports/59/59d62fde-a36a-46d2-ad22-e65b84dcafaf.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5a/5a0a5467-bd2e-4684-8032-caf13a5330c9.json" afterPath="$PROJECT_DIR$/library/imports/5a/5a0a5467-bd2e-4684-8032-caf13a5330c9.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5b/5b319c2d-238a-47e0-802c-63abc34cbe64.json" afterPath="$PROJECT_DIR$/library/imports/5b/5b319c2d-238a-47e0-802c-63abc34cbe64.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5b/5b7e140c-bb79-4889-8ccb-a91f6c4892a8.json" afterPath="$PROJECT_DIR$/library/imports/5b/5b7e140c-bb79-4889-8ccb-a91f6c4892a8.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5c/5ce5015e-b0b6-443b-9371-59d1d1c86fe6.json" afterPath="$PROJECT_DIR$/library/imports/5c/5ce5015e-b0b6-443b-9371-59d1d1c86fe6.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5f/5f5412df-dbae-4009-9a99-662f04c268ed.json" afterPath="$PROJECT_DIR$/library/imports/5f/5f5412df-dbae-4009-9a99-662f04c268ed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5f/5f7d3eb7-7bd2-4570-b64b-716b4e9d444c.json" afterPath="$PROJECT_DIR$/library/imports/5f/5f7d3eb7-7bd2-4570-b64b-716b4e9d444c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/62/6279365e-600f-4ffa-ab0b-433682164dd3.js" afterPath="$PROJECT_DIR$/library/imports/62/6279365e-600f-4ffa-ab0b-433682164dd3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/62/6279365e-600f-4ffa-ab0b-433682164dd3.js.map" afterPath="$PROJECT_DIR$/library/imports/62/6279365e-600f-4ffa-ab0b-433682164dd3.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/64/649e005d-9c1c-448d-a302-dc859508f19f.js" afterPath="$PROJECT_DIR$/library/imports/64/649e005d-9c1c-448d-a302-dc859508f19f.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/64/649e005d-9c1c-448d-a302-dc859508f19f.js.map" afterPath="$PROJECT_DIR$/library/imports/64/649e005d-9c1c-448d-a302-dc859508f19f.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/66/6622c12e-b2cc-4d12-8a9b-12bc05670c10.json" afterPath="$PROJECT_DIR$/library/imports/66/6622c12e-b2cc-4d12-8a9b-12bc05670c10.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/66/664c3506-dab5-4a0a-a100-ef0d1e53a6eb.json" afterPath="$PROJECT_DIR$/library/imports/66/664c3506-dab5-4a0a-a100-ef0d1e53a6eb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/68/68e5df50-ffba-40d0-9974-7e66ed2c41c3.js" afterPath="$PROJECT_DIR$/library/imports/68/68e5df50-ffba-40d0-9974-7e66ed2c41c3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/68/68e5df50-ffba-40d0-9974-7e66ed2c41c3.js.map" afterPath="$PROJECT_DIR$/library/imports/68/68e5df50-ffba-40d0-9974-7e66ed2c41c3.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6a/6a2c33bf-9aca-4ea4-b3f4-dd78412dcf04.js" afterPath="$PROJECT_DIR$/library/imports/6a/6a2c33bf-9aca-4ea4-b3f4-dd78412dcf04.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6a/6a2c33bf-9aca-4ea4-b3f4-dd78412dcf04.js.map" afterPath="$PROJECT_DIR$/library/imports/6a/6a2c33bf-9aca-4ea4-b3f4-dd78412dcf04.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6c/6c159001-2b7a-4027-a13a-b638be818b7c.json" afterPath="$PROJECT_DIR$/library/imports/6c/6c159001-2b7a-4027-a13a-b638be818b7c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6c/6ccb08f1-696d-4ae1-8168-197ddb9200d3.json" afterPath="$PROJECT_DIR$/library/imports/6c/6ccb08f1-696d-4ae1-8168-197ddb9200d3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6e/6e3a974e-3e61-4ae3-897b-6ddad8d5d17c.js" afterPath="$PROJECT_DIR$/library/imports/6e/6e3a974e-3e61-4ae3-897b-6ddad8d5d17c.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6e/6e3a974e-3e61-4ae3-897b-6ddad8d5d17c.js.map" afterPath="$PROJECT_DIR$/library/imports/6e/6e3a974e-3e61-4ae3-897b-6ddad8d5d17c.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/70/704fb6eb-f243-4ec7-bf2e-2af68f39aa18.json" afterPath="$PROJECT_DIR$/library/imports/70/704fb6eb-f243-4ec7-bf2e-2af68f39aa18.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/76/7687f6e3-61bb-404e-be30-a012e83ae7c4.json" afterPath="$PROJECT_DIR$/library/imports/76/7687f6e3-61bb-404e-be30-a012e83ae7c4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/7a/7aec7f7b-92d2-43e1-abb2-43b3ba75019b.json" afterPath="$PROJECT_DIR$/library/imports/7a/7aec7f7b-92d2-43e1-abb2-43b3ba75019b.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/80/8048b8c9-79ea-4278-807e-4033326d1945.json" afterPath="$PROJECT_DIR$/library/imports/80/8048b8c9-79ea-4278-807e-4033326d1945.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/85/8568ec98-2747-4573-8779-e9cf141f8fc0.json" afterPath="$PROJECT_DIR$/library/imports/85/8568ec98-2747-4573-8779-e9cf141f8fc0.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/8f/8f15258c-a10a-4dc7-92d7-772a0fbb94b2.json" afterPath="$PROJECT_DIR$/library/imports/8f/8f15258c-a10a-4dc7-92d7-772a0fbb94b2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/91/91bcc656-3503-4c9d-9473-79ed984be802.json" afterPath="$PROJECT_DIR$/library/imports/91/91bcc656-3503-4c9d-9473-79ed984be802.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/92/92598d5b-4ef3-4a01-b5eb-4f71ce66eef9.json" afterPath="$PROJECT_DIR$/library/imports/92/92598d5b-4ef3-4a01-b5eb-4f71ce66eef9.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/a4/a4eaebe6-a6a4-4013-8f3b-cb6ab4715c7d.json" afterPath="$PROJECT_DIR$/library/imports/a4/a4eaebe6-a6a4-4013-8f3b-cb6ab4715c7d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/a5/a5cfc78f-1d96-43e3-b4b1-d9c6bd794b38.js" afterPath="$PROJECT_DIR$/library/imports/a5/a5cfc78f-1d96-43e3-b4b1-d9c6bd794b38.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/a5/a5cfc78f-1d96-43e3-b4b1-d9c6bd794b38.js.map" afterPath="$PROJECT_DIR$/library/imports/a5/a5cfc78f-1d96-43e3-b4b1-d9c6bd794b38.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/aa/aa5443ae-2e18-44d6-ac6c-c311574ada6f.json" afterPath="$PROJECT_DIR$/library/imports/aa/aa5443ae-2e18-44d6-ac6c-c311574ada6f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ab/ab855066-852e-4938-b7a8-192c8177807a.json" afterPath="$PROJECT_DIR$/library/imports/ab/ab855066-852e-4938-b7a8-192c8177807a.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ae/ae76a289-bc61-4801-8d7f-901e0bb2ec74.json" afterPath="$PROJECT_DIR$/library/imports/ae/ae76a289-bc61-4801-8d7f-901e0bb2ec74.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b2/b2d8581e-ce7b-4025-b4cc-bd3fae51bd88.js" afterPath="$PROJECT_DIR$/library/imports/b2/b2d8581e-ce7b-4025-b4cc-bd3fae51bd88.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b2/b2d8581e-ce7b-4025-b4cc-bd3fae51bd88.js.map" afterPath="$PROJECT_DIR$/library/imports/b2/b2d8581e-ce7b-4025-b4cc-bd3fae51bd88.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b7/b76befd1-0b02-461b-8a20-75153e426008.json" afterPath="$PROJECT_DIR$/library/imports/b7/b76befd1-0b02-461b-8a20-75153e426008.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b7/b77e9618-5d77-4544-a4ae-8da763f29c93.js" afterPath="$PROJECT_DIR$/library/imports/b7/b77e9618-5d77-4544-a4ae-8da763f29c93.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b7/b77e9618-5d77-4544-a4ae-8da763f29c93.js.map" afterPath="$PROJECT_DIR$/library/imports/b7/b77e9618-5d77-4544-a4ae-8da763f29c93.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ba/ba70214f-7a04-41a5-bf77-9a33a34ccb28.json" afterPath="$PROJECT_DIR$/library/imports/ba/ba70214f-7a04-41a5-bf77-9a33a34ccb28.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/bc/bc8d6a7e-0afa-480d-8797-215174cbf4c4.json" afterPath="$PROJECT_DIR$/library/imports/bc/bc8d6a7e-0afa-480d-8797-215174cbf4c4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/bf/bfbab7fb-bc12-42ee-bd04-7a752f33f723.json" afterPath="$PROJECT_DIR$/library/imports/bf/bfbab7fb-bc12-42ee-bd04-7a752f33f723.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c1/c136b00e-513a-477d-a081-8e08ced684f2.js" afterPath="$PROJECT_DIR$/library/imports/c1/c136b00e-513a-477d-a081-8e08ced684f2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c1/c136b00e-513a-477d-a081-8e08ced684f2.js.map" afterPath="$PROJECT_DIR$/library/imports/c1/c136b00e-513a-477d-a081-8e08ced684f2.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c1/c1eea082-e45c-4b64-8f37-fce2bba3c249.json" afterPath="$PROJECT_DIR$/library/imports/c1/c1eea082-e45c-4b64-8f37-fce2bba3c249.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c3/c32cdd6d-778f-48ad-a175-91a828cf0699.json" afterPath="$PROJECT_DIR$/library/imports/c3/c32cdd6d-778f-48ad-a175-91a828cf0699.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c4/c4165861-cbff-40ab-94a5-d5080c4327e3.json" afterPath="$PROJECT_DIR$/library/imports/c4/c4165861-cbff-40ab-94a5-d5080c4327e3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c6/c6fa8f2b-5502-4cd7-a046-c15053e938b3.json" afterPath="$PROJECT_DIR$/library/imports/c6/c6fa8f2b-5502-4cd7-a046-c15053e938b3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/d1/d12f40ce-53fa-4e18-8ac9-9fd810b1e812.js" afterPath="$PROJECT_DIR$/library/imports/d1/d12f40ce-53fa-4e18-8ac9-9fd810b1e812.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/d1/d12f40ce-53fa-4e18-8ac9-9fd810b1e812.js.map" afterPath="$PROJECT_DIR$/library/imports/d1/d12f40ce-53fa-4e18-8ac9-9fd810b1e812.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/d1/d1d5056a-089d-4697-9e91-c2b2eae6a435.json" afterPath="$PROJECT_DIR$/library/imports/d1/d1d5056a-089d-4697-9e91-c2b2eae6a435.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/dc/dc9218c4-5322-46d0-8629-06a46d096eee.json" afterPath="$PROJECT_DIR$/library/imports/dc/dc9218c4-5322-46d0-8629-06a46d096eee.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/dc/dce489f8-0e8f-46fc-862e-f5ba2fe915ec.js" afterPath="$PROJECT_DIR$/library/imports/dc/dce489f8-0e8f-46fc-862e-f5ba2fe915ec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/dc/dce489f8-0e8f-46fc-862e-f5ba2fe915ec.js.map" afterPath="$PROJECT_DIR$/library/imports/dc/dce489f8-0e8f-46fc-862e-f5ba2fe915ec.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/df/dfb062dd-4702-46d3-9e78-692d4d26e24c.js" afterPath="$PROJECT_DIR$/library/imports/df/dfb062dd-4702-46d3-9e78-692d4d26e24c.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/df/dfb062dd-4702-46d3-9e78-692d4d26e24c.js.map" afterPath="$PROJECT_DIR$/library/imports/df/dfb062dd-4702-46d3-9e78-692d4d26e24c.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e0/e06ec798-dbdf-44c3-a64b-e31264d73ef8.json" afterPath="$PROJECT_DIR$/library/imports/e0/e06ec798-dbdf-44c3-a64b-e31264d73ef8.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e2/e24fa84b-78cd-4bd3-ab8c-aab19de5e932.json" afterPath="$PROJECT_DIR$/library/imports/e2/e24fa84b-78cd-4bd3-ab8c-aab19de5e932.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e4/e436b72a-fbd1-488c-b29d-5876133b58d1.json" afterPath="$PROJECT_DIR$/library/imports/e4/e436b72a-fbd1-488c-b29d-5876133b58d1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e4/e4ad699b-c137-4ed6-8c97-fc73fe2fb4be.js" afterPath="$PROJECT_DIR$/library/imports/e4/e4ad699b-c137-4ed6-8c97-fc73fe2fb4be.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e4/e4ad699b-c137-4ed6-8c97-fc73fe2fb4be.js.map" afterPath="$PROJECT_DIR$/library/imports/e4/e4ad699b-c137-4ed6-8c97-fc73fe2fb4be.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e6/e68734e7-55f0-4382-9367-159793ed850f.json" afterPath="$PROJECT_DIR$/library/imports/e6/e68734e7-55f0-4382-9367-159793ed850f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e6/e699b58a-86a1-435b-ab71-7014c618cf01.json" afterPath="$PROJECT_DIR$/library/imports/e6/e699b58a-86a1-435b-ab71-7014c618cf01.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ec/ece9afd7-9771-411e-9c1f-cd77506ffa0e.js" afterPath="$PROJECT_DIR$/library/imports/ec/ece9afd7-9771-411e-9c1f-cd77506ffa0e.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ec/ece9afd7-9771-411e-9c1f-cd77506ffa0e.js.map" afterPath="$PROJECT_DIR$/library/imports/ec/ece9afd7-9771-411e-9c1f-cd77506ffa0e.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ed/edb2f368-eaf2-48a7-859e-b9250e1cd6fd.js" afterPath="$PROJECT_DIR$/library/imports/ed/edb2f368-eaf2-48a7-859e-b9250e1cd6fd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ed/edb2f368-eaf2-48a7-859e-b9250e1cd6fd.js.map" afterPath="$PROJECT_DIR$/library/imports/ed/edb2f368-eaf2-48a7-859e-b9250e1cd6fd.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ee/eecce89d-3eca-453a-820e-7646f45b1285.json" afterPath="$PROJECT_DIR$/library/imports/ee/eecce89d-3eca-453a-820e-7646f45b1285.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ef/efd37e2b-531e-47f0-a621-310ed1aa22ef.json" afterPath="$PROJECT_DIR$/library/imports/ef/efd37e2b-531e-47f0-a621-310ed1aa22ef.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/f2/f20a17bc-1834-44e8-94b0-795833e51b45.json" afterPath="$PROJECT_DIR$/library/imports/f2/f20a17bc-1834-44e8-94b0-795833e51b45.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/f5/f50d9ce2-08a1-4b6e-b83f-aaef96f21945.json" afterPath="$PROJECT_DIR$/library/imports/f5/f50d9ce2-08a1-4b6e-b83f-aaef96f21945.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/fc/fc8e4cac-b8cf-4a11-af0e-cf854869cec5.json" afterPath="$PROJECT_DIR$/library/imports/fc/fc8e4cac-b8cf-4a11-af0e-cf854869cec5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/fc/fcd07218-2d1a-4cb0-bf3a-f1014d02d7b7.json" afterPath="$PROJECT_DIR$/library/imports/fc/fcd07218-2d1a-4cb0-bf3a-f1014d02d7b7.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/uuid-to-mtime.json" afterPath="$PROJECT_DIR$/library/uuid-to-mtime.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/assets.json" afterPath="$PROJECT_DIR$/local/assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/hierarchy.json" afterPath="$PROJECT_DIR$/local/hierarchy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/layout.windows.json" afterPath="$PROJECT_DIR$/local/layout.windows.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/logs/project.log" afterPath="$PROJECT_DIR$/local/logs/project.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/removeRemoteRes3.py" afterPath="$PROJECT_DIR$/removeRemoteRes3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings/project.json" afterPath="$PROJECT_DIR$/settings/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Prefabs/personalAssets.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Prefabs/personalAssets.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/Ddz.fire" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/Ddz.fire" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/MallScene.fire" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/MallScene.fire" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/MatchListScene.fire" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/MatchListScene.fire" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/RoomListScene.fire" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/RoomListScene.fire" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/ddz_rank.fire" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/ddz_rank.fire" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/rechargeScene.fire" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/rechargeScene.fire" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefabs/ddz_bubble_tips.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefabs/ddz_bubble_tips.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefabs/ddz_diamond.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefabs/ddz_diamond.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tywxTools/JSconfuse.py" afterPath="$PROJECT_DIR$/tywxTools/JSconfuse.py" />
+    </list>
+    <ignored path="ddz_20180906.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ddz_20180906" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ddz_game_result.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_game_result.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="860">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlmsWindow.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/AlmsWindow.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemInfo.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ddz.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="107" column="38" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ddz_main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameModel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DdzGlobalFuncs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10785">
+              <caret line="725" column="0" selection-start-line="725" selection-start-column="0" selection-end-line="725" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoldModule.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/GoldModule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="318" column="39" selection-start-line="318" selection-start-column="39" selection-end-line="318" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DdzTableScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="3030" column="9" selection-start-line="3030" selection-start-column="9" selection-end-line="3030" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ddz_game_result_through.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_game_result_through.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="166" column="44" selection-start-line="166" selection-start-column="44" selection-end-line="166" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/temp/quick-scripts/assets/Script/Framework/UserInfo.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/RoomListScene.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_cell_roomlist.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/MatchListScene.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_cell_matchlist.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/RechargeScene.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_toast_cell.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/videoIcon.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/utils/AdManager_tywx.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_bubble_tips.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/utils/LoginBtnManager.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_notifyWindow.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/MallScene.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js" />
+        <option value="$PROJECT_DIR$/build/wechatgame/src/project.dev.js" />
+        <option value="$PROJECT_DIR$/assets/Script/Framework/EventType.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/utils/sxAdManager.js" />
+        <option value="$PROJECT_DIR$/assets/Script/Framework/TuyooSDK.js" />
+        <option value="$PROJECT_DIR$/assets/Script/Framework/Recharge.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/personalAssets.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/HallGameWorld.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_success.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_ceLaMenu.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_main.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_diamond_windows.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/GoldModule.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js" />
+        <option value="$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1637" />
+    <option name="y" value="40" />
+    <option name="width" value="1805" />
+    <option name="height" value="925" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ComponentScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ComponentScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy_ddz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonFrame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/tywxTools" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/tywxTools" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef8d7cb-b5c6-4d42-b87c-b44ea7b9b6bb" name="Default" comment="" />
+      <created>1536272878519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536272878519</updated>
+      <workItem from="1536272879884" duration="7109000" />
+      <workItem from="1536337491761" duration="15197000" />
+      <workItem from="1536423953618" duration="8316000" />
+      <workItem from="1536435524992" duration="10307000" />
+      <workItem from="1536597290766" duration="13117000" />
+      <workItem from="1536688601196" duration="612000" />
+      <workItem from="1536689224700" duration="118000" />
+      <workItem from="1536689348107" duration="3369000" />
+      <workItem from="1536713159326" duration="3655000" />
+      <workItem from="1536723416167" duration="73000" />
+      <workItem from="1536774736770" duration="1343000" />
+      <workItem from="1536787267820" duration="1468000" />
+      <workItem from="1536796885165" duration="585000" />
+      <workItem from="1536798575687" duration="4131000" />
+      <workItem from="1536873969226" duration="1312000" />
+      <workItem from="1537382783647" duration="915000" />
+      <workItem from="1537551822984" duration="12340000" />
+      <workItem from="1537581552397" duration="3573000" />
+      <workItem from="1538072051946" duration="3957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91497000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1637" y="40" width="1805" height="925" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17264573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24943946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/RoomListScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="156" column="38" selection-start-line="156" selection-start-column="38" selection-end-line="156" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/RechargeScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_toast_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/videoIcon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="64" selection-start-line="87" selection-start-column="64" selection-end-line="87" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/AdManager_tywx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="54" selection-start-line="123" selection-start-column="54" selection-end-line="123" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_rank_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="42" column="97" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/ddz_boot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_bubble_tips.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="92" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_notifyWindow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/DdzEventType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="157" column="83" selection-start-line="157" selection-start-column="83" selection-end-line="157" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/officialAccountGuide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/MallScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/LoginBtnManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="37" selection-start-line="138" selection-start-column="37" selection-end-line="138" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/wechatgame/src/project.dev.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="1195" column="49" selection-start-line="1195" selection-start-column="44" selection-end-line="1195" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/MsgFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="913">
+          <caret line="479" column="12" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_cell_history.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/EventType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="107" column="61" selection-start-line="107" selection-start-column="61" selection-end-line="107" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/TuyooSDK.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7485">
+          <caret line="499" column="66" selection-start-line="499" selection-start-column="33" selection-end-line="499" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/Recharge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/sxAdManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="82" selection-start-line="80" selection-start-column="63" selection-end-line="80" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/personalAssets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/personDataEdit.js" />
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="901" column="52" selection-start-line="901" selection-start-column="52" selection-end-line="901" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/personInfoMode.js" />
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/HallGameWorld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/animation/ddz_main/ddz_main.anim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_success.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="70" column="111" selection-start-line="70" selection-start-column="111" selection-end-line="70" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_ceLaMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="114" column="6" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/resources/prefabs/ddz_zuanshiBox.prefab" />
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_buttonList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_diamond_windows.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/UserInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_cell_roomlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="158" column="81" selection-start-line="158" selection-start-column="81" selection-end-line="158" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/MatchModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="583" column="4" selection-start-line="583" selection-start-column="4" selection-end-line="583" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/QuickStartModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="196" column="70" selection-start-line="196" selection-start-column="70" selection-end-line="196" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/Share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10995">
+          <caret line="741" column="28" selection-start-line="741" selection-start-column="28" selection-end-line="741" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_revivalWindow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10785">
+          <caret line="725" column="0" selection-start-line="725" selection-start-column="0" selection-end-line="725" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_game_result_through.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="166" column="44" selection-start-line="166" selection-start-column="44" selection-end-line="166" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="3030" column="9" selection-start-line="3030" selection-start-column="9" selection-end-line="3030" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/GoldModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="318" column="39" selection-start-line="318" selection-start-column="39" selection-end-line="318" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/AlmsWindow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_game_result.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="107" column="38" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

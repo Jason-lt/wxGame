@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_head_shade",
+    "texture": "da44e42e-5d83-4daa-9dcc-5bb5aad17fbb",
+    "atlas": "e699b58a-86a1-435b-ab71-7014c618cf01",
+    "rect": [
+      606,
+      594,
+      114,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      110
+    ],
+    "rotated": 1
+  }
+}

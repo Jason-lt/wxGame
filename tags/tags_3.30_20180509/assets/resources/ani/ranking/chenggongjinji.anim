@@ -1,0 +1,117 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chenggongjinji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "label": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "ddz_tx_zuanshi03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ddz_main_line1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "ddz_main_line2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "particlesystem": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.2,
+                "value": 0
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 200
+              },
+              {
+                "frame": 0.9,
+                "value": 0
+              },
+              {
+                "frame": 2,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "props": {
+          "y": [
+            {
+              "frame": 0.3,
+              "value": 139
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -137
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

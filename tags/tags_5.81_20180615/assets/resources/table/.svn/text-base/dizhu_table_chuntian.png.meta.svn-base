@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "aa645208-19fa-4cbd-aca5-38d8dfd1aa59",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dizhu_table_chuntian": {
+      "ver": "1.0.3",
+      "uuid": "209c7c0e-f75b-4065-9c6d-4add10b5ce62",
+      "rawTextureUuid": "aa645208-19fa-4cbd-aca5-38d8dfd1aa59",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 492,
+      "height": 595,
+      "rawWidth": 498,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

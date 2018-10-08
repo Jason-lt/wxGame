@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tipsWindowNode",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "props": {
+      "scaleX": [],
+      "scaleY": []
+    },
+    "paths": {
+      "ddz_white_bottom": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "ddz_buttonList": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bgBtn": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 170
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

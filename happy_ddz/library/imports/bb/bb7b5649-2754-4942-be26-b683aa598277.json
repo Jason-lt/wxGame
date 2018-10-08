@@ -1,0 +1,1458 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "circle ",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "CCNode": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.1666666716337204,
+              "value": 1.2000000476837158,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.2666666805744171,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.1666666716337204,
+              "value": 1.2000000476837158,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.2666666805744171,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5333333611488342,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9333333373069763,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.5333333611488342,
+              "value": 100,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2333333492279053,
+              "value": 90,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5333333611488342,
+              "value": 0.4000000059604645,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2333333492279053,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5333333611488342,
+              "value": 0.4000000059604645,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2333333492279053,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 110,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6333333253860474,
+              "value": 100,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6333333253860474,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6333333253860474,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 100,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5333333015441895,
+              "value": 130,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5333333015441895,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5333333015441895,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6333333253860474,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6333333253860474,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.3333333730697632,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6333333253860474,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.3333333730697632,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi05": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 15,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2999999523162842,
+              "value": 0,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 0.20000000298023224,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2999999523162842,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 0.20000000298023224,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2999999523162842,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5666666626930237,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.5666666626930237,
+              "value": -5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9333333373069763,
+              "value": 10,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5666666626930237,
+              "value": -0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9333333373069763,
+              "value": -1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5666666626930237,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9333333373069763,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1666666269302368,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 10,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1666666269302368,
+              "value": 30,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1666666269302368,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.9333333373069763,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1666666269302368,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2333333492279053,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1,
+              "value": 150,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.3666666746139526,
+              "value": 180,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.3666666746139526,
+              "value": 0.5,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.3666666746139526,
+              "value": 0.5,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6333333253860474,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.6333333253860474,
+              "value": 10,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": 0,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6333333253860474,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9666666388511658,
+              "value": 0.699999988079071,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6333333253860474,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9666666388511658,
+              "value": 0.699999988079071,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua05": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.800000011920929,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.100000023841858,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.800000011920929,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.4666666984558105,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.800000011920929,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.4666666984558105,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua06": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5333333611488342,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.5333333611488342,
+              "value": -100,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": -90,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5333333611488342,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5333333611488342,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua07": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8666666746139526,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2999999523162842,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.8666666746139526,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.8666666746139526,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2666666507720947,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua08": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5666666626930237,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.7333333492279053,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5666666626930237,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9333333373069763,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5666666626930237,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9333333373069763,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua09": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.46666666865348816,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6666666865348816,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.46666666865348816,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.46666666865348816,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua10": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2000000476837158,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 30,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2000000476837158,
+              "value": 15,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2000000476837158,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2000000476837158,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/taohua10/taohua11": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.7333333492279053,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2000000476837158,
+              "value": 255,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi001": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.800000011920929,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 70,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.800000011920929,
+              "value": 80,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6000000238418579,
+              "value": -0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.800000011920929,
+              "value": -0.800000011920929,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": -0.6000000238418579,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6000000238418579,
+              "value": -0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.800000011920929,
+              "value": -0.800000011920929,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8666666746139526,
+              "value": -0.6000000238418579,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi002": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.36666667461395264,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5666666626930237,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.36666667461395264,
+              "value": -5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9333333373069763,
+              "value": 0,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.36666667461395264,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5666666626930237,
+              "value": -0.800000011920929,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6666666865348816,
+              "value": -0.800000011920929,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.36666667461395264,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5666666626930237,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6666666865348816,
+              "value": 0.800000011920929,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi003": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 15,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 0.20000000298023224,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 0.6000000238418579,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6000000238418579,
+              "value": 0.20000000298023224,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 0.6000000238418579,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi004": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.7333333492279053,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.7333333492279053,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 0.699999988079071,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.30000001192092896,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.7333333492279053,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 0.699999988079071,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi005": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.36666667461395264,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6000000238418579,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.36666667461395264,
+              "value": -10,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6000000238418579,
+              "value": 0,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.36666667461395264,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6000000238418579,
+              "value": 1.2000000476837158,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.699999988079071,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.36666667461395264,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6000000238418579,
+              "value": 1.2000000476837158,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.699999988079071,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi006": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.30000001192092896,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.30000001192092896,
+              "value": 38,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5,
+              "value": 38,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.30000001192092896,
+              "value": 0.20000000298023224,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6000000238418579,
+              "value": 0.699999988079071,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.30000001192092896,
+              "value": 0.20000000298023224,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6000000238418579,
+              "value": 0.699999988079071,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/yezi007": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.1666666716337204,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.1666666716337204,
+              "value": -15,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 0,
+              "curve": "linear"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.1666666716337204,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 1.2000000476837158,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.4333333373069763,
+              "value": 1,
+              "curve": "linear"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.1666666716337204,
+              "value": 0.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.3333333432674408,
+              "value": 1.2000000476837158,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.4333333373069763,
+              "value": 1,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/zhib": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.2999999523162842,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6333333253860474,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.2999999523162842,
+              "value": [
+                -208.65032958984375,
+                162.69638061523438
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 2,
+              "value": [
+                -171.65032958984375,
+                138.69638061523438
+              ],
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/zhib/zhib1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.2999999523162842,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6333333253860474,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.3666666746139526,
+              "value": -10,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5666667222976685,
+              "value": -20,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.7666666507720947,
+              "value": -10,
+              "curve": "linear"
+            },
+            {
+              "frame": 2,
+              "value": -20,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/CCNode": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.46666666865348816,
+              "value": [
+                273.2083740234375,
+                63.8287353515625
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 1.8333333730697632,
+              "value": [
+                218.13427734375,
+                90.54168701171875
+              ],
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/CCNode/zhibang2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.46666666865348816,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6666666865348816,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.46666666865348816,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6333333253860474,
+              "value": -5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1,
+              "value": -5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2333333492279053,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.4666666984558105,
+              "value": -5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6666666269302368,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.8333333730697632,
+              "value": -5,
+              "curve": "linear"
+            },
+            {
+              "frame": 2,
+              "value": 0,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      },
+      "CCNode/CCNode/zhihi": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.46666666865348816,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.699999988079071,
+              "value": 255,
+              "curve": "linear"
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.46666666865348816,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6333333253860474,
+              "value": 5,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333134651184,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1,
+              "value": 5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.2333333492279053,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.4666666984558105,
+              "value": 5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6666666269302368,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.8333333730697632,
+              "value": 5,
+              "curve": "linear"
+            },
+            {
+              "frame": 2,
+              "value": 0,
+              "curve": "linear"
+            }
+          ]
+        },
+        "comps": {}
+      }
+    }
+  },
+  "events": []
+}

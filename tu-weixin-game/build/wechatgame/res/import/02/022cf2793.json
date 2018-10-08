@@ -1,0 +1,283 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_welfare_shipin",
+      "texture": "d9bdpN8FxHXotv59ZVW5eE",
+      "rect": [
+        984,
+        1818,
+        72,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        72,
+        67
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "shipin",
+    "_duration": 2,
+    "sample": 30,
+    "wrapMode": 2,
+    "curveData": {
+      "paths": {
+        "ddz_welfare_shipintx": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 1,
+                "value": 50
+              },
+              {
+                "frame": 2,
+                "value": 0
+              }
+            ],
+            "scaleY": [
+              {
+                "frame": 1,
+                "value": 1
+              },
+              {
+                "frame": 2,
+                "value": 1.05
+              }
+            ],
+            "scaleX": [
+              {
+                "frame": 1,
+                "value": 1
+              },
+              {
+                "frame": 2,
+                "value": 1.05
+              }
+            ]
+          }
+        },
+        "ddz_welfare_shipin": {
+          "props": {
+            "scaleY": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 1,
+                "value": 1.05
+              },
+              {
+                "frame": 2,
+                "value": 1
+              }
+            ],
+            "scaleX": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 1,
+                "value": 1.05
+              },
+              {
+                "frame": 2,
+                "value": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "guanggao",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "guanggao",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            null,
+            {
+              "__uuid__": "44CKtmx0BFb5yKJNcdEmdO"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7aV0+pLc9CFbZwp0kYR9eR"
+        },
+        "fileId": "19QWljlg5Bg7isEhddb2Ro"
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 255,
+        "y": 488
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz_welfare_diban",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "d3+zGe4SxNXrtJTpGrevX+"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7aV0+pLc9CFbZwp0kYR9eR"
+        },
+        "fileId": "03G2tSATRCfqdtauXIms2N"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 94,
+        "height": 95
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": -9.9
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz_welfare_shipin",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "1dYn5Hb8VBWZTuzPKnPN6u"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7aV0+pLc9CFbZwp0kYR9eR"
+        },
+        "fileId": "3atmAsB0BFLqo3HtfRh4Ee"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 72,
+        "height": 67
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz_welfare_shipintx",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "1dYn5Hb8VBWZTuzPKnPN6u"
+          },
+          "_dstBlendFactor": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7aV0+pLc9CFbZwp0kYR9eR"
+        },
+        "fileId": "639zVwEtlAQKYr6gtd/hkb"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 72,
+        "height": 67
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_welfare_diban",
+      "texture": "d9bdpN8FxHXotv59ZVW5eE",
+      "rect": [
+        941,
+        1523,
+        94,
+        95
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        94,
+        95
+      ]
+    }
+  }
+]

@@ -1,0 +1,673 @@
+/**
+ * Created by tuyoo on 2018/2/5.
+ */
+
+var matchDefaultCfg = {
+    roomId:6789
+};
+
+var delayTime = 3;
+
+ddz.matchModel = {
+    LAST_REWARD_DATE: 'last_reward_Date', //首页提示窗的最后展示时间
+    LAST_RANK_WEEK: 'last_rank_week', //首页提示窗的最后展示时间
+    SHOW_LOGIN_REWARD: 'show_login_reward', //待提示的每次登录奖励信息
+    MATCH_REWARD_DES: 'match_reward_des', //奖池奖励
+    ONHIDE_DATE : 'onhide_date',
+    isGameFlow : false,
+    isDiZhuWin : false,
+    /**
+     * 获取比赛列表
+     */
+    getMatchList:function () {
+        var pars = {
+            "cmd": "game",
+            "params": {
+                "action": "async_upgrade_hero_match",
+                "gameId": 6
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 获取比赛详情
+     */
+    getMatchDes:function () {
+        var pars = {
+            "cmd": "room",
+            "params": {
+                "action": "match_des",
+                "gameId": 6,
+                "roomId": matchDefaultCfg.roomId
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 比赛报名
+     */
+    matchSignin:function (roomId) {
+        roomId = roomId || matchDefaultCfg.roomId;
+        var pars = {
+            "cmd": "room",
+            "params": {
+                "action": "signin",
+                "gameId": 6,
+                "roomId": roomId,
+                "signinParams": {
+                    "feeIndex": 0
+                }
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+        if (this._curWaitInfo){
+            this._curWaitInfo.stageIndex = 1;
+        }
+        ty.NotificationCenter.trigger(ddz.EventType.RESET_TABLE);
+    },
+
+    /**
+     * 比赛报名
+     */
+    matchGiveUp:function (roomId) {
+        roomId = roomId || matchDefaultCfg.roomId;
+        var pars = {
+            "cmd": "room",
+            "params": {
+                "action": "match_giveup",
+                "gameId": 6,
+                "roomId": roomId,
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 开始闯关
+     */
+    matchChallenge:function () {
+        var pars = {
+            "cmd": "room",
+            "params": {
+                "action": "match_challenge",
+                "gameId": 6,
+                "roomId": matchDefaultCfg.roomId
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+        ty.NotificationCenter.trigger(ddz.EventType.RESET_TABLE);
+    },
+
+    /**
+     * 复活
+     */
+    matchBack:function () {
+        var pars = {
+            "cmd": "room",
+            "params": {
+                "action": "match_back",
+                "gameId": 6,
+                "roomId": matchDefaultCfg.roomId
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+        ty.NotificationCenter.trigger(ddz.EventType.RESET_TABLE);
+    },
+
+    /**
+     * 获取奖池信息
+     */
+    matchUpdate:function () {
+        var pars = {
+            "cmd": "room",
+            "params": {
+                "action": "update",
+                "gameId": 6,
+                "roomId": matchDefaultCfg.roomId
+            }
+        };
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 获取排行榜列表
+     */
+    getRankList:function () {
+        var pars = {
+            "cmd": ddz.EventType.CMD_CUSTOM_RANK,
+            "params": {
+                "action": "query",
+                "rankKey": "hero_match_success_rank",
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 绑定邀请人
+     */
+    bindInviteCode:function (inviteCode) {
+        var pars = {
+            "cmd": "game",
+            "params": {
+                "action": "bind_invite_code",
+                "gameId": 6,//9999
+                "inviteCode": inviteCode,
+            }
+        };
+
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 查询邀请奖励
+     */
+    queryInviteInfo:function () {
+        var pars = {
+            "cmd": "game",
+            "params": {
+                "action": "query_invite_info",
+                "gameId": 6,//9999
+            }
+        };
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 领取推荐奖励
+     */
+    getInviteReward:function (inviteeId) {
+        if(!inviteeId){
+            return;
+        }
+        var pars = {
+            "cmd": "game",
+            "params": {
+                "action": "get_invite_reward",
+                "gameId": 6,//9999
+                "inviteeId": inviteeId,
+            }
+        };
+        hall.MsgFactory._sendCmd(pars);
+    },
+    /**
+     * 分享得钻石
+     */
+    shareToGetreward:function (sharePoint) {
+        var pars = {
+            "cmd": "hall_share2",
+            "params": {
+                "action": "get_reward",
+                "gameId": 6,//9999
+                // "pointId": 67890000
+                "pointId": sharePoint
+            }
+        };
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    /**
+     * 提现
+     */
+    getCashReward:function (cash) {
+        var pars = {
+            "cmd": ddz.EventType.CMD_CASH,
+            "params": {
+                "action": "get_cash",
+                "gameId": 6,//9999
+                "value": cash,
+                "wxappId":ty.SystemInfo.wxAppId
+            }
+        };
+        hall.MsgFactory._sendCmd(pars);
+    },
+
+    getStageIndex:function () {
+        return this._stageIndex;
+    },
+
+    parseWait:function (value) {
+        hall.LOGE('', "++++++++++++parseWait++++++++++++"+JSON.stringify(value));
+        // {
+        //     "cmd":"room",
+        //     "result":{
+        //         "gameId":6,
+        //         "cardCount":1,
+        //         "isLevelUp":true,
+        //         "stageIndex":2,
+        //         "matchId":6789,
+        //         "userId":10127,
+        //         "state":2,
+        //         "action":"wait",
+        //         "roomId":67891000
+        //     }
+        // }
+
+        this._curWaitInfo = value;
+        this._stageIndex = this._curWaitInfo.stageIndex;
+
+        var state = this._curWaitInfo.state;
+        var preFabPath = "";
+        var comName = "";
+        var gameFlow = this._curWaitInfo.gameFlow;
+
+        if (state == 3){
+            ty.NotificationCenter.trigger(ddz.EventType.REMOVE_MATCHING);
+            //开局之前的等待(3可以在任意场景弹出)
+            preFabPath = "ani/ddz_matching/Matching";
+            comName = "DdzMatching";
+            ddz.AudioHelper.playMusic(ddz.MusicPath_mp3.table_background_music, true, ty.SystemInfo.tableBgMusicVolume);
+            this.showPopWinByPreFab(preFabPath, function (preFabNode) {
+                var com = preFabNode.getComponent(comName);
+                com.playAni(true);
+            });
+        }
+
+        /*
+         1 在牌桌打牌中
+         2 报名或者晋级成功，等待闯关
+         3 开始挑战
+         4 闯关失败 等待复活
+         5 游戏结束
+         */
+        if (hall.GlobalFuncs.isInAtScene("TableScene") && (state == 2 || state == 4)){
+            if (ddz.matchModel.isGameFlow){
+                return;
+            }
+            if (ddz.matchResultPanel){
+                //已经存在面板了,不要在重复弹出(这种情况存在于牌桌内断线重连的情况,重连后又会收到一次协议,导致重复弹出面板)
+                ddz.LOGD(null, "已经存在面板,不要重复弹出!");
+                return;
+            }
+            //只有在牌桌上,才弹出2,4等待窗口
+
+            var isLevelUp = state == 2;
+            if (isLevelUp && !gameFlow){
+                //赢了一局,晋级
+                preFabPath = "prefabs/match/ddz_success";
+                comName = "ddz_success";
+            }
+            else{
+                //1、失败了,等待复活 2、托管状态下赢
+                preFabPath = "prefabs/match/ddz_fail";
+                comName = "ddz_fail";
+            }
+
+            // cc.loader.loadRes(preFabPath, function (err, prefab) {
+            //     var newNode = cc.instantiate(prefab);
+            //     cc.director.getScene().addChild(newNode);
+            //     ddz.GlobalFuncs.setToCenter(newNode);
+            // });
+
+
+            var stageIndex = this._curWaitInfo.stageIndex - 2;
+            if (stageIndex < 0){
+                stageIndex = 0;
+            }
+
+            var  timerFunc = function () {
+                ty.NotificationCenter.ignore(ddz.EventType.GAME_HIDE, this.onGameHide, this);
+                this.showPopWinByPreFab(preFabPath, function (preFabNode) {
+                    var com = preFabNode.getComponent(comName);
+                    if (comName == "ddz_success"){
+                        com.progress.getComponent("ddz_progress").setProgress(stageIndex, isLevelUp);
+                        com.resultTitle.getComponent('ddz_resultTitle').setTitle(stageIndex, isLevelUp);
+                    }
+                    else{
+                        if(gameFlow){
+                            if(ddz.matchModel.isDiZhuWin){
+                                com.gameFlowOver(ddz.matchModel.getStageIndex()-1,"因队友托管，不算你输，可重闯本关");
+                            }else {
+                                com.gameFlowOver(ddz.matchModel.getStageIndex()-1,"托管不记录成绩,请重闯本关");
+                            }
+                        }else {
+                            com.setDiamondCount(ddz.matchModel.getStageIndex() - 1);
+                        }
+                    }
+                    ddz.matchResultPanel = com;
+
+                    ddz.GlobalFuncs.showWaitLottreyWin();
+
+                });
+            }.bind(this);
+
+            ty.Timer.setTimer(cc.director,timerFunc, delayTime, 0);
+            ty.NotificationCenter.listen(ddz.EventType.GAME_HIDE,function () {
+                ty.Timer.cancelTimer(cc.director,timerFunc);
+                ty.NotificationCenter.ignore(ddz.EventType.GAME_HIDE,this);
+            }, this);
+
+        }
+        ty.NotificationCenter.trigger(ddz.EventType.UPDATE_WAIT_INFO);
+
+    },
+
+    getCurWaitInfo:function () {
+        return this._curWaitInfo;
+    },
+
+    cleanWaitInfo:function () {
+        if (this._curWaitInfo){
+            this._curWaitInfo = null;
+        }
+    },
+
+    showPopWinByPreFab:function (preFabPath, func) {
+        cc.loader.loadRes(preFabPath, function (err, prefab) {
+            var preFabNode = cc.instantiate(prefab);
+            cc.director.getScene().addChild(preFabNode);
+            ddz.GlobalFuncs.setToCenter(preFabNode);
+            if (preFabPath == "ani/ddz_matching/Matching"){
+                preFabNode.y += 160;
+            }
+            func(preFabNode);
+        });
+    },
+
+    parseGiveUp:function (value) {
+        if (this.waitSignin){
+            this.matchSignin();
+            this.waitSignin = null;
+        }
+    },
+
+    parseOver:function (value) {
+        if (ddz.matchModel.isGameFlow){
+            return;
+        }
+        this._curOverInfo = value;
+
+
+
+        var preFabPath;
+        var comName;
+        var that = this;
+
+        if (ddz.matchResultPanel){
+            ddz.LOGD(null, "已经存在面板,不要重复弹出!");
+            //已经存在面板了,不要在重复弹出(这种情况存在于牌桌内断线重连的情况,重连后又会收到一次协议,导致重复弹出面板)
+            that._curWaitInfo = null;
+            return;
+        }
+
+        if (this._curOverInfo.reason == ddz.MATCH_REASON.WIN){
+            //赢了,弹出等待窗口
+            preFabPath = "prefabs/match/ddz_congratulation";
+            comName = "ddz_congratulation";
+            var that = this;
+            this.showPopWinByPreFab(preFabPath, function (preFabNode) {
+                that._curWaitInfo = null;
+                ddz.matchResultPanel = preFabNode.getComponent(comName);
+                ddz.matchResultPanel.setMcountDetail(that._curOverInfo.mcount);
+                ddz.GlobalFuncs.showWaitLottreyWin();
+            });
+        }
+        else{
+            // this._curWaitInfo = null;
+            preFabPath = "prefabs/match/ddz_fail";
+            comName = "ddz_fail";
+            this.showPopWinByPreFab(preFabPath, function (preFabNode) {
+                var com = preFabNode.getComponent(comName);
+                ddz.matchResultPanel = com;
+                ddz.GlobalFuncs.showWaitLottreyWin();
+                // if (ddz.matchModel.getStageIndex() == 1){
+                    //不可复活的关卡失败
+                com.over(ddz.matchModel.getStageIndex()-1);
+                that._curWaitInfo = null;
+                // }
+                // else{
+                //     // com.setDiamondCount(ddz.matchModel.getStageIndex() - 1);
+                // }
+            });
+        }
+    },
+
+    parseMatchInfo:function (value) {
+
+        // {
+        //     'cmd': 'room',
+        //     'result': {
+        //         'lotteryInfo': {
+        //             'winnerCount': 0,
+        //             'lotteryTime': u '21:00',
+        //             'leftSeconds': 31651,
+        //             'desc': u '20万元奖金'
+        //         },
+        //         'gameId': 6,
+        //         'matchId': 6789,
+        //         'userId': 10007,
+        //         'action': 'update',
+        //         'roomId': 67891000
+        //     }
+        // }
+
+        this._curUpdateInfo = value;
+        ty.NotificationCenter.trigger(ddz.EventType.UPDATE_MATCH_INFO);
+    },
+
+    getCurUpdateInfo:function () {
+        return this._curUpdateInfo;
+    },
+
+    parseDes:function (value) {
+        this._curDesInfo = value;
+
+        // this._curDesInfo.histories.lastLottery = {
+        //     "winnerCount":2,
+        //     "lotteryTime":"2018-04-08 19:40",
+        //     "rewards":[
+        //         {
+        //             "count":2,
+        //             "itemId":"item:1311"
+        //         },
+        //         {
+        //             "count":1200000,
+        //             "itemId":"user:chip"
+        //         },
+        //         {
+        //             "count":12010,
+        //             "itemId":"user:coupon"
+        //         }
+        //     ]
+        // };
+
+        ty.NotificationCenter.trigger(ddz.EventType.UPDATE_MATCH_DES);
+        ddz.GlobalFuncs.showLotteryWin(2);
+        var histories = value.histories;
+        // hall.LOGD(this._TAG, "parseDes -------------------------"+ JSON.stringify(histories));
+        if(histories){
+            var number = histories.winnerCount;
+            ddz.GlobalFuncs.upDateRankData(number+"");
+            hall.MsgFactory.getTimeStamp();
+            ty.NotificationCenter.listen(ddz.EventType.GET_TIMESTAMP, this.reciveTimeStamp, this);
+        }
+    },
+    reciveTimeStamp : function (result) {
+        ty.NotificationCenter.ignore(ddz.EventType.GET_TIMESTAMP);
+        // "result":{
+        //     //     "action":"sync_timestamp",
+        //     //         "gameId":9999,
+        //     //         "userId":10200,
+        //     //         "current_ts":1520826049
+        //     // }1523203200
+        var nowStamp = result.current_ts;
+        var week = parseInt((nowStamp-1523203200)/(7*24*3600));
+        ddz.GlobalFuncs.upDateRankDataWeek(week+"");
+        hall.GlobalFuncs.setInLocalStorage(ddz.matchModel.LAST_RANK_WEEK, week+"");
+        // var nowWeek = hall.GlobalFuncs.ReadStringFromLocalStorage(ddz.matchModel.LAST_RANK_WEEK, "");
+    },
+
+    getCurDes:function () {
+        return this._curDesInfo;
+    },
+
+    parseMatchList:function (value) {
+        this._curMatchListInfo = value['matches'];
+        ty.NotificationCenter.trigger(ddz.EventType.RECIVE_MATCH_LIST_INFO);
+    },
+    getMatchListInfo:function () {
+        return this._curMatchListInfo;
+    },
+
+    ///
+    parse:function (value) {
+        switch (value.result.action){
+            case "match_des" : {
+                this.parseDes(value.result);
+                break;
+            }
+            case "wait" : {
+                this.parseWait(value.result);
+                break;
+            }
+            case "over" : {
+
+                ty.Timer.setTimer(cc.director, function () {
+                    this.parseOver(value.result);
+                }.bind(this), delayTime, 0);
+
+                break;
+            }
+            case "match_giveup" : {
+                if (value.error){
+                    hall.MsgBoxManager.showToast({title:value.error.info + ";错误码:" + value.error.code})
+                }
+                else{
+                    this.parseGiveUp(value.result);
+                }
+                break;
+            }
+            case "update" : {
+                this.parseMatchInfo(value.result);
+                break;
+            }
+            case "lottery" : {
+                //解析开奖消息
+                this.parseLottery(value.result);
+                break;
+            }
+            // case "signin" : {
+            //     this.parseSignInInfo(value);
+            //     break;
+            // }
+        }
+    },
+
+    parseLottery:function (result) {
+        // {
+        //     "cmd":"room",
+        //     "result":{
+        //         "lotteryInfo":{
+        //             "winnerCount":661,
+        //             "lotteryTime":"18:00",
+        //             "leftSeconds":86399,
+        //             "desc":"10000\u5143\u5956\u91d1"
+        //         },
+        //         "gameId":6,
+        //         "matchId":6789,
+        //         "userId":10051,
+        //         "date":"2018-04-10",
+        //         "time":"18:00",
+        //         "action":"lottery",
+        //         "roomId":67891000,
+        //         "lotteryReward":[
+        //             {
+        //                 "count":1512,
+        //                 "name":"\u7ea2\u5305\u5238",
+        //                 "iconPath":"http://ddz.dl.tuyoo.com/cdn37/hall/item/imgs/coupon_1.png",
+        //                 "icon":"user:coupon"
+        //             }
+        //         ]
+        //     }
+        // }
+
+        var dateStr = result.date + " " + result.time;
+        var getMoney = result.lotteryReward[0].count;
+        var getWinCount = 1;
+        var getDesc = result.lotteryInfo.desc;
+
+        this._curLotteryInfo = result;
+        ddz.GlobalFuncs.showLotteryWin(1, [dateStr, getMoney, getWinCount, getDesc]);
+        ty.NotificationCenter.trigger(ddz.EventType.CHANE_COUNT_LABEL, false);
+
+        // this.getMatchDes();
+    },
+
+    getCurLotteryInfo:function () {
+        return this._curLotteryInfo;
+    },
+    // parseSignInInfo:function (value) {
+    //     // if(value && value.error && value.error.code && value.error.code != 0){
+    //     //     ddz.matchModel.waitSignin = true;
+    //     //     ddz.matchModel.matchGiveUp();
+    //     // }
+    // },
+
+    parseGame:function (value) {
+        // hall.LOGD(this._TAG, "onGame Ddz_network -------------------------"+ JSON.stringify(value));
+        switch (value.result.action){
+            case "async_upgrade_hero_match" : {
+                this.parseMatchList(value.result);
+                break;
+            }
+            case "query_invite_info" : {
+                ty.NotificationCenter.trigger(ddz.EventType.UPDATE_REWARD_MASSAGE,value);
+                break;
+            }
+        }
+    },
+
+    showBack:function () {
+        if (this._curWaitInfo){
+            // if (this._curWaitInfo.isLevelUp){
+            //     //上次赢了,显示继续
+            //     return true;
+            // }
+            // else{
+            //     //输了,打到第5局了,也显示继续
+            //     if (this._curWaitInfo.stageIndex >= 5){
+            //         return true;
+            //     }
+            // }
+            return true;
+        }
+        //wait被清除,显示开始
+        return false;
+    },
+
+    getDiamondCountNeeded : function () {
+        var guan = ddz.matchModel.getStageIndex()-1;
+        var desInfo = ddz.matchModel.getCurDes();
+        if(desInfo && desInfo.detailStages){
+            var stageInfo = desInfo.detailStages;
+            if(stageInfo && stageInfo.length > guan){
+                var des = stageInfo[guan];
+                var count = des.count;
+                if(count){
+                    return count;
+
+                }
+            }
+        }
+        return "1";
+    },
+
+    // testMatching : function () {
+    //     var preFabPath = "ani/ddz_matching/Matching";
+    //     var  comName = "DdzMatching";
+    //     ddz.AudioHelper.playMusic(ddz.MusicPath_mp3.table_background_music, true, ty.SystemInfo.tableBgMusicVolume);
+    //     this.showPopWinByPreFab(preFabPath, function (preFabNode) {
+    //         var com = preFabNode.getComponent(comName);
+    //         com.playAni(true);
+    //     });
+    // },
+};

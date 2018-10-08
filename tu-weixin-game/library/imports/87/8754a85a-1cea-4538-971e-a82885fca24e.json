@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_reward_money_red",
+    "texture": "ea580997-105f-4bb7-9505-e9359f3d3d36",
+    "atlas": "2ae225a8-6210-4ab3-ae70-a9e90cfeedcd",
+    "rect": [
+      377,
+      274,
+      140,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      37
+    ],
+    "rotated": 1
+  }
+}

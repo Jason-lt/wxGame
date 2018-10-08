@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_lizi_win04",
+    "texture": "4af6c0d1-108b-4fc1-af67-a703b07f01e0",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      28,
+      26
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      29,
+      29
+    ]
+  }
+}

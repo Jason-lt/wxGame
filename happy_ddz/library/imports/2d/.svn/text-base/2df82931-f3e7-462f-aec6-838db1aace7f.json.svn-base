@@ -1,0 +1,476 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "laizi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.6666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "fanpai": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1.2
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.1
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0.1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.6,
+              "value": 0.1
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0.1
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.8,
+              "value": 0.1
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0.1
+            },
+            {
+              "frame": 0.9,
+              "value": 1
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": 0.1
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 0.1
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1.2
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 1
+            }
+          ],
+          "active": [
+            {
+              "frame": 1.0333333333333334,
+              "value": true
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "fanpai/ddz_card_fore_back": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": true
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": false
+            },
+            {
+              "frame": 0.6,
+              "value": true
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.8,
+              "value": true
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": false
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": true
+            }
+          ]
+        }
+      },
+      "fanpai/ddz_tx_laizi01": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "ddz_tx_laizi02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.1333333333333333,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.1333333333333333,
+              "value": 1,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1.5
+            }
+          ]
+        }
+      },
+      "ddz_tx_zuanshi03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ddz_tx_laizi03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "fanpai/ddz_card_fore_back/ddz_b_red_12": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "157f27a1-4cf1-4d9d-b81a-e91a052a3089"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "f2b56287-3570-4f54-a00a-fb59c3bb4eff"
+                }
+              },
+              {
+                "frame": 0.8,
+                "value": {
+                  "__uuid__": "0a98ca8b-481d-42b9-8b40-ec3ab089f7b1"
+                }
+              },
+              {
+                "frame": 0.9333333333333333,
+                "value": {
+                  "__uuid__": "73b96be5-39dc-4d8d-a917-61271f708368"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 1.0333333333333334,
+              "value": true
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "fanpai/ddz_card_fore_back/ddz_big_0": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "e3409462-0661-4e4d-bc21-7007c21d648d"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "b6f762c1-6d63-4a9b-ae55-40db4d0ae12b"
+                }
+              },
+              {
+                "frame": 0.8,
+                "value": {
+                  "__uuid__": "afee134d-ce83-4782-b96b-63303a38e4e9"
+                }
+              },
+              {
+                "frame": 0.9333333333333333,
+                "value": {
+                  "__uuid__": "b6f762c1-6d63-4a9b-ae55-40db4d0ae12b"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 1.0333333333333334,
+              "value": true
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "fanpai/ddz_card_fore_back/ddz_big_xiao": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "e3409462-0661-4e4d-bc21-7007c21d648d"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "b6f762c1-6d63-4a9b-ae55-40db4d0ae12b"
+                }
+              },
+              {
+                "frame": 0.8,
+                "value": {
+                  "__uuid__": "afee134d-ce83-4782-b96b-63303a38e4e9"
+                }
+              },
+              {
+                "frame": 0.9333333333333333,
+                "value": {
+                  "__uuid__": "b6f762c1-6d63-4a9b-ae55-40db4d0ae12b"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 1.0333333333333334,
+              "value": true
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "ddz_card_fore_back_open": {
+        "props": {
+          "active": [
+            {
+              "frame": 1.0333333333333334,
+              "value": false
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "particlesystem": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 1,
+                "value": 0
+              },
+              {
+                "frame": 1.1333333333333333,
+                "value": 150
+              },
+              {
+                "frame": 1.6666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "glow_ringglowwhite3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1.2
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1.2
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.0333333333333334,
+      "func": "showLaiziCard",
+      "params": [
+        0
+      ]
+    }
+  ]
+}

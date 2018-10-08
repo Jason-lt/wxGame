@@ -1,0 +1,19 @@
+info face="fnt-6.fnt" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=58 base=26 scaleW=128 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt-6.png"
+chars count=13
+char id=35266 x=0 y=0 width=51 height=48 xoffset=0 yoffset=16 xadvance=56 page=0 chnl=0 letter="观"
+char id=30475 x=0 y=49 width=50 height=48 xoffset=0 yoffset=15 xadvance=55 page=0 chnl=0 letter="看"
+char id=24191 x=0 y=148 width=49 height=50 xoffset=0 yoffset=14 xadvance=54 page=0 chnl=0 letter="广"
+char id=21578 x=0 y=98 width=49 height=49 xoffset=0 yoffset=14 xadvance=54 page=0 chnl=0 letter="告"
+char id=49 x=51 y=49 width=18 height=40 xoffset=0 yoffset=18 xadvance=23 page=0 chnl=0 letter="1"
+char id=50 x=50 y=139 width=26 height=40 xoffset=0 yoffset=18 xadvance=31 page=0 chnl=0 letter="2"
+char id=51 x=50 y=98 width=26 height=40 xoffset=0 yoffset=18 xadvance=31 page=0 chnl=0 letter="3"
+char id=48 x=0 y=199 width=29 height=40 xoffset=0 yoffset=18 xadvance=34 page=0 chnl=0 letter="0"
+char id=47 x=30 y=199 width=27 height=45 xoffset=0 yoffset=19 xadvance=32 page=0 chnl=0 letter="/"
+char id=40 x=58 y=180 width=16 height=47 xoffset=0 yoffset=19 xadvance=21 page=0 chnl=0 letter="("
+char id=41 x=52 y=0 width=17 height=47 xoffset=0 yoffset=19 xadvance=22 page=0 chnl=0 letter=")"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=506 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=4048 page=0 chnl=0 letter="	"
+
+kernings count=0

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_dizhutag",
+    "texture": "9ce5fdf4-3317-4790-a9d0-8a3e7be64749",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      74
+    ]
+  }
+}

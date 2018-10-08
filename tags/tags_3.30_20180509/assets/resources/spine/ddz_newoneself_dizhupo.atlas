@@ -1,0 +1,153 @@
+
+ddz_newoneself_dizhupo.png
+size: 366,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddz_newoneself_dizhupo_01
+  rotate: false
+  xy: 119, 17
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_02
+  rotate: false
+  xy: 207, 104
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_03
+  rotate: true
+  xy: 304, 174
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_04
+  rotate: true
+  xy: 328, 112
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_05
+  rotate: false
+  xy: 269, 107
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_06
+  rotate: false
+  xy: 207, 45
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_changtai01
+  rotate: true
+  xy: 168, 180
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_meimao01
+  rotate: false
+  xy: 240, 268
+  size: 109, 35
+  orig: 109, 35
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_meimao02
+  rotate: false
+  xy: 230, 236
+  size: 114, 30
+  orig: 114, 30
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_shang
+  rotate: false
+  xy: 230, 174
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_shibai01
+  rotate: false
+  xy: 168, 271
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_shibai02
+  rotate: true
+  xy: 240, 305
+  size: 59, 97
+  orig: 59, 97
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_tou
+  rotate: false
+  xy: 2, 192
+  size: 164, 172
+  orig: 164, 172
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_xia
+  rotate: false
+  xy: 2, 65
+  size: 120, 125
+  orig: 120, 125
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_yanjng01
+  rotate: true
+  xy: 167, 71
+  size: 107, 38
+  orig: 107, 38
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_yanjng02
+  rotate: true
+  xy: 124, 78
+  size: 112, 41
+  orig: 112, 41
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_yanjng03
+  rotate: false
+  xy: 2, 19
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_zui01
+  rotate: true
+  xy: 339, 314
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_zui02
+  rotate: false
+  xy: 269, 71
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_zui03
+  rotate: false
+  xy: 267, 44
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+ddz_newoneself_dizhupo_zui04
+  rotate: false
+  xy: 329, 84
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1

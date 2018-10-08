@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "interactive_emo_brick_icon",
+    "texture": "282a0f85-02a3-4ad5-8966-e49778290fb7",
+    "atlas": "ecda8abb-c2d1-4a2f-b087-c85bba83d0f4",
+    "rect": [
+      188,
+      914,
+      84,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      84
+    ]
+  }
+}

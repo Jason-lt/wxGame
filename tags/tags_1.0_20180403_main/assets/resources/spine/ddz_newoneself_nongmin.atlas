@@ -1,0 +1,174 @@
+
+ddz_newoneself_nongmin.png
+size: 397,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddz_newoneself_nongmin_ct
+  rotate: false
+  xy: 337, 70
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_dt01
+  rotate: false
+  xy: 191, 315
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_dt02
+  rotate: false
+  xy: 197, 190
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_dt03
+  rotate: false
+  xy: 197, 132
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_dt04
+  rotate: false
+  xy: 248, 58
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_meimao
+  rotate: true
+  xy: 78, 23
+  size: 104, 32
+  orig: 104, 32
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shang
+  rotate: false
+  xy: 304, 239
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shengli01
+  rotate: false
+  xy: 112, 3
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shengli02
+  rotate: false
+  xy: 112, 45
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shengli03
+  rotate: true
+  xy: 305, 298
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shibai01
+  rotate: false
+  xy: 197, 93
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shibai02
+  rotate: false
+  xy: 122, 116
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shibai03
+  rotate: true
+  xy: 191, 241
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_shibai04
+  rotate: false
+  xy: 293, 211
+  size: 99, 26
+  orig: 99, 26
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_sikao01
+  rotate: true
+  xy: 189, 46
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_sikao02
+  rotate: false
+  xy: 337, 131
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_sikao03
+  rotate: false
+  xy: 2, 2
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_sikao04
+  rotate: false
+  xy: 267, 134
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_sikao05
+  rotate: true
+  xy: 192, 2
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_ssyear
+  rotate: false
+  xy: 293, 188
+  size: 87, 21
+  orig: 87, 21
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_tou
+  rotate: false
+  xy: 2, 220
+  size: 187, 175
+  orig: 187, 175
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_xia
+  rotate: false
+  xy: 2, 129
+  size: 118, 89
+  orig: 118, 89
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_yanjing
+  rotate: false
+  xy: 189, 68
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nongmin_zui
+  rotate: false
+  xy: 268, 97
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shot_scene_ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "main_toast_bg": {
+      "__uuid__": "a4312146-9647-4ee9-b32c-fb27f3a1d3d3"
+    },
+    "shot_begin_bg": {
+      "__uuid__": "296bf964-0221-48e5-b980-ec5fcd53097a"
+    },
+    "shot_begin_bullet": {
+      "__uuid__": "3c48dd79-6133-4c3b-8e49-406a48b85fea"
+    },
+    "shot_begin_free": {
+      "__uuid__": "edf00793-22fd-455f-ac17-214b375d3cef"
+    },
+    "shot_begin_gameStart": {
+      "__uuid__": "c8ba1e01-a188-42c3-9ea4-0ee1458a74a2"
+    },
+    "shot_begin_gift": {
+      "__uuid__": "b9ea4287-427b-4ebf-9f93-cbaf8284321c"
+    },
+    "shot_begin_guang": {
+      "__uuid__": "8a9209a5-4f09-455f-9594-4f3586542ac9"
+    },
+    "shot_begin_laser": {
+      "__uuid__": "65116b2f-4cce-4708-8032-d40b166aab36"
+    },
+    "shot_begin_rank": {
+      "__uuid__": "b515f179-943a-47e1-a28a-b5c9e4a36529"
+    },
+    "shot_begin_rend": {
+      "__uuid__": "a6886271-f4d0-4e58-823e-fb41dddd497d"
+    },
+    "shot_begin_title": {
+      "__uuid__": "44c67f55-ab3f-4e16-bb20-fdbd42f0ac4d"
+    },
+    "shot_begin_titleBg": {
+      "__uuid__": "07c4d084-4261-4349-9917-5d6e836ea52e"
+    },
+    "shot_big_light": {
+      "__uuid__": "7353aed9-6e77-460b-a100-e1cd47a2c4aa"
+    },
+    "shot_box_checkBox_bg": {
+      "__uuid__": "e6e7d440-854a-490c-bfb5-00f5edf37d01"
+    },
+    "shot_box_checkBox_ok": {
+      "__uuid__": "3b9b26c4-cd95-4e34-924c-a59bce967f3f"
+    },
+    "shot_bullet": {
+      "__uuid__": "b89396e5-f441-4463-9514-a42db013c18e"
+    },
+    "shot_cong_bullet": {
+      "__uuid__": "adaa063d-bae2-4247-8b47-8b7ab633343e"
+    },
+    "shot_cong_guang": {
+      "__uuid__": "af54d048-3d33-4bbc-a0ba-15b42f74297c"
+    },
+    "shot_cong_laser": {
+      "__uuid__": "568ba76f-6c90-40e9-9e0b-b5f7e9d4ac48"
+    },
+    "shot_freeTool_bg": {
+      "__uuid__": "4584a235-f4e1-466d-943c-f59421e14fd3"
+    },
+    "shot_freeTool_title": {
+      "__uuid__": "13cd9f14-a7ea-4fde-a1a3-150ee76a710e"
+    },
+    "shot_gift_close": {
+      "__uuid__": "b752a235-134a-42dc-88f9-396035a2483a"
+    },
+    "shot_gift_diamond": {
+      "__uuid__": "71a85bdf-0bfe-47c4-be40-e1d0580b5eef"
+    },
+    "shot_gift_invite": {
+      "__uuid__": "4e2ada27-7a5b-4c46-a488-291c38b6948f"
+    },
+    "shot_rank_back": {
+      "__uuid__": "b3941059-62fe-4225-be94-ceca93483c5f"
+    },
+    "shot_rank_bg": {
+      "__uuid__": "fc3ede62-9f0c-4063-b9e6-4e39af0400ae"
+    },
+    "shot_rank_button": {
+      "__uuid__": "53b4cb70-7b89-4145-9348-c7e0dc272531"
+    },
+    "shot_share_white": {
+      "__uuid__": "565ad06f-65f4-4beb-bfba-6ef4e257a7c3"
+    }
+  }
+}

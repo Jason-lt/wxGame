@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ddz_congratulation_xunhuan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "glow_gc_01": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 360
+            },
+            {
+              "frame": 4,
+              "value": 720
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

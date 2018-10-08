@@ -1,0 +1,207 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_flower",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        280,
+        28,
+        86,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "parting",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        104,
+        2,
+        436,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        436,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_bg",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        2,
+        2,
+        100,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        14,
+        12,
+        14,
+        14
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_brick",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        104,
+        28,
+        87,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        86
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "emo_shade",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        192,
+        28,
+        86,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_egg",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        368,
+        28,
+        86,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "0black",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        2,
+        104,
+        1,
+        1
+      ],
+      "offset": [
+        -28,
+        28
+      ],
+      "originalSize": [
+        58,
+        58
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "ddz_chat.plist",
+    "_spriteFrames": {
+      "0black": {
+        "__uuid__": "79/PIA8MlAzqDoRXkRjzei"
+      },
+      "chat_bg": {
+        "__uuid__": "27rktgY35F0pFZD4dVYkry"
+      },
+      "chat_brick": {
+        "__uuid__": "4f57e4hHxCzae/sL/194xj"
+      },
+      "chat_diamond": {
+        "__uuid__": "cbYVjO+W9B0bJx/dw7PV4j"
+      },
+      "chat_egg": {
+        "__uuid__": "59yMciLe1OQLAPgw7aa3Q+"
+      },
+      "chat_flower": {
+        "__uuid__": "11lQ5+PqtJH55r2QHwE4AY"
+      },
+      "emo_shade": {
+        "__uuid__": "50bhJI1GNNbIczLfpTUxA3"
+      },
+      "parting": {
+        "__uuid__": "1cAx0DdAtA35dH03WBRGUZ"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_diamond",
+      "texture": "57l9aFPUpN7IYQaNkLcrQG",
+      "rect": [
+        456,
+        28,
+        86,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        86
+      ]
+    }
+  }
+]

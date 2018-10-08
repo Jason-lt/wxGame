@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_main_white_board_circle",
+    "texture": "920a1245-3703-4880-bf4b-9dba98731ae9",
+    "atlas": "7df1726b-c6f3-44c4-99d1-aada664edce5",
+    "rect": [
+      610,
+      494,
+      102,
+      96
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      122,
+      116
+    ],
+    "rotated": 1,
+    "capInsets": [
+      48,
+      0,
+      49,
+      0
+    ]
+  }
+}

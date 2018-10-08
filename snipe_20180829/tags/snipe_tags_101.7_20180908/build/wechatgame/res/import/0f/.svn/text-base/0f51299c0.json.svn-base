@@ -1,0 +1,184 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "shot_crazy_result",
+    "_duration": 1.5,
+    "curveData": {
+      "paths": {
+        "hitNode": {
+          "props": {
+            "x": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 600
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "lastNode": {
+          "props": {
+            "y": [
+              {
+                "frame": 0.016666666666666666,
+                "value": 0
+              },
+              {
+                "frame": 0.6166666666666667,
+                "value": 0
+              }
+            ],
+            "x": [
+              {
+                "frame": 0.016666666666666666,
+                "value": 1000
+              },
+              {
+                "frame": 0.6166666666666667,
+                "value": 600
+              },
+              {
+                "frame": 0.9,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "scoreNode": {
+          "props": {
+            "x": [
+              {
+                "frame": 0,
+                "value": 1000
+              },
+              {
+                "frame": 1.2,
+                "value": 600
+              },
+              {
+                "frame": 1.5,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "Label": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.4,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": 255
+              }
+            ]
+          }
+        },
+        "button": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              },
+              {
+                "frame": 0.48333333333333334,
+                "value": false
+              },
+              {
+                "frame": 0.5,
+                "value": true
+              }
+            ]
+          }
+        },
+        "shot_main_infiniteBullet_bg": {
+          "props": {
+            "y": [
+              {
+                "frame": 0,
+                "value": 1100
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 568
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": 748
+              },
+              {
+                "frame": 0.55,
+                "value": 568
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "shot_crazy_title",
+    "_duration": 2.0833333333333335,
+    "curveData": {
+      "paths": {
+        "shot_main_crazyTime": {
+          "props": {
+            "y": [
+              {
+                "frame": 0,
+                "value": 200
+              },
+              {
+                "frame": 2.0833333333333335,
+                "value": 200
+              }
+            ],
+            "x": [
+              {
+                "frame": 0,
+                "value": 500
+              },
+              {
+                "frame": 0.25,
+                "value": 0
+              },
+              {
+                "frame": 1.8333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 2.0833333333333335,
+                "value": -600
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 100
+              },
+              {
+                "frame": 0.25,
+                "value": 255
+              },
+              {
+                "frame": 1.8333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 2.0833333333333335,
+                "value": 100
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+]

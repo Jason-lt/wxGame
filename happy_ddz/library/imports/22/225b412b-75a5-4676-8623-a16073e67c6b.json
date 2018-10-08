@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_welfare_yilingqu_bg",
+    "texture": "352b94ec-e70d-4f06-967a-2d639fff700a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      9,
+      9,
+      9,
+      9
+    ]
+  }
+}

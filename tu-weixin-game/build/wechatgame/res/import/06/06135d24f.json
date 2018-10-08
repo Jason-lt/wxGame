@@ -1,0 +1,410 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_welfare_box_x01",
+      "texture": "17npx4JINEg4YYnSfpWmIt",
+      "rect": [
+        370,
+        1839,
+        93,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        93,
+        112
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_welfare_youjiang",
+      "texture": "17npx4JINEg4YYnSfpWmIt",
+      "rect": [
+        495,
+        885,
+        76,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        76,
+        36
+      ],
+      "rotated": 1
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "huzhubaoxiang",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "huzhubaoxiang",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "f5yxdfWw9Pqop+JdWQMn8X"
+            }
+          ]
+        },
+        {
+          "__type__": "84488kr6xFAJJti29vG9Xap",
+          "node": {
+            "__id__": 1
+          },
+          "haveReward": {
+            "__id__": 4
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "98s0Wf1Z1FSqmMSXNjnMzw"
+        },
+        "fileId": "3abdcXWDZC1oc12cjCGESV"
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 255,
+        "y": -300
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz_welfare_diban",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "c21jxw9t1HJoiG/dhxFAY7"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "98s0Wf1Z1FSqmMSXNjnMzw"
+        },
+        "fileId": "c60VkE0/9HHISW1woRPVNe"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 94,
+        "height": 95
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": -10
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz_welfare_box_x01",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "096tjZ7/dNILClmj2Xdeey"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "98s0Wf1Z1FSqmMSXNjnMzw"
+        },
+        "fileId": "22A6+taARCN7dtv/QvkUz9"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "x": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 82,
+        "height": 72
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": -33.6
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ddz_welfare_youjiang",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "82m48c+KpP5b1JZzVNzt4R"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "98s0Wf1Z1FSqmMSXNjnMzw"
+        },
+        "fileId": "3eO/rF5r5DMLxB6lZ1zDPO"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 76,
+        "height": 36
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 23.4,
+        "y": 33.6
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "button",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_type": 1,
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 5
+          },
+          "pressedColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 1
+              },
+              "component": "huzhubaoxiang",
+              "handler": "openBox"
+            }
+          ],
+          "_N$normalColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$disabledColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$target": {
+            "__id__": 5
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "98s0Wf1Z1FSqmMSXNjnMzw"
+        },
+        "fileId": "59d3ePxgxhP17q/bKZe2Mkj"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 91,
+        "height": 112
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_welfare_diban",
+      "texture": "17npx4JINEg4YYnSfpWmIt",
+      "rect": [
+        575,
+        1851,
+        94,
+        95
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        94,
+        95
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "baoxiang",
+    "_duration": 1.67,
+    "sample": 30,
+    "wrapMode": 2,
+    "curveData": {
+      "paths": {
+        "ddz_welfare_youjiang": {
+          "props": {
+            "scaleX": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 1.1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 1
+              },
+              {
+                "frame": 0.5,
+                "value": 1.1
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 1.6666666666666667,
+                "value": 1
+              }
+            ],
+            "scaleY": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 1.1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 1
+              },
+              {
+                "frame": 0.5,
+                "value": 1.1
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 1
+              }
+            ]
+          }
+        },
+        "ddz_welfare_box_x01": {
+          "props": {
+            "scaleY": [
+              {
+                "frame": 0,
+                "value": 1,
+                "curve": [
+                  0.4,
+                  0.4,
+                  0.6,
+                  0.6
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": 1.08,
+                "curve": [
+                  0.4,
+                  0.4,
+                  0.6,
+                  0.6
+                ]
+              },
+              {
+                "frame": 1.6666666666666667,
+                "value": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+]

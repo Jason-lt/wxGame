@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddz_newRoomList.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "new_roomList_back": {
+      "__uuid__": "b47825b9-2257-4dd9-92e8-1020762563c6"
+    },
+    "new_roomList_bg_1": {
+      "__uuid__": "ed20af41-b6a9-4e13-8820-cdca6b412710"
+    },
+    "new_roomList_bg_2": {
+      "__uuid__": "bdb85c15-f592-4725-a1d4-d59e88fabbdb"
+    },
+    "new_roomList_blueBg": {
+      "__uuid__": "e91432bf-61af-4ae0-83ba-492cd3321c99"
+    },
+    "new_roomList_coin_b": {
+      "__uuid__": "92bd6d16-9822-4f7a-a2ad-8cb06e32876d"
+    },
+    "new_roomList_coin_y": {
+      "__uuid__": "7b85f452-be4e-4f0c-ac49-86241484738c"
+    },
+    "new_roomList_icon_1": {
+      "__uuid__": "b8779bec-4403-4a91-846b-e0a321032fda"
+    },
+    "new_roomList_icon_2": {
+      "__uuid__": "c63c93cc-5051-4bdb-8d84-fde3798496f9"
+    },
+    "new_roomList_kuang": {
+      "__uuid__": "b192bc7c-9b6c-403b-be56-267baac09d64"
+    },
+    "new_roomList_yellowBg": {
+      "__uuid__": "e162cb89-fe50-4b14-9a6e-3d46590a7cd2"
+    }
+  }
+}

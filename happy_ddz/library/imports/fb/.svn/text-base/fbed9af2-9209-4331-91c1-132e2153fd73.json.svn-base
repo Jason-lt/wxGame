@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddz_tx_map.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ddz_jjs_jindu01": {
+      "__uuid__": "baa01bcc-f735-42bb-a917-067d75473d5f"
+    },
+    "ddz_jjs_jindu02": {
+      "__uuid__": "81ed43ea-c6f8-4ed5-8f0b-ce426f5eac7f"
+    },
+    "ddz_jjs_jindu03": {
+      "__uuid__": "7da76f9c-40e4-4833-b505-63c3b3d34cea"
+    },
+    "ddz_jjs_jindu04": {
+      "__uuid__": "63a98b2d-f524-4343-904c-30a00835ce6f"
+    },
+    "ddz_jjs_jindutx01": {
+      "__uuid__": "89d7c04c-1fad-4bb4-a621-dd51be09b097"
+    },
+    "ddz_jjs_jindutx02": {
+      "__uuid__": "85683928-a1b6-4010-bec9-715b07595e57"
+    },
+    "ddz_jjs_jindutx03": {
+      "__uuid__": "273879be-26ba-4405-8410-eb1a8f7af0b0"
+    },
+    "ddz_jjs_jindutx04": {
+      "__uuid__": "b39075e5-4e96-471c-8de4-2a51a5977175"
+    },
+    "ddz_jjs_jindutx05": {
+      "__uuid__": "8a0e3599-935d-4a8f-b6a1-02512c40343a"
+    },
+    "ddz_jjs_jindutx06": {
+      "__uuid__": "ee7ac709-53ee-47b4-b37c-6b346c07ce06"
+    },
+    "ddz_jjs_jindutx07": {
+      "__uuid__": "4070e542-6cae-471e-bdb9-3a6d9ed4d131"
+    },
+    "ddz_jjs_jindutx08": {
+      "__uuid__": "30c45484-7491-4924-97d0-470ff98175d7"
+    },
+    "ddz_jjs_jindutx09": {
+      "__uuid__": "e99df805-76b5-4b3b-8962-310311ebef04"
+    },
+    "ddz_jjs_jindutx10": {
+      "__uuid__": "139cbaa4-2ee1-4f35-8851-5160302e923f"
+    },
+    "ddz_jjs_jindutx11": {
+      "__uuid__": "157b163e-bfc3-4249-beaf-3f81ef6ec386"
+    },
+    "ddz_jjs_jindutx12": {
+      "__uuid__": "4f3ffe92-efb9-4723-b240-938e13156097"
+    },
+    "ddz_jjs_jindutx13": {
+      "__uuid__": "c2130fca-95f2-4f04-8eff-b6cd0ab6a601"
+    },
+    "ddz_jjs_jindutx14": {
+      "__uuid__": "73b3fc61-76e0-45d7-96fb-70453c56273b"
+    },
+    "ddz_jjs_jindutx16": {
+      "__uuid__": "307e0564-25ff-4e27-ae38-a0489f6b0c2f"
+    },
+    "ddz_jjs_lineLight": {
+      "__uuid__": "decf8ab8-657d-4824-a360-9e8ff8de14dc"
+    },
+    "ddz_jjs_linedark": {
+      "__uuid__": "99403ece-4926-48bd-bc6b-da0b3a3541d5"
+    },
+    "ddz_tx_bxliang": {
+      "__uuid__": "ca9af819-7e84-4774-a07e-2106a7c7efe5"
+    },
+    "ddz_tx_dian01": {
+      "__uuid__": "c7152d68-c29c-4a0d-a397-4cf5277cfdf6"
+    },
+    "ddz_tx_dian03": {
+      "__uuid__": "bbad25c9-1600-4672-a6c6-b4db24a0072d"
+    },
+    "ddz_tx_guangshu01": {
+      "__uuid__": "cd904c72-142d-4e5f-8503-098bc16a9d38"
+    },
+    "ddz_tx_icon": {
+      "__uuid__": "c5dea4d1-ba69-4531-99fb-5bb2d0048d0c"
+    }
+  }
+}

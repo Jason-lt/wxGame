@@ -1,0 +1,137 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "interactive_emo.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "interactive_emo_bomb_1": {
+      "__uuid__": "c10e0d35-8c2d-485a-b95d-4d17eb77f6ce"
+    },
+    "interactive_emo_bomb_10": {
+      "__uuid__": "ba37e392-cdc4-42c1-afcd-e27d96781c4d"
+    },
+    "interactive_emo_bomb_2": {
+      "__uuid__": "8fb50e71-1599-4adb-8df4-9f07583f0d88"
+    },
+    "interactive_emo_bomb_3": {
+      "__uuid__": "f0743d2d-059f-4358-b12a-2d63fd0a0c75"
+    },
+    "interactive_emo_bomb_4": {
+      "__uuid__": "45fe2327-0b95-4f08-9d82-4702e15fe20c"
+    },
+    "interactive_emo_bomb_5": {
+      "__uuid__": "2c72675c-dee1-47f9-b450-d1d33df1bc03"
+    },
+    "interactive_emo_bomb_6": {
+      "__uuid__": "3ae3fe5f-8a10-4021-b687-76bb202470a4"
+    },
+    "interactive_emo_bomb_7": {
+      "__uuid__": "3e137956-acc3-46c8-89b3-d45e172854f1"
+    },
+    "interactive_emo_bomb_8": {
+      "__uuid__": "dc007b18-1372-4b8e-a3dd-e3e517382413"
+    },
+    "interactive_emo_bomb_9": {
+      "__uuid__": "230da440-5a18-46fb-88ec-6c8ca99a3dfd"
+    },
+    "interactive_emo_bomb_fly": {
+      "__uuid__": "7869f0c7-721a-4609-9ec3-6010d9529431"
+    },
+    "interactive_emo_bomb_icon": {
+      "__uuid__": "faf7e358-bac1-4ae9-b922-b3cf2df4b53d"
+    },
+    "interactive_emo_bomb_light": {
+      "__uuid__": "4850ac23-5178-4893-be7b-a172badd1b31"
+    },
+    "interactive_emo_bomb_smoke": {
+      "__uuid__": "4a52ad75-62d2-41b6-8ea4-7658c99a85a0"
+    },
+    "interactive_emo_box_1": {
+      "__uuid__": "29d893c9-cf08-4e3e-8943-a7a67ead1d71"
+    },
+    "interactive_emo_box_2": {
+      "__uuid__": "b16acc3c-6957-4e50-af82-7814e6fc633c"
+    },
+    "interactive_emo_box_3": {
+      "__uuid__": "e3b90676-96e2-4e73-945b-4d80beb94185"
+    },
+    "interactive_emo_brick_0": {
+      "__uuid__": "06aaa993-6cda-40f5-8bc4-6471cdc88be2"
+    },
+    "interactive_emo_brick_icon": {
+      "__uuid__": "f824aa85-523a-43f5-86f1-6f75bdd50575"
+    },
+    "interactive_emo_diamond": {
+      "__uuid__": "1b4a9731-87aa-4d3c-9a8d-3d885ff6e5a7"
+    },
+    "interactive_emo_diamond_halo_1": {
+      "__uuid__": "a38501fd-4cc6-46e8-b207-a0269ea4237a"
+    },
+    "interactive_emo_diamond_halo_2": {
+      "__uuid__": "9c80eed2-3796-4126-870e-82b53d69ff54"
+    },
+    "interactive_emo_diamond_halo_3": {
+      "__uuid__": "24a36b4f-9e87-424a-9af5-7320e533ce57"
+    },
+    "interactive_emo_diamond_icon": {
+      "__uuid__": "0e8357be-0139-4033-b65e-695e91fe02df"
+    },
+    "interactive_emo_egg_1": {
+      "__uuid__": "c9716d09-3690-4a79-89dd-0e288c41c12f"
+    },
+    "interactive_emo_egg_10": {
+      "__uuid__": "821511e5-5c3e-41c8-82f2-a18a330421d9"
+    },
+    "interactive_emo_egg_2": {
+      "__uuid__": "c82ccef4-9269-4c51-9b07-6ae17cb061b8"
+    },
+    "interactive_emo_egg_3": {
+      "__uuid__": "1ef95c41-f738-4795-b300-7d254b192702"
+    },
+    "interactive_emo_egg_4": {
+      "__uuid__": "eb04891e-6dca-4b33-a1c3-940a2a96c421"
+    },
+    "interactive_emo_egg_5": {
+      "__uuid__": "e4baa372-41bb-404e-8b61-4f5e0ea6047e"
+    },
+    "interactive_emo_egg_6": {
+      "__uuid__": "a2d4e976-73dd-4713-9bb7-5066f4df4866"
+    },
+    "interactive_emo_egg_7": {
+      "__uuid__": "97af4fc1-9171-4e8e-acea-9bd22dfed671"
+    },
+    "interactive_emo_egg_8": {
+      "__uuid__": "96aea003-41ef-443a-a0c1-d132bcdae25c"
+    },
+    "interactive_emo_egg_9": {
+      "__uuid__": "77ff167c-ea16-4788-bcba-8c79e0d19ecb"
+    },
+    "interactive_emo_egg_fly": {
+      "__uuid__": "4080df52-2ded-435b-b39a-8a3a72575b0a"
+    },
+    "interactive_emo_egg_icon": {
+      "__uuid__": "e004a1ba-2008-4207-949c-ac05e8b29386"
+    },
+    "interactive_emo_egg_smoke": {
+      "__uuid__": "733e4101-933c-4785-833b-135275c9dde5"
+    },
+    "interactive_emo_flower_1": {
+      "__uuid__": "ca4e8478-d9e2-482c-afcc-191c7f204d7b"
+    },
+    "interactive_emo_flower_2": {
+      "__uuid__": "1e8120c4-ab4a-45fa-8254-027ab74eee27"
+    },
+    "interactive_emo_flower_heart": {
+      "__uuid__": "64f17c3c-1db5-4b8f-b42f-74384c7c05ba"
+    },
+    "interactive_emo_flower_icon": {
+      "__uuid__": "83820e27-b966-4988-afde-a511d92c575a"
+    },
+    "interactive_emo_star_lignt": {
+      "__uuid__": "0e41f854-5ef4-48d8-95ef-70b9a0376fe9"
+    },
+    "interactive_emo_wing": {
+      "__uuid__": "8a980f73-53d0-4394-bacd-163963aec62c"
+    }
+  }
+}

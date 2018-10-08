@@ -1,0 +1,1 @@
+{"version":3,"sources":["RoomListModel.js"],"names":["ddz","roomListModel"],"mappings":";;;;;;AAAA;;;;AAIAA,IAAIC,aAAJ,GAAoB,EAApB","file":"RoomListModel.js","sourceRoot":"../../../../../../assets/Script/ddz/models","sourcesContent":["/**\n * Created by tuyoo on 2018/5/2.\n */\n\nddz.roomListModel = {\n    \n};"]}

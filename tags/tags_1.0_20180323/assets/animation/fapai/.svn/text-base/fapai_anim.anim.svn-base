@@ -1,0 +1,839 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fapai_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.57,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "ziji/ddz_card_back_bg1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -430
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.9333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.5666666666666667,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -219
+            },
+            {
+              "frame": 0.7,
+              "value": -219
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.9666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.5333333333333333,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -192.1
+            },
+            {
+              "frame": 0.7,
+              "value": -192.1
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.9,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 314
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.5,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -164.2
+            },
+            {
+              "frame": 0.7,
+              "value": -164.2
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": -314
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg4": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.1,
+              "value": -440
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.0333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.4666666666666667,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -137.4
+            },
+            {
+              "frame": 0.7,
+              "value": -137.4
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg5": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.43333333333333335,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -110.5
+            },
+            {
+              "frame": 0.7,
+              "value": -110.5
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 313
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.0666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg6": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.4,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -82.8
+            },
+            {
+              "frame": 0.7,
+              "value": -82.8
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": -311
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg7": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.2,
+              "value": -441
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.1333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.2,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.36666666666666664,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -57.7
+            },
+            {
+              "frame": 0.7,
+              "value": -57.7
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg8": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": -30.6
+            },
+            {
+              "frame": 0.7,
+              "value": -30.6
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.1,
+              "value": 0
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": 312
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg9": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": -312
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2,
+              "value": 255
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg10": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": -441
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.3,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.26666666666666666,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 27.9
+            },
+            {
+              "frame": 0.7,
+              "value": 27.9
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg11": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.23333333333333334,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 55.5
+            },
+            {
+              "frame": 0.7,
+              "value": 55.5
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.2,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 314
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg12": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.2,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 85.8
+            },
+            {
+              "frame": 0.7,
+              "value": 85.8
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": -310
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.3,
+              "value": 255
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg13": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.4,
+              "value": -438
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.4,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.16666666666666666,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 114.6
+            },
+            {
+              "frame": 0.7,
+              "value": 114.6
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg14": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.13333333333333333,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 143.7
+            },
+            {
+              "frame": 0.7,
+              "value": 143.7
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": 0
+            },
+            {
+              "frame": 1.4333333333333333,
+              "value": 312
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.3666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.4333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg15": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.1,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 173.4
+            },
+            {
+              "frame": 0.7,
+              "value": 173.4
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.4666666666666666,
+              "value": -314
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.4,
+              "value": 255
+            },
+            {
+              "frame": 1.4666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg16": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": -445
+            },
+            {
+              "frame": 1.4333333333333333,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.3666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.06666666666666667,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 200.8
+            },
+            {
+              "frame": 0.7,
+              "value": 200.8
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg17": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.03333333333333333,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 227.5
+            },
+            {
+              "frame": 0.7,
+              "value": 227.5
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.4,
+              "value": 0
+            },
+            {
+              "frame": 1.5333333333333334,
+              "value": 313
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.4666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.5333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji/ddz_card_back_bg18": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -208
+            },
+            {
+              "frame": 0.6,
+              "value": 254.1
+            },
+            {
+              "frame": 0.7,
+              "value": 254.1
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.4333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": -316
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ziji": {
+        "props": {}
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

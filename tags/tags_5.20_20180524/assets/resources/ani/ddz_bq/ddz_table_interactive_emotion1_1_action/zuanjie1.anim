@@ -1,0 +1,351 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zuanjie1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.07,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "wing1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.2
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.9
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -0.2
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -1
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": -0.9
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -45
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 5
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": -5
+            }
+          ]
+        }
+      },
+      "wing2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.9
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0.9
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 45
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -6
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 5
+            }
+          ]
+        }
+      },
+      "interactive_emo_box": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "29d893c9-cf08-4e3e-8943-a7a67ead1d71"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "b16acc3c-6957-4e50-af82-7814e6fc633c"
+                }
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "e3b90676-96e2-4e73-945b-4d80beb94185"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0.9
+            },
+            {
+              "frame": 0.1,
+              "value": 1
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 1.1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0.9
+            },
+            {
+              "frame": 0.1,
+              "value": 1
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 1.1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "interactive_emo_diamond_halo_3": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0.45
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0.45
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 1
+            }
+          ],
+          "active": [
+            {
+              "frame": 0.2,
+              "value": false
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": true
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.36666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "interactive_emo_diamond_halo_1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.2,
+              "value": false
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": true
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0.7
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.1
+            },
+            {
+              "frame": 1,
+              "value": 0.9
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0.7
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.1
+            },
+            {
+              "frame": 1,
+              "value": 0.9
+            }
+          ]
+        }
+      },
+      "interactive_emo_diamond": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.2,
+              "value": false
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": true
+            }
+          ]
+        }
+      },
+      "interactive_emo_diamond_halo_2": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 1.2000000476837158
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 1.2000000476837158
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "particlesystem": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.3,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

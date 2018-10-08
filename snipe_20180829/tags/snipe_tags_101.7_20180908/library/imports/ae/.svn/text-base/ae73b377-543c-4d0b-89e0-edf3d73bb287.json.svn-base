@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_box_bulletType_win94_sideView",
+    "texture": "ebb51215-f8e6-4f85-8174-4e7b9bb838ed",
+    "atlas": "86c7f060-2dcc-44e9-a31a-2302bf178dfa",
+    "rect": [
+      1018,
+      2,
+      483,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      483,
+      123
+    ],
+    "rotated": 1
+  }
+}

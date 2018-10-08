@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "feiji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "CCNode/plane_1/CCNode/ddz_table_plane3": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 2000
+            }
+          ]
+        }
+      },
+      "CCNode": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -737
+            },
+            {
+              "frame": 1,
+              "value": 575
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 411
+            },
+            {
+              "frame": 1,
+              "value": -276
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_welfare_weilingqu_bg",
+    "texture": "8d05c57b-068a-4d2e-815d-c0b982ce7f3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      9,
+      9,
+      9,
+      9
+    ]
+  }
+}

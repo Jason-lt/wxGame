@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_personInfo",
+    "texture": "fdm4rsNaFJL6ZOjdldke9g",
+    "rect": [
+      3,
+      2,
+      932,
+      528
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      937,
+      532
+    ]
+  }
+}

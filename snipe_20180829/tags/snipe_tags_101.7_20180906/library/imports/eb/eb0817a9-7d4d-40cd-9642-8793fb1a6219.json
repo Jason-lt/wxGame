@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_main_flying_red",
+    "texture": "e53cf156-52f7-445e-9c76-1cd25b1c11d0",
+    "atlas": "41b5f05b-b40b-4a37-ab8a-3dec88069856",
+    "rect": [
+      533,
+      1865,
+      85,
+      84
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      89,
+      88
+    ]
+  }
+}

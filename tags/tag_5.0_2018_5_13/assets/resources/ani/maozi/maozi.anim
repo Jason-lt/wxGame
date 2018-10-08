@@ -1,0 +1,120 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "maozi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.3333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "linear"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1.6
+        },
+        {
+          "frame": 0.5,
+          "value": 1.5
+        },
+        {
+          "frame": 1,
+          "value": 1.5,
+          "curve": [
+            0.6,
+            0.11,
+            0.81,
+            0.47
+          ]
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1.6
+        },
+        {
+          "frame": 0.5,
+          "value": 1.5
+        },
+        {
+          "frame": 1,
+          "value": 1.5,
+          "curve": [
+            0.63,
+            0.16,
+            0.83,
+            0.38
+          ]
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 1
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0.5,
+          "value": 0
+        },
+        {
+          "frame": 0.5666666666666667,
+          "value": 15
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": -15
+        },
+        {
+          "frame": 0.7666666666666667,
+          "value": 15
+        },
+        {
+          "frame": 0.9,
+          "value": -15
+        },
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ]
+    },
+    "paths": {
+      "ddz_dizhu_hot_2": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 1.2666666666666666,
+                "value": {
+                  "__uuid__": "54e0a472-7271-42ee-90d8-2052d6165d93"
+                }
+              },
+              {
+                "frame": 1.3,
+                "value": {
+                  "__uuid__": "3b494301-3300-4f49-83b0-f9887a14ab84"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

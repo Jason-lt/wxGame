@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_b_black_2",
+    "texture": "e48sdAmSFL+6VuY0wTevcH",
+    "rect": [
+      8,
+      3,
+      28,
+      42
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      46,
+      48
+    ]
+  }
+}

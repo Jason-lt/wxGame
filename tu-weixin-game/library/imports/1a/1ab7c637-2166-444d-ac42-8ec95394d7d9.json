@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_yy_icon_07",
+    "texture": "017e464f-b421-4854-aadf-7428da72d89b",
+    "atlas": "2be761ca-4603-4e75-931a-94f775e86097",
+    "rect": [
+      883,
+      790,
+      22,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      61
+    ],
+    "rotated": 1
+  }
+}

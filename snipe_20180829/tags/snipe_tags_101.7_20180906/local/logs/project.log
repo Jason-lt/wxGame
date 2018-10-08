@@ -1,0 +1,999 @@
+2018-08-30T07:24:15.278Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-30T07:24:15.283Z - normal: checking language setting...
+2018-08-30T07:24:15.283Z - normal: Language: zh
+2018-08-30T07:24:15.965Z - success: protocol editor-framework registered
+2018-08-30T07:24:15.965Z - success: protocol app registered
+2018-08-30T07:24:15.965Z - success: protocol theme registered
+2018-08-30T07:24:15.965Z - success: protocol packages registered
+2018-08-30T07:24:15.966Z - success: protocol unpack registerred
+2018-08-30T07:24:15.966Z - success: protocol disable-commonjs registerred
+2018-08-30T07:24:16.063Z - normal: connected!
+2018-08-30T07:24:16.064Z - normal: Check project /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe
+2018-08-30T07:24:16.066Z - normal: Initializing Cocos2d
+2018-08-30T07:24:16.220Z - normal: Initializing Asset Database
+2018-08-30T07:24:16.246Z - success: protocol uuid registerred
+2018-08-30T07:24:16.246Z - success: protocol db registerred
+2018-08-30T07:24:16.246Z - success: protocol thumbnail registerred
+2018-08-30T07:24:16.246Z - normal: Loading editor/builtin packages
+2018-08-30T07:24:16.268Z - success: anysdk loaded
+2018-08-30T07:24:16.402Z - success: assets loaded
+2018-08-30T07:24:16.405Z - success: builder loaded
+2018-08-30T07:24:16.407Z - success: cocos-analytics loaded
+2018-08-30T07:24:16.411Z - success: console loaded
+2018-08-30T07:24:16.445Z - success: fb-instant-games loaded
+2018-08-30T07:24:16.449Z - success: hierarchy loaded
+2018-08-30T07:24:16.453Z - success: inspector loaded
+2018-08-30T07:24:16.454Z - success: keystore loaded
+2018-08-30T07:24:16.458Z - success: node-library loaded
+2018-08-30T07:24:16.460Z - success: package-asset loaded
+2018-08-30T07:24:16.461Z - success: preferences loaded
+2018-08-30T07:24:16.465Z - success: project-exporter loaded
+2018-08-30T07:24:16.479Z - success: project-importer loaded
+2018-08-30T07:24:16.483Z - success: project-settings loaded
+2018-08-30T07:24:16.489Z - success: ui-kit loaded
+2018-08-30T07:24:16.493Z - success: ui-grid loaded
+2018-08-30T07:24:16.497Z - success: scene loaded
+2018-08-30T07:24:16.499Z - success: sprite-editor loaded
+2018-08-30T07:24:16.502Z - success: store loaded
+2018-08-30T07:24:16.508Z - success: timeline loaded
+2018-08-30T07:24:16.508Z - normal: Loading builtin packages
+2018-08-30T07:24:16.513Z - success: asset-db-debugger loaded
+2018-08-30T07:24:16.514Z - success: color-picker loaded
+2018-08-30T07:24:16.517Z - success: package-manager loaded
+2018-08-30T07:24:16.518Z - success: qqplay-adapter loaded
+2018-08-30T07:24:16.524Z - success: sdkbox loaded
+2018-08-30T07:24:16.528Z - success: tester loaded
+2018-08-30T07:24:16.531Z - success: ui-kit-preview-extra loaded
+2018-08-30T07:24:16.534Z - success: ui-kit-preview loaded
+2018-08-30T07:24:16.537Z - success: ui-tree loaded
+2018-08-30T07:24:16.539Z - success: weapp-adapter loaded
+2018-08-30T07:24:17.399Z - normal: Initializing project /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe
+2018-08-30T07:24:17.400Z - normal: Loading packages
+2018-08-30T07:24:17.406Z - normal: Watching packages
+2018-08-30T07:24:17.514Z - normal: Run Application
+2018-08-30T07:24:18.202Z - success: preview server running at http://localhost:7456
+2018-08-30T07:24:26.137Z - normal: 1.9.3
+2018-08-30T07:24:27.382Z - error: Unknown 'type' parameter of shot_bucket.bottleList：none
+    at Object.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/CCDebugger.js:343:18)
+    at parseAttributes (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:1157:24)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:147:17)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:812:17)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:947:9)
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:17:4)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:554:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:561:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:564:3)
+2018-08-30T07:24:27.462Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:7:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:135:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:142:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:145:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.465Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:8:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:35:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:42:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:45:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.472Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:86:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:93:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:96:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.479Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:58:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:65:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:68:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.483Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:67:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:74:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:77:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.488Z - failed: load script [HttpUtil] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:86:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:93:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:96:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.488Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:14:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:44:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:51:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:54:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.493Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:530:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:537:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:540:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.496Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:16:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:123:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:130:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:133:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.500Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:21:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:206:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:213:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:216:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.506Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:65:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:72:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:75:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.513Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:16:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:606:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:613:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:616:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.515Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:15:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.523Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:7:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:572:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:579:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:582:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.536Z - failed: load script [JumpEventType] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.538Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:230:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:237:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:240:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.542Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:112:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:119:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:122:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.543Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:14:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:140:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:147:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:150:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.548Z - failed: load script [UserInfoUData] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.549Z - failed: load script [HallUserInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:83:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:90:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:93:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.551Z - failed: load script [shotAudioHelper] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:175:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:182:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:185:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.553Z - failed: load script [GlobalTimer] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.554Z - failed: load script [JumpEventType] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.554Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:13:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:123:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:130:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:133:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.555Z - failed: load script [UserInfoUData] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.556Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:83:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:90:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:93:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.557Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:32:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:39:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:42:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.558Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.564Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:1047:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:1054:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:1057:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.565Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.567Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:46:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:53:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:56:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.569Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.572Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:76:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:83:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:86:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.579Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:8:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:1198:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:1205:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:1208:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.581Z - failed: load script [QrOption] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:76:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:83:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:86:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.581Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.585Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:7:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:409:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:416:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:419:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.589Z - failed: load script [JumpEventType] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.590Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:140:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:147:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:150:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.591Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:175:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:182:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:185:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.594Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:13:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:465:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:472:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:475:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:24:27.595Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:43:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:50:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:53:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.819Z - error: Unknown 'type' parameter of shot_bucket.bottleList：none
+    at Object.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/CCDebugger.js:343:18)
+    at parseAttributes (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:1157:24)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:147:17)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:812:17)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCClass.js:947:9)
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:17:4)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:554:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:561:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component/shot_bucket.js:564:3)
+2018-08-30T07:50:52.855Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:7:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:135:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:142:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/BiLog.js:145:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.856Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:8:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:35:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:42:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/EventType.js:45:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.858Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:86:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:93:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:96:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.858Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:58:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:65:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/MsgCache.js:68:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.860Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:67:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:74:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/NotificationCenter.js:77:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.861Z - failed: load script [HttpUtil] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:86:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:93:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/HttpUtil.js:96:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.862Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:14:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:44:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:51:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/ServerStateManager.js:54:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.871Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:530:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:537:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Share.js:540:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.872Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:16:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:123:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:130:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/SystemInfo.js:133:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.874Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:21:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:206:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:213:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TCP.js:216:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.875Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:65:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:72:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/Timer.js:75:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.878Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:16:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:606:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:613:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/TuyooSDK.js:616:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.880Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:15:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/Framework/UserInfo.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.883Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:7:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:572:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:579:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/GlobalFuncs.js:582:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.889Z - failed: load script [JumpEventType] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.889Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:230:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:237:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/HallNetWorkCenter.js:240:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.891Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:112:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:119:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/MsgFactory.js:122:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.893Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js] failed : ReferenceError: ty is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:14:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:140:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:147:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/PropagateInterface.js:150:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.898Z - failed: load script [UserInfoUData] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.898Z - failed: load script [HallUserInfo] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:83:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:90:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:93:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.899Z - failed: load script [shotAudioHelper] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:175:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:182:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:185:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.901Z - failed: load script [GlobalTimer] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.902Z - failed: load script [JumpEventType] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.902Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:13:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:123:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:130:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/boot.js:133:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.904Z - failed: load script [UserInfoUData] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.904Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:83:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:90:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/HallUserInfo.js:93:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.905Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:32:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:39:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/TodoTask.js:42:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.905Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/models/UserInfoUData.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.910Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:1047:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:1054:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/AdManager.js:1057:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.910Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/GlobalTimer.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.911Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js] failed : ReferenceError: hall is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:46:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:53:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/hall/utils/MsgBoxManager.js:56:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.913Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.915Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:76:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:83:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:86:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.921Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:8:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:1198:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:1205:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/game_world.js:1208:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.922Z - failed: load script [QrOption] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:11:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:76:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:83:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/QrOption.js:86:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.922Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:49:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:56:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/jump_boot.js:59:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.924Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:7:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:409:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:416:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/models/GameModel.js:419:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.926Z - failed: load script [JumpEventType] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:80:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:87:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/JumpEventType.js:90:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.927Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:12:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:140:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:147:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/msg_handler/ShotNetWorkCenter.js:150:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.927Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:10:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:175:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:182:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotAudioHelper.js:185:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.932Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:13:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:465:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:472:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shotGlobalFuncs.js:475:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-08-30T07:50:52.933Z - failed: load script [/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js] failed : ReferenceError: shot is not defined
+    at __define (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:9:1)
+    at /Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:43:13
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:50:11)
+    at Object.<anonymous> (/Users/tuyoo/Documents/zhangmanWork/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/shot/shot_res.js:53:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)

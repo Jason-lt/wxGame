@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_hongbao_bj3",
+    "texture": "b00c2e3d-ca40-4d47-8ba7-524e45b4a216",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      140
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      116,
+      144
+    ]
+  }
+}

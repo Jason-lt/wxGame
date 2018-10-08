@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shot_main_ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "shot_main_addBullet_ad": {
+      "__uuid__": "326dc511-0c0f-4b5c-bb83-041ad96b5579"
+    },
+    "shot_main_addBullet_bg": {
+      "__uuid__": "af59521a-54d4-4015-a584-3244da9720a9"
+    },
+    "shot_main_addBullet_share": {
+      "__uuid__": "b1f47101-d430-472a-94a8-98c57486cbc5"
+    },
+    "shot_main_addBullet_text_bg": {
+      "__uuid__": "83144331-7f98-4015-90d0-08735cea4642"
+    },
+    "shot_main_bg": {
+      "__uuid__": "f56dff50-1456-4cfb-b251-081894bfeb40"
+    },
+    "shot_main_bucket": {
+      "__uuid__": "c2cc70c5-deee-440b-b8d7-b0c319f56c5d"
+    },
+    "shot_main_bucket_2": {
+      "__uuid__": "94893159-d242-47d6-8c81-9d421eec1ef2"
+    },
+    "shot_main_bullet": {
+      "__uuid__": "e17bdb4f-97ab-465a-b3d4-b74b5de4cc2c"
+    },
+    "shot_main_bullet2": {
+      "__uuid__": "7e6ff0e6-2c0c-4a23-ac51-088b468c6b7d"
+    },
+    "shot_main_bulletType_ Barrett ": {
+      "__uuid__": "c50f76b7-d93f-4466-a957-1bdf5e090ea3"
+    },
+    "shot_main_bulletType_Kar98k_overlookView": {
+      "__uuid__": "d48f6306-3b07-49c6-9b0a-ff52fbca7b65"
+    },
+    "shot_main_bulletType_M16": {
+      "__uuid__": "590c0a92-c636-4210-b0b5-5c0e75c10a0e"
+    },
+    "shot_main_bulletType_bullet1": {
+      "__uuid__": "733c1e38-88e3-4759-a9ac-b4a4b2215e90"
+    },
+    "shot_main_bulletType_gun": {
+      "__uuid__": "7599fc6a-aa36-4ac7-b373-e2bb605924f2"
+    },
+    "shot_main_bulletType_submachineGun": {
+      "__uuid__": "bad67863-3dcb-4f75-ae02-697ccf3f3926"
+    },
+    "shot_main_bulletType_win94_overlookView": {
+      "__uuid__": "6d3a174f-c520-4c66-b59e-736ada9738ea"
+    },
+    "shot_main_bullet_big": {
+      "__uuid__": "319f75ad-9c39-49e9-8688-86d9a4ace0c9"
+    },
+    "shot_main_countDown_bar_bg": {
+      "__uuid__": "3af23129-3989-4a38-8d3a-1c278ab2a6f9"
+    },
+    "shot_main_countDown_bar_goon": {
+      "__uuid__": "1963d004-0f93-4d9e-bb67-5cbf5ced9f80"
+    },
+    "shot_main_crazyTime": {
+      "__uuid__": "5c49f5a1-ee76-4789-8a02-c7186ac50cd2"
+    },
+    "shot_main_crazyTime_before": {
+      "__uuid__": "65184623-d456-4dbc-94b7-5f4c1a48f07a"
+    },
+    "shot_main_crazyTime_before_result": {
+      "__uuid__": "8508c6e1-ac63-4311-b072-efa47af9b2da"
+    },
+    "shot_main_crazyTime_countDown_1": {
+      "__uuid__": "2c3c7307-ffe6-4bb2-bd78-2d28cf3f1a9e"
+    },
+    "shot_main_crazyTime_countDown_2": {
+      "__uuid__": "8f2c0182-9228-471a-a4a5-948583b0dd62"
+    },
+    "shot_main_crazyTime_countDown_3": {
+      "__uuid__": "deb18867-f1bf-41d1-a992-c05306c085f9"
+    },
+    "shot_main_crazyTime_countDown_4": {
+      "__uuid__": "6535ed04-fcc6-49ef-bdcd-c53fefd7cf4c"
+    },
+    "shot_main_crazyTime_countDown_5": {
+      "__uuid__": "a4f173bf-9eb3-4cde-8b08-1e0c3109773a"
+    },
+    "shot_main_crazyTime_perfect": {
+      "__uuid__": "cc799d8b-8b10-4faa-99a9-67361b0c0d80"
+    },
+    "shot_main_crazyTime_timeOut": {
+      "__uuid__": "129b57ec-52a8-4e6c-8ceb-cf9dafdc19bc"
+    },
+    "shot_main_doubleHit_bg": {
+      "__uuid__": "f5deb6d6-8735-4700-93eb-c102a62ae941"
+    },
+    "shot_main_doubleHit_bg_1": {
+      "__uuid__": "05558b9b-6ac3-481b-b516-d14a039682b0"
+    },
+    "shot_main_doubleHit_bg_2": {
+      "__uuid__": "50c0d952-c7a0-4239-a7c0-3af6cc78a2e4"
+    },
+    "shot_main_doubleHit_bg_3": {
+      "__uuid__": "87ba75f8-5a0d-4d61-afcb-fa326861069f"
+    },
+    "shot_main_doubleHit_title": {
+      "__uuid__": "5409f675-6186-483e-a96b-27cce8cfbab4"
+    },
+    "shot_main_flying_black": {
+      "__uuid__": "67b563f7-ab20-44c3-b0c4-f09ee07e6321"
+    },
+    "shot_main_flying_miss": {
+      "__uuid__": "db8c9920-1276-45b3-ae03-8de2c12cdde9"
+    },
+    "shot_main_flying_red": {
+      "__uuid__": "eb0817a9-7d4d-40cd-9642-8793fb1a6219"
+    },
+    "shot_main_infinite": {
+      "__uuid__": "104ebd25-b470-4540-890a-876c642ba270"
+    },
+    "shot_main_infiniteBullet_bar_title": {
+      "__uuid__": "d07cd9b8-c13a-4a3f-a27d-5fd48e9ae30e"
+    },
+    "shot_main_infiniteBullet_bg": {
+      "__uuid__": "07150881-53c0-4fc3-9bf3-376fcaed45e1"
+    },
+    "shot_main_juggling": {
+      "__uuid__": "382cdb05-ce64-4d6e-b8f4-8e1cc92714f6"
+    },
+    "shot_main_juggling_result_line": {
+      "__uuid__": "ee21271a-1c4a-4b6a-a92a-0a00681d2e41"
+    },
+    "shot_main_juggling_result_panel": {
+      "__uuid__": "b7181e8a-4336-4587-835d-f5290ce42fab"
+    },
+    "shot_main_juggling_tong": {
+      "__uuid__": "73c64cc8-0577-48bc-97d1-6133ced4e7cc"
+    },
+    "shot_main_laser": {
+      "__uuid__": "0fc265bd-26d8-4d49-9d2e-82d9f46e26e5"
+    },
+    "shot_main_newer": {
+      "__uuid__": "ef3aafd3-4aec-467d-ad59-441d7ca559d6"
+    },
+    "shot_main_tool_name_bg": {
+      "__uuid__": "2c9340b3-fc77-464c-8305-b5c4a8ad023c"
+    }
+  }
+}

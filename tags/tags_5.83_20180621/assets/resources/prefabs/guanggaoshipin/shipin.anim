@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shipin",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "ddz_welfare_shipintx": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 50
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1.05
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1.05
+            }
+          ]
+        }
+      },
+      "ddz_welfare_shipin": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.05
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.05
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

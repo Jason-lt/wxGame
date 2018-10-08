@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shenglibeishu",
+    "texture": "8cb7eeae-3f2b-4434-898c-d7efe4f6edee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      241
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      242
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/newsvn/tywx/!svn/ver/46/tywxTools/uglifyJS/test
+END
+beautify.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/newsvn/tywx/!svn/ver/46/tywxTools/uglifyJS/test/beautify.js
+END
+testparser.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/newsvn/tywx/!svn/ver/46/tywxTools/uglifyJS/test/testparser.js
+END
+testconsolidator.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/newsvn/tywx/!svn/ver/46/tywxTools/uglifyJS/test/testconsolidator.js
+END

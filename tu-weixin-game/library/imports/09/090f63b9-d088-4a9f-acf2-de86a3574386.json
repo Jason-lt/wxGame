@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "win_paiming01",
+    "texture": "7fbe895c-09cc-4e3a-9fba-d1690d7481a5",
+    "atlas": "",
+    "rect": [
+      30,
+      30,
+      68,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

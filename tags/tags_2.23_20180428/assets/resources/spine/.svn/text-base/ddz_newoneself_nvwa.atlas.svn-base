@@ -1,0 +1,174 @@
+
+ddz_newoneself_nvwa.png
+size: 393,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddz_newoneself_nvwa_biyan
+  rotate: false
+  xy: 2, 2
+  size: 112, 19
+  orig: 112, 19
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_bizi
+  rotate: false
+  xy: 116, 7
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_ct01
+  rotate: true
+  xy: 293, 202
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_ct02
+  rotate: true
+  xy: 265, 196
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_dt01
+  rotate: true
+  xy: 78, 23
+  size: 133, 61
+  orig: 133, 61
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_dt02
+  rotate: true
+  xy: 284, 109
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_dt03
+  rotate: true
+  xy: 364, 102
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_dt04
+  rotate: true
+  xy: 354, 293
+  size: 98, 31
+  orig: 98, 31
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_meimao
+  rotate: false
+  xy: 183, 226
+  size: 101, 15
+  orig: 101, 15
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_shang
+  rotate: true
+  xy: 187, 63
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_shengli01
+  rotate: false
+  xy: 168, 158
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_shengli02
+  rotate: true
+  xy: 261, 62
+  size: 94, 21
+  orig: 94, 21
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_shibai01
+  rotate: false
+  xy: 2, 158
+  size: 164, 73
+  orig: 164, 73
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_shibai02
+  rotate: true
+  xy: 338, 114
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_shibai03
+  rotate: true
+  xy: 364, 145
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_shibai04
+  rotate: false
+  xy: 183, 335
+  size: 169, 56
+  orig: 169, 56
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_sikao01
+  rotate: false
+  xy: 2, 29
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_sikao02
+  rotate: false
+  xy: 284, 74
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_sikao03
+  rotate: true
+  xy: 187, 2
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_sikao04
+  rotate: true
+  xy: 354, 193
+  size: 98, 31
+  orig: 98, 31
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_sikao05
+  rotate: false
+  xy: 243, 41
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_tou
+  rotate: false
+  xy: 2, 233
+  size: 179, 158
+  orig: 179, 158
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_toufa
+  rotate: true
+  xy: 141, 11
+  size: 145, 44
+  orig: 145, 44
+  offset: 0, 0
+  index: -1
+ddz_newoneself_nvwa_xia
+  rotate: false
+  xy: 183, 243
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1

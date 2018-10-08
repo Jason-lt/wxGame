@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddz_withdraw.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ddz_withdraw_bar": {
+      "__uuid__": "d25aefea-6c9e-43ae-a779-f32e0c05a05c"
+    },
+    "ddz_withdraw_btn": {
+      "__uuid__": "42464d92-85ec-4ed4-a2b0-c1ee1c02bd5f"
+    },
+    "ddz_withdraw_line": {
+      "__uuid__": "9ee5f72f-1651-40cc-9335-8bb04c8bdeef"
+    },
+    "ddz_withdraw_wechat": {
+      "__uuid__": "b1ab7222-a962-42d1-b509-6bdcd5a61c31"
+    },
+    "ddz_withdraw_white_bg": {
+      "__uuid__": "8342ffd0-4372-44a1-8d9a-9cc3479f86a8"
+    },
+    "ddz_withdraw_yellow_bg": {
+      "__uuid__": "604341e1-e47b-4dc4-9061-7d2a0a9de7f0"
+    }
+  }
+}

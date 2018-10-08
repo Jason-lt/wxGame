@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_guide_issue",
+    "texture": "27c7abb6-94a4-4d8a-bef3-26cf55ac5162",
+    "atlas": "1b30d513-3cfd-4e03-b384-4840d819baf1",
+    "rect": [
+      937,
+      223,
+      35,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      35
+    ]
+  }
+}

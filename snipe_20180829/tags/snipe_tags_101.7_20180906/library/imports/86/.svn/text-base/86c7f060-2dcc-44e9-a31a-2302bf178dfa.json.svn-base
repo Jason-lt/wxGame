@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shot_scene_ui_2.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "0004_guangyun_bj": {
+      "__uuid__": "129912a3-9946-4d31-b32b-76da5e3877e7"
+    },
+    "guangxian02": {
+      "__uuid__": "384cd4d4-1af4-40d9-9b15-5d11b8c8d7c0"
+    },
+    "shot_box_bulletType_ Barrett": {
+      "__uuid__": "ec309d23-9659-4873-a093-09e3e170fe50"
+    },
+    "shot_box_bulletType_ Gatling": {
+      "__uuid__": "a315df51-1d34-4efc-820f-59734b60aaf5"
+    },
+    "shot_box_bulletType_Kar98k_sideView": {
+      "__uuid__": "a5444272-1c0c-4a50-aec2-f331d6397a2c"
+    },
+    "shot_box_bulletType_M16": {
+      "__uuid__": "50517308-4de9-4041-afd2-c5c2022a8241"
+    },
+    "shot_box_bulletType__AWM1": {
+      "__uuid__": "b9422811-c986-447f-bfbf-e2fe6da6ac08"
+    },
+    "shot_box_bulletType__bullet2": {
+      "__uuid__": "4c370305-1231-484d-a516-3ccc524d9b46"
+    },
+    "shot_box_bulletType__jtl01": {
+      "__uuid__": "19e70703-95ef-4c50-8de6-d72c2fe9fe3b"
+    },
+    "shot_box_bulletType__jtl02": {
+      "__uuid__": "9b94edec-303c-44cf-96dc-2e288509242f"
+    },
+    "shot_box_bulletType__jtl03": {
+      "__uuid__": "06cd269b-e8a6-460b-9aa7-cecc4a7a9bb9"
+    },
+    "shot_box_bulletType__jtl04": {
+      "__uuid__": "523dd0cd-7fc2-4726-8ad3-96a5510a9179"
+    },
+    "shot_box_bulletType_macheineGun": {
+      "__uuid__": "4abcfecb-3779-4f28-a2ce-f18e4017fccc"
+    },
+    "shot_box_bulletType_win94_sideView": {
+      "__uuid__": "ae73b377-543c-4d0b-89e0-edf3d73bb287"
+    },
+    "shot_result_bg": {
+      "__uuid__": "2fb0dc1b-0415-495f-b2c0-e52f9c9723c7"
+    },
+    "shot_result_bg_line": {
+      "__uuid__": "59d55370-6672-4082-96f6-942a77623d7b"
+    },
+    "shot_result_button_big": {
+      "__uuid__": "5af3267a-1ee4-4150-b2ef-141ad7f61546"
+    },
+    "shot_result_gift": {
+      "__uuid__": "a4f2b9a2-4819-4c7c-b43a-786ee491ad15"
+    },
+    "shot_secretBox_box": {
+      "__uuid__": "ece6e424-da43-40ef-ab5c-b282b280ed24"
+    },
+    "shot_secretBox_box_2": {
+      "__uuid__": "46f66de9-e2a8-41a3-bc7a-bf232a527fea"
+    },
+    "shot_secretBox_shadow": {
+      "__uuid__": "2e0b12f7-d4a4-4a87-9695-d65ff1ca62c7"
+    },
+    "shot_secret_bg": {
+      "__uuid__": "2cd3122f-2693-424b-9057-faa7436caa5e"
+    },
+    "shot_secret_gift": {
+      "__uuid__": "80444fe4-c1b2-4e01-9c61-90930cd64958"
+    },
+    "shot_secret_guang": {
+      "__uuid__": "fff46199-90f7-4f7b-9b69-407c58130361"
+    },
+    "shot_secret_sha": {
+      "__uuid__": "a05a34e9-b42d-40a2-b7c2-8eee775d2c9a"
+    },
+    "shot_surpass_bg": {
+      "__uuid__": "d6a26e27-7a73-4012-930d-50feb9900351"
+    }
+  }
+}

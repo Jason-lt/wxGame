@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_xingzuo_icon_3",
+    "texture": "fd9b8aec-35a1-492f-a64e-8dd95d91ef60",
+    "atlas": "67f7d206-dee1-4de3-9e3d-ea45af0ddc1c",
+    "rect": [
+      784,
+      420,
+      38,
+      33
+    ],
+    "offset": [
+      0,
+      8
+    ],
+    "originalSize": [
+      42,
+      51
+    ],
+    "rotated": 1
+  }
+}

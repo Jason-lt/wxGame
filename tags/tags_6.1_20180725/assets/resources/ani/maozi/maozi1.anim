@@ -1,0 +1,174 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "maozi1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": [
+            0.18,
+            0.89,
+            0.31,
+            1.21
+          ]
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 1.6
+        },
+        {
+          "frame": 0.5,
+          "value": 1.5
+        },
+        {
+          "frame": 1,
+          "value": 1.5,
+          "curve": [
+            0.6,
+            0.11,
+            0.81,
+            0.47
+          ]
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": [
+            0.18,
+            0.89,
+            0.31,
+            1.21
+          ]
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 1.6
+        },
+        {
+          "frame": 0.5,
+          "value": 1.5
+        },
+        {
+          "frame": 1,
+          "value": 1.5,
+          "curve": [
+            0.63,
+            0.16,
+            0.83,
+            0.38
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0.5,
+          "value": 0
+        },
+        {
+          "frame": 0.5666666666666667,
+          "value": 15
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": -15
+        },
+        {
+          "frame": 0.7666666666666667,
+          "value": 15
+        },
+        {
+          "frame": 0.9,
+          "value": -15
+        },
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ]
+    },
+    "paths": {
+      "ddz_dizhu_hot_2": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": []
+          }
+        }
+      },
+      "ddz_tx_laizi02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.2
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.2
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "ddz_tx_win": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.5
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.5
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

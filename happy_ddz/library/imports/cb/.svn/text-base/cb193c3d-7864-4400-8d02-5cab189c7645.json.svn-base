@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_gameResult_fail_noti3",
+    "texture": "017e464f-b421-4854-aadf-7428da72d89b",
+    "atlas": "2be761ca-4603-4e75-931a-94f775e86097",
+    "rect": [
+      916,
+      975,
+      27,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      27,
+      40
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "awad_tips_show",
+  "_duration": 0.15,
+  "curveData": {
+    "paths": {
+      "bg": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.15,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.15,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "button": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.15,
+              "value": 170
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_playmode_line",
+    "texture": "e2xm0SxeNGEagS4Bk7cBZo",
+    "rect": [
+      0,
+      0,
+      132,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      18
+    ]
+  }
+}

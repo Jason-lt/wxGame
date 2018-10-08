@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loseTitle",
+  "_duration": 0.8333333333333334,
+  "sample": 30,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 1008
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 886
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        }
+      ]
+    }
+  }
+}

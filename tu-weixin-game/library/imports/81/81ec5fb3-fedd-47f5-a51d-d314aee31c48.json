@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_welfare_btn_yellow",
+    "texture": "7f810105-6199-400e-ab33-7920478538c2",
+    "atlas": "5b86c0dc-0671-45cd-869b-1c9a5cb087d8",
+    "rect": [
+      615,
+      558,
+      51,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      44
+    ],
+    "rotated": 1,
+    "capInsets": [
+      21,
+      18,
+      18,
+      19
+    ]
+  }
+}

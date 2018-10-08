@@ -1,0 +1,234 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "doubleHitAni1",
+    "_duration": 0.5,
+    "curveData": {
+      "paths": {
+        "doubleHit1": {
+          "props": {
+            "y": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": 50
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 100
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              },
+              {
+                "frame": 0.5,
+                "value": false
+              }
+            ]
+          }
+        },
+        "layout/shot_main_doubleHit_bg": {
+          "props": {
+            "scaleY": [
+              {
+                "frame": 0,
+                "value": 2
+              },
+              {
+                "frame": 0.15,
+                "value": 0.8
+              },
+              {
+                "frame": 0.21666666666666667,
+                "value": 1
+              }
+            ],
+            "scaleX": [
+              {
+                "frame": 0,
+                "value": 2
+              },
+              {
+                "frame": 0.15,
+                "value": 0.8
+              },
+              {
+                "frame": 0.21666666666666667,
+                "value": 1
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "layout/shot_main_doubleHit_title": {
+          "props": {
+            "scaleX": [
+              {
+                "frame": 0,
+                "value": 3
+              },
+              {
+                "frame": 0.15,
+                "value": 0.8
+              },
+              {
+                "frame": 0.21666666666666667,
+                "value": 1
+              }
+            ],
+            "scaleY": [
+              {
+                "frame": 0,
+                "value": 3
+              },
+              {
+                "frame": 0.15,
+                "value": 0.8
+              },
+              {
+                "frame": 0.21666666666666667,
+                "value": 1
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "layout": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              },
+              {
+                "frame": 0.5,
+                "value": false
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 100
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "doubleHitAni",
+    "_duration": 0.5,
+    "curveData": {
+      "paths": {
+        "layout": {
+          "props": {
+            "y": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": 0
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 100
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              },
+              {
+                "frame": 0.5,
+                "value": false
+              }
+            ]
+          }
+        },
+        "doubleHit1": {
+          "props": {
+            "y": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": 50
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              },
+              {
+                "frame": 0.5,
+                "value": false
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 100
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+]

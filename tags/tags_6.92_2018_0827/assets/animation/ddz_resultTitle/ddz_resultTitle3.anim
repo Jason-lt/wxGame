@@ -1,0 +1,187 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ddz_resultTitle3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.7333333333333334,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "New Node": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.13333333333333333,
+              "value": -70
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ddz_main_line": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "ddz_main_line2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "particlesystem_1": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "posVar": [
+              {
+                "frame": 0,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "x": 241,
+                  "y": 0
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "x": 241,
+                  "y": 80
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 99.1
+            },
+            {
+              "frame": 0.6,
+              "value": 236.8
+            }
+          ]
+        }
+      },
+      "flare_Glow_Flair_000_0089": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.2,
+              "value": 255
+            },
+            {
+              "frame": 1.4666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ele_arrow1_01a_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 35
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 69
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": 322
+            }
+          ]
+        }
+      },
+      "ele_arrow1_01a_02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 35
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.8333333333333334,
+              "value": -69
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": -322
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

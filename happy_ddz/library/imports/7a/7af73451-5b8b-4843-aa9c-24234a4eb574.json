@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_mall_bg",
+    "texture": "406c64d5-7f95-4176-8188-49959c976939",
+    "atlas": "62e90330-7d64-4bdd-b4fc-857f8c9b7bc2",
+    "rect": [
+      2,
+      343,
+      158,
+      165
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      165
+    ],
+    "capInsets": [
+      17,
+      15,
+      21,
+      31
+    ]
+  }
+}

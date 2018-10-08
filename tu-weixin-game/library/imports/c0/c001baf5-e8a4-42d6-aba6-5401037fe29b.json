@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_tasks_di",
+    "texture": "920a1245-3703-4880-bf4b-9dba98731ae9",
+    "atlas": "7df1726b-c6f3-44c4-99d1-aada664edce5",
+    "rect": [
+      602,
+      520,
+      50,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      86
+    ],
+    "rotated": 1,
+    "capInsets": [
+      43,
+      0,
+      1,
+      0
+    ]
+  }
+}

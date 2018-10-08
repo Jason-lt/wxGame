@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_cup_guang",
+    "texture": "fc7781fc-edee-4b56-9461-d1511cdfcec7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      639,
+      424
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      640,
+      425
+    ]
+  }
+}

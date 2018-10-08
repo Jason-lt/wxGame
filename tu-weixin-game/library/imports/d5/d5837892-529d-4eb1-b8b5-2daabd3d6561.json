@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jifen+",
+    "texture": "43a7533a-002e-4232-aaa4-6b6d22b773f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      255
+    ],
+    "offset": [
+      -8,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ]
+  }
+}

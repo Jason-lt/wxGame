@@ -1,0 +1,233 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "gameTasks",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gameTasks",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "18771E7XfVA47mFZTkV2+1u",
+          "node": {
+            "__id__": 1
+          },
+          "tasksBg": {
+            "__id__": 5
+          },
+          "tasksRich": {
+            "__id__": 4
+          }
+        },
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "94hB4WCV5JlIwK7OYowE2s"
+            },
+            {
+              "__uuid__": "bdAaA911dE9p1iB4FerWLN"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6cywjxaW1K4YFoGX3bkgDT"
+        },
+        "fileId": "67hj4xn0VOGoib1GmFsTR/"
+      },
+      "_scaleX": 0
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "bg",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_components": [
+        {
+          "__id__": 5
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6cywjxaW1K4YFoGX3bkgDT"
+        },
+        "fileId": "98g0iyPRpOmLZbGrDdfhay"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "x": 1,
+        "y": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 165,
+        "height": 86
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 3,
+        "y": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "richtext",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__id__": 4
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 3
+          },
+          "_alignFlags": 32,
+          "_right": 24
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6cywjxaW1K4YFoGX3bkgDT"
+        },
+        "fileId": "fd4fe1WoCpJK6rVCZ13Z14R"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "x": 1,
+        "y": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 101.7,
+        "height": 40
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -24
+      }
+    },
+    {
+      "__type__": "cc.RichText",
+      "node": {
+        "__id__": 3
+      },
+      "_N$string": "<color=#ffffff>第1/6局</color>",
+      "_N$fontSize": 30,
+      "_N$handleTouchEvent": false
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 2
+      },
+      "_spriteFrame": {
+        "__uuid__": "d6kASxzCtCypkR28gD+me9"
+      },
+      "_type": 1,
+      "_sizeMode": 0
+    }
+  ],
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "gameTasks_big",
+    "_duration": 0.16666666666666666,
+    "curveData": {
+      "props": {
+        "scaleX": [
+          {
+            "frame": 0,
+            "value": 0
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": 1
+          }
+        ],
+        "scaleY": []
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "gameTasks_small",
+    "_duration": 0.17,
+    "curveData": {
+      "props": {
+        "scaleX": [
+          {
+            "frame": 0,
+            "value": 1
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": 0
+          }
+        ],
+        "scaleY": []
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tasks_di",
+      "texture": "43gM+GKrpLdIXQWsrHNddi",
+      "rect": [
+        0,
+        0,
+        50,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        86
+      ],
+      "capInsets": [
+        40,
+        0,
+        1,
+        0
+      ]
+    }
+  }
+]

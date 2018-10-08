@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "parting",
+    "texture": "5797d685-3d4a-4dec-8610-68d90b72b406",
+    "atlas": "917f7364-33d5-49db-a715-085963c0832a",
+    "rect": [
+      104,
+      2,
+      436,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      436,
+      24
+    ]
+  }
+}

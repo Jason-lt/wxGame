@@ -1,0 +1,221 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hongbao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.77,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ddz_hb_coos/ddz_hongbao_bj5": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "032fdc81-e6a3-41b9-9ade-f35e12f77c59"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "7bf2703d-cdba-45f3-8cbc-e5a556f6649f"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "3f2882fb-cbbb-477e-8b1f-6dc2d977ad32"
+                }
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "09a6dfc7-b7a0-44ed-b7db-becc69b325f2"
+                }
+              },
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "9ba3773b-307b-4f46-bcfd-ec49e94e7525"
+                }
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "45ccef33-b555-43e7-a363-5bc3ecc4375f"
+                }
+              },
+              {
+                "frame": 0.43333333333333335,
+                "value": {
+                  "__uuid__": "667e2675-62a2-49cb-83fc-2fdecdac1e67"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "button": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ddz_redPacket": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.43333333333333335,
+              "value": false
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": true
+            }
+          ]
+        }
+      },
+      "ddz_hb_coos": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ddz_redPacket/ddz_hongbao_bj12": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 80
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 183
+            }
+          ]
+        }
+      },
+      "ddz_redPacket/titleLabel": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 180
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 268
+            }
+          ]
+        }
+      },
+      "ddz_redPacket/numberLabel": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 80
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 183
+            }
+          ]
+        }
+      },
+      "ddz_redPacket/ddz_hongbao_bj10": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ddz_hb_coos/ddz_hongbao_bj2": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 1
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 0.8
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

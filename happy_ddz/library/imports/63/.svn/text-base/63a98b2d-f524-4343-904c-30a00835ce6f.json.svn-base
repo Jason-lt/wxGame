@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_jjs_jindu04",
+    "texture": "4ba2a756-aeda-4033-a4bb-c24a0024fed7",
+    "atlas": "fbed9af2-9209-4331-91c1-132e2153fd73",
+    "rect": [
+      534,
+      138,
+      131,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      64
+    ]
+  }
+}

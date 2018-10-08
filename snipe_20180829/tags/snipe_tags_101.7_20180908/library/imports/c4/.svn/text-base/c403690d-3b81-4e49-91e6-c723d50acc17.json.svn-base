@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiang_attack03",
+    "texture": "8f7adf73-91b6-46c2-a671-a8c5dd5215a9",
+    "atlas": "8516802d-dd84-4747-b2e4-cde47bf11bd1",
+    "rect": [
+      225,
+      379,
+      131,
+      104
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      163,
+      224
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zidan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.37,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {},
+    "paths": {
+      "zidan": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  85,
+                  -24,
+                  60,
+                  3,
+                  119,
+                  -61
+                ]
+              ]
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": [
+                156,
+                -258
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 540
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

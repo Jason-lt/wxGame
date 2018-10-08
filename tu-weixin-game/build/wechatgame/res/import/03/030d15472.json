@@ -1,0 +1,1494 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_tips_icon",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        845,
+        560,
+        24,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dda_history_cell_icon",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        860,
+        106,
+        100,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        30,
+        24,
+        42,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_createRoom_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        976,
+        223,
+        52,
+        45
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        68,
+        59
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_read-redM_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        676,
+        100,
+        182,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_treasure",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        2,
+        289,
+        288,
+        288
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        288,
+        288
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_gameDetail_avatar_bg",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        966,
+        549,
+        20,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        20,
+        46
+      ],
+      "rotated": 1,
+      "capInsets": [
+        23,
+        0,
+        46,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_read-greenM_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        676,
+        126,
+        182,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_unSelected_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        925,
+        446,
+        42,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        48
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_rank_btn",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        789,
+        204,
+        75,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        75,
+        60
+      ],
+      "rotated": 1,
+      "capInsets": [
+        32,
+        27,
+        33,
+        28
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_bottomNine672_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        2,
+        100,
+        98,
+        672
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        98,
+        672
+      ],
+      "rotated": 1,
+      "capInsets": [
+        40,
+        0,
+        38,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_shareNreFriend",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        800,
+        281,
+        97,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        97,
+        33
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_red_save_tip",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        743,
+        2,
+        133,
+        96
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        133,
+        96
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_rank_dark_bg",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        835,
+        281,
+        15,
+        90
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        15,
+        90
+      ],
+      "capInsets": [
+        11,
+        13,
+        1,
+        15
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_icon_dizhu",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        658,
+        441,
+        114,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        114
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_notice",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        922,
+        343,
+        58,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        54
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_gameDetail_first",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        962,
+        159,
+        58,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_gameDetail_fen",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        774,
+        543,
+        42,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        42,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_chipMode",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        976,
+        277,
+        45,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        45
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_diamond",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        658,
+        557,
+        107,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        107,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_rank",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        969,
+        412,
+        51,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        51,
+        52
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_icon_share_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        978,
+        368,
+        42,
+        43
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        68,
+        59
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_button_big_green_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        536,
+        441,
+        120,
+        125
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        120,
+        125
+      ],
+      "capInsets": [
+        56,
+        0,
+        56,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_selected_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        925,
+        490,
+        42,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        48
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_read-greenLeft_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        676,
+        152,
+        182,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_icon_fight",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        978,
+        324,
+        43,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dda_history_cell_bg",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        969,
+        465,
+        50,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        38
+      ],
+      "capInsets": [
+        19,
+        29,
+        24,
+        57
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dda_tableScene_icon_wechat",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        852,
+        343,
+        68,
+        55
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        68,
+        59
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_icon_begin",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        834,
+        400,
+        37,
+        39
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        37,
+        39
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_button_yellow_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        570,
+        200,
+        72,
+        88
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        72,
+        88
+      ],
+      "rotated": 1,
+      "capInsets": [
+        37,
+        0,
+        36,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_read-RedLeft_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        676,
+        178,
+        182,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        182,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_rank_top",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        2,
+        200,
+        566,
+        87
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        566,
+        87
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_button_big_red_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        414,
+        441,
+        120,
+        125
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        120,
+        125
+      ],
+      "capInsets": [
+        57,
+        0,
+        55,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_gameDetail_score_bg_1",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        660,
+        246,
+        127,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        127,
+        40
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_rank_icon",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        969,
+        505,
+        42,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        42,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_gameDetail_title_bg",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        869,
+        451,
+        54,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        54,
+        54
+      ],
+      "capInsets": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_bottomNine432_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        292,
+        289,
+        98,
+        432
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        98,
+        432
+      ],
+      "rotated": 1,
+      "capInsets": [
+        39,
+        0,
+        46,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_line_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        292,
+        389,
+        517,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        517,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_getReward",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        851,
+        208,
+        105,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        105,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_close_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        818,
+        543,
+        25,
+        25
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        25
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_icon_again_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        873,
+        400,
+        44,
+        49
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        68,
+        59
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_topUp",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        922,
+        279,
+        62,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        62,
+        52
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_table_again",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        869,
+        507,
+        51,
+        51
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        51,
+        51
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dda_tableScene_button",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        852,
+        279,
+        68,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        68,
+        62
+      ],
+      "capInsets": [
+        40,
+        0,
+        40,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_match",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        919,
+        403,
+        48,
+        41
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        41
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_line_bg",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        660,
+        200,
+        3,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_bottomNine739_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        2,
+        2,
+        96,
+        739
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        739
+      ],
+      "rotated": 1,
+      "capInsets": [
+        32,
+        0,
+        28,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_tipsWindow_read-bottom_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        292,
+        415,
+        540,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        540,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_giftBag",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        982,
+        2,
+        105,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        105,
+        34
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_tips_bg",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        292,
+        568,
+        13,
+        164
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        13,
+        164
+      ],
+      "rotated": 1,
+      "capInsets": [
+        4,
+        0,
+        5,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dda_tableScene_icon_ready",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        962,
+        109,
+        48,
+        59
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        68,
+        59
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dda_tableScene_avatar_defaulty",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        878,
+        2,
+        102,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_gameDetail_score_bg_2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        660,
+        204,
+        127,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        127,
+        40
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "ddz_scene_ui_v2.plist",
+    "_spriteFrames": {
+      "dda_history_cell_bg": {
+        "__uuid__": "65QWLScchMZK3GJ12PUaEE"
+      },
+      "dda_history_cell_icon": {
+        "__uuid__": "083Z2W/cVFtL//S+bBGSAY"
+      },
+      "dda_tableScene_avatar_defaulty": {
+        "__uuid__": "deAO2Lz3lJRZpm9BmCRYTP"
+      },
+      "dda_tableScene_button": {
+        "__uuid__": "b2dJnzY35PqLdSw0R4AGA8"
+      },
+      "dda_tableScene_icon_ready": {
+        "__uuid__": "d19QC3II1MrKrKzgRinkXv"
+      },
+      "dda_tableScene_icon_wechat": {
+        "__uuid__": "6ddCbDPLhHH5Ga3BgMAVuX"
+      },
+      "ddz_button_big_green_v2": {
+        "__uuid__": "55+r4+v5JBKbpH7Clha7+9"
+      },
+      "ddz_button_big_red_v2": {
+        "__uuid__": "791UxZ8dtAi7mns4MmnSH5"
+      },
+      "ddz_button_big_yellow_v2": {
+        "__uuid__": "earrK27OZPi7+mzD0Xv2GK"
+      },
+      "ddz_button_red_v2": {
+        "__uuid__": "e42pHjZplEpYYhQ8tvZi3h"
+      },
+      "ddz_button_yellow_v2": {
+        "__uuid__": "70gjoVRMdGqohvaBaikcTW"
+      },
+      "ddz_gameDetail_avatar_bg": {
+        "__uuid__": "0fT8EHfXBEE7BeGjdAArEc"
+      },
+      "ddz_gameDetail_fen": {
+        "__uuid__": "41WJO9HllEQY5MeuQqX5qt"
+      },
+      "ddz_gameDetail_first": {
+        "__uuid__": "386cuAW+5MirfoVNP2nLX4"
+      },
+      "ddz_gameDetail_score_bg_1": {
+        "__uuid__": "8083c2i05F4Lkp56PAECgd"
+      },
+      "ddz_gameDetail_score_bg_2": {
+        "__uuid__": "e0LIHDsT5J/Y1FVu3MCaDM"
+      },
+      "ddz_gameDetail_title_bg": {
+        "__uuid__": "90pVVQStFOi5HXW4L/9oEF"
+      },
+      "ddz_icon_again_v2": {
+        "__uuid__": "afnhend9xKao+fkpOSk3rd"
+      },
+      "ddz_icon_dizhu": {
+        "__uuid__": "25XqeQowVPs5oZFd2KbLNV"
+      },
+      "ddz_icon_share_v2": {
+        "__uuid__": "535cthpzVEGZIRGOrs6236"
+      },
+      "ddz_main_acceptAward": {
+        "__uuid__": "f3b5sKXh1Cfr7FgvsLf5aC"
+      },
+      "ddz_main_acticityDetail": {
+        "__uuid__": "eamdQDK9ZM1qe3Fs5InNK+"
+      },
+      "ddz_main_chipMode": {
+        "__uuid__": "42iNfVZLRKm4XLzEAI+cVL"
+      },
+      "ddz_main_diamond": {
+        "__uuid__": "49eO3d4HRMEYKkFn6f5GCP"
+      },
+      "ddz_main_getReward": {
+        "__uuid__": "abMDG1Z+NOKpbwtfIBFNJU"
+      },
+      "ddz_main_giftBag": {
+        "__uuid__": "ceQwc6rKVBYouJhkfqzr4x"
+      },
+      "ddz_main_icon_begin": {
+        "__uuid__": "6dpOuwE/xNdqAHcWFlEMJ5"
+      },
+      "ddz_main_icon_fight": {
+        "__uuid__": "64eNlH8dBJuZofKmsqEq7p"
+      },
+      "ddz_main_line_bg": {
+        "__uuid__": "b9W/lJrjlOqYe2gh1J90DY"
+      },
+      "ddz_main_match": {
+        "__uuid__": "b8vrbSsTBGmq4XtiPryCB0"
+      },
+      "ddz_main_notice": {
+        "__uuid__": "2bYyRfvOpK2a4EI2yrDdWx"
+      },
+      "ddz_main_rank": {
+        "__uuid__": "520nelJJVMU44vPGbQcDtJ"
+      },
+      "ddz_main_shareNreFriend": {
+        "__uuid__": "22QkcaOJRFMJGawOVl0oH/"
+      },
+      "ddz_main_tips_bg": {
+        "__uuid__": "d0fICQfedF7oOLf64zUKiw"
+      },
+      "ddz_main_tips_icon": {
+        "__uuid__": "057eNZCdFCkavAj18n0B3a"
+      },
+      "ddz_main_topUp": {
+        "__uuid__": "b0FjQaVjJNTpa1sqPupqQB"
+      },
+      "ddz_main_yellow_bottom": {
+        "__uuid__": "f1ieOvPXxIU6a2p+Y30eyH"
+      },
+      "ddz_rank_btn": {
+        "__uuid__": "1fjLX6yFFLaKmhj5xtC9Iy"
+      },
+      "ddz_rank_dark_bg": {
+        "__uuid__": "236F5IXKhOEIdF8LurVOH1"
+      },
+      "ddz_rank_icon": {
+        "__uuid__": "8aNMvSJQlP7ZInjBrp00Xu"
+      },
+      "ddz_rank_top": {
+        "__uuid__": "77TJN/EOpDDo28zaUcwgKp"
+      },
+      "ddz_red_save_tip": {
+        "__uuid__": "22jcmPYJtPkarXXf8wpmr+"
+      },
+      "ddz_table_again": {
+        "__uuid__": "b0OlhheMFK4ZoyG1MSTp6X"
+      },
+      "ddz_tipsWindow_bottomNine432_v2": {
+        "__uuid__": "952gVQVIlAIJaWQI3GXjn/"
+      },
+      "ddz_tipsWindow_bottomNine672_v2": {
+        "__uuid__": "20jM0MIctChpYgkptCH4wq"
+      },
+      "ddz_tipsWindow_bottomNine739_v2": {
+        "__uuid__": "c6iwYxDD5DFISpf3gmM5S0"
+      },
+      "ddz_tipsWindow_close_v2": {
+        "__uuid__": "adJ2c3g8NGU5FM1RuxJ+SN"
+      },
+      "ddz_tipsWindow_createRoom_v2": {
+        "__uuid__": "0cUa35z59A/70/dV2oEXup"
+      },
+      "ddz_tipsWindow_line_v2": {
+        "__uuid__": "a9VQNs/mpGsa5X4MA9Olba"
+      },
+      "ddz_tipsWindow_read-RedLeft_v2": {
+        "__uuid__": "75RdIwnzpFWYnZ9zvrCC0/"
+      },
+      "ddz_tipsWindow_read-bottom_v2": {
+        "__uuid__": "c63mAiVMJNHYD3GtVia+FB"
+      },
+      "ddz_tipsWindow_read-greenLeft_v2": {
+        "__uuid__": "61HxcWXqhI06ToWH55BR03"
+      },
+      "ddz_tipsWindow_read-greenM_v2": {
+        "__uuid__": "18RAv5SXhEX7k3pOh57iIw"
+      },
+      "ddz_tipsWindow_read-redM_v2": {
+        "__uuid__": "0deYnKdZBPQL+s4lg49qTt"
+      },
+      "ddz_tipsWindow_selected_v2": {
+        "__uuid__": "5cq1KkGXVOFKdVoURaavHt"
+      },
+      "ddz_tipsWindow_unSelected_v2": {
+        "__uuid__": "1evcNwe0JHObqjInjrs5z3"
+      },
+      "ddz_treasure": {
+        "__uuid__": "0eWu5Q1lRLuLv0X4cksRWU"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_button_red_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        726,
+        288,
+        72,
+        88
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        72,
+        88
+      ],
+      "capInsets": [
+        37,
+        0,
+        37,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_acticityDetail",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        922,
+        534,
+        42,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        48
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_button_big_yellow_v2",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        292,
+        441,
+        120,
+        125
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        120,
+        125
+      ],
+      "capInsets": [
+        57,
+        0,
+        55,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_yellow_bottom",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        774,
+        441,
+        100,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        93
+      ],
+      "rotated": 1,
+      "capInsets": [
+        46,
+        0,
+        45,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_main_acceptAward",
+      "texture": "1e9tnBXq9PToX6ZQQLHVTf",
+      "rect": [
+        851,
+        244,
+        98,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        98,
+        33
+      ]
+    }
+  }
+]

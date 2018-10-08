@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_getReward_line",
+    "texture": "920a1245-3703-4880-bf4b-9dba98731ae9",
+    "atlas": "7df1726b-c6f3-44c4-99d1-aada664edce5",
+    "rect": [
+      568,
+      689,
+      2,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2,
+      36
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0.5,
+      6,
+      0.5,
+      8
+    ]
+  }
+}

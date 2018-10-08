@@ -1,0 +1,181 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zaijiezaili",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.67,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "caidai/ddz_ranking_win03": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "caidai/ddz_ranking_win02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "jiangbei/ddz_ranking_lose03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.4,
+              "value": -18,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 1.7,
+              "value": 60
+            }
+          ]
+        }
+      },
+      "ddz_ranking_win05": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.3666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "paiming": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.8,
+              "value": 0
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.8,
+              "value": -158,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": -122.6
+            }
+          ]
+        }
+      },
+      "topButton": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "button": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ddz_ranking_win04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_message_bar",
+    "texture": "ea580997-105f-4bb7-9505-e9359f3d3d36",
+    "atlas": "2ae225a8-6210-4ab3-ae70-a9e90cfeedcd",
+    "rect": [
+      74,
+      609,
+      6,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      6,
+      90
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      5,
+      0,
+      5
+    ]
+  }
+}
