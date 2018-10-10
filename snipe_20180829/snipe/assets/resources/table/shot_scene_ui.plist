@@ -20,7 +20,7 @@
             <key>shot_begin_free.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{891,1073},{85,92}}</string>
+                <string>{{891,1070},{85,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,7 +33,7 @@
             <key>shot_begin_gameStart.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{672,531},{418,158}}</string>
+                <string>{{672,528},{418,158}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,7 +46,7 @@
             <key>shot_begin_gift.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{877,1160},{84,92}}</string>
+                <string>{{877,1157},{84,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -59,7 +59,7 @@
             <key>shot_begin_guang.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{832,936},{135,135}}</string>
+                <string>{{832,933},{135,135}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,7 +72,7 @@
             <key>shot_begin_rank.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{783,1154},{84,92}}</string>
+                <string>{{783,1151},{84,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -98,15 +98,15 @@
             <key>shot_begin_title.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{691,2},{527,284}}</string>
+                <string>{{691,2},{524,284}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{527,284}}</string>
+                <string>{{0,0},{524,284}}</string>
                 <key>sourceSize</key>
-                <string>{527,284}</string>
+                <string>{524,284}</string>
             </dict>
             <key>shot_big_light.png</key>
             <dict>
@@ -150,7 +150,7 @@
             <key>shot_cong_bullet.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{832,664},{145,131}}</string>
+                <string>{{832,661},{145,131}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -163,7 +163,7 @@
             <key>shot_cong_guang.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{832,797},{137,137}}</string>
+                <string>{{832,794},{137,137}}</string>
                 <key>offset</key>
                 <string>{11,0}</string>
                 <key>rotated</key>
@@ -176,7 +176,7 @@
             <key>shot_cong_laser.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{832,531},{145,131}}</string>
+                <string>{{832,528},{145,131}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -215,7 +215,7 @@
             <key>shot_gift_close.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{783,1073},{106,79}}</string>
+                <string>{{783,1070},{106,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -228,7 +228,7 @@
             <key>shot_gift_diamond.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{783,1240},{91,83}}</string>
+                <string>{{783,1237},{91,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -241,7 +241,7 @@
             <key>shot_gift_invite.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{660,951},{374,121}}</string>
+                <string>{{660,948},{374,121}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -254,7 +254,7 @@
             <key>shot_rank_back.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{876,1246},{79,79}}</string>
+                <string>{{876,1243},{79,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -287,7 +287,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1e300a498cecdd68aacce338f15d3aec$</string>
+            <string>$TexturePacker:SmartUpdate:5c2a1fdeb1cc249d781256caa36e5f9d$</string>
             <key>textureFileName</key>
             <string>shot_scene_ui.png</string>
         </dict>

@@ -1,0 +1,935 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_pause_continue",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        2,
+        805,
+        121,
+        122
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        121,
+        122
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_main_progress_sprite",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        995,
+        65,
+        248,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        248,
+        24
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_rewardWeapon_tri",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        133,
+        974,
+        35,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        35,
+        35
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_rewardWeapon_bg",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        629,
+        2,
+        364,
+        364
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        364,
+        364
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_icon_video",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        848,
+        967,
+        62,
+        51
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        62,
+        51
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_bg",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        989,
+        368,
+        4,
+        4
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        4,
+        4
+      ],
+      "capInsets": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_result_bg",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        848,
+        368,
+        93,
+        139
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        93,
+        139
+      ],
+      "rotated": 1,
+      "capInsets": [
+        34,
+        35,
+        39,
+        88
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_window_newWeapon_close",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        50,
+        974,
+        41,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        41,
+        40
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_btnBg_3",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        848,
+        741,
+        169,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        169,
+        111
+      ],
+      "capInsets": [
+        76,
+        0,
+        78,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_pause_main",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        429,
+        681,
+        122,
+        122
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        122,
+        122
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_newResult_bg_1",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        584,
+        392,
+        580,
+        262
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        580,
+        262
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_titlePage_rank",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        450,
+        454,
+        126,
+        101
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        126,
+        101
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_nreResult_roll_bg",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        258,
+        454,
+        159,
+        190
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        159,
+        190
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_newResult_yellow",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        627,
+        368,
+        14,
+        14
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        14,
+        14
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_btnBg_2",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        848,
+        854,
+        169,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        169,
+        111
+      ],
+      "capInsets": [
+        76,
+        0,
+        79,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_window_newWeapon_checkBox_bg",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        2,
+        974,
+        46,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        46
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_rewardWeapon_triGet",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        170,
+        974,
+        34,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_line",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        2,
+        448,
+        580,
+        4
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        580,
+        4
+      ],
+      "capInsets": [
+        48,
+        1,
+        80,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_icon_weapon",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        584,
+        184,
+        66,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        66,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_newResult_bg_2",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        2,
+        184,
+        580,
+        262
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        580,
+        262
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_icon_circle",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        995,
+        38,
+        25,
+        25
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        29
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_main_pause",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        995,
+        2,
+        27,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_titlePage_title",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        2,
+        2,
+        625,
+        180
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        625,
+        180
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_btnBg_1",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        258,
+        615,
+        169,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        169,
+        111
+      ],
+      "capInsets": [
+        78,
+        0,
+        78,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_main_progress_bg",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        995,
+        315,
+        248,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        248,
+        24
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_icon_reward",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        92,
+        974,
+        40,
+        39
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        39
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_result_again",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        125,
+        454,
+        111,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        111,
+        111
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_bg_white",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        848,
+        554,
+        7,
+        7
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        7,
+        7
+      ],
+      "capInsets": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_bg_white",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        848,
+        565,
+        174,
+        174
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        176,
+        176
+      ],
+      "capInsets": [
+        64,
+        52,
+        73,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_titlePage_coin",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        584,
+        349,
+        41,
+        41
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        41,
+        41
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "double_scene_ui.plist",
+    "_spriteFrames": {
+      "double_common_back": {
+        "__uuid__": "dbOBRd1cpOcZ1ryXoER3Ba"
+      },
+      "double_common_bg": {
+        "__uuid__": "2cqKkeMEZC4Yy/DDa4SZX1"
+      },
+      "double_common_bg_1": {
+        "__uuid__": "e6QtrqBTVNjrA4/XjpY2Zn"
+      },
+      "double_common_bg_white": {
+        "__uuid__": "b1BNdbQZJGRqklHKtdtOme"
+      },
+      "double_common_btnBg_1": {
+        "__uuid__": "a2izKIGZlDuLWkn8rH0rvW"
+      },
+      "double_common_btnBg_2": {
+        "__uuid__": "52OOaRUAxOwaOpCTNcS9I0"
+      },
+      "double_common_btnBg_3": {
+        "__uuid__": "36dlNv8FVJBpsdUhXpHj6A"
+      },
+      "double_common_line": {
+        "__uuid__": "6eSlNi1UlOCYNwmv8+CR54"
+      },
+      "double_main_pause": {
+        "__uuid__": "96ulbDql1BLpRLVtf34qSh"
+      },
+      "double_main_progress_bg": {
+        "__uuid__": "a7+1i+ex9NgrT7A6lhIJSc"
+      },
+      "double_main_progress_circle_bg": {
+        "__uuid__": "d8CKIrDZpEzoJNQlgPRRg6"
+      },
+      "double_main_progress_circle_selected": {
+        "__uuid__": "d6QsokYqFBiYmwQlAZKeIU"
+      },
+      "double_main_progress_sprite": {
+        "__uuid__": "0d/qYfnoRNuqxmVrWbPkJl"
+      },
+      "double_newResult_bg_1": {
+        "__uuid__": "48GAxwI1VFXIYmW34paEYm"
+      },
+      "double_newResult_bg_2": {
+        "__uuid__": "88tKiItW1JKrOap63Y/mBa"
+      },
+      "double_newResult_yellow": {
+        "__uuid__": "508SOYrRtHaq5o2iUZmquO"
+      },
+      "double_nreResult_roll_bg": {
+        "__uuid__": "4dja6l1BxEm5R4J5awxlu+"
+      },
+      "double_pause_continue": {
+        "__uuid__": "08XzE9BhtMrqs6GicdEQn9"
+      },
+      "double_pause_main": {
+        "__uuid__": "3d/3dDt1lO3IuiqSsUuRY6"
+      },
+      "double_pause_share": {
+        "__uuid__": "f4hlJHR+lANo/Cz8fV+0ip"
+      },
+      "double_result_again": {
+        "__uuid__": "b0+b5MyF5GOYlsmjsWwRex"
+      },
+      "double_result_bg": {
+        "__uuid__": "2eRpmytQxLBKJBSEDV5aJN"
+      },
+      "double_rewardWeapon_bg": {
+        "__uuid__": "14eZt1OI5P/Z1C50rXNyfZ"
+      },
+      "double_rewardWeapon_tri": {
+        "__uuid__": "0fy1ynFoVJjL+//UXG59oO"
+      },
+      "double_rewardWeapon_triGet": {
+        "__uuid__": "6aazjxJBpDLbKl8E2t1PoQ"
+      },
+      "double_titlePage_coin": {
+        "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+      },
+      "double_titlePage_rank": {
+        "__uuid__": "4cGLMsgz1NOoD3GfLzlio2"
+      },
+      "double_titlePage_title": {
+        "__uuid__": "9bhKn0frlF/JKp2B9AnfnF"
+      },
+      "double_weaponsDepot_bg_white": {
+        "__uuid__": "b6b/s/wsxBrohS4nlvOZbu"
+      },
+      "double_weaponsDepot_icon_circle": {
+        "__uuid__": "8bGnuNlpdBvKn3D0fT/t48"
+      },
+      "double_weaponsDepot_icon_reward": {
+        "__uuid__": "a9RcL9IA5As4ptJkddZC+G"
+      },
+      "double_weaponsDepot_icon_video": {
+        "__uuid__": "23oiJU68RAyagQOjSKQgaO"
+      },
+      "double_weaponsDepot_icon_weapon": {
+        "__uuid__": "7di0iaJHxHNojE1qxWDQGd"
+      },
+      "double_window_newWeapon_checkBox_bg": {
+        "__uuid__": "66lk8BsPxE55Nu+jLQEtnl"
+      },
+      "double_window_newWeapon_checkBox_choose": {
+        "__uuid__": "e8aaZ+TuNFj66tKwuB6PN5"
+      },
+      "double_window_newWeapon_close": {
+        "__uuid__": "31rZ2VwPhLjZb/43H08h/8"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_main_progress_circle_selected",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        206,
+        974,
+        24,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_main_progress_circle_bg",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        232,
+        974,
+        24,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_back",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        584,
+        298,
+        42,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        42,
+        49
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_common_bg_1",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        848,
+        463,
+        86,
+        89
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        89
+      ],
+      "capInsets": [
+        34,
+        34,
+        34,
+        39
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_window_newWeapon_checkBox_choose",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        584,
+        252,
+        44,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_pause_share",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        450,
+        557,
+        122,
+        122
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        122,
+        122
+      ]
+    }
+  }
+]

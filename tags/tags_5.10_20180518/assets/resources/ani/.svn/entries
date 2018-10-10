@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.10_20180518/assets/resources/ani
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -28,40 +28,6 @@ yuhongbin
 
 maozi
 dir
-
-ddz_matching.meta
-file
-
-
-
-
-2018-09-11T17:41:43.000000Z
-ec40796939c2b87e97241ff0f48b16a8
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
 
 doudizhu.meta
 file
@@ -97,10 +63,41 @@ xujing
 
 88
 
-winorlose
-dir
+ddz_matching.meta
+file
+
+
+
+
+2018-09-11T17:41:43.000000Z
+ec40796939c2b87e97241ff0f48b16a8
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
 
-yindao
+winorlose
 dir
 
 jiesuan.meta
@@ -137,7 +134,7 @@ xujing
 
 88
 
-guanqia
+yindao
 dir
 
 table_chat_ani.anim.meta
@@ -151,6 +148,43 @@ file
 2018-04-27T19:34:21.715493Z
 18535
 xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+guanqia
+dir
+
+jinji.meta
+file
+
+
+
+
+2018-09-11T17:41:43.000000Z
+3e2597156bb2127d4736991aa4e6b183
+2018-05-07T02:56:35.349228Z
+18942
+yuhongbin
 
 
 
@@ -208,17 +242,17 @@ xujing
 
 88
 
-jinji.meta
+pop_order_info.meta
 file
 
 
 
 
 2018-09-11T17:41:43.000000Z
-3e2597156bb2127d4736991aa4e6b183
-2018-05-07T02:56:35.349228Z
-18942
-yuhongbin
+469e451a3c0e8a5ea0a402a40f8d84e5
+2018-05-10T11:41:42.420671Z
+19121
+xujing
 
 
 
@@ -241,12 +275,6 @@ yuhongbin
 
 
 88
-
-fangjiantx
-dir
-
-ranking
-dir
 
 progress.meta
 file
@@ -282,39 +310,11 @@ xujing
 
 88
 
-pop_order_info.meta
-file
-
-
-
-
-2018-09-11T17:41:43.000000Z
-469e451a3c0e8a5ea0a402a40f8d84e5
-2018-05-10T11:41:42.420671Z
-19121
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
+ranking
+dir
+
+fangjiantx
+dir
 
 doudizhu
 dir

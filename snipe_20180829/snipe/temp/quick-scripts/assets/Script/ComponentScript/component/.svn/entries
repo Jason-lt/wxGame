@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/snipe/temp/quick-scripts/assets/Script/ComponentScript/component
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ zhangman
 
 2466
 
-shot_addScoreAni.js
-file
-
-
-
-
-2018-09-11T17:40:38.000000Z
-1b20c5e03c16063f1d71d377a1de02e7
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2155
-
 dead.js.map
 file
 
@@ -162,14 +128,14 @@ zhangman
 
 2780
 
-shot_bucket.js
+shot_addScoreAni.js
 file
 
 
 
 
 2018-09-11T17:40:38.000000Z
-b039e047c10af030406a76f5b5cf7cf4
+1b20c5e03c16063f1d71d377a1de02e7
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -194,7 +160,7 @@ zhangman
 
 
 
-20941
+2155
 
 main_toast.js.map
 file
@@ -229,6 +195,40 @@ zhangman
 
 
 3233
+
+shot_bucket.js
+file
+
+
+
+
+2018-09-11T17:40:38.000000Z
+b039e047c10af030406a76f5b5cf7cf4
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20941
 
 countDown.js
 file
@@ -332,14 +332,14 @@ zhangman
 
 1942
 
-shot_gun.js
+shot_toast_tips.js
 file
 
 
 
 
 2018-09-11T17:40:38.000000Z
-dfa9d6bf3181294a5bff26ab40947762
+441a3287c4f8e495dea085bcdada3ad5
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -364,41 +364,7 @@ zhangman
 
 
 
-9422
-
-shot_bucket.js.map
-file
-
-
-
-
-2018-09-11T17:40:38.000000Z
-0c7d468501ecf462a4a3dae4710bf453
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-37009
+2808
 
 shot_bottle.js
 file
@@ -434,14 +400,14 @@ zhangman
 
 7627
 
-shot_toast_tips.js
+shot_bucket.js.map
 file
 
 
 
 
 2018-09-11T17:40:38.000000Z
-441a3287c4f8e495dea085bcdada3ad5
+0c7d468501ecf462a4a3dae4710bf453
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -466,7 +432,41 @@ zhangman
 
 
 
-2808
+37009
+
+shot_gun.js
+file
+
+
+
+
+2018-09-11T17:40:38.000000Z
+dfa9d6bf3181294a5bff26ab40947762
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9422
 
 shot_rank.js
 file

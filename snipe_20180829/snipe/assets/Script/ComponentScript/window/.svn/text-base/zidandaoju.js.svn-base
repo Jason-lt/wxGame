@@ -31,6 +31,9 @@ cc.Class({
     },
 
     updateProp:function(state,count){
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
+        snipe.GlobalFuncs.hideAdBtnWithTag(5001,true);
+
         if(!count){
             count = 1;
         }
@@ -50,6 +53,7 @@ cc.Class({
             var type = snipe.GameWorld.treasureBoxTypeList[state];
             this.propTips.string = snipe.GameWorld.propertyConfig[type].name;
             this.propDescLabel.string = snipe.GameWorld.propertyConfig[type].desc;
+            snipe.GlobalFuncs.setBulletType(snipe.GameWorld.propertyConfig[type].bulletType);
         }
         this.playLoopAni(state);
     },
@@ -84,7 +88,20 @@ cc.Class({
             }
         }
         this.stopLoopAni();
+
+        this.showAd();
+
         this.node.destroy();
+    },
+
+    showAd : function () {
+        this.node.removeFromParent();
+        var curScene = cc.director.getScene();
+        if (curScene.name == 'shot_main'){
+            snipe.GlobalFuncs.showAdBtnWithTag(5002,"normalLevel");
+        }else {
+            ty.NotificationCenter.trigger(ty.EventType.GET_AD_MSG_SUCCESS);
+        }
     },
 
     onDestroy : function () {

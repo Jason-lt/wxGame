@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/res/images/ddz_message
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-04-24T09:21:04.115433Z
-18354
+2018-09-28T08:11:38.510364Z
+21026
 liaotao
 
 
@@ -96,7 +96,7 @@ has-props
 
 ddz_reward_bag.png
 file
-21026
+
 
 
 
@@ -198,7 +198,7 @@ has-props
 
 ddz_reward_redBag_0.png
 file
-21026
+
 
 
 
@@ -230,16 +230,16 @@ has-props
 
 14397
 
-ddz_message_unopen.png
+ddz_message_bar.png
 file
 
 
 
 
 2018-09-11T17:40:17.000000Z
-141cd0258bf2ac097eb925f7589ec345
-2018-04-23T08:22:52.992427Z
-18292
+2ce105368a7a76e51dac1d1b1bc2b573
+2018-04-16T06:34:59.386147Z
+17951
 liaotao
 has-props
 
@@ -262,7 +262,7 @@ has-props
 
 
 
-1348
+256
 
 ddz_message_rectangle.png
 file
@@ -298,16 +298,16 @@ has-props
 
 1295
 
-ddz_message_bar.png
+ddz_message_unopen.png
 file
 
 
 
 
 2018-09-11T17:40:17.000000Z
-2ce105368a7a76e51dac1d1b1bc2b573
-2018-04-16T06:34:59.386147Z
-17951
+141cd0258bf2ac097eb925f7589ec345
+2018-04-23T08:22:52.992427Z
+18292
 liaotao
 has-props
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-256
+1348
 
 ddz_message_close.png
 file
@@ -468,40 +468,6 @@ has-props
 
 2309
 
-ddz_message_white.png
-file
-
-
-
-
-2018-09-11T17:40:17.000000Z
-4d17e6a501c1429a9710d63d35e8c7b7
-2018-04-23T08:22:52.992427Z
-18292
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-662
-
 ddz_message_bg_small.png
 file
 
@@ -536,9 +502,43 @@ has-props
 
 9091
 
+ddz_message_white.png
+file
+
+
+
+
+2018-09-11T17:40:17.000000Z
+4d17e6a501c1429a9710d63d35e8c7b7
+2018-04-23T08:22:52.992427Z
+18292
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+662
+
 ddz_reward_money_red.png
 file
-21026
+
 
 
 
@@ -572,7 +572,7 @@ has-props
 
 ddz_reward_money_yellow.png
 file
-21026
+
 
 
 
@@ -606,7 +606,7 @@ has-props
 
 ddz_reward_max.png
 file
-21026
+
 
 
 

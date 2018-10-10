@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.97_20180703/assets/resources/table/nopack
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -536,40 +536,6 @@ yuhongbin
 
 689
 
-ddz_welfare_weilingqu_bg.png
-file
-
-
-
-
-2018-09-11T17:42:38.000000Z
-606fa3ed974580306376ab05be24c507
-2018-06-12T09:59:57.384178Z
-19937
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-597
-
 ddz_yindao_shou.png
 file
 
@@ -604,17 +570,17 @@ has-props
 
 5502
 
-ddz_avatar_default.png
+ddz_welfare_weilingqu_bg.png
 file
 
 
 
 
 2018-09-11T17:42:38.000000Z
-213b013c2ff980e9f9ae4758c5d3f1a7
-2018-04-25T07:59:08.266191Z
-18394
-xujing
+606fa3ed974580306376ab05be24c507
+2018-06-12T09:59:57.384178Z
+19937
+liaotao
 has-props
 
 
@@ -636,7 +602,41 @@ has-props
 
 
 
-1540
+597
+
+ddz_welfare_icon.png.meta
+file
+
+
+
+
+2018-09-11T17:42:38.000000Z
+9f78830e7121b5d57c16cf5a5349e259
+2018-06-11T15:33:31.896226Z
+19912
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+685
 
 ddz_welfare_help.png.meta
 file
@@ -672,17 +672,18 @@ liaotao
 
 687
 
-ddz_welfare_icon.png.meta
+ddz_avatar_default.png
 file
 
 
 
 
 2018-09-11T17:42:38.000000Z
-9f78830e7121b5d57c16cf5a5349e259
-2018-06-11T15:33:31.896226Z
-19912
-liaotao
+213b013c2ff980e9f9ae4758c5d3f1a7
+2018-04-25T07:59:08.266191Z
+18394
+xujing
+has-props
 
 
 
@@ -703,8 +704,7 @@ liaotao
 
 
 
-
-685
+1540
 
 black_bg.png
 file
@@ -808,40 +808,6 @@ liaotao
 
 682
 
-ddz_welfare_help.png
-file
-
-
-
-
-2018-09-11T17:42:38.000000Z
-9a126ae0f46b76cc932c4bfb6d2e766f
-2018-06-11T15:33:31.896226Z
-19912
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-685
-
 ddz_welfare_icon.png
 file
 
@@ -875,6 +841,40 @@ has-props
 
 
 5583
+
+ddz_welfare_help.png
+file
+
+
+
+
+2018-09-11T17:42:38.000000Z
+9a126ae0f46b76cc932c4bfb6d2e766f
+2018-06-11T15:33:31.896226Z
+19912
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+685
 
 ddz_hongbao_bj1.png.meta
 file
@@ -910,40 +910,6 @@ yuhongbin
 
 688
 
-ddz_hongbao_bj7_1.png
-file
-
-
-
-
-2018-09-11T17:42:38.000000Z
-dfd5239b2a54b2441921949ea86de72d
-2018-05-21T10:44:14.871558Z
-19540
-yuhongbin
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3751
-
 ddz_welfare_banner.png.meta
 file
 
@@ -978,14 +944,14 @@ liaotao
 
 687
 
-ddz_hongbao_bj8_1.png
+ddz_hongbao_bj7_1.png
 file
 
 
 
 
 2018-09-11T17:42:38.000000Z
-8ca3c48b50a66c24a21b17693b4bc732
+dfd5239b2a54b2441921949ea86de72d
 2018-05-21T10:44:14.871558Z
 19540
 yuhongbin
@@ -1010,7 +976,7 @@ has-props
 
 
 
-3320
+3751
 
 ddz_hongbao_bj3.png.meta
 file
@@ -1045,6 +1011,40 @@ liaotao
 
 
 688
+
+ddz_hongbao_bj8_1.png
+file
+
+
+
+
+2018-09-11T17:42:38.000000Z
+8ca3c48b50a66c24a21b17693b4bc732
+2018-05-21T10:44:14.871558Z
+19540
+yuhongbin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3320
 
 ddz_tasks_di.png
 file

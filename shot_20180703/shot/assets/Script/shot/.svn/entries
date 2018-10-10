@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/shot/assets/Script/shot
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-07T13:49:00.136341Z
-20895
+2018-10-08T13:50:03.505095Z
+21047
 zhangman
 
 
@@ -94,11 +94,45 @@ zhangman
 
 197
 
+models
+dir
+
 msg_handler
 dir
 
-models
-dir
+shot_res.js.meta
+file
+
+
+
+
+2018-09-11T17:39:04.000000Z
+5251baef7e422c430b55b2895f0f09f6
+2018-07-07T11:06:17.341781Z
+20271
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 QrOption.js
 file
@@ -134,17 +168,51 @@ zhangman
 
 1653
 
-shot_res.js.meta
+sxAdManager2.js
+file
+
+
+
+
+2018-10-10T23:28:07.000000Z
+cd1226f35a1a0e53750d6b7d8db84a7a
+2018-10-08T13:50:03.505095Z
+21047
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13899
+
+sxAdManager.js.meta
 file
 
 
 
 
 2018-09-11T17:39:04.000000Z
-5251baef7e422c430b55b2895f0f09f6
-2018-07-07T11:06:17.341781Z
-20271
-liaotao
+d2e9713a8108d080162e746ee9ce5af6
+2018-09-07T09:27:04.351076Z
+20894
+zhangman
 
 
 
@@ -202,50 +270,16 @@ has-props
 
 2577
 
-sxAdManager.js.meta
-file
-
-
-
-
-2018-09-11T17:39:04.000000Z
-d2e9713a8108d080162e746ee9ce5af6
-2018-09-07T09:27:04.351076Z
-20894
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 game_world.js
 file
 
 
 
 
-2018-09-11T17:39:04.000000Z
-c001892cd6d6fb4b9735453043320c4f
-2018-09-07T13:49:00.136341Z
-20895
+2018-10-10T23:28:07.000000Z
+939dce96ec4168ce15a8681834a878c2
+2018-10-08T13:50:03.505095Z
+21047
 zhangman
 has-props
 
@@ -268,7 +302,7 @@ has-props
 
 
 
-42168
+42254
 
 shotGlobalFuncs.js.meta
 file
@@ -372,40 +406,6 @@ liaotao
 
 197
 
-ServerManager.js.meta
-file
-
-
-
-
-2018-09-11T17:39:04.000000Z
-bf1fb36eee593a4a534900bd2ea441af
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 shot_res.js
 file
 
@@ -440,16 +440,16 @@ has-props
 
 2018
 
-sxAdManager.js
+ServerManager.js.meta
 file
 
 
 
 
 2018-09-11T17:39:04.000000Z
-9eb71b58ec0a9eccff50bec7bc1cdfac
-2018-09-07T13:49:00.136341Z
-20895
+bf1fb36eee593a4a534900bd2ea441af
+2018-07-03T13:00:12.347196Z
+20204
 zhangman
 
 
@@ -472,7 +472,41 @@ zhangman
 
 
 
-15596
+197
+
+sxAdManager.js
+file
+
+
+
+
+2018-10-10T23:28:07.000000Z
+06608c1a02235c2666aa0c91588b92a4
+2018-10-08T13:50:03.505095Z
+21047
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16465
 
 msg_handler.meta
 file
@@ -548,10 +582,10 @@ file
 
 
 
-2018-09-11T17:39:04.000000Z
-135e80eb905bf3f05941a9d2de12919d
-2018-09-07T13:49:00.136341Z
-20895
+2018-10-10T23:28:07.000000Z
+ddf82219484a6f3ec6a7fd19be242d80
+2018-10-08T13:50:03.505095Z
+21047
 zhangman
 has-props
 
@@ -574,7 +608,7 @@ has-props
 
 
 
-16614
+17198
 
 jump_boot.js
 file
@@ -711,4 +745,38 @@ zhangman
 
 
 5524
+
+sxAdManager2.js.meta
+file
+
+
+
+
+2018-10-10T23:28:07.000000Z
+29928f77fb007c17357c4446e333676c
+2018-09-28T08:54:20.423853Z
+21031
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 

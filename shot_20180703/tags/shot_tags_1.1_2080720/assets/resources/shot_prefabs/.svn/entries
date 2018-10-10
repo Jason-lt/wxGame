@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.1_2080720/assets/resources/shot_prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -26,17 +26,17 @@ zhangman
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
-shot_mystery_giftBag.prefab.meta
+debugNode.prefab.meta
 file
 
 
 
 
 2018-09-11T17:40:03.000000Z
-c7a9f96e4bb6969b58e1f3babafcb1ab
-2018-07-05T02:57:34.149300Z
-20226
-liaotao
+55831bb010c2b7e7d07dbdc108e1317b
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
 
 
 
@@ -60,17 +60,17 @@ liaotao
 
 116
 
-debugNode.prefab.meta
+shot_mystery_giftBag.prefab.meta
 file
 
 
 
 
 2018-09-11T17:40:03.000000Z
-55831bb010c2b7e7d07dbdc108e1317b
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
+c7a9f96e4bb6969b58e1f3babafcb1ab
+2018-07-05T02:57:34.149300Z
+20226
+liaotao
 
 
 
@@ -128,40 +128,6 @@ liaotao
 
 116
 
-newerNode.prefab
-file
-
-
-
-
-2018-09-11T17:40:03.000000Z
-da87807ca795582e1017124a53b100d3
-2018-07-07T10:40:04.778546Z
-20270
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12507
-
 shot_toast_tips.prefab
 file
 
@@ -195,6 +161,40 @@ liaotao
 
 
 4954
+
+newerNode.prefab
+file
+
+
+
+
+2018-09-11T17:40:03.000000Z
+da87807ca795582e1017124a53b100d3
+2018-07-07T10:40:04.778546Z
+20270
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12507
 
 shot_rank.prefab
 file
@@ -298,40 +298,6 @@ zhangman
 
 42999
 
-shot_mystery_giftBag.prefab
-file
-
-
-
-
-2018-09-11T17:40:03.000000Z
-96cead252be3278cd613f649de51f4a8
-2018-07-18T07:34:39.852385Z
-20391
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-36207
-
 debugNode.prefab
 file
 
@@ -365,6 +331,40 @@ zhangman
 
 
 36619
+
+shot_mystery_giftBag.prefab
+file
+
+
+
+
+2018-09-11T17:40:03.000000Z
+96cead252be3278cd613f649de51f4a8
+2018-07-18T07:34:39.852385Z
+20391
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36207
 
 shot_diamond.prefab.meta
 file
@@ -468,17 +468,17 @@ zhangman
 
 116
 
-shot_prop.prefab.meta
+shot_getProp.prefab.meta
 file
 
 
 
 
 2018-09-11T17:40:03.000000Z
-0ff259ebc073fde6cfa269cf4eba49fe
-2018-07-04T07:25:17.553810Z
-20208
-liaotao
+dbd930656fb3460fe4951bd196d38811
+2018-07-14T15:23:39.589813Z
+20359
+zhangman
 
 
 
@@ -502,17 +502,17 @@ liaotao
 
 116
 
-shot_getProp.prefab.meta
+shot_prop.prefab.meta
 file
 
 
 
 
 2018-09-11T17:40:03.000000Z
-dbd930656fb3460fe4951bd196d38811
-2018-07-14T15:23:39.589813Z
-20359
-zhangman
+0ff259ebc073fde6cfa269cf4eba49fe
+2018-07-04T07:25:17.553810Z
+20208
+liaotao
 
 
 

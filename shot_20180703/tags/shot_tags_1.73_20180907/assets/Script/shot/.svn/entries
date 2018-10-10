@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.73_20180907/assets/Script/shot
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,11 +94,45 @@ zhangman
 
 197
 
+models
+dir
+
 msg_handler
 dir
 
-models
-dir
+shot_res.js.meta
+file
+
+
+
+
+2018-09-11T17:39:28.000000Z
+5251baef7e422c430b55b2895f0f09f6
+2018-07-07T11:06:17.341781Z
+20271
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 QrOption.js
 file
@@ -134,17 +168,17 @@ zhangman
 
 1653
 
-shot_res.js.meta
+sxAdManager.js.meta
 file
 
 
 
 
 2018-09-11T17:39:28.000000Z
-5251baef7e422c430b55b2895f0f09f6
-2018-07-07T11:06:17.341781Z
-20271
-liaotao
+d2e9713a8108d080162e746ee9ce5af6
+2018-09-07T09:27:04.351076Z
+20894
+zhangman
 
 
 
@@ -201,40 +235,6 @@ has-props
 
 
 2577
-
-sxAdManager.js.meta
-file
-
-
-
-
-2018-09-11T17:39:28.000000Z
-d2e9713a8108d080162e746ee9ce5af6
-2018-09-07T09:27:04.351076Z
-20894
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 game_world.js
 file
@@ -372,40 +372,6 @@ liaotao
 
 197
 
-ServerManager.js.meta
-file
-
-
-
-
-2018-09-11T17:39:28.000000Z
-bf1fb36eee593a4a534900bd2ea441af
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 shot_res.js
 file
 
@@ -439,6 +405,40 @@ has-props
 
 
 2018
+
+ServerManager.js.meta
+file
+
+
+
+
+2018-09-11T17:39:28.000000Z
+bf1fb36eee593a4a534900bd2ea441af
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 sxAdManager.js
 file

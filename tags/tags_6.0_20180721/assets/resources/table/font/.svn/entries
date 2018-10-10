@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_6.0_20180721/assets/resources/table/font
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -570,40 +570,6 @@ yuhongbin
 
 1681
 
-jifen-.png.meta
-file
-
-
-
-
-2018-09-11T17:44:22.000000Z
-3f1dbe6872828cccaf5ad148f38e2b20
-2018-05-10T16:49:40.567413Z
-19147
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-683
-
 fnt03.fnt
 file
 
@@ -637,6 +603,40 @@ has-props
 
 
 1466
+
+jifen-.png.meta
+file
+
+
+
+
+2018-09-11T17:44:22.000000Z
+3f1dbe6872828cccaf5ad148f38e2b20
+2018-05-10T16:49:40.567413Z
+19147
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+683
 
 shibaibeishu.png
 file
@@ -808,40 +808,6 @@ has-props
 
 15953
 
-jifen+.fnt
-file
-
-
-
-
-2018-09-11T17:44:22.000000Z
-519b6ef45a829bcf09d22caf608ac96b
-2018-05-10T16:49:40.567413Z
-19147
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1961
-
 daquan.png
 file
 
@@ -875,6 +841,40 @@ has-props
 
 
 45890
+
+jifen+.fnt
+file
+
+
+
+
+2018-09-11T17:44:22.000000Z
+519b6ef45a829bcf09d22caf608ac96b
+2018-05-10T16:49:40.567413Z
+19147
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1961
 
 jifen-.fnt
 file

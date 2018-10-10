@@ -1,7 +1,7 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/Script/hall/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ has-props
 
 988
 
-CustomRoomInfo.js.meta
-file
-
-
-
-
-2018-09-06T17:54:13.000000Z
-930d452f2d9fa77dabfb628ab0ffa112
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 MatchInfo.js
 file
 
@@ -162,18 +128,17 @@ liaotao
 
 7731
 
-UserInfoUData.js
+CustomRoomInfo.js.meta
 file
 
 
 
 
-2018-09-06T17:31:30.000000Z
-34464838c3cc9a2d45197a399b736cb4
+2018-09-06T17:54:13.000000Z
+930d452f2d9fa77dabfb628ab0ffa112
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
-has-props
 
 
 
@@ -194,7 +159,8 @@ has-props
 
 
 
-4568
+
+197
 
 LoginInfo.js.meta
 file
@@ -229,6 +195,40 @@ liaotao
 
 
 197
+
+UserInfoUData.js
+file
+
+
+
+
+2018-09-06T17:31:30.000000Z
+34464838c3cc9a2d45197a399b736cb4
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4568
 
 TodoTaskVec.js.meta
 file
@@ -400,40 +400,6 @@ liaotao
 
 197
 
-UserInfoGdata.js.meta
-file
-
-
-
-
-2018-09-06T17:54:13.000000Z
-97031cf7b0354884996bf5344f9cc3c8
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 HallUserInfo.js.meta
 file
 
@@ -468,14 +434,14 @@ liaotao
 
 197
 
-UserHeartBeat.js.meta
+UserInfoGdata.js.meta
 file
 
 
 
 
 2018-09-06T17:54:13.000000Z
-cfdd1f65904baa5e35e3c974fb95d96b
+97031cf7b0354884996bf5344f9cc3c8
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -535,6 +501,40 @@ has-props
 
 
 3321
+
+UserHeartBeat.js.meta
+file
+
+
+
+
+2018-09-06T17:54:13.000000Z
+cfdd1f65904baa5e35e3c974fb95d96b
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 LoginInfo.js
 file

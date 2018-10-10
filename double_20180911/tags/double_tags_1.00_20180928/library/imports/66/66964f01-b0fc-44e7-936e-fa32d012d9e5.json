@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_window_newWeapon_checkBox_bg",
+    "texture": "c03866ed-d581-46bb-a9be-2e0ef36de7c9",
+    "atlas": "d11001a8-9e03-48d7-b222-b3ca0a2ab5e9",
+    "rect": [
+      2,
+      974,
+      46,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      46
+    ]
+  }
+}

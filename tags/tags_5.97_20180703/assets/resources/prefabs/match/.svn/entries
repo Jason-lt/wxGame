@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.97_20180703/assets/resources/prefabs/match
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -128,40 +128,6 @@ xiaochuntian
 
 116
 
-ddz_bannerResurgence.prefab
-file
-
-
-
-
-2018-09-11T17:42:36.000000Z
-b86b0aaead4d9ae303f2b769e7c0dd84
-2018-06-22T11:20:37.609357Z
-20088
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-19042
-
 ddz_arena_start.prefab.meta
 file
 
@@ -196,16 +162,16 @@ xiaochuntian
 
 116
 
-ddz_congratulation.prefab
+ddz_bannerResurgence.prefab
 file
 
 
 
 
 2018-09-11T17:42:36.000000Z
-d59ec0b9a5791749ab9fd115bd3e6962
-2018-06-21T02:04:04.263789Z
-20049
+b86b0aaead4d9ae303f2b769e7c0dd84
+2018-06-22T11:20:37.609357Z
+20088
 liaotao
 
 
@@ -228,7 +194,7 @@ liaotao
 
 
 
-138722
+19042
 
 ddz_toast_cell.prefab
 file
@@ -263,6 +229,40 @@ liaotao
 
 
 4999
+
+ddz_congratulation.prefab
+file
+
+
+
+
+2018-09-11T17:42:36.000000Z
+d59ec0b9a5791749ab9fd115bd3e6962
+2018-06-21T02:04:04.263789Z
+20049
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138722
 
 ddz_arena_result_lose.prefab.meta
 file

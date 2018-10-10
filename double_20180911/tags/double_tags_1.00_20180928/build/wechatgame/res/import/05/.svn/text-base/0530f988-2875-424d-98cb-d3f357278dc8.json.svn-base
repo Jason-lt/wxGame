@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hua ping 02",
+    "texture": "14ksm+l8FGmLZepZHLNCug",
+    "rect": [
+      0,
+      0,
+      60,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      65
+    ]
+  }
+}

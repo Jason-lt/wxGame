@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/res/images/ddz_guide
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -196,40 +196,6 @@ has-props
 
 16922
 
-ddz_guide_issue.png
-file
-
-
-
-
-2018-09-11T17:40:18.000000Z
-1b9260f3d58cb15e9ec218772fa95966
-2018-05-14T11:31:53.333810Z
-19302
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1063
-
 ddz_guide_add.png
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 1117
+
+ddz_guide_issue.png
+file
+
+
+
+
+2018-09-11T17:40:18.000000Z
+1b9260f3d58cb15e9ec218772fa95966
+2018-05-14T11:31:53.333810Z
+19302
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1063
 
 ddz_bottom_bg.png
 file
@@ -332,16 +332,16 @@ has-props
 
 35739
 
-ddz_guide_circle.png
+getDiamondBtn.png
 file
 
 
 
 
 2018-09-11T17:40:18.000000Z
-e39ccaff0af77b5a0b66ccea398c5da6
-2018-06-28T02:46:45.777001Z
-20163
+f2c417b7956d186697c50cecf787dab6
+2018-08-27T06:53:29.007017Z
+20786
 liaotao
 has-props
 
@@ -364,7 +364,7 @@ has-props
 
 
 
-2313
+15318
 
 ddz_guide_2.png
 file
@@ -400,16 +400,16 @@ has-props
 
 18051
 
-getDiamondBtn.png
+ddz_guide_circle.png
 file
 
 
 
 
 2018-09-11T17:40:18.000000Z
-f2c417b7956d186697c50cecf787dab6
-2018-08-27T06:53:29.007017Z
-20786
+e39ccaff0af77b5a0b66ccea398c5da6
+2018-06-28T02:46:45.777001Z
+20163
 liaotao
 has-props
 
@@ -432,7 +432,7 @@ has-props
 
 
 
-15318
+2313
 
 ddz_guide_3.png
 file

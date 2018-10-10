@@ -30,6 +30,10 @@ cc.Class({
             shareType == shot.Share.onShareType.clickStatShareTypeMysteryGiftBagGetReward) {
             var _config = shot.GameWorld.gunnerShareSchemeConfig;
             if (_config && _config.giftBagShareGetDiamond && !ty.UserInfo.isInBSGS){
+                if(!shot.gameModel.shareTimeEnough){
+                    hall.MsgBoxManager.showToast({title : '换个群试试吧'});
+                    return;
+                }
                 var reultType = shot.Share.resultType;
                 switch (reultType) {
                     case 1:
@@ -76,6 +80,7 @@ cc.Class({
     onClickCenterButton:function(){
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["mysteryGifgBag"]);
         var _config = shot.GameWorld.gunnerShareSchemeConfig;
+        shot.gameModel.shareRec = 0;
         if (_config && _config.giftBagShareGetDiamond && !ty.UserInfo.isInBSGS){
             shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeMysteryGiftBagGetReward);
         }else {

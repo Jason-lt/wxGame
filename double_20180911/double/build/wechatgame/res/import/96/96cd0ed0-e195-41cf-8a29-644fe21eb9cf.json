@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank_line",
+    "texture": "b9XvhrQJtLwJcXyZlSk0Ou",
+    "rect": [
+      0,
+      0,
+      507,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      507,
+      4
+    ]
+  }
+}

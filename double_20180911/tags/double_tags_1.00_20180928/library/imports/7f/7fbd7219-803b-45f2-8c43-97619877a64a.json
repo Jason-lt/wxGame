@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_weaponsDepot",
+    "texture": "5c36112c-a603-43eb-9310-181ba85dfd3d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      508,
+      1014
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

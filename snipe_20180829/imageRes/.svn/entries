@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/imageRes
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-11T01:50:55.521234Z
-20905
+2018-09-14T15:51:30.791254Z
+20930
 zhangman
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2018-09-11T17:40:33.000000Z
-4f4f17ff5950e9e3da170bfb6b722136
-2018-09-05T12:54:35.005672Z
-20872
+2018-10-10T23:26:22.000000Z
+5e01a27207084c9b3174cdf7434dcc34
+2018-09-14T15:51:30.791254Z
+20930
 zhangman
 
 
@@ -165,74 +165,6 @@ has-props
 
 913518
 
-shot_grenade.plist
-file
-
-
-
-
-2018-09-11T17:40:33.000000Z
-b87794d85900516a3ba07f26d4d26645
-2018-09-05T12:54:35.005672Z
-20872
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11229
-
-shot_bottles.png
-file
-
-
-
-
-2018-09-11T17:40:33.000000Z
-bb26bd6ac53eb86b676a5fd1daa75072
-2018-09-11T01:50:55.521234Z
-20905
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-313519
-
 shot_scene_ui.tps
 file
 
@@ -266,6 +198,74 @@ zhangman
 
 
 5415
+
+shot_bottles.png
+file
+
+
+
+
+2018-10-10T23:26:22.000000Z
+18883d2f37a39c574111384cb560fb5e
+2018-09-14T15:51:30.791254Z
+20930
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+314059
+
+shot_grenade.plist
+file
+
+
+
+
+2018-09-11T17:40:33.000000Z
+b87794d85900516a3ba07f26d4d26645
+2018-09-05T12:54:35.005672Z
+20872
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11229
 
 shot_main_ui.png
 file
@@ -301,6 +301,9 @@ has-props
 
 2309693
 
+shot_grenade
+dir
+
 shot_scene_ui_2.plist
 file
 
@@ -335,19 +338,16 @@ zhangman
 
 11416
 
-shot_grenade
-dir
-
 shot_bottles.plist
 file
 
 
 
 
-2018-09-11T17:40:33.000000Z
-c5bd24a4fd44217ea67cafbf66521fc0
-2018-09-11T01:50:55.521234Z
-20905
+2018-10-10T23:26:22.000000Z
+64b16a2ed25fd91f017e70f7f66ecc59
+2018-09-14T15:51:30.791254Z
+20930
 zhangman
 
 
@@ -370,7 +370,7 @@ zhangman
 
 
 
-45101
+45103
 
 shot_grenade.tps
 file
@@ -406,9 +406,6 @@ zhangman
 
 5411
 
-shot_scene_ui_2
-dir
-
 shot_main_ui.plist
 file
 
@@ -443,6 +440,9 @@ zhangman
 
 19155
 
+shot_scene_ui_2
+dir
+
 shot_bottles
 dir
 
@@ -452,10 +452,10 @@ file
 
 
 
-2018-09-11T17:40:33.000000Z
-1a556ec8e86bfb01015e3272bee3e115
-2018-09-05T12:54:35.005672Z
-20872
+2018-10-10T23:26:22.000000Z
+8e56e2f57c5c0cdb7ca4c44a586acc50
+2018-09-14T15:51:30.791254Z
+20930
 zhangman
 has-props
 
@@ -478,7 +478,7 @@ has-props
 
 
 
-655237
+676634
 
 nopack
 dir

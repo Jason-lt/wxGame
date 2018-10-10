@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.31_20180730/assets/Script/shot
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,45 +94,11 @@ zhangman
 
 197
 
-msg_handler
-dir
-
 models
 dir
 
-QrOption.js
-file
-
-
-
-
-2018-09-11T17:39:08.000000Z
-f5a521a9d747de55261953663f1b20cd
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1653
+msg_handler
+dir
 
 shot_res.js.meta
 file
@@ -167,6 +133,40 @@ liaotao
 
 
 197
+
+QrOption.js
+file
+
+
+
+
+2018-09-11T17:39:08.000000Z
+f5a521a9d747de55261953663f1b20cd
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1653
 
 JumpEventType.js
 file
@@ -338,40 +338,6 @@ liaotao
 
 197
 
-ServerManager.js.meta
-file
-
-
-
-
-2018-09-11T17:39:08.000000Z
-bf1fb36eee593a4a534900bd2ea441af
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 shot_res.js
 file
 
@@ -406,14 +372,14 @@ has-props
 
 1413
 
-models.meta
+ServerManager.js.meta
 file
 
 
 
 
 2018-09-11T17:39:08.000000Z
-1e52eb01776561324ab39115c7ddb05d
+bf1fb36eee593a4a534900bd2ea441af
 2018-07-03T13:00:12.347196Z
 20204
 zhangman
@@ -438,7 +404,7 @@ zhangman
 
 
 
-88
+197
 
 shotGlobalFuncs.js
 file
@@ -473,6 +439,40 @@ has-props
 
 
 13740
+
+models.meta
+file
+
+
+
+
+2018-09-11T17:39:08.000000Z
+1e52eb01776561324ab39115c7ddb05d
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
 
 msg_handler.meta
 file

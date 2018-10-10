@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/%20ddzImage/images/ddz_scene_ui_v2
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -604,14 +604,14 @@ has-props
 
 3104
 
-ddz_main_diamond.png
+ddz_gameDetail_score_bg_1.png
 file
 
 
 
 
 2018-09-11T17:40:14.000000Z
-fdcf378a720c0616e0d4eea9ad5ded0b
+13dbdb1bf354808556d1dcb47ab0a998
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -636,41 +636,7 @@ has-props
 
 
 
-2194
-
-dda_history_cell_icon.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-8e6f969be04fcaa97f6b126148fc9c1d
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-706
+860
 
 dda_tableScene_icon_wechat.png
 file
@@ -706,14 +672,14 @@ has-props
 
 3443
 
-ddz_gameDetail_score_bg_1.png
+dda_history_cell_icon.png
 file
 
 
 
 
 2018-09-11T17:40:14.000000Z
-13dbdb1bf354808556d1dcb47ab0a998
+8e6f969be04fcaa97f6b126148fc9c1d
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -738,7 +704,41 @@ has-props
 
 
 
-860
+706
+
+ddz_main_diamond.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+fdcf378a720c0616e0d4eea9ad5ded0b
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2194
 
 ddz_gameDetail_score_bg_2.png
 file
@@ -842,40 +842,6 @@ has-props
 
 4215
 
-ddz_table_again.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-092e59a4c9c108d9f2dead00f91cc4bd
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2466
-
 ddz_tipsWindow_selected_v2.png
 file
 
@@ -909,6 +875,40 @@ has-props
 
 
 2417
+
+ddz_table_again.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+092e59a4c9c108d9f2dead00f91cc4bd
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2466
 
 ddz_main_getReward.png
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.25_20180430/assets/resources/spine
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ xujing
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-ddz_newoneself_dizhupo.png.meta
-file
-
-
-
-
-2018-09-11T17:43:09.000000Z
-defba8c447e22fe3302e8a8060169532
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-696
 
 ddz_newoneself_dizhupo.json
 file
@@ -94,14 +60,14 @@ has-props
 
 88111
 
-ddz_newoneself_dizhu.png.meta
+ddz_newoneself_dizhupo.png.meta
 file
 
 
 
 
 2018-09-11T17:43:09.000000Z
-2e45cc9b4bb2d5f2e40fd30ac137d519
+defba8c447e22fe3302e8a8060169532
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -126,7 +92,7 @@ xujing
 
 
 
-698
+696
 
 ddz_newoneself_dizhu.json
 file
@@ -161,6 +127,40 @@ has-props
 
 
 125399
+
+ddz_newoneself_dizhu.png.meta
+file
+
+
+
+
+2018-09-11T17:43:09.000000Z
+2e45cc9b4bb2d5f2e40fd30ac137d519
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+698
 
 ddz_newoneself_nongmin.atlas.meta
 file
@@ -366,40 +366,6 @@ has-props
 
 36669
 
-ddz_newoneself_nongmin.atlas
-file
-
-
-
-
-2018-09-11T17:43:09.000000Z
-d30c5078d94b92a9ba42a8dbf6dcdc28
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2917
-
 ddz_newoneself_nvwa.json.meta
 file
 
@@ -433,6 +399,40 @@ xujing
 
 
 217
+
+ddz_newoneself_nongmin.atlas
+file
+
+
+
+
+2018-09-11T17:43:09.000000Z
+d30c5078d94b92a9ba42a8dbf6dcdc28
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2917
 
 ddz_newoneself_dizhupo.atlas.meta
 file

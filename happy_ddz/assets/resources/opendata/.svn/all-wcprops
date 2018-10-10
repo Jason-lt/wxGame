@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata
-END
-ddz_rank_my.png
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/newsvn/hall-js/!svn/ver/21007/h5/happy_ddz/assets/resources/opendata/ddz_rank_my.png
+/newsvn/hall-js/!svn/ver/21007/h5/happy_ddz/assets/resources/opendata
 END
 ddz_rank_1.png.meta
 K 25
@@ -15,23 +9,17 @@ svn:wc:ra_dav:version-url
 V 89
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_1.png.meta
 END
+ddz_rank_my.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/newsvn/hall-js/!svn/ver/21007/h5/happy_ddz/assets/resources/opendata/ddz_rank_my.png
+END
 ddz_rank_2.png.meta
 K 25
 svn:wc:ra_dav:version-url
 V 89
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_2.png.meta
-END
-ddz_avatar_00.png.meta
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_avatar_00.png.meta
-END
-ddz_rank_3.png.meta
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_3.png.meta
 END
 ddz_rank_line.png
 K 25
@@ -39,17 +27,23 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_line.png
 END
+ddz_rank_3.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_3.png.meta
+END
+ddz_avatar_00.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_avatar_00.png.meta
+END
 ddz_avatar_01.png.meta
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_avatar_01.png.meta
-END
-ddz_avatar_bg.png.meta
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_avatar_bg.png.meta
 END
 ddz_rank_1.png
 K 25
@@ -57,17 +51,23 @@ svn:wc:ra_dav:version-url
 V 84
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_1.png
 END
+ddz_avatar_bg.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_avatar_bg.png.meta
+END
 ddz_rank_2.png
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_2.png
 END
-ddz_avatar_00.png
+ddz_rank_3.png
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/newsvn/hall-js/!svn/ver/21007/h5/happy_ddz/assets/resources/opendata/ddz_avatar_00.png
+V 84
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_3.png
 END
 ddz_coin_white.png.meta
 K 25
@@ -75,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 93
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_coin_white.png.meta
 END
-ddz_rank_3.png
+ddz_avatar_00.png
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/opendata/ddz_rank_3.png
+V 87
+/newsvn/hall-js/!svn/ver/21007/h5/happy_ddz/assets/resources/opendata/ddz_avatar_00.png
 END
 ddz_avatar_01.png
 K 25

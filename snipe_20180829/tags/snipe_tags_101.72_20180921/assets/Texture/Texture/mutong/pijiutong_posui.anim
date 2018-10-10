@@ -1,0 +1,618 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pijiutong_posui",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8333333333333334,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "pijiutong": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "pjt/t01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -37,
+                0
+              ],
+              "motionPath": [
+                [
+                  -116.9,
+                  42.3,
+                  -71.7,
+                  176,
+                  -132.9,
+                  -49.7
+                ]
+              ],
+              "curve": [
+                0.39,
+                0.37,
+                0.44,
+                0.92
+              ]
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": [
+                -142,
+                -279
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 200
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "pjt/t02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -33,
+                27
+              ],
+              "motionPath": [
+                [
+                  -153.7,
+                  62.2,
+                  -63.9,
+                  202.3,
+                  -213.7,
+                  -42.8
+                ]
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -275,
+                -350
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 120
+            }
+          ]
+        }
+      },
+      "pjt/t03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -25,
+                -8
+              ],
+              "motionPath": [
+                [
+                  -179,
+                  -88,
+                  -126,
+                  123,
+                  -213,
+                  -298
+                ]
+              ]
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": [
+                -224,
+                -424
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 350
+            }
+          ]
+        }
+      },
+      "pjt/t04": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -10
+              ],
+              "motionPath": [
+                [
+                  -100,
+                  -25.2,
+                  -82.5,
+                  133.6,
+                  -97,
+                  -200.2
+                ]
+              ],
+              "curve": [
+                0.24,
+                0.4,
+                0.56,
+                0.93
+              ]
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": [
+                -93,
+                -518
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 270
+            }
+          ]
+        }
+      },
+      "pjt/t05": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                24
+              ],
+              "motionPath": [
+                [
+                  61,
+                  -67,
+                  55,
+                  21,
+                  68,
+                  -174
+                ]
+              ],
+              "curve": [
+                0.29,
+                0.32,
+                0.55,
+                0.7
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                74,
+                -471
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.36666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 300
+            }
+          ]
+        }
+      },
+      "quan_56": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 2.6
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 2.4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 2.6
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 2.4
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Flare_02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.2
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.2
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 200
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "pjt/t06": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                34,
+                19
+              ],
+              "motionPath": [
+                [
+                  144,
+                  9,
+                  111,
+                  137,
+                  152,
+                  -113
+                ]
+              ],
+              "curve": [
+                0.4,
+                0,
+                0.51,
+                0.87
+              ]
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": [
+                147,
+                -513
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 320
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "pjt/t07": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                21,
+                -5
+              ],
+              "motionPath": [
+                [
+                  156.1,
+                  -8.5,
+                  82.2,
+                  114.3,
+                  163.9,
+                  -42.2
+                ],
+                [
+                  175.4,
+                  -180.3,
+                  166.4,
+                  -67.3,
+                  192.4,
+                  -394.3
+                ]
+              ],
+              "curve": [
+                0.27,
+                0.4,
+                0.62,
+                0.77
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                188,
+                -625
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 420
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.7333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "pjt/t08": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                25,
+                6
+              ],
+              "motionPath": [
+                [
+                  -22,
+                  86,
+                  20,
+                  136,
+                  -66,
+                  27
+                ]
+              ],
+              "curve": [
+                0.29,
+                0.27,
+                0.59,
+                0.79
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -32,
+                -633
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -200
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Flare_02_l": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

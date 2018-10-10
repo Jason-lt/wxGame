@@ -1,14 +1,14 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/Script/ComponentScript/Scenes
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-11T02:53:03.413843Z
-20909
+2018-09-28T08:10:29.291409Z
+21025
 liaotao
 
 
@@ -25,74 +25,6 @@ liaotao
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-DdzTAbleChatAni.js.meta
-file
-
-
-
-
-2018-09-06T17:54:08.000000Z
-501610b982497f9616b73d059cb41bc1
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
-Ddz.js.meta
-file
-
-
-
-
-2018-09-11T03:38:46.000000Z
-12bf94dfba654abc40bbc4fe46bb137b
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 MatchListScene.js
 file
@@ -128,9 +60,77 @@ liaotao
 
 5958
 
+Ddz.js.meta
+file
+
+
+
+
+2018-09-11T03:38:46.000000Z
+12bf94dfba654abc40bbc4fe46bb137b
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+DdzTAbleChatAni.js.meta
+file
+
+
+
+
+2018-09-06T17:54:08.000000Z
+501610b982497f9616b73d059cb41bc1
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
 DdzTableScene.js
 file
-21009
+
 
 
 
@@ -230,16 +230,16 @@ liaotao
 
 197
 
-DdzTableChatAni.js
+Ddz.js
 file
 
 
 
 
-2018-09-06T17:31:30.000000Z
-f01a5b2d76548c991befa329a32ba167
-2018-09-11T02:53:03.413843Z
-20909
+2018-09-27T21:46:10.000000Z
+e48510b1a8c97862a0e3bf05808801f6
+2018-09-28T08:10:29.291409Z
+21025
 liaotao
 
 
@@ -262,7 +262,7 @@ liaotao
 
 
 
-6966
+21219
 
 ddz_rank.js.meta
 file
@@ -298,16 +298,16 @@ liaotao
 
 197
 
-Ddz.js
+DdzTableChatAni.js
 file
-21025
 
 
 
-2018-09-27T21:46:10.000000Z
-e48510b1a8c97862a0e3bf05808801f6
-2018-09-28T08:10:29.291409Z
-21025
+
+2018-09-06T17:31:30.000000Z
+f01a5b2d76548c991befa329a32ba167
+2018-09-11T02:53:03.413843Z
+20909
 liaotao
 
 
@@ -330,16 +330,16 @@ liaotao
 
 
 
-21219
+6966
 
-DdzTableAniPlayer.js.meta
+RechargeScene.js.meta
 file
 
 
 
 
-2018-09-06T17:54:08.000000Z
-3f528bb4a6e36486b8719f858e55472b
+2018-09-08T17:01:40.000000Z
+8383de15eaa34b974843e8ae161aab44
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -366,14 +366,14 @@ liaotao
 
 197
 
-RechargeScene.js.meta
+DdzTableAniPlayer.js.meta
 file
 
 
 
 
-2018-09-08T17:01:40.000000Z
-8383de15eaa34b974843e8ae161aab44
+2018-09-06T17:54:08.000000Z
+3f528bb4a6e36486b8719f858e55472b
 2018-09-11T02:53:03.413843Z
 20909
 liaotao

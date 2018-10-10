@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.01_20180420/assets/Script/ComponentScript/component
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -468,6 +468,40 @@ liaotao
 
 1935
 
+DdzMatching.js.meta
+file
+
+
+
+
+2018-09-11T17:44:35.000000Z
+b2d634d6a8240efcfaeb7f968bf56cd6
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
 ddz_resultTitle.js
 file
 
@@ -536,14 +570,14 @@ zhangman
 
 197
 
-DdzMatching.js.meta
+ddz_rewardDetail_small.js.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-b2d634d6a8240efcfaeb7f968bf56cd6
+c6d023fc34149280960166c959a6d447
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -578,40 +612,6 @@ file
 
 2018-09-11T17:44:35.000000Z
 81fb4ad80bb217331290da3e6d21cf35
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
-ddz_rewardDetail_small.js.meta
-file
-
-
-
-
-2018-09-11T17:44:35.000000Z
-c6d023fc34149280960166c959a6d447
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -774,17 +774,17 @@ xujing
 
 1099
 
-ddz_getRewardHistory.js.meta
+DdzMatching.js
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-792900e5818cf43f5851a327d4965e38
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+3aa66a78dc9e10e9ecb6e0825955dbc3
+2018-04-16T17:12:17.694645Z
+17995
+zhangman
 
 
 
@@ -806,7 +806,7 @@ xujing
 
 
 
-197
+3167
 
 ddz_cell_gameDetail.js
 file
@@ -842,17 +842,17 @@ zhangman
 
 1674
 
-DdzMatching.js
+ddz_getRewardHistory.js.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-3aa66a78dc9e10e9ecb6e0825955dbc3
-2018-04-16T17:12:17.694645Z
-17995
-zhangman
+792900e5818cf43f5851a327d4965e38
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -874,7 +874,7 @@ zhangman
 
 
 
-3167
+197
 
 ddz_item_tipswindow_progress.js.meta
 file
@@ -910,40 +910,6 @@ zhangman
 
 197
 
-ControlPanel.js
-file
-
-
-
-
-2018-09-11T17:44:35.000000Z
-1d41f08df82e590ff12d29f296512b92
-2018-04-18T04:52:03.503152Z
-18089
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8655
-
 ddz_rewardDetail_small.js
 file
 
@@ -977,6 +943,40 @@ xujing
 
 
 1280
+
+ControlPanel.js
+file
+
+
+
+
+2018-09-11T17:44:35.000000Z
+1d41f08df82e590ff12d29f296512b92
+2018-04-18T04:52:03.503152Z
+18089
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8655
 
 PlayerPanel.js.meta
 file

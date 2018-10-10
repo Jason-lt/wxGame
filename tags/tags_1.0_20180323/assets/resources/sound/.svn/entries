@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.0_20180323/assets/resources/sound
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -502,40 +502,6 @@ has-props
 
 18589
 
-female_call_dizhu.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-5c7b533ad22d456a197132b73b1df349
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7759
-
 Failure.mp3
 file
 
@@ -570,14 +536,14 @@ has-props
 
 32187
 
-man_aircraft_with_wings.mp3
+female_call_dizhu.mp3
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-8178fdb90d4ed065c9e15f3f13e10cf2
+5c7b533ad22d456a197132b73b1df349
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -602,7 +568,7 @@ has-props
 
 
 
-12774
+7759
 
 button_click_sound.mp3
 file
@@ -638,14 +604,48 @@ has-props
 
 3134
 
-man_1_point.mp3.meta
+man_aircraft_with_wings.mp3
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-1911e537c8863b46ae7805aa9cfc22dd
+8178fdb90d4ed065c9e15f3f13e10cf2
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12774
+
+female_not_call.mp3.meta
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+3e16db2914f6cc0e25b6bda775b9a534
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -706,14 +706,14 @@ xujing
 
 109
 
-female_not_call.mp3.meta
+man_1_point.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-3e16db2914f6cc0e25b6bda775b9a534
+1911e537c8863b46ae7805aa9cfc22dd
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -739,40 +739,6 @@ xujing
 
 
 109
-
-man_four_with_two.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-57fa946f4c10b4284404d35b419df73c
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9640
 
 female_continuous_pair.mp3
 file
@@ -808,14 +774,48 @@ has-props
 
 7341
 
-back_button_Click_Sound.mp3.meta
+man_four_with_two.mp3
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-e2d9aae18bab09e24ea4277796bbfdbd
+57fa946f4c10b4284404d35b419df73c
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9640
+
+female_four_with_two.mp3.meta
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+15b344b17ea7f662d3c362849f969913
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -842,14 +842,14 @@ xujing
 
 109
 
-female_four_with_two.mp3.meta
+back_button_Click_Sound.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-15b344b17ea7f662d3c362849f969913
+e2d9aae18bab09e24ea4277796bbfdbd
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -944,40 +944,6 @@ xujing
 
 109
 
-man_three_with_one_pair.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-607b9d15e735bcc2006c51b0e7f66871
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12356
-
 man_call_dizhu.mp3
 file
 
@@ -1011,6 +977,40 @@ has-props
 
 
 11729
+
+man_three_with_one_pair.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+607b9d15e735bcc2006c51b0e7f66871
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12356
 
 female_bomb.mp3.meta
 file
@@ -2168,18 +2168,17 @@ xujing
 
 109
 
-man_continuous_pair.mp3
+female_I_got_left_two_cards_erdou.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-c07d23c22206cb2ea15ba94368a37131
+05ff1d563d8526fe22a40c669665cab5
 2018-01-31T08:58:33.467473Z
 16261
 xujing
-has-props
 
 
 
@@ -2200,7 +2199,8 @@ has-props
 
 
 
-8386
+
+109
 
 Upgrade.mp3.meta
 file
@@ -2236,48 +2236,14 @@ xujing
 
 109
 
-female_I_got_left_two_cards_erdou.mp3.meta
+man_continuous_pair.mp3
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-05ff1d563d8526fe22a40c669665cab5
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-109
-
-bomb.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-fcc0d3902254cd99e28232d7878043b0
+c07d23c22206cb2ea15ba94368a37131
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -2302,7 +2268,7 @@ has-props
 
 
 
-15696
+8386
 
 female_pass.mp3
 file
@@ -2337,6 +2303,40 @@ has-props
 
 
 4624
+
+bomb.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+fcc0d3902254cd99e28232d7878043b0
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15696
 
 female_1_point.mp3
 file
@@ -2406,40 +2406,6 @@ xujing
 
 109
 
-female_no.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-315c22214dfa3e73468f37a36a739b17
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4833
-
 female_rocket.mp3.meta
 file
 
@@ -2473,6 +2439,40 @@ xujing
 
 
 109
+
+female_no.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+315c22214dfa3e73468f37a36a739b17
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4833
 
 man_pass.mp3.meta
 file
@@ -2678,40 +2678,6 @@ xujing
 
 109
 
-man_no.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-972307db83672289e600a155a951f0bb
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8804
-
 female_1_point.mp3.meta
 file
 
@@ -2745,6 +2711,40 @@ xujing
 
 
 109
+
+man_no.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+972307db83672289e600a155a951f0bb
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8804
 
 man_I_got_left_one_cards.mp3.meta
 file
@@ -2984,14 +2984,14 @@ has-props
 
 7968
 
-man_three_with_one_pair.mp3.meta
+man_call_dizhu.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-814b654317d0591309fe8691e9c7cb63
+3e134434b39615076a5fd841c54486da
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -3018,14 +3018,14 @@ xujing
 
 109
 
-man_call_dizhu.mp3.meta
+man_three_with_one_pair.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-3e134434b39615076a5fd841c54486da
+814b654317d0591309fe8691e9c7cb63
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -3120,14 +3120,14 @@ xujing
 
 109
 
-bomb.mp3.meta
+female_pass.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-6b6c1287f817516953e319521d395162
+f3eb1c609ea1cce4148eb9e4f914fe3e
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -3154,14 +3154,14 @@ xujing
 
 109
 
-female_pass.mp3.meta
+bomb.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-f3eb1c609ea1cce4148eb9e4f914fe3e
+6b6c1287f817516953e319521d395162
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -3494,40 +3494,6 @@ xujing
 
 109
 
-man_I_got_left_two_cards_erdou.mp3.meta
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-a2d8fa9a86ddc3d21d35d5bc41991130
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-109
-
 table_lose.mp3.meta
 file
 
@@ -3562,18 +3528,17 @@ xujing
 
 109
 
-Victory.mp3
+man_I_got_left_two_cards_erdou.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-97a86740e7f8fd13950dd23d47c11ff4
+a2d8fa9a86ddc3d21d35d5bc41991130
 2018-01-31T08:58:33.467473Z
 16261
 xujing
-has-props
 
 
 
@@ -3594,7 +3559,8 @@ has-props
 
 
 
-41344
+
+109
 
 female_I_got_left_one_cards_erdou.mp3
 file
@@ -3630,6 +3596,40 @@ has-props
 
 9385
 
+Victory.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+97a86740e7f8fd13950dd23d47c11ff4
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41344
+
 man_continuous_pair.mp3.meta
 file
 
@@ -3638,6 +3638,108 @@ file
 
 2018-09-11T17:42:19.000000Z
 23915b0382773c26caccfedb9848c94e
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+109
+
+female_not_call.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+4f7534096b271855a54c7387f1f6d5ea
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6505
+
+female_airplane.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+3e540978521309b21abc375ebaa1919b
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6087
+
+Playing_cards.mp3.meta
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+4de74a92d204507a4fe4bf27c335ef3d
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -3697,108 +3799,6 @@ has-props
 
 
 7341
-
-Playing_cards.mp3.meta
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-4de74a92d204507a4fe4bf27c335ef3d
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-109
-
-female_airplane.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-3e540978521309b21abc375ebaa1919b
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6087
-
-female_not_call.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-4f7534096b271855a54c7387f1f6d5ea
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6505
 
 man_rocket.mp3.meta
 file
@@ -3868,40 +3868,6 @@ xujing
 
 109
 
-man_I_got_left_one_cards_erdou.mp3
-file
-
-
-
-
-2018-09-11T17:42:19.000000Z
-53cca1b2578b38d4bd14a580cb507d8c
-2018-01-31T08:58:33.467473Z
-16261
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6982
-
 continuous_pair.mp3
 file
 
@@ -3935,6 +3901,40 @@ has-props
 
 
 13356
+
+man_I_got_left_one_cards_erdou.mp3
+file
+
+
+
+
+2018-09-11T17:42:19.000000Z
+53cca1b2578b38d4bd14a580cb507d8c
+2018-01-31T08:58:33.467473Z
+16261
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6982
 
 man_I_got_left_one_cards.mp3
 file
@@ -4038,16 +4038,16 @@ has-props
 
 9013
 
-man_3_point.mp3.meta
+table_victory.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-b168b040407c0b6b5dd1fde9d2d26c52
-2018-01-31T08:58:33.467473Z
-16261
+e47b4bbdc5bd1ccca25d1ede67bd8460
+2018-03-08T01:58:55.198955Z
+17086
 xujing
 
 
@@ -4072,16 +4072,16 @@ xujing
 
 109
 
-table_victory.mp3.meta
+man_3_point.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-e47b4bbdc5bd1ccca25d1ede67bd8460
-2018-03-08T01:58:55.198955Z
-17086
+b168b040407c0b6b5dd1fde9d2d26c52
+2018-01-31T08:58:33.467473Z
+16261
 xujing
 
 
@@ -4242,14 +4242,14 @@ has-props
 
 8386
 
-table_background_music.mp3.meta
+man_airplane.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-3133966596569ef0c7740bec8f19ff64
+5abf7a9e1f5667ec0d92a1d9e9ac088c
 2018-01-31T08:58:33.467473Z
 16261
 xujing
@@ -4310,14 +4310,14 @@ xujing
 
 109
 
-man_airplane.mp3.meta
+table_background_music.mp3.meta
 file
 
 
 
 
 2018-09-11T17:42:19.000000Z
-5abf7a9e1f5667ec0d92a1d9e9ac088c
+3133966596569ef0c7740bec8f19ff64
 2018-01-31T08:58:33.467473Z
 16261
 xujing

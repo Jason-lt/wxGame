@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 89
-/newsvn/hall-js/!svn/ver/20895/h5/shot_20180703/shot/assets/Script/ComponentScript/Scenes
+/newsvn/hall-js/!svn/ver/21049/h5/shot_20180703/shot/assets/Script/ComponentScript/Scenes
 END
 shot_begin.js.meta
 K 25
@@ -19,11 +19,11 @@ shot_begin.js
 K 25
 svn:wc:ra_dav:version-url
 V 103
-/newsvn/hall-js/!svn/ver/20895/h5/shot_20180703/shot/assets/Script/ComponentScript/Scenes/shot_begin.js
+/newsvn/hall-js/!svn/ver/21031/h5/shot_20180703/shot/assets/Script/ComponentScript/Scenes/shot_begin.js
 END
 shot_main.js
 K 25
 svn:wc:ra_dav:version-url
 V 102
-/newsvn/hall-js/!svn/ver/20895/h5/shot_20180703/shot/assets/Script/ComponentScript/Scenes/shot_main.js
+/newsvn/hall-js/!svn/ver/21049/h5/shot_20180703/shot/assets/Script/ComponentScript/Scenes/shot_main.js
 END

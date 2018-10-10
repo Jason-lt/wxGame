@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiu_zong",
+    "texture": "a0b4272f-d40a-44c8-a0ee-88b2add135b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      37
+    ]
+  }
+}

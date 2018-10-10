@@ -90,7 +90,10 @@ cc.Class({
                 this.centerBtnText.string = "<color=#ffffff><b>观看视频复活</b></color>";
                 this.scoreLabel.node.y = 57;
                 this.state = 3;
-            }else if(reTypeList.length > 1 &&  reTypeList[1] == "share"){
+            }else if(reTypeList.length > 1 &&  (reTypeList[1] == "share" || reTypeList[1] == "shareRec")){
+                if(reTypeList[1] == "shareRec"){
+                    shot.gameModel.shareRec = true;
+                }
                 this.useDiamondTips.active = false;
                 this.centerBtnText.string = "<color=#ffffff><b>免费复活</b></color>";
                 this.scoreLabel.node.y = 57;
@@ -99,7 +102,10 @@ cc.Class({
                 this.useDiamondTips.active = true;
                 this.scoreLabel.node.y = 130;
             }
-        }else if(reTypeList[0] == "share"){
+        }else if(reTypeList[0] == "share" || reTypeList[0] == "shareRec"){
+            if(reTypeList[0] == "shareRec"){
+                shot.gameModel.shareRec = true;
+            }
             var number = hall.GlobalFuncs.getRandomNumberBefore(100);
             var tempNumber;
             if(ty.UserInfo.isInBSGS){
@@ -131,10 +137,15 @@ cc.Class({
 
     playAnimationAfterShareWithType : function (shareType) {
         if (shareType && shareType == shot.Share.onShareType.clickStatShareTypeRevial) {
+            if(!shot.gameModel.shareTimeEnough){
+                hall.MsgBoxManager.showToast({title : '换个群试试吧'});
+                return;
+            }
             var _config = shot.GameWorld.gunnerShareSchemeConfig;
-            if (_config && _config.resurgenceShare && !ty.UserInfo.isInBSGS){
-                var reultType = shot.Share.resultType;
-                switch (reultType) {
+            if (_config && _config.resurgenceShare){
+            // if (_config && _config.resurgenceShare && !ty.UserInfo.isInBSGS){
+                var resultType = shot.Share.resultType;
+                switch (resultType) {
                     case 1:
                         hall.MsgBoxManager.showToast({title : '分享到群才有效哦~'});
                         break;
@@ -178,7 +189,6 @@ cc.Class({
 
     },
     getResurgenceResult:function(resurt){
-
         if (resurt.success == 1 && resurt.itemId == "item:1373"){   //复活成功
             hall.adManager.hideBannerAd();
             this.onClose();
@@ -186,6 +196,7 @@ cc.Class({
             ty.NotificationCenter.trigger(shot.EventType.GAME_START);
             hall.MsgBoxManager.showToast({title:'复活成功!'});
         }else{  //复活失败
+            hall.MsgBoxManager.showToast({title:'复活失败!'});
         }
     },
     rewardVideoComplete : function(isEnd){
@@ -209,8 +220,10 @@ cc.Class({
         hall.MsgBoxManager.showToast({"title":errorMsg});
     },
     onClickCenterButton:function(){
+        shot.GlobalFuncs.hideAdBtnWithTag(5003,true);
         if (this.state == 2){
             ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["resurgenceShare"]);
+            // shot.gameModel.shareRec = shot.GameWorld.toolUserTimeConfig.resurgenceType.shareRec;
             shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeRevial);
             return;
         }
@@ -231,12 +244,14 @@ cc.Class({
     },
 
     onClose:function(){
+        shot.GlobalFuncs.hideAdBtnWithTag(5003,true);
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["onCloseResurgence"]);
         this.centerBtn.node.stopAllActions();
         this.node.destroy();
     },
 
     onClickSkip:function(){
+        shot.GlobalFuncs.hideAdBtnWithTag(5003,true);
         hall.adManager.hideBannerAd();
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["onClickSkip"]);
         this.onClose();
@@ -244,6 +259,7 @@ cc.Class({
         shot.GlobalFuncs.showGameOverWithMyScore();
     },
     secretGift : function () {
+        shot.GlobalFuncs.hideAdBtnWithTag(5003,true);
         hall.adManager.hideBannerAd();
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["secretGift"]);
         shot.GlobalFuncs.showMysteryGifgBag();
@@ -253,7 +269,7 @@ cc.Class({
     },
 
     onDestroy:function(){
-        shot.GlobalFuncs.hideAdBtnWithTag(5003,false);
+        // shot.GlobalFuncs.hideAdBtnWithTag(5003,true);
         hall.adManager.hideBannerAd();
         ty.NotificationCenter.ignoreScope(this);
         this.unscheduleAllCallbacks();

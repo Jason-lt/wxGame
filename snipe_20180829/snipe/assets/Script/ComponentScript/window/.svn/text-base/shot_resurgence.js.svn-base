@@ -59,7 +59,9 @@ cc.Class({
         ty.NotificationCenter.listen(snipe.EventType.REWARD_VIDEO_COMPLETE_ERROR,this.rewardVideoCompleteError, this);
         this.updateTips();
         this.changeDiamondNodeActive();
-        hall.adManager.showBannerAd("adunit-53ba999759aa14de");
+        hall.adManager.showBannerAd("adunit-56773ac242d78fd0");
+
+        snipe.GlobalFuncs.showAdBtnWithTag(5003,"resurgence");
     },
 
     changeDiamondNodeActive : function () {
@@ -130,8 +132,10 @@ cc.Class({
     playAnimationAfterShareWithType : function (shareType) {
         if (shareType && shareType == snipe.Share.onShareType.clickStatShareTypeRevial) {
             var _config = snipe.GameWorld.gunnerShareSchemeConfig;
-            if (_config && _config.resurgenceShare && !ty.UserInfo.isInBSGS){
+            if (_config && _config.resurgenceShare){
+            // if (_config && _config.resurgenceShare && !ty.UserInfo.isInBSGS){
                 var reultType = snipe.Share.resultType;
+                // hall.LOGE("----","===playAnimationAfterShareWithType===="+reultType);
                 switch (reultType) {
                     case 1:
                         hall.MsgBoxManager.showToast({title : '分享到群才有效哦~'});
@@ -184,6 +188,7 @@ cc.Class({
             ty.NotificationCenter.trigger(snipe.EventType.GAME_START);
             hall.MsgBoxManager.showToast({title:'复活成功!'});
         }else{  //复活失败
+            hall.MsgBoxManager.showToast({title:'复活失败'});
         }
     },
     rewardVideoComplete : function(isEnd){
@@ -207,6 +212,7 @@ cc.Class({
         hall.MsgBoxManager.showToast({"title":errorMsg});
     },
     onClickCenterButton:function(){
+        snipe.GlobalFuncs.hideAdBtnWithTag(5003,true);
         if (this.state == 2){
             ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["resurgenceShare"]);
             snipe.Share.shareWithType(snipe.Share.onShareType.clickStatShareTypeRevial);
@@ -229,12 +235,14 @@ cc.Class({
     },
 
     onClose:function(){
+        snipe.GlobalFuncs.hideAdBtnWithTag(5003,true);
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["onCloseResurgence"]);
         this.centerBtn.node.stopAllActions();
         this.node.destroy();
     },
 
     onClickSkip:function(){
+        snipe.GlobalFuncs.hideAdBtnWithTag(5003,true);
         hall.adManager.hideBannerAd();
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["onClickSkip"]);
         this.onClose();
@@ -242,6 +250,7 @@ cc.Class({
         snipe.GlobalFuncs.showGameOverWithMyScore();
     },
     secretGift : function () {
+        snipe.GlobalFuncs.hideAdBtnWithTag(5003,true);
         hall.adManager.hideBannerAd();
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["secretGift"]);
         snipe.GlobalFuncs.showMysteryGifgBag();

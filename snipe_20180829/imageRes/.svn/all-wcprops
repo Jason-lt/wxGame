@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes
 END
 shot_scene_ui.plist
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/newsvn/hall-js/!svn/ver/20872/h5/snipe_20180829/imageRes/shot_scene_ui.plist
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_scene_ui.plist
 END
 shot_main_ui.tps
 K 25
@@ -27,23 +27,23 @@ svn:wc:ra_dav:version-url
 V 77
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_scene_ui_2.png
 END
-shot_grenade.plist
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/newsvn/hall-js/!svn/ver/20872/h5/snipe_20180829/imageRes/shot_grenade.plist
-END
-shot_bottles.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles.png
-END
 shot_scene_ui.tps
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui.tps
+END
+shot_bottles.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles.png
+END
+shot_grenade.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/newsvn/hall-js/!svn/ver/20872/h5/snipe_20180829/imageRes/shot_grenade.plist
 END
 shot_main_ui.png
 K 25
@@ -61,7 +61,7 @@ shot_bottles.plist
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles.plist
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles.plist
 END
 shot_grenade.tps
 K 25
@@ -79,7 +79,7 @@ shot_scene_ui.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/newsvn/hall-js/!svn/ver/20872/h5/snipe_20180829/imageRes/shot_scene_ui.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_scene_ui.png
 END
 shot_scene_ui_2.tps
 K 25

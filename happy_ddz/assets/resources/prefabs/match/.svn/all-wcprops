@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/match
+/newsvn/hall-js/!svn/ver/21025/h5/happy_ddz/assets/resources/prefabs/match
 END
 ddz_arena_levelup.prefab
 K 25
@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 102
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/match/ddz_arena_start.prefab.meta
 END
-ddz_congratulation.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/match/ddz_congratulation.prefab
-END
 ddz_toast_cell.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/match/ddz_toast_cell.prefab
+END
+ddz_congratulation.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/match/ddz_congratulation.prefab
 END
 ddz_arena_result_lose.prefab.meta
 K 25

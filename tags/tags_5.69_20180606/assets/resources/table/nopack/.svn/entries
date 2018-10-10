@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.69_20180606/assets/resources/table/nopack
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -604,40 +604,6 @@ has-props
 
 3751
 
-ddz_hongbao_bj8_1.png
-file
-
-
-
-
-2018-09-11T17:42:43.000000Z
-8ca3c48b50a66c24a21b17693b4bc732
-2018-05-21T10:44:14.871558Z
-19540
-yuhongbin
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3320
-
 ddz_hongbao_bj3.png.meta
 file
 
@@ -671,6 +637,40 @@ liaotao
 
 
 688
+
+ddz_hongbao_bj8_1.png
+file
+
+
+
+
+2018-09-11T17:42:43.000000Z
+8ca3c48b50a66c24a21b17693b4bc732
+2018-05-21T10:44:14.871558Z
+19540
+yuhongbin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3320
 
 ddz_tasks_di.png
 file
@@ -740,40 +740,6 @@ yuhongbin
 
 688
 
-ddz_hongbao_bj7.png.meta
-file
-
-
-
-
-2018-09-11T17:42:43.000000Z
-44c981c90af4a8ce1e3eef4fb467f0c0
-2018-05-21T10:44:14.871558Z
-19540
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-688
-
 ddz_main_coin_bg.png
 file
 
@@ -808,14 +774,14 @@ has-props
 
 444
 
-ddz_hongbao_bj9.png.meta
+ddz_hongbao_bj7.png.meta
 file
 
 
 
 
 2018-09-11T17:42:43.000000Z
-c54d41d42d2745e59c849d2ffb175947
+44c981c90af4a8ce1e3eef4fb467f0c0
 2018-05-21T10:44:14.871558Z
 19540
 yuhongbin
@@ -840,7 +806,7 @@ yuhongbin
 
 
 
-686
+688
 
 ddz_playmode_line.png.meta
 file
@@ -875,6 +841,40 @@ liaotao
 
 
 688
+
+ddz_hongbao_bj9.png.meta
+file
+
+
+
+
+2018-09-11T17:42:43.000000Z
+c54d41d42d2745e59c849d2ffb175947
+2018-05-21T10:44:14.871558Z
+19540
+yuhongbin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+686
 
 ddz_avatar_default.png.meta
 file
@@ -1012,40 +1012,6 @@ has-props
 
 8247
 
-ddz_gameDetail_cel_number.png.meta
-file
-
-
-
-
-2018-09-11T17:42:43.000000Z
-0fc8c3cddf6b70feba52538752455bac
-2018-05-10T18:29:08.594237Z
-19154
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-694
-
 ddz_roomlist_scoreBg.png
 file
 
@@ -1079,6 +1045,40 @@ has-props
 
 
 410
+
+ddz_gameDetail_cel_number.png.meta
+file
+
+
+
+
+2018-09-11T17:42:43.000000Z
+0fc8c3cddf6b70feba52538752455bac
+2018-05-10T18:29:08.594237Z
+19154
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+694
 
 ddz_hongbao_bj5.png
 file

@@ -19,6 +19,9 @@ shot.gameModel = {
 
     rankWindow : null,
     totalScore : 0,
+
+    ONHIDE_DATE : "ONHIDE_DATE",
+    shareTimeEnough : false,
     //获取布局配置信息
     getNormalConfig: function() {
         var params = {
@@ -337,6 +340,9 @@ shot.gameModel = {
         }
         if(value.growthConfig){
             shot.GameWorld.growthConfig = value.growthConfig;
+            if(!shot.GameWorld.growthConfig.STUScale){
+                shot.GameWorld.growthConfig.STUScale = 0.6;
+            }
         }
         ty.NotificationCenter.trigger(shot.EventType.GUNNER_SHARE_SCHEME);
     },

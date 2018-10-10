@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.01_20180420/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -570,6 +570,40 @@ xujing
 
 4181
 
+ddz_table_ui.plist.meta
+file
+
+
+
+
+2018-09-11T17:44:36.000000Z
+3153902a3e2a540ec547ba954aa621c2
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8606
+
 ddz_poker.png
 file
 
@@ -604,39 +638,8 @@ has-props
 
 69621
 
-ddz_table_ui.plist.meta
-file
-
-
-
-
-2018-09-11T17:44:36.000000Z
-3153902a3e2a540ec547ba954aa621c2
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8606
+scene_bg
+dir
 
 ddz_table_ani_rocket.plist.meta
 file
@@ -672,17 +675,14 @@ xujing
 
 13317
 
-scene_bg
-dir
-
-ddz_table_ani_common.plist.meta
+interactive_emo1.png.meta
 file
 
 
 
 
 2018-09-11T17:44:36.000000Z
-dbecf28781968d414a3d7271d74fbae3
+76c24cd5900a3fa8923ca3f8d8089da8
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -707,7 +707,7 @@ xujing
 
 
 
-10396
+691
 
 dizhu_table_chuntian.png
 file
@@ -743,14 +743,14 @@ has-props
 
 48006
 
-interactive_emo1.png.meta
+ddz_table_ani_common.plist.meta
 file
 
 
 
 
 2018-09-11T17:44:36.000000Z
-76c24cd5900a3fa8923ca3f8d8089da8
+dbecf28781968d414a3d7271d74fbae3
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -775,7 +775,7 @@ xujing
 
 
 
-691
+10396
 
 ddz_table_ui.png
 file
@@ -811,18 +811,17 @@ has-props
 
 16043
 
-ddz_table_ani_common.png
+ddz_scene_ui.plist.meta
 file
 
 
 
 
 2018-09-11T17:44:36.000000Z
-096e23e6266937edad199e40fa598dab
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-has-props
+a2c19ba81f8e6f5f39ed673f257fcab3
+2018-04-17T17:05:47.594793Z
+18061
+zhangman
 
 
 
@@ -843,7 +842,8 @@ has-props
 
 
 
-75661
+
+27812
 
 ddz_scene_ui_v2.png.meta
 file
@@ -879,17 +879,18 @@ zhangman
 
 693
 
-ddz_scene_ui.plist.meta
+ddz_table_ani_common.png
 file
 
 
 
 
 2018-09-11T17:44:36.000000Z
-a2c19ba81f8e6f5f39ed673f257fcab3
-2018-04-17T17:05:47.594793Z
-18061
-zhangman
+096e23e6266937edad199e40fa598dab
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+has-props
 
 
 
@@ -910,8 +911,10 @@ zhangman
 
 
 
-
-27812
+75661
+
+nopack
+dir
 
 ddz_poker.plist
 file
@@ -946,9 +949,6 @@ xujing
 
 
 19983
-
-nopack
-dir
 
 dizhu_table_chuntian.plist
 file

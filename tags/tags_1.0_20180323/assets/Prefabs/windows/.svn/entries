@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.0_20180323/assets/Prefabs/windows
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ zhangman
 
 116
 
-ddz_main.prefab
-file
-
-
-
-
-2018-09-11T17:42:06.000000Z
-ad1d399d2337661bbae33ff2bcfd7a00
-2018-03-07T03:12:12.698336Z
-17047
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-64053
-
 ddz_getRedpaket.prefab.meta
 file
 
@@ -127,6 +93,40 @@ zhangman
 
 
 116
+
+ddz_main.prefab
+file
+
+
+
+
+2018-09-11T17:42:06.000000Z
+ad1d399d2337661bbae33ff2bcfd7a00
+2018-03-07T03:12:12.698336Z
+17047
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64053
 
 ddz_rank_list.prefab
 file
@@ -162,40 +162,6 @@ zhangman
 
 24519
 
-ddz_useDiamond.prefab
-file
-
-
-
-
-2018-09-11T17:42:06.000000Z
-2a6be418b503f64e08d6c328abf274db
-2018-03-05T10:13:41.653470Z
-16961
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24455
-
 ddz_getReward_main.prefab
 file
 
@@ -229,6 +195,40 @@ zhangman
 
 
 29737
+
+ddz_useDiamond.prefab
+file
+
+
+
+
+2018-09-11T17:42:06.000000Z
+2a6be418b503f64e08d6c328abf274db
+2018-03-05T10:13:41.653470Z
+16961
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24455
 
 windowsSub.meta
 file

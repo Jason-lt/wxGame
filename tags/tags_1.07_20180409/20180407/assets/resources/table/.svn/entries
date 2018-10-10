@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.07_20180409/20180407/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -471,40 +471,6 @@ has-props
 
 9954
 
-ddz_table_ani_common.png
-file
-
-
-
-
-2018-09-11T17:41:50.000000Z
-096e23e6266937edad199e40fa598dab
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-75661
-
 ddz_scene_ui.plist.meta
 file
 
@@ -539,6 +505,43 @@ zhangman
 
 27845
 
+ddz_table_ani_common.png
+file
+
+
+
+
+2018-09-11T17:41:50.000000Z
+096e23e6266937edad199e40fa598dab
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75661
+
+nopack
+dir
+
 ddz_poker.plist
 file
 
@@ -572,9 +575,6 @@ zhangman
 
 
 19983
-
-nopack
-dir
 
 dizhu_table_chuntian.plist
 file

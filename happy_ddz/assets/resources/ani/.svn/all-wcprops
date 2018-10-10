@@ -1,19 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani
-END
-doudizhu.meta
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/doudizhu.meta
+/newsvn/hall-js/!svn/ver/21008/h5/happy_ddz/assets/resources/ani
 END
 ddz_matching.meta
 K 25
 svn:wc:ra_dav:version-url
 V 82
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/ddz_matching.meta
+END
+doudizhu.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/doudizhu.meta
 END
 btnTick.anim
 K 25
@@ -39,35 +39,17 @@ svn:wc:ra_dav:version-url
 V 82
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/treasure_box.meta
 END
-jinji.meta
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/jinji.meta
-END
 ddz_bq.meta
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/ddz_bq.meta
 END
-look.meta
+jinji.meta
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/look.meta
-END
-pop_order_info.meta
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/pop_order_info.meta
-END
-progress.meta
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/progress.meta
+V 75
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/jinji.meta
 END
 rideoBtnTick.anim.meta
 K 25
@@ -75,23 +57,41 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/rideoBtnTick.anim.meta
 END
+progress.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/progress.meta
+END
+pop_order_info.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/pop_order_info.meta
+END
+look.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/look.meta
+END
 laizi.meta
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/laizi.meta
 END
-huodejipaiqi.meta
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/huodejipaiqi.meta
-END
 table_chat_ani.anim
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/table_chat_ani.anim
+END
+huodejipaiqi.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/ani/huodejipaiqi.meta
 END
 hongbao.meta
 K 25

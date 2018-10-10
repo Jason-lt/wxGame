@@ -565,6 +565,7 @@ shot.GameWorld = {
         }
     ],
     toolUserTimeConfig : {
+        "shareRecTime": 3000,
         "resurgenceTime": 3,
         "resurgenceType" : {
             "bsgs":["ad","omit"],
@@ -600,6 +601,7 @@ shot.GameWorld = {
         "addBullet": {
             "time": 3,
             "addCount": 12,
+            "shareRec":false,
             "showType": {
                 "bsgsch": {
                     "show": 0,
@@ -1319,6 +1321,7 @@ shot.GameWorld = {
         "resurgence" : [],      //复活界面交叉导流icon开关
         "gameover" : ["STU"],        //结算界面交叉导流icon开关
         "reward" : ["CO","STU"],    //点击icon后是否给武器奖励开关
+        "STUScale" : 0.6,
         "showRefresh" : true,            //1小时后恢复显示
         "showDelayed" : 1             //所有交叉导流icon在进行1局游戏后显示icon
     },

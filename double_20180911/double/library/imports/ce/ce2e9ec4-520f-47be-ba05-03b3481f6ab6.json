@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_animation_ui",
+    "texture": "bcbeb606-8fee-4fce-8d8c-8951f88e7eeb",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      458,
+      663
+    ],
+    "offset": [
+      -25,
+      177.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

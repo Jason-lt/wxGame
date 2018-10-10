@@ -105,6 +105,11 @@ cc.Class({
         }
 
         ty.NotificationCenter.listen(snipe.EventType.REPLACE_GUN,this.replaceGunAction, this);
+
+        if(snipe.GameWorld.initBulletType){
+            var index = snipe.GameWorld.bulletTypeList.indexOf(snipe.GameWorld.initBulletType);
+            this.replaceGunAction(index);
+        }
     },
 
     //换枪

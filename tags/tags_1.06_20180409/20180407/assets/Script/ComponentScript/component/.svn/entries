@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.06_20180409/20180407/assets/Script/ComponentScript/component
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -570,40 +570,6 @@ zhangman
 
 1099
 
-ddz_getRewardHistory.js.meta
-file
-
-
-
-
-2018-09-11T17:43:33.000000Z
-792900e5818cf43f5851a327d4965e38
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 DdzMatching.js
 file
 
@@ -638,14 +604,14 @@ zhangman
 
 1370
 
-ddz_rewardDetail_small.js
+ddz_getRewardHistory.js.meta
 file
 
 
 
 
 2018-09-11T17:43:33.000000Z
-d5b87ebfe2691e304021aedbe5371ed0
+792900e5818cf43f5851a327d4965e38
 2018-04-07T11:57:31.797720Z
 17629
 zhangman
@@ -670,7 +636,7 @@ zhangman
 
 
 
-1280
+197
 
 ControlPanel.js
 file
@@ -705,6 +671,40 @@ zhangman
 
 
 7972
+
+ddz_rewardDetail_small.js
+file
+
+
+
+
+2018-09-11T17:43:33.000000Z
+d5b87ebfe2691e304021aedbe5371ed0
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1280
 
 PlayerPanel.js.meta
 file

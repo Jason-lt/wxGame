@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tag_5.0_2018_5_13/assets/resources/ani/doudizhu
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -128,6 +128,9 @@ xujing
 
 88
 
+ddz_table_ani_bomb_fly_action
+dir
+
 ddz_table_ani_bomb_blast_action.meta
 file
 
@@ -162,13 +165,13 @@ xujing
 
 88
 
-ddz_table_ani_bomb_fly_action
-dir
-
 ddz_table_liandui_action
 dir
 
 ddz_table_ani_plane_action
+dir
+
+ddz_table_ani_rocket_fly_action
 dir
 
 ddz_table_ani_rocket_blast_action.meta
@@ -204,9 +207,6 @@ xujing
 
 
 88
-
-ddz_table_ani_rocket_fly_action
-dir
 
 ddz_table_ani_bomb_blast_action
 dir

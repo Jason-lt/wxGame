@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.0_201805014/assets/Scene
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -162,17 +162,17 @@ xujing
 
 145
 
-ddz_diamond_friend.fire
+MallScene.fire
 file
 
 
 
 
 2018-09-11T17:43:02.000000Z
-21c90cb33f162b7e0d23b3c57466ab20
-2018-05-14T03:21:37.528054Z
-19284
-zhangman
+2ea2a5f92f47b4492265957137b2fb73
+2018-05-12T14:37:10.782478Z
+19266
+liaotao
 
 
 
@@ -194,7 +194,7 @@ zhangman
 
 
 
-99352
+55577
 
 ddz_detail.fire
 file
@@ -230,17 +230,17 @@ zhangman
 
 24437
 
-MallScene.fire
+ddz_diamond_friend.fire
 file
 
 
 
 
 2018-09-11T17:43:02.000000Z
-2ea2a5f92f47b4492265957137b2fb73
-2018-05-12T14:37:10.782478Z
-19266
-liaotao
+21c90cb33f162b7e0d23b3c57466ab20
+2018-05-14T03:21:37.528054Z
+19284
+zhangman
 
 
 
@@ -262,7 +262,7 @@ liaotao
 
 
 
-55577
+99352
 
 TableScene.fire
 file
@@ -298,40 +298,6 @@ zhangman
 
 225209
 
-MatchListScene.fire
-file
-
-
-
-
-2018-09-11T17:43:02.000000Z
-272d60ce75b64130d2469f22b54e792c
-2018-05-12T14:37:10.782478Z
-19266
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-63909
-
 Ddz.fire.meta
 file
 
@@ -365,6 +331,40 @@ xujing
 
 
 145
+
+MatchListScene.fire
+file
+
+
+
+
+2018-09-11T17:43:02.000000Z
+272d60ce75b64130d2469f22b54e792c
+2018-05-12T14:37:10.782478Z
+19266
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63909
 
 ddz_reward.fire.meta
 file
@@ -468,40 +468,6 @@ zhangman
 
 100794
 
-Ddz.fire
-file
-
-
-
-
-2018-09-11T17:43:02.000000Z
-fb18c3f8b6402ebc9d8e8f860373e6e6
-2018-05-12T16:56:14.057945Z
-19272
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-117203
-
 ddz_rank.fire.meta
 file
 
@@ -535,6 +501,40 @@ xujing
 
 
 145
+
+Ddz.fire
+file
+
+
+
+
+2018-09-11T17:43:02.000000Z
+fb18c3f8b6402ebc9d8e8f860373e6e6
+2018-05-12T16:56:14.057945Z
+19272
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+117203
 
 rechargeScene.fire.meta
 file

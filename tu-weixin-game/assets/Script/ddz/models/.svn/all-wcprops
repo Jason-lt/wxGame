@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ddz/models
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ddz/models
 END
 TableInfoModel.js.meta
 K 25
@@ -99,23 +99,17 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ddz/models/GameModel.js
 END
-DetailsModel.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/newsvn/hall-js/!svn/ver/17875/h5/tu-weixin-game/assets/Script/ddz/models/DetailsModel.js.meta
-END
 ConfigRoomSession.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 99
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/ConfigRoomSession.js.meta
 END
-SeatInfo.js.meta
+DetailsModel.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/SeatInfo.js.meta
+V 94
+/newsvn/hall-js/!svn/ver/17875/h5/tu-weixin-game/assets/Script/ddz/models/DetailsModel.js.meta
 END
 TableChatModel.js.meta
 K 25
@@ -123,11 +117,11 @@ svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/18546/h5/tu-weixin-game/assets/Script/ddz/models/TableChatModel.js.meta
 END
-CardType.js.meta
+SeatInfo.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/CardType.js.meta
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/SeatInfo.js.meta
 END
 QuickStartModel.js.meta
 K 25
@@ -135,11 +129,11 @@ svn:wc:ra_dav:version-url
 V 97
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/QuickStartModel.js.meta
 END
-HallInfoModel.js.meta
+CardType.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/HallInfoModel.js.meta
+V 90
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/CardType.js.meta
 END
 MatchModel.js.meta
 K 25
@@ -147,11 +141,11 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/MatchModel.js.meta
 END
-DetailsModel.js
+HallInfoModel.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/newsvn/hall-js/!svn/ver/18530/h5/tu-weixin-game/assets/Script/ddz/models/DetailsModel.js
+V 95
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/HallInfoModel.js.meta
 END
 ConfigRoomSession.js
 K 25
@@ -159,23 +153,29 @@ svn:wc:ra_dav:version-url
 V 94
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/models/ConfigRoomSession.js
 END
+DetailsModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/newsvn/hall-js/!svn/ver/18530/h5/tu-weixin-game/assets/Script/ddz/models/DetailsModel.js
+END
 HistoryModel.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 94
 /newsvn/hall-js/!svn/ver/17866/h5/tu-weixin-game/assets/Script/ddz/models/HistoryModel.js.meta
 END
-SeatInfo.js
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/Script/ddz/models/SeatInfo.js
-END
 TableChatModel.js
 K 25
 svn:wc:ra_dav:version-url
 V 91
 /newsvn/hall-js/!svn/ver/19341/h5/tu-weixin-game/assets/Script/ddz/models/TableChatModel.js
+END
+SeatInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/Script/ddz/models/SeatInfo.js
 END
 CardInfo.js.meta
 K 25

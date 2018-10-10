@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_main_bulletType_win94_overlookView",
+    "texture": "e53cf156-52f7-445e-9c76-1cd25b1c11d0",
+    "atlas": "41b5f05b-b40b-4a37-ab8a-3dec88069856",
+    "rect": [
+      1407,
+      1177,
+      33,
+      421
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      421
+    ],
+    "rotated": 1
+  }
+}

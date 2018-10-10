@@ -13,7 +13,7 @@ ty.SystemInfo = {
     clientIdInt: 24033,
     cloudid:24,
 
-    version:1.73,
+    version:1.78,
     isCheckVersion : true,
 
     // loginUrl: 'https://fz.nalrer.cn/', //仿真地址

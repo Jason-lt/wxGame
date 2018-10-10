@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs
-END
-enter_queue.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/enter_queue.prefab
+/newsvn/hall-js/!svn/ver/21025/h5/happy_ddz/assets/resources/prefabs
 END
 gameTasks_small.anim.meta
 K 25
@@ -15,17 +9,23 @@ svn:wc:ra_dav:version-url
 V 94
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/gameTasks_small.anim.meta
 END
-ddz_window_gameDetail.prefab
+enter_queue.prefab
 K 25
 svn:wc:ra_dav:version-url
-V 97
-/newsvn/hall-js/!svn/ver/21008/h5/happy_ddz/assets/resources/prefabs/ddz_window_gameDetail.prefab
+V 87
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/enter_queue.prefab
 END
 ddz_item_shareMoments.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 97
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_item_shareMoments.prefab
+END
+ddz_window_gameDetail.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/newsvn/hall-js/!svn/ver/21008/h5/happy_ddz/assets/resources/prefabs/ddz_window_gameDetail.prefab
 END
 throughNode.prefab
 K 25
@@ -51,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 88
 /newsvn/hall-js/!svn/ver/21008/h5/happy_ddz/assets/resources/prefabs/notifyWindow.prefab
 END
-treasure_box.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/treasure_box.prefab
-END
 matchNode.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/matchNode.prefab
+END
+treasure_box.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/treasure_box.prefab
 END
 userChat.prefab.meta
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 89
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/userChat.prefab.meta
 END
-lottery_win_show.anim
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/lottery_win_show.anim
-END
 collectDeskTop.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 95
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/collectDeskTop.prefab.meta
+END
+lottery_win_show.anim
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/lottery_win_show.anim
 END
 gameTasks_big.anim.meta
 K 25
@@ -189,11 +189,11 @@ svn:wc:ra_dav:version-url
 V 84
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/goldNode.prefab
 END
-officialAccountGuide.prefab.meta
+gameTasks_small.anim
 K 25
 svn:wc:ra_dav:version-url
-V 101
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/officialAccountGuide.prefab.meta
+V 89
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/gameTasks_small.anim
 END
 betBoxAbstract.prefab.meta
 K 25
@@ -201,23 +201,23 @@ svn:wc:ra_dav:version-url
 V 95
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/betBoxAbstract.prefab.meta
 END
-gameTasks_small.anim
+officialAccountGuide.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/gameTasks_small.anim
-END
-ddz_window_skip.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_skip.prefab
+V 101
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/officialAccountGuide.prefab.meta
 END
 dissolveNode.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 88
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/dissolveNode.prefab
+END
+ddz_window_skip.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_skip.prefab
 END
 huzhubaoxiang.meta
 K 25
@@ -237,17 +237,17 @@ svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_alms.prefab.meta
 END
-conversionSuccess.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/conversionSuccess.prefab
-END
 ddz_window_history.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 99
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_history.prefab.meta
+END
+conversionSuccess.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/conversionSuccess.prefab
 END
 adNode.prefab.meta
 K 25
@@ -255,17 +255,17 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/adNode.prefab.meta
 END
-ddz_window_skip.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_skip.prefab.meta
-END
 dissolveNode.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/dissolveNode.prefab.meta
+END
+ddz_window_skip.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_skip.prefab.meta
 END
 withdrawalMaintain.prefab
 K 25
@@ -291,23 +291,11 @@ svn:wc:ra_dav:version-url
 V 82
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/progress.meta
 END
-ddz_multiReward.prefab
+ddz_window_save_match_result.prefab
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_multiReward.prefab
-END
-awad_tips_show.anim
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/awad_tips_show.anim
-END
-ddz_window_match_rewards.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_match_rewards.prefab.meta
+V 104
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_save_match_result.prefab
 END
 ddz_window_revival.prefab
 K 25
@@ -315,11 +303,23 @@ svn:wc:ra_dav:version-url
 V 94
 /newsvn/hall-js/!svn/ver/20968/h5/happy_ddz/assets/resources/prefabs/ddz_window_revival.prefab
 END
-ddz_window_save_match_result.prefab
+ddz_window_match_rewards.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
-V 104
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_save_match_result.prefab
+V 105
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_match_rewards.prefab.meta
+END
+awad_tips_show.anim
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/awad_tips_show.anim
+END
+ddz_multiReward.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_multiReward.prefab
 END
 conversionSuccess.prefab.meta
 K 25
@@ -339,17 +339,17 @@ svn:wc:ra_dav:version-url
 V 81
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/zuanshi.meta
 END
-ddz_item_shareMoments.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_item_shareMoments.prefab.meta
-END
 ddz_window_gameDetail.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 102
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_window_gameDetail.prefab.meta
+END
+ddz_item_shareMoments.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_item_shareMoments.prefab.meta
 END
 collectDeskTop.prefab
 K 25
@@ -357,17 +357,17 @@ svn:wc:ra_dav:version-url
 V 90
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/collectDeskTop.prefab
 END
-goldNode.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/goldNode.prefab.meta
-END
 ddz_bubble_tips.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/ddz_bubble_tips.prefab.meta
+END
+goldNode.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/resources/prefabs/goldNode.prefab.meta
 END
 match.meta
 K 25

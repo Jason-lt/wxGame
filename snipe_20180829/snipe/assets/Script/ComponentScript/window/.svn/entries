@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-08T14:35:55.338018Z
-20901
+2018-09-25T11:56:32.870419Z
+20996
 zhangman
 
 
@@ -128,6 +128,40 @@ zhangman
 
 4013
 
+shot_result.js
+file
+
+
+
+
+2018-10-10T23:26:22.000000Z
+dc53796e603e8f64a52b2b62cfc97366
+2018-09-21T16:48:50.597691Z
+20989
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17242
+
 newerNode.js.meta
 file
 
@@ -161,40 +195,6 @@ zhangman
 
 
 197
-
-shot_result.js
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-18b72c09e621572b160667678f6fb275
-2018-08-31T11:19:39.652202Z
-20839
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16874
 
 shot_freeTool.js
 file
@@ -230,16 +230,16 @@ zhangman
 
 1474
 
-shot_prop.js
+zidandaoju.js.meta
 file
 
 
 
 
 2018-09-11T17:40:35.000000Z
-aafa18d29e43dd97474da0107aeedc8f
-2018-09-06T02:19:05.094261Z
-20889
+1cc58b72b2490140b9e05081e20d4d40
+2018-08-30T07:54:54.216802Z
+20828
 zhangman
 
 
@@ -262,16 +262,50 @@ zhangman
 
 
 
-14337
+197
 
-zidandaoju.js.meta
+shot_prop.js
+file
+
+
+
+
+2018-10-10T23:26:22.000000Z
+5ce8d177c9927e8a381f22a509eb8c6c
+2018-09-21T16:48:50.597691Z
+20989
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14515
+
+shot_secret_box.js.meta
 file
 
 
 
 
 2018-09-11T17:40:35.000000Z
-1cc58b72b2490140b9e05081e20d4d40
+7568231033cca3a97cf8cb608c1eb62f
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -332,14 +366,48 @@ zhangman
 
 197
 
-shot_secret_box.js.meta
+shot_throw_2.js
 file
 
 
 
 
 2018-09-11T17:40:35.000000Z
-7568231033cca3a97cf8cb608c1eb62f
+f0af94e1654abb2e79beab7c9abd096d
+2018-09-08T14:35:55.338018Z
+20901
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21608
+
+debugNode.js.meta
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+5a9d343ba24c0059575414e6922339f4
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -399,74 +467,6 @@ zhangman
 
 
 197
-
-debugNode.js.meta
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-5a9d343ba24c0059575414e6922339f4
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
-shot_throw_2.js
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-f0af94e1654abb2e79beab7c9abd096d
-2018-09-08T14:35:55.338018Z
-20901
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21608
 
 shot_shareResult.js.meta
 file
@@ -610,10 +610,10 @@ file
 
 
 
-2018-09-11T17:40:35.000000Z
-1d2b74c3252841b9d8c2f02f9a906a09
-2018-09-04T08:57:40.819795Z
-20861
+2018-10-10T23:26:22.000000Z
+4bdb31157f5c5173532c9e0587c12323
+2018-09-21T16:48:50.597691Z
+20989
 zhangman
 
 
@@ -636,7 +636,7 @@ zhangman
 
 
 
-3071
+3634
 
 shot_crazyTime.js.meta
 file
@@ -712,10 +712,10 @@ file
 
 
 
-2018-09-11T17:40:35.000000Z
-0949b21251777a0196f214fb6ecebdc7
-2018-09-06T02:19:05.094261Z
-20889
+2018-10-10T23:26:22.000000Z
+d499b3f4b6b3763aac874d8562b53f1c
+2018-09-21T16:48:50.597691Z
+20989
 zhangman
 
 
@@ -738,7 +738,7 @@ zhangman
 
 
 
-12506
+12755
 
 shot_mystery_giftBag.js
 file
@@ -746,10 +746,10 @@ file
 
 
 
-2018-09-11T17:40:35.000000Z
-1d0bd989ea2f102f25d3ea9183cae9f1
-2018-08-31T11:19:39.652202Z
-20839
+2018-10-10T23:26:22.000000Z
+50def7ef2d992646a846fc676f634d5f
+2018-09-21T16:48:50.597691Z
+20989
 zhangman
 
 
@@ -772,7 +772,7 @@ zhangman
 
 
 
-3999
+4055
 
 debugNode.js
 file
@@ -882,10 +882,10 @@ file
 
 
 
-2018-09-11T17:40:35.000000Z
-c6b9a28cd44408221e9c812cec1292a2
-2018-08-31T11:19:39.652202Z
-20839
+2018-10-10T23:26:22.000000Z
+a0138676984c20373522d977c6ef2e7b
+2018-09-25T11:56:32.870419Z
+20996
 zhangman
 
 
@@ -908,7 +908,7 @@ zhangman
 
 
 
-10248
+10743
 
 shot_result.js.meta
 file

@@ -189,6 +189,9 @@ shot.Share = {
         shot.Share.resultType = 0;
         shot.Share.shareTicket = "";
 
+        shot.onShowSuccess = false;
+        shot.shareResultSuccess = false;
+
         // var sharePointId = shareCfg.sharePointId;
         var sharePointId = shot.Share.clickStatShareType[type];
         var shareSchemeId = shareCfg.shareSchemeId;
@@ -200,6 +203,7 @@ shot.Share = {
             imageUrl : imageUrl,//5:4
             query : query,//'key1=val1&key2=val2',
             success : function (result) {
+                shot.shareResultSuccess = true;
                 hall.LOGE("shareAppMessage","===shareAppMessage==success=="+JSON.stringify(arguments)+"==="+query);
                 ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeShareAction,[sharePointId, 2, shareSchemeId]);
                 if (successCallBackFun){
@@ -208,18 +212,25 @@ shot.Share = {
                 if(!result.shareTickets || !result.shareTickets[0]){
                     shot.Share.resultType = shot.Share.ShareState.isNotAGroupChat;
                     shot.Share.shareTicket = "";
+                    shot.shareResultSuccess = true;
+                    shot.Share.playAnimationAfterShareWithType();
                     return;
                 }
                 shot.Share.shareTicket = result.shareTickets[0];
+                shot.shareResultSuccess = true;
+                shot.Share.playAnimationAfterShareWithType();
             },
             fail : function () {
+
                 hall.LOGE("shareAppMessage","===shareAppMessage==fail=="+JSON.stringify(arguments)+"==="+query);
+                shot.Share.isMatchShare = false;
+                shot.Share.resultType = shot.Share.ShareState.failToShare;
+                shot.shareResultSuccess = true;
+                shot.Share.playAnimationAfterShareWithType();
+                // hall.LOGD(null, JSON.stringify(arguments));
                 if (failCallBackFun){
                     failCallBackFun();
                 }
-                shot.Share.isMatchShare = false;
-                shot.Share.resultType = shot.Share.ShareState.failToShare;
-                hall.LOGD(null, JSON.stringify(arguments));
             },
             complete : function () {
                 // hall.LOGE("shareAppMessage","===shareAppMessage==complete=="+JSON.stringify(arguments));
@@ -228,8 +239,26 @@ shot.Share = {
     },
 
     playAnimationAfterShareWithType:function() {
+        if(!shot.onShowSuccess || !shot.shareResultSuccess){
+            if(!shot.gameModel.shareRec){
+                return;
+            }
+            if(!shot.onShowSuccess){
+                return;
+            }
+        }
+        shot.onShowSuccess = false;
+        shot.shareResultSuccess = false;
         hall.LOGE("===","playAnimationAfterShareWithType=="+shot.Share.sharePoint);
         // hall.LOGW("","file = [Share] fun = [playAnimationAfterShareWithType] 111 ");
+        if(shot.gameModel.shareRec){
+            if(shot.gameModel.shareTimeEnough){
+                this.endWithSuccessShare();
+                return;
+            }
+            ty.NotificationCenter.trigger(shot.EventType.UPDATE_SHARE_STATE,shot.Share.shareType);
+            return;
+        }
         if(shot.Share.resultType == shot.Share.ShareState.failToShare){
             ty.NotificationCenter.trigger(shot.EventType.UPDATE_SHARE_STATE,shot.Share.shareType);
             return;
@@ -292,7 +321,6 @@ shot.Share = {
             }catch (err){
                 hall.LOGE("error:", "shot.Share.unSensitivePersonage——" + JSON.stringify(err));
             }
-
         }
     },
 

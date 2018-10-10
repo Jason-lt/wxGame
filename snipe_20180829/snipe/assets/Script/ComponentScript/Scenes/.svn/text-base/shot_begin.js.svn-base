@@ -12,6 +12,19 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
+
+        titleNode : {
+            default : null,
+            type : cc.Node
+        },
+        rankNode : {
+            default : null,
+            type : cc.Node
+        },
+        freeNode : {
+            default : null,
+            type : cc.Node
+        },
         // aniSpriteNode :{
         //     default : null,
         //     type : cc.Node
@@ -56,6 +69,7 @@ cc.Class({
     },
 
     friendRank : function () {
+        // hall.LOGE("+++","====friendRank=====");
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["friendRank"]);
         snipe.GlobalFuncs.showRankList("");
     },
@@ -80,6 +94,7 @@ cc.Class({
         ty.NotificationCenter.listen(snipe.EventType.BSGS_CHECK_RESULT,this.changeDiamondNodeActive,this);
         ty.NotificationCenter.listen(snipe.EventType.GUNNER_SHARE_SCHEME,this.changeGameClubButtonActive,this);
 
+        snipe.GlobalFuncs.setDayOriginGameData();
         this.getAdMsg();
         ty.NotificationCenter.listen(ty.EventType.GET_AD_MSG_SUCCESS,this.getAdMsg,this);
 
@@ -106,13 +121,42 @@ cc.Class({
         ty.UserInfo.onShowParam.isFirstOpen = false;
     },
 
+    // getAdMsg : function () {
+    //     if(!snipe.gameModel.getAllCheckConfig()){
+    //         if(hall.adManager.getAdNodeList().length < 1){
+    //             var sceneSize = cc.director.getWinSize();
+    //             hall.adManager.showAd({x:72,y:sceneSize.height/2+50});
+    //         }else {
+    //             hall.adManager.getAdNodeList()[0].showAdNode();
+    //         }
+    //     }
+    // },
+
     getAdMsg : function () {
+        if(hall.GlobalFuncs.ReadNumFromLocalStorage(snipe.gameModel.OPEN_ADBTN_STATE_TODAY,0) >= 3){
+            snipe.GlobalFuncs.hideAdBtnWithTag(5001,true);
+            return;
+        }
+        if(hall.GlobalFuncs.ReadNumFromLocalStorage(snipe.gameModel.OPEN_ADBTN_COUNT_TODAY,0) < snipe.GameWorld.growthConfig.showDelayed){
+            snipe.GlobalFuncs.hideAdBtnWithTag(5001,true);
+            return;
+        }
+
         if(!snipe.gameModel.getAllCheckConfig()){
-            if(hall.adManager.getAdNodeList().length < 1){
-                var sceneSize = cc.director.getWinSize();
-                hall.adManager.showAd({x:72,y:sceneSize.height/2+50});
-            }else {
-                hall.adManager.getAdNodeList()[0].showAdNode();
+            var sceneSize = cc.director.getWinSize();
+            if(snipe.GameWorld.growthConfig['home'].indexOf('CO') > -1){
+                if(hall.GlobalFuncs.ReadNumFromLocalStorage(snipe.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 1){
+                    if(hall.adManager.getAdNodeByTag(5001)){
+                        hall.adManager.getAdNodeByTag(5001).showAdNode();
+                    }else {
+                        hall.adManager.showAd({x:72,y:sceneSize.height/2+75},5001);
+                    }
+                }
+            }
+            if(snipe.GameWorld.growthConfig['home'].indexOf('STU') > -1){
+                if(hall.GlobalFuncs.ReadNumFromLocalStorage(snipe.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 2){
+                    snipe.sxAdmanager.show(72,sceneSize.height/2-75,snipe.GameWorld.growthConfig.STUScale);
+                }
             }
         }
     },
@@ -120,12 +164,22 @@ cc.Class({
     changeDiamondNodeActive : function () {
         if(snipe.gameModel.getAllCheckConfig()){
             this.diamondNode.active = false;
+            // this.titleNode.y = -135;
+            // this.rankNode.x = -126;
+            // this.rankNode.y = -437;
+            // this.freeNode.x = 126;
+            // this.freeNode.y = -437;
         }else {
             if(ty.UserInfo.isInBSGS){
                 this.diamondNode.active = snipe.GameWorld.toolUserTimeConfig.diamondShow.bsgs;
             }else {
                 this.diamondNode.active = snipe.GameWorld.toolUserTimeConfig.diamondShow.nBsgs;
             }
+            // this.titleNode.y = 0;
+            // this.rankNode.x = 228;
+            // this.rankNode.y = 137;
+            // this.freeNode.x = 228;
+            // this.freeNode.y = 0;
         }
     },
     changeFreeToolNodeActive : function (result) {
@@ -182,11 +236,7 @@ cc.Class({
             snipe.gameClubButton.destroy();
         }
 
-        if(hall.adManager.getAdNodeList().length >= 1){
-            for (var i = 0 ; i < hall.adManager.getAdNodeList().length ; i ++){
-                hall.adManager.getAdNodeList()[i].hideAdNode();
-            }
-        }
+        snipe.GlobalFuncs.hideAdBtnWithTag(5001,true);
 
         snipe.gameClubButton = null;
         ty.NotificationCenter.ignoreScope(this);

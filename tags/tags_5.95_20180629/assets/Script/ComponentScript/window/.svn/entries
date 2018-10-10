@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.95_20180629/assets/Script/ComponentScript/window
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -162,17 +162,17 @@ liaotao
 
 10308
 
-ddz_getReward_main.js.meta
+ddz_window_history.js.meta
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-5e99eb67e9f820793f02c2c3c6520b25
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+c424db8284b5b08d789bcbb1cf44c169
+2018-04-14T16:45:29.437985Z
+17875
+liaotao
 
 
 
@@ -196,17 +196,17 @@ xujing
 
 197
 
-ddz_window_history.js.meta
+ddz_getReward_main.js.meta
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-c424db8284b5b08d789bcbb1cf44c169
-2018-04-14T16:45:29.437985Z
-17875
-liaotao
+5e99eb67e9f820793f02c2c3c6520b25
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -366,40 +366,6 @@ liaotao
 
 197
 
-ddz_notifyWindow.js.meta
-file
-
-
-
-
-2018-09-11T17:42:44.000000Z
-1cee1d0725d9df20d55d6cee361f01f3
-2018-04-16T11:00:29.150532Z
-17957
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 ddz_diamond_windows.js
 file
 
@@ -433,6 +399,40 @@ liaotao
 
 
 5401
+
+ddz_notifyWindow.js.meta
+file
+
+
+
+
+2018-09-11T17:42:44.000000Z
+1cee1d0725d9df20d55d6cee361f01f3
+2018-04-16T11:00:29.150532Z
+17957
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 ddz_avatar_window.js.meta
 file
@@ -1046,40 +1046,6 @@ liaotao
 
 197
 
-jipaiqi.js
-file
-
-
-
-
-2018-09-11T17:42:44.000000Z
-3a319e221233aec446f7dd5aad048331
-2018-06-29T02:00:44.138712Z
-20178
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4016
-
 ddz_cell_history.js.meta
 file
 
@@ -1113,6 +1079,40 @@ liaotao
 
 
 197
+
+jipaiqi.js
+file
+
+
+
+
+2018-09-11T17:42:44.000000Z
+3a319e221233aec446f7dd5aad048331
+2018-06-29T02:00:44.138712Z
+20178
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4016
 
 ddz_helpBox.js.meta
 file
@@ -1148,40 +1148,6 @@ liaotao
 
 197
 
-ddz_bannerResurgence.js
-file
-
-
-
-
-2018-09-11T17:42:44.000000Z
-40cf8b63bace0b86fa0297cac3dc18ce
-2018-06-22T11:20:37.609357Z
-20088
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3766
-
 ddz_useDiamond.js
 file
 
@@ -1215,6 +1181,40 @@ zhangman
 
 
 2125
+
+ddz_bannerResurgence.js
+file
+
+
+
+
+2018-09-11T17:42:44.000000Z
+40cf8b63bace0b86fa0297cac3dc18ce
+2018-06-22T11:20:37.609357Z
+20088
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3766
 
 ddz_arena_result_lose.js.meta
 file
@@ -1352,40 +1352,6 @@ xujing
 
 197
 
-ddz_arena_result_win.js
-file
-
-
-
-
-2018-09-11T17:42:44.000000Z
-6e2266aa59d9c1ebed53bb545ce2d8c2
-2018-06-07T07:32:55.163153Z
-19879
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5682
-
 treasure_box.js
 file
 
@@ -1420,16 +1386,50 @@ liaotao
 
 3691
 
-ddz_window_dissolve.js.meta
+ddz_arena_result_win.js
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-132b2b953332d8aa0c245d0b889b6bc0
-2018-04-15T08:36:16.254738Z
-17924
+6e2266aa59d9c1ebed53bb545ce2d8c2
+2018-06-07T07:32:55.163153Z
+19879
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5682
+
+ddz_window_normal.js.meta
+file
+
+
+
+
+2018-09-11T17:42:44.000000Z
+9ab4f21cd5f461ad1a478b45c6d9ca43
+2018-05-03T14:23:31.111736Z
+18731
 zhangman
 
 
@@ -1454,16 +1454,16 @@ zhangman
 
 197
 
-ddz_window_normal.js.meta
+ddz_window_dissolve.js.meta
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-9ab4f21cd5f461ad1a478b45c6d9ca43
-2018-05-03T14:23:31.111736Z
-18731
+132b2b953332d8aa0c245d0b889b6bc0
+2018-04-15T08:36:16.254738Z
+17924
 zhangman
 
 
@@ -1556,17 +1556,17 @@ liaotao
 
 11618
 
-choosePlayMode.js
+ddz_window_match_rewards.js
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-f10457391bb70060584f31968e880ee8
-2018-05-15T12:22:09.786596Z
-19386
-liaotao
+3c5ca7d221bf507599d7b725b2f5b605
+2018-05-09T07:41:02.366442Z
+19051
+xiaochuntian
 
 
 
@@ -1588,7 +1588,7 @@ liaotao
 
 
 
-2144
+2106
 
 ddz_diamond_windows.js.meta
 file
@@ -1624,17 +1624,17 @@ liaotao
 
 197
 
-ddz_window_match_rewards.js
+choosePlayMode.js
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-3c5ca7d221bf507599d7b725b2f5b605
-2018-05-09T07:41:02.366442Z
-19051
-xiaochuntian
+f10457391bb70060584f31968e880ee8
+2018-05-15T12:22:09.786596Z
+19386
+liaotao
 
 
 
@@ -1656,19 +1656,19 @@ xiaochuntian
 
 
 
-2106
+2144
 
-ddz_rank_list.js.meta
+withdrawalMaintain.js.meta
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-c4675f605ca06d5cefc011a037248f0f
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+34c491f3d0b64cf60939e15ed39ed128
+2018-05-11T06:56:42.897485Z
+19173
+liaotao
 
 
 
@@ -1726,17 +1726,51 @@ liaotao
 
 20988
 
-withdrawalMaintain.js.meta
+ddz_rank_list.js.meta
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-34c491f3d0b64cf60939e15ed39ed128
-2018-05-11T06:56:42.897485Z
-19173
-liaotao
+c4675f605ca06d5cefc011a037248f0f
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+ddz_window_createRoom.js.meta
+file
+
+
+
+
+2018-09-11T17:42:44.000000Z
+90b3c21aac1e8aa591a6bb7ccde41548
+2018-04-14T09:55:52.305650Z
+17860
+zhangman
 
 
 
@@ -1794,17 +1828,17 @@ liaotao
 
 34690
 
-ddz_window_createRoom.js.meta
+ddz_useDiamond.js.meta
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-90b3c21aac1e8aa591a6bb7ccde41548
-2018-04-14T09:55:52.305650Z
-17860
-zhangman
+13b340799ef78a8d74fbcb9b99f94cbf
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -1862,17 +1896,17 @@ liaotao
 
 197
 
-ddz_useDiamond.js.meta
+ddz_window_normal.js
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-13b340799ef78a8d74fbcb9b99f94cbf
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+7d444c32a40d3b8eeb11519e320e440a
+2018-05-18T10:38:19.898912Z
+19471
+zhangman
 
 
 
@@ -1894,41 +1928,7 @@ xujing
 
 
 
-197
-
-GoldModule.js.meta
-file
-
-
-
-
-2018-09-11T17:42:44.000000Z
-fb3d0064fa577fb9eeaa2608bb73cad9
-2018-05-04T09:50:55.781353Z
-18767
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
+5141
 
 ddz_window_dissolve.js
 file
@@ -1964,17 +1964,17 @@ zhangman
 
 1956
 
-ddz_window_normal.js
+GoldModule.js.meta
 file
 
 
 
 
 2018-09-11T17:42:44.000000Z
-7d444c32a40d3b8eeb11519e320e440a
-2018-05-18T10:38:19.898912Z
-19471
-zhangman
+fb3d0064fa577fb9eeaa2608bb73cad9
+2018-05-04T09:50:55.781353Z
+18767
+xujing
 
 
 
@@ -1996,7 +1996,7 @@ zhangman
 
 
 
-5141
+197
 
 ddz_shareReward_windows.js
 file

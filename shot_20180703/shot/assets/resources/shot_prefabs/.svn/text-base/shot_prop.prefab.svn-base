@@ -3141,9 +3141,9 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "02a0845c-1f79-4301-8afe-fad31250886d"
+      "__uuid__": "39d6c233-65e1-4900-9dae-7acb539b8369"
     },
-    "_type": 0,
+    "_type": 1,
     "_sizeMode": 0,
     "_fillType": 0,
     "_fillCenter": {

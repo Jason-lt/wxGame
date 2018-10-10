@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.4_20180804/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,17 +60,17 @@ zhangman
 
 699
 
-shot_grenade.plist.meta
+shot_scene_ui.plist
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-649b065e6d16bd8d11eb56511234cdae
-2018-08-03T07:23:31.735744Z
-20611
-yuhongbin
+8c5e2100d15b22eb483177e7cf75b4a1
+2018-08-02T10:07:23.860429Z
+20603
+zhangman
 
 
 
@@ -92,7 +92,7 @@ yuhongbin
 
 
 
-5322
+11721
 
 shot_bottles.png.meta
 file
@@ -128,17 +128,17 @@ zhangman
 
 685
 
-shot_scene_ui.plist
+shot_grenade.plist.meta
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-8c5e2100d15b22eb483177e7cf75b4a1
-2018-08-02T10:07:23.860429Z
-20603
-zhangman
+649b065e6d16bd8d11eb56511234cdae
+2018-08-03T07:23:31.735744Z
+20611
+yuhongbin
 
 
 
@@ -160,7 +160,7 @@ zhangman
 
 
 
-11721
+5322
 
 shot_grenade.png
 file
@@ -298,40 +298,6 @@ zhangman
 
 49460
 
-font.meta
-file
-
-
-
-
-2018-09-11T17:39:45.000000Z
-04114b4e2f7a2a075d7474e317ffe4b6
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 shot_scene_ui_2.png
 file
 
@@ -366,17 +332,17 @@ has-props
 
 235307
 
-shot_grenade.plist
+font.meta
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-5ab221471224d10d410ef76208f12291
-2018-08-03T07:23:31.735744Z
-20611
-yuhongbin
+04114b4e2f7a2a075d7474e317ffe4b6
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
 
 
 
@@ -398,7 +364,7 @@ yuhongbin
 
 
 
-5061
+88
 
 shot_bottles.png
 file
@@ -433,6 +399,40 @@ has-props
 
 
 55811
+
+shot_grenade.plist
+file
+
+
+
+
+2018-09-11T17:39:45.000000Z
+5ab221471224d10d410ef76208f12291
+2018-08-03T07:23:31.735744Z
+20611
+yuhongbin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5061
 
 shot_main_ui.plist.meta
 file

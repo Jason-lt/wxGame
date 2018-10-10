@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doubleHit",
+    "texture": "9b6285d1-8891-4c6d-b91e-17ec895607de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      110
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      114,
+      111
+    ]
+  }
+}

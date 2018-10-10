@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/imageRes/jump_main_scene_ui
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,14 +94,14 @@ has-props
 
 22252
 
-main_scene_0005_caoping.png
+main_scene_0000_huojiantong.png
 file
 
 
 
 
 2018-09-11T17:41:03.000000Z
-4e7ab0457693fbc9bc769ef5f57ba3ec
+816af312ddd3910b1a5caff66b2c49a0
 2018-06-12T03:49:18.741968Z
 19917
 zhangman
@@ -126,7 +126,7 @@ has-props
 
 
 
-76987
+5726
 
 main_scene_0003_tiaochuang.png
 file
@@ -162,14 +162,14 @@ has-props
 
 5561
 
-main_scene_0000_huojiantong.png
+main_scene_0005_caoping.png
 file
 
 
 
 
 2018-09-11T17:41:03.000000Z
-816af312ddd3910b1a5caff66b2c49a0
+4e7ab0457693fbc9bc769ef5f57ba3ec
 2018-06-12T03:49:18.741968Z
 19917
 zhangman
@@ -194,7 +194,7 @@ has-props
 
 
 
-5726
+76987
 
 main_scene_0006_yicixingtiaoban.png
 file
@@ -264,16 +264,16 @@ has-props
 
 13568
 
-main_scene_0007_1buketiaotiaoban.png
+main_scene_monster_02.png
 file
 
 
 
 
 2018-09-11T17:41:03.000000Z
-703e7478e203fdedf4823209a97537ce
-2018-06-12T03:49:18.741968Z
-19917
+f94e078f211d5dda39ebdd4434dc448d
+2018-06-21T12:40:42.496044Z
+20058
 zhangman
 has-props
 
@@ -296,41 +296,7 @@ has-props
 
 
 
-4195
-
-main_scene_0001_zhuqingtingmaozi_2.png
-file
-
-
-
-
-2018-09-11T17:41:03.000000Z
-ce73ba013edd4143d9d263df77c55be4
-2018-06-12T15:18:29.731549Z
-19950
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-754
+14455
 
 main_scene_0001_1zhuqingtingmaozi.png
 file
@@ -366,16 +332,16 @@ has-props
 
 456
 
-main_scene_monster_02.png
+main_scene_0001_zhuqingtingmaozi_2.png
 file
 
 
 
 
 2018-09-11T17:41:03.000000Z
-f94e078f211d5dda39ebdd4434dc448d
-2018-06-21T12:40:42.496044Z
-20058
+ce73ba013edd4143d9d263df77c55be4
+2018-06-12T15:18:29.731549Z
+19950
 zhangman
 has-props
 
@@ -398,7 +364,41 @@ has-props
 
 
 
-14455
+754
+
+main_scene_0007_1buketiaotiaoban.png
+file
+
+
+
+
+2018-09-11T17:41:03.000000Z
+703e7478e203fdedf4823209a97537ce
+2018-06-12T03:49:18.741968Z
+19917
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4195
 
 main_scene_monster_03.png
 file

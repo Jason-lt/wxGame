@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_bottles",
+    "texture": "8fet9zkbZGwqZxqMXdUhWp",
+    "rect": [
+      2,
+      2,
+      508,
+      833
+    ],
+    "offset": [
+      0,
+      93.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

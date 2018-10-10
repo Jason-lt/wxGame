@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shot_motongpisui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "posui1_01": {
+      "__uuid__": "04e37646-06f4-4581-a4a4-9860cc1d87a1"
+    },
+    "posui1_05": {
+      "__uuid__": "79f1389a-ae8c-4f33-8942-f26fca9aa63d"
+    },
+    "posui2_06": {
+      "__uuid__": "1bdfa6ed-6137-4338-a589-7f2996c63379"
+    },
+    "posui3_01": {
+      "__uuid__": "9904caf1-c1c8-4a8e-82fd-683a1acb9d2d"
+    },
+    "posui4_01": {
+      "__uuid__": "9b3f859d-cd0a-4b11-94f4-c7900aa06051"
+    },
+    "posui5_05": {
+      "__uuid__": "bf814158-7e48-4f63-a749-e900eafcb34c"
+    },
+    "posui6_01": {
+      "__uuid__": "400f0b47-fd09-431f-b33b-ee7ac1db3335"
+    },
+    "posui6_02": {
+      "__uuid__": "9c62496a-935c-4072-af3d-cacdc993e9c9"
+    },
+    "posui_tx01": {
+      "__uuid__": "65e15400-8fe2-4935-a024-f8ef8b87df85"
+    },
+    "posui_tx02": {
+      "__uuid__": "883897f6-d2c8-4f76-9112-0eea5fb003f4"
+    }
+  }
+}

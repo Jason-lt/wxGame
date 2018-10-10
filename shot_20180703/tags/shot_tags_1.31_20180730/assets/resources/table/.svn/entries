@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.31_20180730/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ zhangman
 
 697
 
-shot_scene_ui.plist
-file
-
-
-
-
-2018-09-11T17:39:09.000000Z
-16b773b93f4512a5fd16471a44139f05
-2018-07-25T02:07:55.826349Z
-20463
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12208
-
 shot_bottles.png.meta
 file
 
@@ -127,6 +93,40 @@ zhangman
 
 
 685
+
+shot_scene_ui.plist
+file
+
+
+
+
+2018-09-11T17:39:09.000000Z
+16b773b93f4512a5fd16471a44139f05
+2018-07-25T02:07:55.826349Z
+20463
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12208
 
 shot_main_ui.png.meta
 file
@@ -230,40 +230,6 @@ zhangman
 
 49460
 
-font.meta
-file
-
-
-
-
-2018-09-11T17:39:09.000000Z
-04114b4e2f7a2a075d7474e317ffe4b6
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 shot_scene_ui_2.png
 file
 
@@ -297,6 +263,40 @@ has-props
 
 
 335306
+
+font.meta
+file
+
+
+
+
+2018-09-11T17:39:09.000000Z
+04114b4e2f7a2a075d7474e317ffe4b6
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
 
 shot_bottles.png
 file

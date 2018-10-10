@@ -56,6 +56,10 @@ cc.Class({
             shareType == shot.Share.onShareType.clickStatShareTypeLightGetReward||
             shareType == shot.Share.onShareType.clickStatShareTypeGrenade ||
             shareType == shot.Share.onShareType.clickStatShareTypeGrenadeGetReward)) {
+            if(!shot.gameModel.shareTimeEnough){
+                hall.MsgBoxManager.showToast({title : '换个群试试吧'});
+                return;
+            }
 
             var _config = shot.GameWorld.gunnerShareSchemeConfig;
             if (_config && _config.boxShareGetProp && !ty.UserInfo.isInBSGS){
@@ -207,15 +211,21 @@ cc.Class({
         if(typeList && typeList[0] == "ad"){
             if(hall.adManager.canPlay){
                 this.getType = "getPropAd";
-            }else if(typeList.length > 1 && typeList[1] == "share"){
+            }else if(typeList.length > 1 && (typeList[1] == "share" || typeList[1] == "shareRec")){
                 this.getType = "getPropShare";
+                if(typeList[1] == "shareRec"){
+                    shot.gameModel.shareRec = true;
+                }
             }else if(typeList.length > 1 && typeList[1] == "shareClick"){
                 this.getType = "getPropShareClick";
             }else {
                 this.getType = "getProp";
             }
-        }else if(typeList[0] == "share"){
+        }else if(typeList[0] == "share" || typeList[0] == "shareRec"){
             this.getType = "getPropShare";
+            if(typeList[0] == "shareRec"){
+                shot.gameModel.shareRec = true;
+            }
         }else if(typeList[0] == "shareClick"){
             this.getType = "getPropShareClick";
         }else {
@@ -248,6 +258,7 @@ cc.Class({
     onClickCenterBtn:function(){
         if(this.state == 2){
             if(this.getType == "getPropShare"){
+                // shot.gameModel.shareRec = shot.GameWorld.toolUserTimeConfig.propType.combo.shareRec;
                 shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeComboContinue);
             }else if(this.getType == "getPropAd"){
                 hall.adManager.showRewardedVideo("combo");
@@ -256,6 +267,7 @@ cc.Class({
                 this.onClose();
             }
         }else {
+            // shot.gameModel.shareRec = shot.GameWorld.toolUserTimeConfig.propType.getItem.shareRec;
             if(this.getType == "getPropShareClick"){
                 if(this.state == 1){
                     shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeGrenade);

@@ -1,19 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/newsvn/hall-js/!svn/ver/20787/h5/tu-weixin-game/assets/resources/ani
-END
-ddz_matching.meta
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/ani/ddz_matching.meta
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/ani
 END
 doudizhu.meta
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/ani/doudizhu.meta
+END
+ddz_matching.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/ani/ddz_matching.meta
 END
 btnTick.anim
 K 25
@@ -39,35 +39,23 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20410/h5/tu-weixin-game/assets/resources/ani/treasure_box.meta
 END
-ddz_bq.meta
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/ani/ddz_bq.meta
-END
 jinji.meta
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /newsvn/hall-js/!svn/ver/18942/h5/tu-weixin-game/assets/resources/ani/jinji.meta
 END
-rideoBtnTick.anim.meta
+ddz_bq.meta
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/19733/h5/tu-weixin-game/assets/resources/ani/rideoBtnTick.anim.meta
+V 81
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/ani/ddz_bq.meta
 END
-pop_order_info.meta
+huode.meta
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/newsvn/hall-js/!svn/ver/20407/h5/tu-weixin-game/assets/resources/ani/pop_order_info.meta
-END
-look.meta
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/newsvn/hall-js/!svn/ver/20186/h5/tu-weixin-game/assets/resources/ani/look.meta
+V 80
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/ani/huode.meta
 END
 progress.meta
 K 25
@@ -75,11 +63,23 @@ svn:wc:ra_dav:version-url
 V 83
 /newsvn/hall-js/!svn/ver/18965/h5/tu-weixin-game/assets/resources/ani/progress.meta
 END
-huode.meta
+look.meta
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/ani/huode.meta
+V 79
+/newsvn/hall-js/!svn/ver/20186/h5/tu-weixin-game/assets/resources/ani/look.meta
+END
+pop_order_info.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/newsvn/hall-js/!svn/ver/20407/h5/tu-weixin-game/assets/resources/ani/pop_order_info.meta
+END
+rideoBtnTick.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/19733/h5/tu-weixin-game/assets/resources/ani/rideoBtnTick.anim.meta
 END
 laizi.meta
 K 25

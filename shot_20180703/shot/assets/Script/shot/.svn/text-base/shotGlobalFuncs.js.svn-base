@@ -48,11 +48,11 @@ shot.GlobalFuncs.getBackButtonPositionY = function () {
 };
 
 shot.GlobalFuncs.showAdBtnWithTag  = function (tag,growth) {
+	// hall.LOGE("showAdBtnWithTag","=====1===="+tag+"======"+growth);
 	var curScene = cc.director.getScene();
 	if (curScene.name != 'shot_main'){
 		return;
 	}
-
 	if(hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) >= 3){
 		shot.GlobalFuncs.hideAdBtnWithTag(tag,true);
 		return;
@@ -61,24 +61,33 @@ shot.GlobalFuncs.showAdBtnWithTag  = function (tag,growth) {
 		shot.GlobalFuncs.hideAdBtnWithTag(tag,true);
 		return;
 	}
+	if (shot.gameModel.getAllCheckConfig()){
+		shot.GlobalFuncs.hideAdBtnWithTag(tag,true);
+		return;
+	}
 
-	if(!shot.gameModel.getAllCheckConfig()) {
-		var tempY = 280;
-		if(ty.UserInfo.systemType == ty.UserInfo.SYSTEMTYPE.iPhoneXType){
-			tempY = 350;
+	var tempY = 280;
+	if(ty.UserInfo.systemType == ty.UserInfo.SYSTEMTYPE.iPhoneXType){
+		tempY = 350;
+	}
+	if (shot.GameWorld.growthConfig[growth].indexOf('CO') > -1) {
+		if(hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 1){
+			if (hall.adManager.getAdNodeByTag(tag)) {
+				hall.adManager.getAdNodeByTag(tag).showAdNode();
+			} else {
+				hall.adManager.showAd({x: 52, y: tempY}, tag);
+			}
 		}
-		if (shot.GameWorld.growthConfig[growth].indexOf('CO') > -1) {
-			if(hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 1){
-				if (hall.adManager.getAdNodeByTag(tag)) {
-					hall.adManager.getAdNodeByTag(tag).showAdNode();
-				} else {
-					hall.adManager.showAd({x: 52, y: tempY}, tag);
-				}
+	} else if (shot.GameWorld.growthConfig[growth].indexOf('STU') > -1) {
+		if(hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 2){
+			var tempX = 65;
+			var sceneSize = cc.director.getWinSize();
+			if(tag == 5004){
+				tempX = sceneSize.width - 80;
+				tempY = sceneSize.height - 150;
 			}
-		} else if (shot.GameWorld.growthConfig[growth].indexOf('STU') > -1) {
-			if(hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 2){
-				shot.sxAdmanager.show(65, tempY, 0.6);
-			}
+			shot.sxAdmanager.show(tempX, tempY, shot.GameWorld.growthConfig.STUScale);
+			// shot.sxAdmanager.show(72, sceneSize.height/2-80, shot.GameWorld.growthConfig.STUScale);
 		}
 	}
 };
@@ -408,6 +417,9 @@ shot.GlobalFuncs.showResurgence = function () {
 };
 //展示游戏结束我的成绩界面
 shot.GlobalFuncs.showGameOverWithMyScore = function () {
+	var count = hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_COUNT_TODAY,0);
+	count ++;
+	hall.GlobalFuncs.setInLocalStorage(shot.gameModel.OPEN_ADBTN_COUNT_TODAY,count);
 	cc.loader.loadRes('shot_prefabs/shot_result', function (err, prefab) {
 		var preFabNode = cc.instantiate(prefab);
 		cc.director.getScene().addChild(preFabNode);

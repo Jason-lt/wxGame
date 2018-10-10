@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/newsvn/hall-js/!svn/ver/20901/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window
+/newsvn/hall-js/!svn/ver/20996/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window
 END
 shot_crazyTime.js
 K 25
@@ -21,17 +21,17 @@ svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_diamond.js
 END
+shot_result.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_result.js
+END
 newerNode.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/newerNode.js.meta
-END
-shot_result.js
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_result.js
 END
 shot_freeTool.js
 K 25
@@ -39,23 +39,17 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_freeTool.js
 END
-shot_prop.js
-K 25
-svn:wc:ra_dav:version-url
-V 104
-/newsvn/hall-js/!svn/ver/20889/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_prop.js
-END
 zidandaoju.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 110
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/zidandaoju.js.meta
 END
-jump_noDiamond_toastTip.js.meta
+shot_prop.js
 K 25
 svn:wc:ra_dav:version-url
-V 123
-/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/jump_noDiamond_toastTip.js.meta
+V 104
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_prop.js
 END
 shot_secret_box.js.meta
 K 25
@@ -63,11 +57,17 @@ svn:wc:ra_dav:version-url
 V 115
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_secret_box.js.meta
 END
-shot_mystery_giftBag.js.meta
+jump_noDiamond_toastTip.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 120
-/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_mystery_giftBag.js.meta
+V 123
+/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/jump_noDiamond_toastTip.js.meta
+END
+shot_throw_2.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/newsvn/hall-js/!svn/ver/20901/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_throw_2.js
 END
 debugNode.js.meta
 K 25
@@ -75,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/debugNode.js.meta
 END
-shot_throw_2.js
+shot_mystery_giftBag.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 107
-/newsvn/hall-js/!svn/ver/20901/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_throw_2.js
+V 120
+/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_mystery_giftBag.js.meta
 END
 shot_shareResult.js.meta
 K 25
@@ -109,7 +109,7 @@ zidandaoju.js
 K 25
 svn:wc:ra_dav:version-url
 V 105
-/newsvn/hall-js/!svn/ver/20861/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/zidandaoju.js
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/zidandaoju.js
 END
 shot_crazyTime.js.meta
 K 25
@@ -127,13 +127,13 @@ shot_secret_box.js
 K 25
 svn:wc:ra_dav:version-url
 V 110
-/newsvn/hall-js/!svn/ver/20889/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_secret_box.js
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_secret_box.js
 END
 shot_mystery_giftBag.js
 K 25
 svn:wc:ra_dav:version-url
 V 115
-/newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_mystery_giftBag.js
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_mystery_giftBag.js
 END
 debugNode.js
 K 25
@@ -157,7 +157,7 @@ shot_resurgence.js
 K 25
 svn:wc:ra_dav:version-url
 V 110
-/newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_resurgence.js
+/newsvn/hall-js/!svn/ver/20996/h5/snipe_20180829/snipe/assets/Script/ComponentScript/window/shot_resurgence.js
 END
 shot_result.js.meta
 K 25

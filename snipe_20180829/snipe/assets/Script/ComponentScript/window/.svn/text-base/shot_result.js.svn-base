@@ -34,6 +34,7 @@ cc.Class({
 
     },
     onBackButton : function () {
+        snipe.GlobalFuncs.hideAdBtnWithTag(5004,true);
         this.snipeButton.node.stopAllActions();
         var sceneName = 'snipe_begin';
         var onLaunched = function () {
@@ -53,6 +54,7 @@ cc.Class({
         // snipe.Share.shareWithType(snipe.Share.onShareType.clickStatShareTypeScore);
     },
     playAgain : function () {
+        snipe.GlobalFuncs.hideAdBtnWithTag(5004,true);
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["playAgain"]);
         ty.NotificationCenter.trigger(snipe.EventType.GAME_START,"start");
         this.snipeButton.node.stopAllActions();
@@ -79,7 +81,16 @@ cc.Class({
         this.setRankInfo();
     },
 
+    moreGame : function () {
+        ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["moreGame"]);
+        hall.adManager.adNodeObj.clickAdIconResult();
+    },
+
+
     setRankInfo : function () {
+
+        snipe.GlobalFuncs.showAdBtnWithTag(5004,"gameover");
+
         var openDataContext = snipe.GlobalFuncs.getOpenData();
         if(!openDataContext){
             return;

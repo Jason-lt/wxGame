@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/scratch_20180810/scratch/assets/Script/scratch
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -128,10 +128,10 @@ has-props
 
 9282
 
-msg_handler
+models
 dir
 
-models
+msg_handler
 dir
 
 scratchAudioHelper.js
@@ -406,14 +406,14 @@ zhangman
 
 197
 
-msg_handler.meta
+models.meta
 file
 
 
 
 
 2018-09-11T17:40:24.000000Z
-c060fe9ea9750d2b470a5396b0a53620
+0ebede6b0d92865931e1cd107a1aa185
 2018-08-16T02:22:08.314990Z
 20719
 zhangman
@@ -440,14 +440,14 @@ zhangman
 
 88
 
-models.meta
+msg_handler.meta
 file
 
 
 
 
 2018-09-11T17:40:24.000000Z
-0ebede6b0d92865931e1cd107a1aa185
+c060fe9ea9750d2b470a5396b0a53620
 2018-08-16T02:22:08.314990Z
 20719
 zhangman

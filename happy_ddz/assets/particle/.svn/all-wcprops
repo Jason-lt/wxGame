@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle
+/newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle
 END
 flare_Glow_Flair_000_0089.png
 K 25
@@ -111,17 +111,11 @@ svn:wc:ra_dav:version-url
 V 73
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/xyehua002.png
 END
-guangquan.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/guangquan.png
-END
-glow_qiu_Spark.png
+ddz_lizi_win01.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/glow_qiu_Spark.png
+/newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_lizi_win01.png
 END
 ele_arrow1_01a.png.meta
 K 25
@@ -129,17 +123,17 @@ svn:wc:ra_dav:version-url
 V 83
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/ele_arrow1_01a.png.meta
 END
-ddz_lizi_win01.png
+glow_qiu_Spark.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_lizi_win01.png
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/glow_qiu_Spark.png
 END
-win_paiming01.png.meta
+guangquan.png
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/win_paiming01.png.meta
+V 73
+/newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/guangquan.png
 END
 ddz_lizi_win02.png
 K 25
@@ -147,17 +141,17 @@ svn:wc:ra_dav:version-url
 V 78
 /newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_lizi_win02.png
 END
+win_paiming01.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/win_paiming01.png.meta
+END
 interactive_emo_star_lignt.png.meta
 K 25
 svn:wc:ra_dav:version-url
 V 95
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/interactive_emo_star_lignt.png.meta
-END
-ddz_lizi_caidai02.png.meta
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/ddz_lizi_caidai02.png.meta
 END
 ddz_lizi_win04.png
 K 25
@@ -165,11 +159,11 @@ svn:wc:ra_dav:version-url
 V 78
 /newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_lizi_win04.png
 END
-ddz_lizi_win05.png
+ddz_lizi_caidai02.png.meta
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/ddz_lizi_win05.png
+V 86
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/ddz_lizi_caidai02.png.meta
 END
 ddz_saoguang.png.meta
 K 25
@@ -177,17 +171,23 @@ svn:wc:ra_dav:version-url
 V 81
 /newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_saoguang.png.meta
 END
-ddz_lizi_win06.png
+ddz_lizi_win05.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_lizi_win06.png
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/particle/ddz_lizi_win05.png
 END
 ddz_tx_dian04.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_tx_dian04.png
+END
+ddz_lizi_win06.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/newsvn/hall-js/!svn/ver/21005/h5/happy_ddz/assets/particle/ddz_lizi_win06.png
 END
 ddz_lizi_caidai04.png.meta
 K 25

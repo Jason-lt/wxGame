@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_scene_ui",
+    "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+    "rect": [
+      2,
+      2,
+      1020,
+      1018
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

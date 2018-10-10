@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "posui4_01",
+    "texture": "f317b27e-c61e-4dd9-a466-7ac3bb2097b5",
+    "atlas": "e75fb34c-e7c8-4915-85b7-e950774daa7e",
+    "rect": [
+      282,
+      553,
+      83,
+      101
+    ],
+    "offset": [
+      2,
+      -3
+    ],
+    "originalSize": [
+      157,
+      147
+    ],
+    "rotated": 1
+  }
+}

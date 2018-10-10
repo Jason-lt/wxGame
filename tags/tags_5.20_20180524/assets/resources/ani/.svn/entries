@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.20_20180524/assets/resources/ani
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -322,40 +322,6 @@ xujing
 guanqia
 dir
 
-ddz_bq.meta
-file
-
-
-
-
-2018-09-11T17:43:21.000000Z
-23128992bf1b5a189376cddafd965eb5
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 jinji.meta
 file
 
@@ -390,6 +356,43 @@ yuhongbin
 
 88
 
+ddz_bq.meta
+file
+
+
+
+
+2018-09-11T17:43:21.000000Z
+23128992bf1b5a189376cddafd965eb5
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+ranking
+dir
+
 pop_order_info.meta
 file
 
@@ -423,9 +426,6 @@ xujing
 
 
 88
-
-ranking
-dir
 
 doudizhu
 dir
@@ -498,10 +498,13 @@ yuhongbin
 
 88
 
+ddz_bq
+dir
+
 jinji
 dir
 
-ddz_bq
+progress
 dir
 
 maozi.meta
@@ -538,9 +541,6 @@ nizhe
 
 88
 
-progress
-dir
-
 winorlose.meta
 file
 
@@ -575,6 +575,9 @@ xujing
 
 88
 
+laizi
+dir
+
 yindao.meta
 file
 
@@ -608,9 +611,6 @@ nizhe
 
 
 88
-
-laizi
-dir
 
 hongbao
 dir

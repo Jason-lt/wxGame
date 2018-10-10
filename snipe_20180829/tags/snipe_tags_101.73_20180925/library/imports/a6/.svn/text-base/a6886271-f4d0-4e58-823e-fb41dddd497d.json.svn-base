@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_begin_rend",
+    "texture": "667aad8f-396d-4635-b67d-aed1d3452d08",
+    "atlas": "3a02192f-326a-44aa-aec8-dca18743f7a6",
+    "rect": [
+      1018,
+      242,
+      66,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      37
+    ],
+    "rotated": 1
+  }
+}

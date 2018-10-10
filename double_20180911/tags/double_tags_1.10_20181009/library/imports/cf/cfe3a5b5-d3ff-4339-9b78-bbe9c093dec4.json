@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiang jiao 02",
+    "texture": "90c9875b-564f-4e38-936f-39d7d85077b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      64
+    ]
+  }
+}

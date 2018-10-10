@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.31_20180730/assets/resources/table/font
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ has-props
 
 11300
 
-xinxi.png
-file
-
-
-
-
-2018-09-11T17:39:09.000000Z
-80693e8eca16172ffff94c46abd5943c
-2018-07-25T15:02:49.746437Z
-20482
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26403
-
 big_score.fnt
 file
 
@@ -127,6 +93,40 @@ zhangman
 
 
 1454
+
+xinxi.png
+file
+
+
+
+
+2018-09-11T17:39:09.000000Z
+80693e8eca16172ffff94c46abd5943c
+2018-07-25T15:02:49.746437Z
+20482
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26403
 
 shot_main_score.png.meta
 file
@@ -264,40 +264,6 @@ zhangman
 
 700
 
-shot_main_score_normal.fnt.meta
-file
-
-
-
-
-2018-09-11T17:39:09.000000Z
-0ce15fddc19cdf19486802ba030debf8
-2018-07-05T08:27:04.290909Z
-20235
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-163
-
 shot_main_score.png
 file
 
@@ -331,6 +297,40 @@ has-props
 
 
 4870
+
+shot_main_score_normal.fnt.meta
+file
+
+
+
+
+2018-09-11T17:39:09.000000Z
+0ce15fddc19cdf19486802ba030debf8
+2018-07-05T08:27:04.290909Z
+20235
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+163
 
 shot_main_score.fnt
 file
@@ -400,16 +400,16 @@ zhangman
 
 685
 
-xinxi.png.meta
+big_score.fnt.meta
 file
 
 
 
 
 2018-09-11T17:39:09.000000Z
-27d13a7947d20eb4869a06c7db6a82d3
-2018-07-25T15:02:49.746437Z
-20482
+79016d3febe4d2b4f1fe028ae891fe21
+2018-07-05T13:11:31.161893Z
+20242
 zhangman
 
 
@@ -432,7 +432,7 @@ zhangman
 
 
 
-683
+163
 
 shot_main_score_normal.png
 file
@@ -468,16 +468,16 @@ has-props
 
 3055
 
-big_score.fnt.meta
+xinxi.png.meta
 file
 
 
 
 
 2018-09-11T17:39:09.000000Z
-79016d3febe4d2b4f1fe028ae891fe21
-2018-07-05T13:11:31.161893Z
-20242
+27d13a7947d20eb4869a06c7db6a82d3
+2018-07-25T15:02:49.746437Z
+20482
 zhangman
 
 
@@ -500,7 +500,7 @@ zhangman
 
 
 
-163
+683
 
 shot_main_score_normal.fnt
 file

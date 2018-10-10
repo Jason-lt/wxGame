@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c44a81e2-921a-4ab2-a467-5282eb66c770",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "15wupin_posui_tx": {
+      "ver": "1.0.3",
+      "uuid": "7d55325c-ba06-401b-91b6-ef8c35647fe2",
+      "rawTextureUuid": "c44a81e2-921a-4ab2-a467-5282eb66c770",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -81,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 858,
+      "height": 1020,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

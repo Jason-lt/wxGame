@@ -1,0 +1,720 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_14",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        308,
+        134,
+        116,
+        132
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_8",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        374,
+        124,
+        124
+      ],
+      "offset": [
+        -4,
+        -3
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_13",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        624,
+        108,
+        120
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_9",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        138,
+        144,
+        128,
+        128
+      ],
+      "offset": [
+        -5,
+        -5
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_10",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        120,
+        848,
+        84,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_2",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        934,
+        82,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_6",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        308,
+        2,
+        130,
+        134
+      ],
+      "offset": [
+        -4,
+        -6
+      ],
+      "originalSize": [
+        150,
+        150
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_13",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        142,
+        134,
+        134
+      ],
+      "offset": [
+        3,
+        2
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_5",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        242,
+        712,
+        86,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_icon",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        2,
+        138,
+        162
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        138,
+        162
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_9",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        266,
+        380,
+        116,
+        126
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_11",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        120,
+        746,
+        100,
+        108
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_3",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        394,
+        480,
+        116,
+        116
+      ],
+      "offset": [
+        -4,
+        -5
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_6",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        360,
+        718,
+        92,
+        108
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_7",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        128,
+        528,
+        98,
+        122
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_1",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        254,
+        498,
+        106,
+        124
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_1",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        734,
+        116,
+        116
+      ],
+      "offset": [
+        -3,
+        -3
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_5",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        268,
+        252,
+        126,
+        126
+      ],
+      "offset": [
+        2,
+        2
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_8",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        278,
+        94,
+        126
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_4",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        380,
+        598,
+        118,
+        118
+      ],
+      "offset": [
+        -4,
+        -4
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_12",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        138,
+        274,
+        126,
+        126
+      ],
+      "offset": [
+        1,
+        1
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_10",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        166,
+        2,
+        140,
+        140
+      ],
+      "offset": [
+        -4,
+        -4
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_7",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        128,
+        402,
+        124,
+        124
+      ],
+      "offset": [
+        -3,
+        -4
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_icon",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        396,
+        370,
+        108,
+        109
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        108,
+        109
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_4",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        230,
+        800,
+        102,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_3",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        2,
+        500,
+        122,
+        124
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_11",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        124,
+        628,
+        116,
+        116
+      ],
+      "offset": [
+        -3,
+        -4
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gong_2",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        396,
+        252,
+        114,
+        116
+      ],
+      "offset": [
+        -2,
+        -2
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "double_weaponsDepot.plist",
+    "_spriteFrames": {
+      "double_weaponsDepot_gong_1": {
+        "__uuid__": "a4it5LC4lPmLGPxirFJTHm"
+      },
+      "double_weaponsDepot_gong_10": {
+        "__uuid__": "c13KqB33JBSZom5KdEI4EE"
+      },
+      "double_weaponsDepot_gong_11": {
+        "__uuid__": "eaR5zFmelMhZlOmsjRUGUj"
+      },
+      "double_weaponsDepot_gong_12": {
+        "__uuid__": "benQW9R6hGcIhDx9/fS+6Y"
+      },
+      "double_weaponsDepot_gong_13": {
+        "__uuid__": "3d1El1A65KP4E3xDrY0Btg"
+      },
+      "double_weaponsDepot_gong_2": {
+        "__uuid__": "edLC7kHt9AG4xhGpIZ3nKT"
+      },
+      "double_weaponsDepot_gong_3": {
+        "__uuid__": "54+5qYrRtO2aMc+ZIWC31E"
+      },
+      "double_weaponsDepot_gong_4": {
+        "__uuid__": "batycSXBRCTaX8STf6WLx8"
+      },
+      "double_weaponsDepot_gong_5": {
+        "__uuid__": "abxNKmYLVAE7K7mQccnhmT"
+      },
+      "double_weaponsDepot_gong_6": {
+        "__uuid__": "3ceiz2GaJHWKzmxSDZohpa"
+      },
+      "double_weaponsDepot_gong_7": {
+        "__uuid__": "cf/YQxvnZOL6lSk5UGyO2A"
+      },
+      "double_weaponsDepot_gong_8": {
+        "__uuid__": "10JL4DI/lFOajKRDoKllwf"
+      },
+      "double_weaponsDepot_gong_9": {
+        "__uuid__": "22J8Z4zRNFJIx5tpvnPC6N"
+      },
+      "double_weaponsDepot_gong_icon": {
+        "__uuid__": "d9j5nIsAZAf4MRzV2HuW41"
+      },
+      "double_weaponsDepot_gun_1": {
+        "__uuid__": "8ezpTPMFBN04XlaYAPjB0u"
+      },
+      "double_weaponsDepot_gun_10": {
+        "__uuid__": "22vZStKAFLfp3hvQrpoEMB"
+      },
+      "double_weaponsDepot_gun_11": {
+        "__uuid__": "54AtY7UK1HqZpxjTwZRfF8"
+      },
+      "double_weaponsDepot_gun_12": {
+        "__uuid__": "fbIuCDg91C4r4OymsZHe06"
+      },
+      "double_weaponsDepot_gun_13": {
+        "__uuid__": "10V8P4Pi5J8JbrpI2AtYN8"
+      },
+      "double_weaponsDepot_gun_14": {
+        "__uuid__": "0dCn1ct7NBz7duzC1NU5AC"
+      },
+      "double_weaponsDepot_gun_2": {
+        "__uuid__": "2bEHGXaBVH45m9odwXvJ/l"
+      },
+      "double_weaponsDepot_gun_3": {
+        "__uuid__": "e4YHBFrKRGq7A3UE7QwAZp"
+      },
+      "double_weaponsDepot_gun_4": {
+        "__uuid__": "daLx18KqhKL6FCMwh1M5Cj"
+      },
+      "double_weaponsDepot_gun_5": {
+        "__uuid__": "3etNHKSQ9PjIztw7mn9MTB"
+      },
+      "double_weaponsDepot_gun_6": {
+        "__uuid__": "5fzYT2S8lIQYpui8PVque4"
+      },
+      "double_weaponsDepot_gun_7": {
+        "__uuid__": "83Qv6o5ShOXZXqS3BLwyxT"
+      },
+      "double_weaponsDepot_gun_8": {
+        "__uuid__": "b4kzKcDb5PZJC+1/MvTSpI"
+      },
+      "double_weaponsDepot_gun_9": {
+        "__uuid__": "4c3yYWja9MJZ6ybUVqHr+t"
+      },
+      "double_weaponsDepot_gun_icon": {
+        "__uuid__": "413BWySXJH0Kq1GnSkcT9o"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_weaponsDepot_gun_12",
+      "texture": "5cNhEspgND65MQGBuoXf09",
+      "rect": [
+        252,
+        606,
+        104,
+        118
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "rotated": 1
+    }
+  }
+]

@@ -1,14 +1,14 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/Script/ddz/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-11T02:53:03.413843Z
-20909
+2018-09-28T08:10:29.291409Z
+21025
 liaotao
 
 
@@ -164,7 +164,7 @@ has-props
 
 MatchModel.js
 file
-21009
+
 
 
 
@@ -400,33 +400,9 @@ liaotao
 
 197
 
-personInfoMode.js
-file
-21009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 FriendModel.js
 file
-21009
+
 
 
 
@@ -528,7 +504,7 @@ liaotao
 
 GameModel.js
 file
-21025
+
 
 
 
@@ -559,40 +535,6 @@ liaotao
 
 
 50395
-
-DetailsModel.js.meta
-file
-
-
-
-
-2018-09-06T17:54:11.000000Z
-a7c816af7ad3bc62516adda473bef360
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 ConfigRoomSession.js.meta
 file
@@ -628,14 +570,14 @@ liaotao
 
 197
 
-TableChatModel.js.meta
+DetailsModel.js.meta
 file
 
 
 
 
 2018-09-06T17:54:11.000000Z
-c93c501ec1942ed97e14a5ecac231b21
+a7c816af7ad3bc62516adda473bef360
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -696,14 +638,14 @@ liaotao
 
 197
 
-CardType.js.meta
+TableChatModel.js.meta
 file
 
 
 
 
 2018-09-06T17:54:11.000000Z
-f8fca2f4980ca1610bbb671b8cc7ac05
+c93c501ec1942ed97e14a5ecac231b21
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -764,14 +706,14 @@ liaotao
 
 197
 
-HallInfoModel.js.meta
+CardType.js.meta
 file
 
 
 
 
 2018-09-06T17:54:11.000000Z
-8ddc0fbe86667de59c514f1245fcd653
+f8fca2f4980ca1610bbb671b8cc7ac05
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -832,14 +774,14 @@ liaotao
 
 197
 
-DetailsModel.js
+HallInfoModel.js.meta
 file
 
 
 
 
-2018-09-06T17:31:30.000000Z
-8f3be48f502f5cdc0e3b1fb3eca4c275
+2018-09-06T17:54:11.000000Z
+8ddc0fbe86667de59c514f1245fcd653
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -864,7 +806,7 @@ liaotao
 
 
 
-4761
+197
 
 ConfigRoomSession.js
 file
@@ -900,6 +842,40 @@ liaotao
 
 1732
 
+DetailsModel.js
+file
+
+
+
+
+2018-09-06T17:31:30.000000Z
+8f3be48f502f5cdc0e3b1fb3eca4c275
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4761
+
 HistoryModel.js.meta
 file
 
@@ -933,40 +909,6 @@ liaotao
 
 
 197
-
-SeatInfo.js
-file
-
-
-
-
-2018-09-06T17:31:30.000000Z
-b31722e7f3939680640c75720af3f29d
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7625
 
 TableChatModel.js
 file
@@ -1002,6 +944,40 @@ liaotao
 
 4033
 
+SeatInfo.js
+file
+
+
+
+
+2018-09-06T17:31:30.000000Z
+b31722e7f3939680640c75720af3f29d
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7625
+
 CardInfo.js.meta
 file
 
@@ -1035,30 +1011,6 @@ liaotao
 
 
 197
-
-personInfoMode.js.meta
-file
-21009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 TableState.js.meta
 file

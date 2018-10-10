@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.10_20180412/20180407/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -505,18 +505,17 @@ zhangman
 scene_bg
 dir
 
-dizhu_table_chuntian.png
+interactive_emo1.png.meta
 file
 
 
 
 
 2018-09-11T17:44:41.000000Z
-2a3a2858d1e0501edde0ea208ee415f9
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-has-props
+76c24cd5900a3fa8923ca3f8d8089da8
+2018-04-11T12:16:30.843010Z
+17771
+xujing
 
 
 
@@ -537,7 +536,8 @@ has-props
 
 
 
-46261
+
+691
 
 ddz_table_ani_common.plist.meta
 file
@@ -573,17 +573,18 @@ zhangman
 
 10396
 
-interactive_emo1.png.meta
+dizhu_table_chuntian.png
 file
 
 
 
 
 2018-09-11T17:44:41.000000Z
-76c24cd5900a3fa8923ca3f8d8089da8
-2018-04-11T12:16:30.843010Z
-17771
-xujing
+2a3a2858d1e0501edde0ea208ee415f9
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+has-props
 
 
 
@@ -604,8 +605,7 @@ xujing
 
 
 
-
-691
+46261
 
 ddz_table_ui.png
 file
@@ -641,40 +641,6 @@ has-props
 
 16043
 
-ddz_table_ani_common.png
-file
-
-
-
-
-2018-09-11T17:44:41.000000Z
-096e23e6266937edad199e40fa598dab
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-75661
-
 ddz_scene_ui.plist.meta
 file
 
@@ -709,6 +675,43 @@ xujing
 
 29524
 
+ddz_table_ani_common.png
+file
+
+
+
+
+2018-09-11T17:44:41.000000Z
+096e23e6266937edad199e40fa598dab
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75661
+
+nopack
+dir
+
 ddz_poker.plist
 file
 
@@ -742,9 +745,6 @@ zhangman
 
 
 19983
-
-nopack
-dir
 
 dizhu_table_chuntian.plist
 file
@@ -814,40 +814,6 @@ has-props
 
 85977
 
-ddz_table_ui.plist
-file
-
-
-
-
-2018-09-11T17:44:41.000000Z
-7662d2195b5b36c9e657e290d050291b
-2018-04-10T14:55:28.659271Z
-17730
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7795
-
 interactive_emo_egg_icon.png.meta
 file
 
@@ -882,17 +848,17 @@ liaotao
 
 697
 
-ddz_table_ani_common.plist
+ddz_table_ui.plist
 file
 
 
 
 
 2018-09-11T17:44:41.000000Z
-9ae19484b263099a80fea7b2c26f6ecd
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
+7662d2195b5b36c9e657e290d050291b
+2018-04-10T14:55:28.659271Z
+17730
+xujing
 
 
 
@@ -914,7 +880,7 @@ zhangman
 
 
 
-9343
+7795
 
 interactive_emo1.png
 file
@@ -949,6 +915,40 @@ has-props
 
 
 71097
+
+ddz_table_ani_common.plist
+file
+
+
+
+
+2018-09-11T17:44:41.000000Z
+9ae19484b263099a80fea7b2c26f6ecd
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9343
 
 ddz_scene_ui.plist
 file

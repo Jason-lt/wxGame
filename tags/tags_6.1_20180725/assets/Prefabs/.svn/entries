@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_6.1_20180725/assets/Prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ xujing
 
 88
 
-personInfoSelect.prefab
-file
-
-
-
-
-2018-09-11T17:42:52.000000Z
-a4dbf86d5208c908d4768901a92d6dcd
-2018-07-24T16:30:03.010006Z
-20462
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8743
-
 SmallCardPrefab.prefab
 file
 
@@ -127,6 +93,40 @@ xujing
 
 
 12739
+
+personInfoSelect.prefab
+file
+
+
+
+
+2018-09-11T17:42:52.000000Z
+a4dbf86d5208c908d4768901a92d6dcd
+2018-07-24T16:30:03.010006Z
+20462
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8743
 
 shareRedPacket.prefab
 file
@@ -264,16 +264,16 @@ xujing
 
 18775
 
-personalAssets.prefab.meta
+guideIcon.prefab.meta
 file
 
 
 
 
 2018-09-11T17:42:52.000000Z
-d17e2bf75212086ef7fdb14a005c9866
-2018-05-01T11:00:05.809232Z
-18617
+97ae902a9176ab6a7b564f13207a4480
+2018-05-10T08:31:12.550778Z
+19111
 liaotao
 
 
@@ -332,16 +332,16 @@ liaotao
 
 116
 
-guideIcon.prefab.meta
+personalAssets.prefab.meta
 file
 
 
 
 
 2018-09-11T17:42:52.000000Z
-97ae902a9176ab6a7b564f13207a4480
-2018-05-10T08:31:12.550778Z
-19111
+d17e2bf75212086ef7fdb14a005c9866
+2018-05-01T11:00:05.809232Z
+18617
 liaotao
 
 
@@ -403,17 +403,17 @@ xujing
 
 116
 
-personalAssets.prefab
+guideIcon.prefab
 file
 
 
 
 
 2018-09-11T17:42:52.000000Z
-8569f290b930f8879de99ebf5db8c5d7
-2018-06-29T02:00:44.138712Z
-20178
-liaotao
+cb88c7d383786fb386485c832347ef30
+2018-06-23T07:50:27.268912Z
+20103
+zhangman
 
 
 
@@ -435,7 +435,7 @@ liaotao
 
 
 
-32012
+16813
 
 personDataEdit.prefab
 file
@@ -471,17 +471,17 @@ liaotao
 
 17210
 
-guideIcon.prefab
+personalAssets.prefab
 file
 
 
 
 
 2018-09-11T17:42:52.000000Z
-cb88c7d383786fb386485c832347ef30
-2018-06-23T07:50:27.268912Z
-20103
-zhangman
+8569f290b930f8879de99ebf5db8c5d7
+2018-06-29T02:00:44.138712Z
+20178
+liaotao
 
 
 
@@ -503,7 +503,7 @@ zhangman
 
 
 
-16813
+32012
 
 personInfoSelect.prefab.meta
 file

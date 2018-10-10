@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.0_20180323/assets/Prefabs/windows/windowsSub
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -332,40 +332,6 @@ zhangman
 
 116
 
-ddz_redPacket.prefab
-file
-
-
-
-
-2018-09-11T17:42:06.000000Z
-bc8f6e7acc12f73a03c74f093aee2da6
-2018-02-04T13:09:52.490322Z
-16393
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8463
-
 ddz_buttonListNode.prefab.meta
 file
 
@@ -399,6 +365,40 @@ zhangman
 
 
 116
+
+ddz_redPacket.prefab
+file
+
+
+
+
+2018-09-11T17:42:06.000000Z
+bc8f6e7acc12f73a03c74f093aee2da6
+2018-02-04T13:09:52.490322Z
+16393
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8463
 
 ddz_progress.prefab
 file

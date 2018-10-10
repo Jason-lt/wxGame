@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.25_20180430/assets/resources/prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -26,39 +26,8 @@ zhangman
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
-dissolveNode.prefab.meta
-file
-
-
-
-
-2018-09-11T17:43:08.000000Z
-7c020eb746fd1d3a3c8d157648edd455
-2018-04-15T04:33:12.474560Z
-17890
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
+zuanshi
+dir
 
 match.meta
 file
@@ -94,8 +63,39 @@ xujing
 
 88
 
-zuanshi
-dir
+dissolveNode.prefab.meta
+file
+
+
+
+
+2018-09-11T17:43:08.000000Z
+7c020eb746fd1d3a3c8d157648edd455
+2018-04-15T04:33:12.474560Z
+17890
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 ddz_window_gameDetail.prefab
 file
@@ -165,14 +165,14 @@ xujing
 
 116
 
-lottery_win_close.anim
+lottery_win_show.anim.meta
 file
 
 
 
 
 2018-09-11T17:43:08.000000Z
-fa38309b9b3e6d3cbb2be199b2f771ac
+086f9f66448e9c35704971ad54518e88
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -197,7 +197,7 @@ xujing
 
 
 
-1107
+88
 
 ddz_window_history.prefab
 file
@@ -233,14 +233,14 @@ liaotao
 
 27614
 
-lottery_win_show.anim.meta
+lottery_win_close.anim
 file
 
 
 
 
 2018-09-11T17:43:08.000000Z
-086f9f66448e9c35704971ad54518e88
+fa38309b9b3e6d3cbb2be199b2f771ac
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -265,7 +265,7 @@ xujing
 
 
 
-88
+1107
 
 ddz_window_tips.prefab.meta
 file
@@ -301,6 +301,9 @@ zhangman
 
 116
 
+match
+dir
+
 dissolveNode.prefab
 file
 
@@ -334,9 +337,6 @@ zhangman
 
 
 14654
-
-match
-dir
 
 ddz_window_revival.prefab
 file

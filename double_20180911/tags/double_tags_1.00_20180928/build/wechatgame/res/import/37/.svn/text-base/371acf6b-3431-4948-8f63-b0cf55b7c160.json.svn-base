@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nao zhong 01",
+    "texture": "34uZbiv2hHJaKasWOaGWKC",
+    "rect": [
+      0,
+      0,
+      70,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      113
+    ]
+  }
+}

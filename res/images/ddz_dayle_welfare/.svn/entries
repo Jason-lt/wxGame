@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/res/images/ddz_dayle_welfare
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -264,40 +264,6 @@ has-props
 
 1627
 
-ddz_welfare_method_bg_1.png
-file
-
-
-
-
-2018-09-11T17:40:18.000000Z
-86b4ef205a86c29fbedee35353eb8a0e
-2018-07-24T16:28:42.859877Z
-20461
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1282
-
 ddz_welfare_bg_1.png
 file
 
@@ -332,14 +298,14 @@ has-props
 
 22863
 
-ddz_welfare_method_bg_2.png
+ddz_welfare_method_bg_1.png
 file
 
 
 
 
 2018-09-11T17:40:18.000000Z
-be52ffbb4f93c239697cd3d32987906c
+86b4ef205a86c29fbedee35353eb8a0e
 2018-07-24T16:28:42.859877Z
 20461
 liaotao
@@ -364,7 +330,7 @@ has-props
 
 
 
-1287
+1282
 
 ddz_welfare_bg_2.png
 file
@@ -399,6 +365,40 @@ has-props
 
 
 2602
+
+ddz_welfare_method_bg_2.png
+file
+
+
+
+
+2018-09-11T17:40:18.000000Z
+be52ffbb4f93c239697cd3d32987906c
+2018-07-24T16:28:42.859877Z
+20461
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1287
 
 ddz_welfare_bg_3.png
 file

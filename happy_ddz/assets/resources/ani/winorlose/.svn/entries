@@ -1,7 +1,7 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/resources/ani/winorlose
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ liaotao
 
 3672
 
-shibai.prefab.meta
-file
-
-
-
-
-2018-09-06T17:54:04.000000Z
-7d33a053f1ba39836e321495d27fe02d
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
 winTitle.anim
 file
 
@@ -161,6 +127,40 @@ liaotao
 
 
 11121
+
+shibai.prefab.meta
+file
+
+
+
+
+2018-09-06T17:54:04.000000Z
+7d33a053f1ba39836e321495d27fe02d
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 gameFlow.prefab.meta
 file
@@ -196,40 +196,6 @@ liaotao
 
 116
 
-winTitleAni.prefab
-file
-
-
-
-
-2018-09-06T17:31:32.000000Z
-9501180b1f9a0eaedfafb176de94fe6d
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-40609
-
 lose.anim
 file
 
@@ -263,6 +229,40 @@ liaotao
 
 
 683
+
+winTitleAni.prefab
+file
+
+
+
+
+2018-09-06T17:31:32.000000Z
+9501180b1f9a0eaedfafb176de94fe6d
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40609
 
 loseTitle.anim
 file

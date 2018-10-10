@@ -1,14 +1,14 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/Prefabs/windows/windowsSub
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-11T02:53:03.413843Z
-20909
+2018-09-28T08:07:57.215314Z
+21024
 liaotao
 
 
@@ -130,7 +130,7 @@ liaotao
 
 ddz_cell_mall.prefab
 file
-21006
+
 
 
 
@@ -229,30 +229,6 @@ liaotao
 
 
 30555
-
-ddz_avatar_window.prefab.meta
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 ddz_game_result_through.prefab.meta
 file
@@ -392,7 +368,7 @@ liaotao
 
 ddz_notify_cell.prefab
 file
-21006
+
 
 
 
@@ -491,30 +467,6 @@ liaotao
 
 
 11760
-
-ddz_cell_getNewDiamond.prefab.meta
-file
-21024
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 ddz_cell_matchlist.prefab.meta
 file
@@ -618,30 +570,6 @@ liaotao
 
 116
 
-ddz_cell_getNewDiamond.prefab
-file
-21024
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 ddz_cell_history.prefab.meta
 file
 
@@ -744,14 +672,14 @@ liaotao
 
 11897
 
-ddz_buttonList.prefab.meta
+ddz_notify_cell.prefab.meta
 file
 
 
 
 
-2018-09-06T17:54:03.000000Z
-9b7512cf8a81157c4c3c871975c0c083
+2018-09-06T17:54:04.000000Z
+91faf448c2dde5eddde412c49cec8cbc
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -812,14 +740,14 @@ liaotao
 
 116
 
-ddz_notify_cell.prefab.meta
+ddz_buttonList.prefab.meta
 file
 
 
 
 
-2018-09-06T17:54:04.000000Z
-91faf448c2dde5eddde412c49cec8cbc
+2018-09-06T17:54:03.000000Z
+9b7512cf8a81157c4c3c871975c0c083
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -848,7 +776,7 @@ liaotao
 
 ddz_cell_history.prefab
 file
-21006
+
 
 
 
@@ -947,30 +875,6 @@ liaotao
 
 
 74516
-
-ddz_avatar_window.prefab
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 ddz_game_result_new.prefab.meta
 file
@@ -1144,7 +1048,7 @@ liaotao
 
 ddz_item_createRoom.prefab
 file
-21006
+
 
 
 

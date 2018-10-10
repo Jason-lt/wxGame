@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/res/images/tps
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -162,40 +162,6 @@ xujing
 
 6462
 
-ddz_personInfo.tps
-file
-
-
-
-
-2018-09-11T17:40:18.000000Z
-16a91d86584dfb48aa391ba67c8cedf1
-2018-07-20T03:15:06.510301Z
-20405
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5456
-
 dizhu_table_chuntian.tps
 file
 
@@ -230,16 +196,16 @@ yuhongbin
 
 6495
 
-ddz_message.tps
+ddz_personInfo.tps
 file
 
 
 
 
 2018-09-11T17:40:18.000000Z
-cd2bd6dfddadd352c4b6513baa1f0b87
-2018-04-23T08:22:52.992427Z
-18292
+16a91d86584dfb48aa391ba67c8cedf1
+2018-07-20T03:15:06.510301Z
+20405
 liaotao
 
 
@@ -262,7 +228,7 @@ liaotao
 
 
 
-6468
+5456
 
 ddz_table_ui.tps
 file
@@ -298,17 +264,17 @@ liaotao
 
 6474
 
-ddz_table_ani_rocket.tps
+ddz_message.tps
 file
 
 
 
 
 2018-09-11T17:40:18.000000Z
-7f9644618d3ee5817381d7e787a47f92
-2018-03-01T08:44:31.155289Z
-16893
-yuhongbin
+cd2bd6dfddadd352c4b6513baa1f0b87
+2018-04-23T08:22:52.992427Z
+18292
+liaotao
 
 
 
@@ -330,7 +296,7 @@ yuhongbin
 
 
 
-6495
+6468
 
 ddz_mall.tps
 file
@@ -366,6 +332,40 @@ liaotao
 
 5432
 
+ddz_table_ani_rocket.tps
+file
+
+
+
+
+2018-09-11T17:40:18.000000Z
+7f9644618d3ee5817381d7e787a47f92
+2018-03-01T08:44:31.155289Z
+16893
+yuhongbin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6495
+
 ddz_table_ani_common.tps
 file
 
@@ -399,40 +399,6 @@ yuhongbin
 
 
 6495
-
-ddz_box.tps
-file
-
-
-
-
-2018-09-11T17:40:18.000000Z
-18338bfc8a19ce8ee7686d620d57b949
-2018-07-20T03:15:06.510301Z
-20405
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5428
 
 ddz_tx_map.tps
 file
@@ -468,16 +434,16 @@ yuhongbin
 
 6465
 
-ddz_welfare_reward.tps
+ddz_box.tps
 file
 
 
 
 
 2018-09-11T17:40:18.000000Z
-a19f06ce832a0e06a1653f620fbc5146
-2018-06-11T15:32:12.215266Z
-19911
+18338bfc8a19ce8ee7686d620d57b949
+2018-07-20T03:15:06.510301Z
+20405
 liaotao
 
 
@@ -500,7 +466,7 @@ liaotao
 
 
 
-5472
+5428
 
 ddz_withdarw.tps
 file
@@ -535,6 +501,40 @@ liaotao
 
 
 5438
+
+ddz_welfare_reward.tps
+file
+
+
+
+
+2018-09-11T17:40:18.000000Z
+a19f06ce832a0e06a1653f620fbc5146
+2018-06-11T15:32:12.215266Z
+19911
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5472
 
 ddz_ranking.tps
 file

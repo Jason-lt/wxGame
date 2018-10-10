@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suipian03",
+    "texture": "5fe5e7a9-d150-43b5-8f12-ac2b9e4ed813",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      76
+    ]
+  }
+}

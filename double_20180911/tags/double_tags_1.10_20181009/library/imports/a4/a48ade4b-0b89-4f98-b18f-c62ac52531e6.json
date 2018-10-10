@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_weaponsDepot_gong_1",
+    "texture": "5c36112c-a603-43eb-9310-181ba85dfd3d",
+    "atlas": "f77d0b1b-f661-4271-a1b2-0418a5b280e7",
+    "rect": [
+      2,
+      734,
+      116,
+      116
+    ],
+    "offset": [
+      -3,
+      -3
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

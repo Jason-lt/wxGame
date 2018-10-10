@@ -15,7 +15,6 @@ hall.MsgBoxManager = {
         var that = this;
         if (shot.msgBoxNode) {
             shot.msgBoxNode.closeAction();
-            shot.msgBoxNode = null;
         }
         var preFabPath = "shot_prefabs/shot_toast_tips";
         cc.loader.loadRes(preFabPath, function (err, prefab) {

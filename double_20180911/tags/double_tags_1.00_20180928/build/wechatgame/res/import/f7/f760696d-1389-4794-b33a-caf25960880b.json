@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dian shi 01",
+    "texture": "3cZ5MmEzpI+YXpjjUJZ/e+",
+    "rect": [
+      0,
+      0,
+      78,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      77
+    ]
+  }
+}

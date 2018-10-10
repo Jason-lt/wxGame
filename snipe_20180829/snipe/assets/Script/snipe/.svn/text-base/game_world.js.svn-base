@@ -1288,6 +1288,17 @@ snipe.GameWorld = {
         ]
     },
 
+    growthConfig : {                   //交叉导流各开关配置
+        "home" : ["CO","STU"],      //主页交叉导流icon开关
+        "normalLevel" : ["STU"],    //游戏界面交叉导流icon开关
+        "resurgence" : [],      //复活界面交叉导流icon开关
+        "gameover" : ["STU"],        //结算界面交叉导流icon开关
+        "reward" : ["CO","STU"],    //点击icon后是否给武器奖励开关
+        "STUScale" : 0.6,
+        "showRefresh" : true,            //1小时后恢复显示
+        "showDelayed" : 1             //所有交叉导流icon在进行1局游戏后显示icon
+    },
+
     tishenJugglingLevelConfig: {
         "jugglingAccelerated": 935,
         "bonus": 10,

@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/newsvn/hall-js/!svn/ver/20179/h5/res/images/ddz_scene_ui
-END
-ddz_diamond_interface.png
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_diamond_interface.png
+/newsvn/hall-js/!svn/ver/21026/h5/res/images/ddz_scene_ui
 END
 ddz_main_line.png
 K 25
@@ -15,17 +9,23 @@ svn:wc:ra_dav:version-url
 V 75
 /newsvn/hall-js/!svn/ver/19169/h5/res/images/ddz_scene_ui/ddz_main_line.png
 END
-ddz_welfare_diamond_1.png
+ddz_diamond_interface.png
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/newsvn/hall-js/!svn/ver/19911/h5/res/images/ddz_scene_ui/ddz_welfare_diamond_1.png
+/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_diamond_interface.png
 END
 ddz_game_flow.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /newsvn/hall-js/!svn/ver/18356/h5/res/images/ddz_scene_ui/ddz_game_flow.png
+END
+ddz_welfare_diamond_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/newsvn/hall-js/!svn/ver/19911/h5/res/images/ddz_scene_ui/ddz_welfare_diamond_1.png
 END
 ddz_white_circle.png
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 76
 /newsvn/hall-js/!svn/ver/18356/h5/res/images/ddz_scene_ui/ddz_table_fail.png
 END
-ddz_diamond_bg.png
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/newsvn/hall-js/!svn/ver/18176/h5/res/images/ddz_scene_ui/ddz_diamond_bg.png
-END
 black_bg.png
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /newsvn/hall-js/!svn/ver/16545/h5/res/images/ddz_scene_ui/black_bg.png
+END
+ddz_diamond_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/newsvn/hall-js/!svn/ver/18176/h5/res/images/ddz_scene_ui/ddz_diamond_bg.png
 END
 ddz_roomlist_smallPerson.png
 K 25
@@ -237,17 +237,17 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/18255/h5/res/images/ddz_scene_ui/dda_button_diamond_black.png
 END
-ddz_cup_chi.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_cup_chi.png
-END
 ddz_main_peronal_jipaiqi.png
 K 25
 svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/20179/h5/res/images/ddz_scene_ui/ddz_main_peronal_jipaiqi.png
+END
+ddz_cup_chi.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_cup_chi.png
 END
 ddz_main_peronal_coin.png
 K 25
@@ -279,17 +279,17 @@ svn:wc:ra_dav:version-url
 V 70
 /newsvn/hall-js/!svn/ver/17713/h5/res/images/ddz_scene_ui/home_ico.png
 END
-ddz_cup.png
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_cup.png
-END
 ddz_roomlist_redBar.png
 K 25
 svn:wc:ra_dav:version-url
 V 81
 /newsvn/hall-js/!svn/ver/19525/h5/res/images/ddz_scene_ui/ddz_roomlist_redBar.png
+END
+ddz_cup.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_cup.png
 END
 ddz_table_blue.png
 K 25
@@ -327,11 +327,11 @@ svn:wc:ra_dav:version-url
 V 80
 /newsvn/hall-js/!svn/ver/18173/h5/res/images/ddz_scene_ui/ddz_main_rank_icon.png
 END
-ddz_complete.png
+ddz_getReward_bottom.png
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_complete.png
+V 82
+/newsvn/hall-js/!svn/ver/16382/h5/res/images/ddz_scene_ui/ddz_getReward_bottom.png
 END
 ddz_coin_green.png
 K 25
@@ -339,11 +339,11 @@ svn:wc:ra_dav:version-url
 V 76
 /newsvn/hall-js/!svn/ver/18956/h5/res/images/ddz_scene_ui/ddz_coin_green.png
 END
-ddz_getReward_bottom.png
+ddz_complete.png
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/newsvn/hall-js/!svn/ver/16382/h5/res/images/ddz_scene_ui/ddz_getReward_bottom.png
+V 74
+/newsvn/hall-js/!svn/ver/18463/h5/res/images/ddz_scene_ui/ddz_complete.png
 END
 ddz_table_success.png
 K 25

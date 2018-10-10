@@ -1,0 +1,801 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "jinbi",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jinbi",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 11
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "besR1kWCBNTbJBMEjmrl0k"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "e01lNxayxPoas4dqsOlAjU"
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 351,
+        "y": 554
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb01",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "5bIICCEJNADYSUSP863Jne"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb02",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "0dXiemm8ROG7AAeTSDUBI6"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      },
+      "_rotationX": 30,
+      "_rotationY": 30
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb03",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "abejyHpNlIEqNoyOdhsCSG"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      },
+      "_rotationX": -90,
+      "_rotationY": -90
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb04",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "15iBJpqjxL8ogBnJ3kk8zh"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb05",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "bbaqtAayhBt5GTN5QcrLsC"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb06",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "d8SFwGj/ZGFrhl3ZLyy0sl"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb07",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "1dNf7s9exG9ZAFj29YmE74"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb08",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "8bDgZmHJJATJpRNt7ndGzF"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb09",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "bdDvVDgZxIM7ny6mo3Bf97"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jb010",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 11
+          },
+          "_spriteFrame": {
+            "__uuid__": "cbP8jFOP9BT5Ruqy22op5f"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "566KKXFABCEZ75uFDOtayz"
+        },
+        "fileId": "08kc68Wp9OHKS8T2jH8b1q"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 41,
+        "height": 41
+      }
+    }
+  ],
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "jb_01",
+    "_duration": 0.8333333333333334,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "jb01": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "curve": [
+                  0.5,
+                  0.34,
+                  0.35,
+                  1
+                ],
+                "motionPath": [
+                  [
+                    -242,
+                    77,
+                    -167,
+                    -88,
+                    -317,
+                    243
+                  ]
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb02": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "curve": [
+                  0.46,
+                  0.32,
+                  0.43,
+                  1
+                ],
+                "motionPath": [
+                  [
+                    -147,
+                    55,
+                    -101,
+                    -86,
+                    -236,
+                    252
+                  ]
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "curve": [
+                  0.4,
+                  0.4,
+                  0.59,
+                  0.6
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ]
+              }
+            ]
+          }
+        },
+        "jb04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "motionPath": [
+                  [
+                    35,
+                    209,
+                    95,
+                    75,
+                    -49,
+                    398
+                  ]
+                ],
+                "curve": [
+                  0.59,
+                  0.27,
+                  0.42,
+                  1
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb05": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "curve": [
+                  0.53,
+                  0.24,
+                  0.39,
+                  1
+                ],
+                "motionPath": [
+                  [
+                    -20,
+                    342,
+                    53,
+                    178,
+                    -96,
+                    510
+                  ]
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb06": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "motionPath": [
+                  [
+                    -194,
+                    284,
+                    -122,
+                    125,
+                    -271,
+                    455
+                  ]
+                ],
+                "curve": [
+                  0.27,
+                  0.47,
+                  0.41,
+                  1
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb07": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "motionPath": [
+                  [
+                    -38,
+                    391,
+                    40,
+                    219,
+                    -109,
+                    549
+                  ]
+                ],
+                "curve": [
+                  0.53,
+                  0.22,
+                  0.51,
+                  0.74
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb08": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "motionPath": [
+                  [
+                    62,
+                    162,
+                    160,
+                    -42,
+                    -42,
+                    354
+                  ]
+                ],
+                "curve": [
+                  0.4,
+                  0.4,
+                  0.44,
+                  0.77
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb09": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "motionPath": [
+                  [
+                    109,
+                    235,
+                    171,
+                    97,
+                    25,
+                    421
+                  ]
+                ],
+                "curve": [
+                  0.64,
+                  0.02,
+                  0.7,
+                  0.7
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        },
+        "jb010": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  0
+                ],
+                "motionPath": [
+                  [
+                    -229,
+                    78,
+                    -166,
+                    -62,
+                    -312,
+                    262
+                  ]
+                ],
+                "curve": [
+                  0.4,
+                  0.4,
+                  0.38,
+                  1.01
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  -299,
+                  661
+                ],
+                "motionPath": []
+              }
+            ]
+          }
+        }
+      },
+      "props": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_titlePage_coin",
+      "texture": "c0OGbt1YFGu6m+Lg7zbefJ",
+      "rect": [
+        584,
+        349,
+        41,
+        41
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        41,
+        41
+      ]
+    }
+  }
+]

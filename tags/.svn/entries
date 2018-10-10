@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -68,25 +68,25 @@ dir
 tags_5.80_20180614
 dir
 
-tag_5.0_2018_5_13
-dir
-
-tags_10
+tags_5.83_20180621
 dir
 
 tags_1.0_20180323
 dir
 
-tags_5.83_20180621
+tags_10
+dir
+
+tag_5.0_2018_5_13
 dir
 
 tags_1.0_20180403_main
 dir
 
-tags_5.67_20180605
+tags_5.85_20180623
 dir
 
-tags_5.85_20180623
+tags_5.67_20180605
 dir
 
 tags_5.97_20180703
@@ -98,13 +98,13 @@ dir
 tags_1.0_20180403_openData
 dir
 
-tag_5.31_20180527
+tags_5.95_20180629
 dir
 
 tags_5.1_20180518
 dir
 
-tags_5.95_20180629
+tag_5.31_20180527
 dir
 
 tags_6.1_20180725

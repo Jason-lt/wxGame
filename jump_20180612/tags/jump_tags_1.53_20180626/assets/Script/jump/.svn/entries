@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/tags/jump_tags_1.53_20180626/assets/Script/jump
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,10 +94,10 @@ zhangman
 
 197
 
-models
+msg_handler
 dir
 
-msg_handler
+models
 dir
 
 jump_res.js.meta
@@ -202,40 +202,6 @@ has-props
 
 2014
 
-game_world.js
-file
-
-
-
-
-2018-09-11T17:41:08.000000Z
-eb3a676f34b973b593bf801713a34072
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-101
-
 JumpGlobalFuncs.js.meta
 file
 
@@ -269,6 +235,40 @@ zhangman
 
 
 197
+
+game_world.js
+file
+
+
+
+
+2018-09-11T17:41:08.000000Z
+eb3a676f34b973b593bf801713a34072
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+101
 
 JumpAudioHelper.js.meta
 file

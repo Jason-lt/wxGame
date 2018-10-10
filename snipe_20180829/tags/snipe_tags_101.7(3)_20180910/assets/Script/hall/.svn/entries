@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/tags/snipe_tags_101.7(3)_20180910/assets/Script/hall
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -236,14 +236,14 @@ zhangman
 utils
 dir
 
-boot.js.meta
+PropagateInterface.js.meta
 file
 
 
 
 
 2018-09-11T17:40:44.000000Z
-dd8d15aa3f641906597c6cbdc6edc379
+b3c31c0124a42a3156c453498945d92d
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -270,14 +270,14 @@ zhangman
 
 197
 
-PropagateInterface.js.meta
+boot.js.meta
 file
 
 
 
 
 2018-09-11T17:40:44.000000Z
-b3c31c0124a42a3156c453498945d92d
+dd8d15aa3f641906597c6cbdc6edc379
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -406,40 +406,6 @@ zhangman
 
 14365
 
-PropagateInterface.js
-file
-
-
-
-
-2018-09-11T17:40:44.000000Z
-5e8973df6588463405372d86e45ca51c
-2018-08-31T11:20:29.860880Z
-20840
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4736
-
 MsgFactory.js.meta
 file
 
@@ -473,6 +439,40 @@ zhangman
 
 
 197
+
+PropagateInterface.js
+file
+
+
+
+
+2018-09-11T17:40:44.000000Z
+5e8973df6588463405372d86e45ca51c
+2018-08-31T11:20:29.860880Z
+20840
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4736
 
 boot.js
 file

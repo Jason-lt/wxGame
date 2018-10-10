@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/imageRes/shot_scene_ui
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-08-31T08:39:21.499883Z
-20831
+2018-09-13T14:38:05.836993Z
+20924
 zhangman
 
 
@@ -128,6 +128,40 @@ has-props
 
 161622
 
+shot_common_btn_bg.png
+file
+
+
+
+
+2018-10-10T23:28:07.000000Z
+55b53d27790fa6d53d3f21e31a42f5a8
+2018-09-13T14:38:05.836993Z
+20924
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3655
+
 shot_begin_guang.png
 file
 
@@ -229,40 +263,6 @@ has-props
 
 
 14215
-
-shot_gift_invite.png
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-9e9d602c40b23e72268135d9bfa6cd2d
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3897
 
 main_toast_bg.png
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/tags/snipe_tags_101.7_20180906/build/wechatgame/libs/weapp-adapter
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ zhangman
 
 1704
 
-index.js
-file
-
-
-
-
-2018-09-11T17:40:49.000000Z
-00fe1378f7ba2083846c0bca49cf0929
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2318
-
 window.js
 file
 
@@ -127,6 +93,40 @@ zhangman
 
 
 4620
+
+index.js
+file
+
+
+
+
+2018-09-11T17:40:49.000000Z
+00fe1378f7ba2083846c0bca49cf0929
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2318
 
 location.js
 file
@@ -162,40 +162,6 @@ zhangman
 
 215
 
-Worker.js
-file
-
-
-
-
-2018-09-11T17:40:49.000000Z
-af5ffe2b5a0bcb5487e1d70c58da1dfd
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-221
-
 XMLHttpRequest.js
 file
 
@@ -229,6 +195,40 @@ zhangman
 
 
 7465
+
+Worker.js
+file
+
+
+
+
+2018-09-11T17:40:49.000000Z
+af5ffe2b5a0bcb5487e1d70c58da1dfd
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+221
 
 HTMLCanvasElement.js
 file
@@ -298,14 +298,14 @@ zhangman
 
 1888
 
-HTMLMediaElement.js
+document.js
 file
 
 
 
 
 2018-09-11T17:40:49.000000Z
-335aba574ad68e6ca82d4f3dcc627eb6
+04743871d4200b57eb3945109b46b93c
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -330,7 +330,7 @@ zhangman
 
 
 
-2621
+3970
 
 HTMLElement.js
 file
@@ -366,14 +366,14 @@ zhangman
 
 3522
 
-document.js
+HTMLMediaElement.js
 file
 
 
 
 
 2018-09-11T17:40:49.000000Z
-04743871d4200b57eb3945109b46b93c
+335aba574ad68e6ca82d4f3dcc627eb6
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -398,41 +398,7 @@ zhangman
 
 
 
-3970
-
-localStorage.js
-file
-
-
-
-
-2018-09-11T17:40:49.000000Z
-74088c70344401900e010c16d7e04440
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-774
+2621
 
 ImageBitmap.js
 file
@@ -468,8 +434,39 @@ zhangman
 
 405
 
-EventIniter
-dir
+localStorage.js
+file
+
+
+
+
+2018-09-11T17:40:49.000000Z
+74088c70344401900e010c16d7e04440
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+774
 
 Event.js
 file
@@ -504,6 +501,9 @@ zhangman
 
 
 634
+
+EventIniter
+dir
 
 HTMLImageElement.js
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/scratch_20180810/tags/scratch_1.01_20180831/assets/resources/table/font
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -230,40 +230,6 @@ zhangman
 
 708
 
-fnt-4.png.meta
-file
-
-
-
-
-2018-09-11T17:40:29.000000Z
-d604ff8c771b264a8a876f9d40196dde
-2018-08-23T14:47:00.786036Z
-20771
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-712
-
 fnt-1.fnt.meta
 file
 
@@ -298,16 +264,16 @@ zhangman
 
 163
 
-fnt-2.fnt.meta
+fnt-4.png.meta
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-6937ce55d3b8dd9e375ebb26a06f2e3e
-2018-08-20T15:49:42.973455Z
-20751
+d604ff8c771b264a8a876f9d40196dde
+2018-08-23T14:47:00.786036Z
+20771
 zhangman
 
 
@@ -330,7 +296,7 @@ zhangman
 
 
 
-163
+712
 
 fnt-5.png.meta
 file
@@ -366,14 +332,14 @@ zhangman
 
 710
 
-fnt-3.fnt.meta
+fnt-2.fnt.meta
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-6aff3de7b9b4f81cb270c7e96513af72
+6937ce55d3b8dd9e375ebb26a06f2e3e
 2018-08-20T15:49:42.973455Z
 20751
 zhangman
@@ -434,14 +400,14 @@ zhangman
 
 708
 
-fnt-4.fnt.meta
+fnt-3.fnt.meta
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-39c6d5c9bbd759a637a225d8a591d3cf
+6aff3de7b9b4f81cb270c7e96513af72
 2018-08-20T15:49:42.973455Z
 20751
 zhangman
@@ -501,6 +467,40 @@ zhangman
 
 
 712
+
+fnt-4.fnt.meta
+file
+
+
+
+
+2018-09-11T17:40:29.000000Z
+39c6d5c9bbd759a637a225d8a591d3cf
+2018-08-20T15:49:42.973455Z
+20751
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+163
 
 fnt-5.fnt.meta
 file

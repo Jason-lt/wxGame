@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "luo bo 02",
+    "texture": "a61PW/1IpA56/FRUXUto+W",
+    "rect": [
+      0,
+      0,
+      47,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      60
+    ]
+  }
+}

@@ -552,6 +552,49 @@ wx.onShow(function (result) {
         shot.needReLogin = null;
     }
 
+    // if(shot.Share.isOnShare){
+    //     shot.onShowSuccess = true;
+    //     var date = hall.GlobalFuncs.ReadStringFromLocalStorage(shot.gameModel.ONHIDE_DATE);
+    //     var date2 = new Date().getTime();
+    //     var timeGap = date2-date;
+    //     if(shot.gameModel.shareRec){
+    //         shot.gameModel.shareTimeEnough = timeGap > shot.GameWorld.toolUserTimeConfig.shareRecTime;
+    //     }else {
+    //         shot.gameModel.shareTimeEnough = true;
+    //     }
+    //     shot.Share.playAnimationAfterShareWithType();
+    // }else {
+    //     if(scene == 1038 && hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 3 &&
+    //         shot.GameWorld.growthConfig.reward.indexOf(hall.GlobalFuncs.ReadStringFromLocalStorage(shot.gameModel.OPEN_ADBTN_TYPE_TODAY,'')) > -1){
+    //
+    //         var rewardIndex = hall.GlobalFuncs.getRandomNumberBefore(shot.GameWorld.treasureBoxTypeList.length-3)+3;
+    //         var rewardType = shot.GameWorld.treasureBoxTypeList[rewardIndex];
+    //         var curScene = cc.director.getScene();
+    //         if (curScene.name == 'shot_main'){
+    //             shot.GlobalFuncs.playGetPropBoxAni(rewardIndex);
+    //             shot.GlobalFuncs.setBulletType(shot.GameWorld.propertyConfig[rewardType].bulletType);
+    //             shot.GlobalFuncs.hideAdBtnWithTag(5002,true);
+    //             shot.GlobalFuncs.hideAdBtnWithTag(5003,true);
+    //             shot.GlobalFuncs.hideAdBtnWithTag(5004,true);
+    //         }else {
+    //             shot.GlobalFuncs.playGetPropBoxAni(rewardIndex);
+    //             shot.GameWorld.initBulletType = shot.GameWorld.propertyConfig[rewardType].bulletType;
+    //             shot.GlobalFuncs.hideAdBtnWithTag(5001,true);
+    //         }
+    //         shot.GlobalFuncs.setDayOriginGameData();
+    //
+    //         var count = hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0);
+    //         if(hall.GlobalFuncs.ReadStringFromLocalStorage(shot.gameModel.OPEN_ADBTN_TYPE_TODAY,'') == 'CO'){
+    //             count += 1;
+    //         }else {
+    //             count += 2;
+    //         }
+    //         hall.GlobalFuncs.setInLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,count);
+    //         hall.GlobalFuncs.setInLocalStorage(shot.gameModel.OPEN_ADBTN_TYPE_TODAY,'');
+    //     }
+    // }
+    // shot.Share.isOnShare = false;
+
     // if(shot.Share.isOnShare && ty.UserInfo.userId){
     //     shot.Share.playAnimationAfterShareWithType();
     //     shot.Share.isOnShare = false;
@@ -570,6 +613,9 @@ wx.onHide(function () {
     ty.UserInfo.scene_id = 0;
     ty.UserInfo.onShowParam = null;
     hall.onHide = true;
+    shot.gameModel.shareTimeEnough = false;
+    var date = new Date().getTime();
+    hall.GlobalFuncs.setInLocalStorage(shot.gameModel.ONHIDE_DATE, date);
     hall.LOGW('',"+++++++++++++++++onHide+++++++++++++++++");
     ty.TCP.close();
 });

@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.10_20180423/assets/animation
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -66,39 +66,11 @@ dir
 ddz_resultTitle
 dir
 
-richAni.anim.meta
-file
-
-
-
-
-2018-09-11T17:42:58.000000Z
-0605b4233ee01448b9f5cd3be6003b88
-2018-04-23T14:51:39.696164Z
-18316
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
+ddz_main
+dir
+
+jingdeng
+dir
 
 loading.anim.meta
 file
@@ -134,23 +106,14 @@ xujing
 
 88
 
-jingdeng
-dir
-
-ddz_main
-dir
-
-ddz_congratulation
-dir
-
-richAni.anim
+richAni.anim.meta
 file
 
 
 
 
 2018-09-11T17:42:58.000000Z
-2327917c953d24d136f1ce89b47b7f0e
+0605b4233ee01448b9f5cd3be6003b88
 2018-04-23T14:51:39.696164Z
 18316
 zhangman
@@ -175,7 +138,10 @@ zhangman
 
 
 
-978
+88
+
+ddz_congratulation
+dir
 
 loading.anim
 file
@@ -210,6 +176,40 @@ xujing
 
 
 512
+
+richAni.anim
+file
+
+
+
+
+2018-09-11T17:42:58.000000Z
+2327917c953d24d136f1ce89b47b7f0e
+2018-04-23T14:51:39.696164Z
+18316
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+978
 
 tipsWindowNode.meta
 file
@@ -313,14 +313,14 @@ xujing
 
 88
 
-ddz_main.meta
+jingdeng.meta
 file
 
 
 
 
 2018-09-11T17:42:58.000000Z
-523bb53917df6d590dfefe40fb80dc58
+8db7163889faa1fffbf7d122da2a4973
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -347,14 +347,14 @@ xujing
 
 88
 
-jingdeng.meta
+ddz_main.meta
 file
 
 
 
 
 2018-09-11T17:42:58.000000Z
-8db7163889faa1fffbf7d122da2a4973
+523bb53917df6d590dfefe40fb80dc58
 2018-04-13T09:20:38.742162Z
 17836
 xujing

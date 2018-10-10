@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tu-weixin-game/assets/Scene
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-06T02:03:27.018688Z
-20884
+2018-09-19T09:24:14.631222Z
+20951
 liaotao
 has-props
 
@@ -128,40 +128,6 @@ liaotao
 
 55610
 
-MallScene.fire
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-8c0d606e7b86eb8bf2c348e5826c5455
-2018-08-13T06:35:14.777454Z
-20694
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-55603
-
 ddz_detail.fire
 file
 
@@ -195,6 +161,40 @@ zhangman
 
 
 24430
+
+MallScene.fire
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+8c0d606e7b86eb8bf2c348e5826c5455
+2018-08-13T06:35:14.777454Z
+20694
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55603
 
 TableScene.fire
 file
@@ -230,40 +230,6 @@ liaotao
 
 317689
 
-Ddz.fire.meta
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-593ea34b0180efbfd2907fe444a0ff27
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-145
-
 MatchListScene.fire
 file
 
@@ -297,6 +263,40 @@ liaotao
 
 
 65169
+
+Ddz.fire.meta
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+593ea34b0180efbfd2907fe444a0ff27
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+145
 
 ddz_reward.fire.meta
 file
@@ -366,40 +366,6 @@ liaotao
 
 145
 
-Ddz.fire
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-1ddca0a2c122a209542a6254a2e1e1a4
-2018-09-06T02:03:27.018688Z
-20884
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-227790
-
 ddz_rank.fire.meta
 file
 
@@ -433,6 +399,40 @@ xujing
 
 
 145
+
+Ddz.fire
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+1ddca0a2c122a209542a6254a2e1e1a4
+2018-09-06T02:03:27.018688Z
+20884
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+227790
 
 rechargeScene.fire.meta
 file
@@ -470,7 +470,7 @@ liaotao
 
 ddz_reward.fire
 file
-20951
+
 
 
 

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/newsvn/hall-js/!svn/ver/20872/h5/snipe_20180829/imageRes/shot_scene_ui
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_scene_ui
 END
 shot_begin_rank.png
 K 25
@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_box_checkBox_bg.png
 END
-shot_cong_guang.png
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_cong_guang.png
-END
 shot_gift_invite.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_gift_invite.png
+END
+shot_cong_guang.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_cong_guang.png
 END
 main_toast_bg.png
 K 25
@@ -69,29 +69,29 @@ svn:wc:ra_dav:version-url
 V 93
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_gift_diamond.png
 END
-shot_begin_title.png
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_begin_title.png
-END
 shot_begin_free.png
 K 25
 svn:wc:ra_dav:version-url
 V 91
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_begin_free.png
 END
-shot_freeTool_bg.png
+shot_begin_title.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20872/h5/snipe_20180829/imageRes/shot_scene_ui/shot_freeTool_bg.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_scene_ui/shot_begin_title.png
 END
 shot_box_checkBox_ok.png
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/imageRes/shot_scene_ui/shot_box_checkBox_ok.png
+END
+shot_freeTool_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20872/h5/snipe_20180829/imageRes/shot_scene_ui/shot_freeTool_bg.png
 END
 shot_getProp_bg.png
 K 25

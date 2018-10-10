@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.32_20180731/assets/resources/ani
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,6 +94,9 @@ zhangman
 
 88
 
+daoju_qiang
+dir
+
 btnTickForBtn.anim.meta
 file
 
@@ -127,9 +130,6 @@ zhangman
 
 
 88
-
-daoju_qiang
-dir
 
 levelChange.anim.meta
 file
@@ -233,40 +233,6 @@ zhangman
 
 1533
 
-shot_crazy_result.anim.meta
-file
-
-
-
-
-2018-09-11T17:39:13.000000Z
-bca0b90dd343e23ca9ab6324a9feeb82
-2018-07-20T06:38:49.690145Z
-20411
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 ndwa_0.anim
 file
 
@@ -301,16 +267,16 @@ has-props
 
 4913
 
-btnTickForBtn.anim
+shot_crazy_result.anim.meta
 file
 
 
 
 
 2018-09-11T17:39:13.000000Z
-54739f1710119e9cdf0fef920fd41d25
-2018-07-03T13:00:12.347196Z
-20204
+bca0b90dd343e23ca9ab6324a9feeb82
+2018-07-20T06:38:49.690145Z
+20411
 zhangman
 
 
@@ -333,7 +299,7 @@ zhangman
 
 
 
-1251
+88
 
 addScore.anim.meta
 file
@@ -369,6 +335,40 @@ zhangman
 
 88
 
+btnTickForBtn.anim
+file
+
+
+
+
+2018-09-11T17:39:13.000000Z
+54739f1710119e9cdf0fef920fd41d25
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1251
+
 shot_crazy_title.anim.meta
 file
 
@@ -379,6 +379,40 @@ file
 cd62372ce356cff7e7a0510b81bdfcdb
 2018-07-20T06:38:49.690145Z
 20411
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+doubleHitAni1.anim.meta
+file
+
+
+
+
+2018-09-11T17:39:13.000000Z
+b00df2ad1df5fa2ca103e053baffc517
+2018-07-04T13:52:31.066988Z
+20219
 zhangman
 
 
@@ -436,40 +470,6 @@ zhangman
 
 
 884
-
-doubleHitAni1.anim.meta
-file
-
-
-
-
-2018-09-11T17:39:13.000000Z
-b00df2ad1df5fa2ca103e053baffc517
-2018-07-04T13:52:31.066988Z
-20219
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
 
 daoju_qiang.meta
 file

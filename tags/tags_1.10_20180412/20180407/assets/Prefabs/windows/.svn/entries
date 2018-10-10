@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.10_20180412/20180407/assets/Prefabs/windows
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -34,6 +34,40 @@ file
 
 2018-09-11T17:44:37.000000Z
 19bba214ad0db0beaa7bfd552953d7c1
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
+
+ddz_getRedpaket.prefab.meta
+file
+
+
+
+
+2018-09-11T17:44:37.000000Z
+467106dc6a6903fde4d942ca2c39083e
 2018-04-07T11:57:31.797720Z
 17629
 zhangman
@@ -94,40 +128,6 @@ zhangman
 
 100130
 
-ddz_getRedpaket.prefab.meta
-file
-
-
-
-
-2018-09-11T17:44:37.000000Z
-467106dc6a6903fde4d942ca2c39083e
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
 ddz_rank_list.prefab
 file
 
@@ -161,40 +161,6 @@ zhangman
 
 
 26340
-
-ddz_useDiamond.prefab
-file
-
-
-
-
-2018-09-11T17:44:37.000000Z
-2a6be418b503f64e08d6c328abf274db
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24455
 
 ddz_getReward_main.prefab
 file
@@ -230,6 +196,40 @@ zhangman
 
 29813
 
+ddz_useDiamond.prefab
+file
+
+
+
+
+2018-09-11T17:44:37.000000Z
+2a6be418b503f64e08d6c328abf274db
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24455
+
 windowsSub.meta
 file
 
@@ -264,14 +264,14 @@ zhangman
 
 88
 
-massageWindow.prefab.meta
+ddz_rewardDetail.prefab.meta
 file
 
 
 
 
 2018-09-11T17:44:37.000000Z
-896ff455ec4bae0a7476d96c759cb7ef
+1d13151caa2217a9a5cb6de0622ccae1
 2018-04-07T11:57:31.797720Z
 17629
 zhangman
@@ -298,14 +298,14 @@ zhangman
 
 116
 
-ddz_rewardDetail.prefab.meta
+massageWindow.prefab.meta
 file
 
 
 
 
 2018-09-11T17:44:37.000000Z
-1d13151caa2217a9a5cb6de0622ccae1
+896ff455ec4bae0a7476d96c759cb7ef
 2018-04-07T11:57:31.797720Z
 17629
 zhangman
@@ -437,40 +437,6 @@ zhangman
 windowsSub
 dir
 
-massageWindow.prefab
-file
-
-
-
-
-2018-09-11T17:44:37.000000Z
-0bb64af3f08e06d6b6b523515f8c6cab
-2018-04-08T12:58:39.687402Z
-17650
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29191
-
 ddz_rewardDetail.prefab
 file
 
@@ -504,6 +470,40 @@ zhangman
 
 
 11747
+
+massageWindow.prefab
+file
+
+
+
+
+2018-09-11T17:44:37.000000Z
+0bb64af3f08e06d6b6b523515f8c6cab
+2018-04-08T12:58:39.687402Z
+17650
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29191
 
 ddz_main.prefab.meta
 file

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ddz
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ddz
 END
 ddz_boot.js
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 82
 /newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ddz/DdzEventType.js
 END
-ServerManager.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/ServerManager.js.meta
-END
 DdzGlobalFuncs.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 89
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/DdzGlobalFuncs.js.meta
+END
+ServerManager.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ddz/ServerManager.js.meta
 END
 AILongestType.js
 K 25

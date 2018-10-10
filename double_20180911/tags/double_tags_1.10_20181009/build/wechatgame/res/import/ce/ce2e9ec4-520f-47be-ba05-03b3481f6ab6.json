@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_animation_ui",
+    "texture": "bcvrYGj+5Pzo2MiVH4jn7r",
+    "rect": [
+      2,
+      3,
+      458,
+      663
+    ],
+    "offset": [
+      -25,
+      177.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

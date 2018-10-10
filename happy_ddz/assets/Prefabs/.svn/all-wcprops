@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs
+/newsvn/hall-js/!svn/ver/21024/h5/happy_ddz/assets/Prefabs
 END
 windows.meta
 K 25
@@ -81,15 +81,15 @@ svn:wc:ra_dav:version-url
 V 78
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/ColorBg.prefab.meta
 END
-CardPrefab.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/CardPrefab.prefab.meta
-END
 Avatar.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /newsvn/hall-js/!svn/ver/21006/h5/happy_ddz/assets/Prefabs/Avatar.prefab
+END
+CardPrefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/CardPrefab.prefab.meta
 END

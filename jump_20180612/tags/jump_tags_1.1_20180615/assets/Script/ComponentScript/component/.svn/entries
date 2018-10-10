@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/tags/jump_tags_1.1_20180615/assets/Script/ComponentScript/component
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -26,14 +26,14 @@ zhangman
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
-jump_pedal.js.meta
+countDown.js.meta
 file
 
 
 
 
 2018-09-11T17:41:09.000000Z
-f6e0bd6e4caa7d5ffd7f97b51b9d7e65
+85bcb3f5f10582434d29c63e6793ff43
 2018-06-12T03:51:33.694041Z
 19919
 zhangman
@@ -60,14 +60,14 @@ zhangman
 
 197
 
-countDown.js.meta
+jump_pedal.js.meta
 file
 
 
 
 
 2018-09-11T17:41:09.000000Z
-85bcb3f5f10582434d29c63e6793ff43
+f6e0bd6e4caa7d5ffd7f97b51b9d7e65
 2018-06-12T03:51:33.694041Z
 19919
 zhangman
@@ -230,40 +230,6 @@ zhangman
 
 2269
 
-jump_pedal.js
-file
-
-
-
-
-2018-09-11T17:41:09.000000Z
-5616cb9757865cb1ae64d0c81460060e
-2018-06-14T16:59:44.409685Z
-20002
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7007
-
 countDown.js
 file
 
@@ -297,6 +263,40 @@ zhangman
 
 
 1291
+
+jump_pedal.js
+file
+
+
+
+
+2018-09-11T17:41:09.000000Z
+5616cb9757865cb1ae64d0c81460060e
+2018-06-14T16:59:44.409685Z
+20002
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7007
 
 jump_role.js.meta
 file

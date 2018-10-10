@@ -249,21 +249,28 @@ cc.Class({
         ty.NotificationCenter.listen(snipe.EventType.GAME_LEVEL_UP,this.levelUp, this);
 
         //TODO:TEST
-        snipe.GlobalFuncs.setBulletType("bulletType0");
+
+        if(snipe.GameWorld.initBulletType){
+            snipe.GlobalFuncs.setBulletType(snipe.GameWorld.initBulletType);
+        }else {
+            snipe.GlobalFuncs.setBulletType("bulletType0");
+        }
+        // snipe.GlobalFuncs.setBulletType("bulletType0");
+
         // ty.NotificationCenter.listen(snipe.EventType.REPLACE_GUN,this.replaceGunAction, this);
 
-        var toDay = hall.GlobalTimer.getCurDay();
-        if(toDay != hall.GlobalFuncs.ReadStringFromLocalStorage(snipe.gameModel.LAST_VIDEO_DAY,"")){
-            hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.LAST_VIDEO_DAY,toDay);
-            hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.DAY_VIDEO_TIME,0);
-        }
-        if(toDay != hall.GlobalFuncs.ReadStringFromLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_DAY,"")){
-            hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_DAY,toDay);
-            hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_TIME,0);
-            hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_STATE,0);
-            hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_TIME_CHECK,0);
-            hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_STATE_CHECK,0);
-        }
+        // var toDay = hall.GlobalTimer.getCurDay();
+        // if(toDay != hall.GlobalFuncs.ReadStringFromLocalStorage(snipe.gameModel.LAST_VIDEO_DAY,"")){
+        //     hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.LAST_VIDEO_DAY,toDay);
+        //     hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.DAY_VIDEO_TIME,0);
+        // }
+        // if(toDay != hall.GlobalFuncs.ReadStringFromLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_DAY,"")){
+        //     hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_DAY,toDay);
+        //     hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_TIME,0);
+        //     hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_STATE,0);
+        //     hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_TIME_CHECK,0);
+        //     hall.GlobalFuncs.setInLocalStorage(snipe.gameModel.OPEN_BOX_CLOSE_STATE_CHECK,0);
+        // }
 
         ty.NotificationCenter.listen(snipe.EventType.REWARD_VIDEO_COMPLETE,this.rewardVideoComplete, this);
         ty.NotificationCenter.listen(snipe.EventType.REWARD_VIDEO_COMPLETE_ERROR,this.rewardVideoCompleteError, this);
@@ -304,11 +311,11 @@ cc.Class({
             this.addBannerCount = 120;
         }
 
-        if(hall.adManager.getAdNodeList().length >= 1){
-            for (var i = 0 ; i < hall.adManager.getAdNodeList().length ; i ++){
-                hall.adManager.getAdNodeList()[i].hideAdNode();
-            }
-        }
+        // if(hall.adManager.getAdNodeList().length >= 1){
+        //     for (var i = 0 ; i < hall.adManager.getAdNodeList().length ; i ++){
+        //         hall.adManager.getAdNodeList()[i].hideAdNode();
+        //     }
+        // }
         // hall.adManager.adNodeObj.hideAdNode();
     },
 
@@ -579,6 +586,7 @@ cc.Class({
         }
     },
     rewardVideoComplete : function(isEnd){
+        hall.LOGE("==shot_main==","====rewardVideoComplete============"+hall.adManager.rewardedVideoType);
         if(hall.adManager.rewardedVideoType != "addBullet"){
             return;
         }
@@ -618,6 +626,8 @@ cc.Class({
 
     //游戏过程
     gameStart : function (type,isFirst) {
+        snipe.GlobalFuncs.setDayOriginGameData();
+        snipe.GlobalFuncs.showAdBtnWithTag(5002,"normalLevel");
         this.bestScoreLabel.string = "最佳:"+ snipe.Share.shareKeywordReplace.bestScoreForSelf;
         this.debugCount = 0;
         snipe.GameWorld.gameOver = false;
@@ -1155,6 +1165,7 @@ cc.Class({
     },
     showGameOver : function () {
         hall.adManager.hideBannerAd();
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
         // hall.adManager.destroyBannerAd();
         if(snipe.GameWorld.gameGetBox){
             return;
@@ -1184,6 +1195,7 @@ cc.Class({
         this.crazyTimeStartCount = 120;
         // hall.adManager.destroyBannerAd();
         hall.adManager.hideBannerAd();
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
         this.infiniteTime = 0;
         this.infiniteBulletTimeNode.active = false;
         this.doubleHitContinueNode.active = false;
@@ -1354,6 +1366,7 @@ cc.Class({
         this.crazyTimeStartCount = 120;
         // hall.adManager.destroyBannerAd();
         hall.adManager.hideBannerAd();
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
         this.infiniteTime = 0;
         this.infiniteBulletTimeNode.active = false;
         this.doubleHitContinueNode.active = false;
@@ -1412,7 +1425,8 @@ cc.Class({
     },
 
     showBanner : function (refresh) {
-        hall.adManager.showBannerAd("adunit-53ba999759aa14de",refresh);
+        hall.adManager.showBannerAd("adunit-56773ac242d78fd0",refresh);
+        snipe.GlobalFuncs.showAdBtnWithTag(5002,"normalLevel");
         // snipe.curBannerAd.style.left = 0;
         // top = res.height;
         // if(ty.UserInfo.systemType == ty.UserInfo.SYSTEMTYPE.iPhoneXType){
@@ -1537,8 +1551,10 @@ cc.Class({
     },
 
     onDestroy : function () {
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
         // this.userDataList = null;
         this.crazyTimePanel = null;
+        snipe.GameWorld.initBulletType = null;
         this.addScoreAniPool.clear();
         ty.NotificationCenter.ignoreScope(this);
         this.unscheduleAllCallbacks();

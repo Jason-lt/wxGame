@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_3.10_20180507/assets/resources/table/nopack
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ zhangman
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-ddz_getReward_redBao.png
-file
-
-
-
-
-2018-09-11T17:43:04.000000Z
-aef0bf9cfc6e5b391040541c90470818
-2018-05-01T15:47:46.903327Z
-18650
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4325
 
 ddz_rank_1.png.meta
 file
@@ -94,17 +60,18 @@ xujing
 
 679
 
-ddz_rank_2.png.meta
+ddz_getReward_redBao.png
 file
 
 
 
 
 2018-09-11T17:43:04.000000Z
-56c90a089eb012c09a978433e590b6f2
-2018-04-13T09:20:38.742162Z
-17836
+aef0bf9cfc6e5b391040541c90470818
+2018-05-01T15:47:46.903327Z
+18650
 xujing
+has-props
 
 
 
@@ -125,8 +92,41 @@ xujing
 
 
 
+4325
+
+ddz_tasks_di.png
+file
 
-679
+
+
+
+2018-09-11T17:43:04.000000Z
+acba9f0f3c231178258d48dcd201c331
+2018-05-04T03:36:37.686782Z
+18752
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+483
 
 ddz_roomlist_scoreBg.png.meta
 file
@@ -162,18 +162,17 @@ liaotao
 
 691
 
-ddz_tasks_di.png
+ddz_rank_2.png.meta
 file
 
 
 
 
 2018-09-11T17:43:04.000000Z
-acba9f0f3c231178258d48dcd201c331
-2018-05-04T03:36:37.686782Z
-18752
-liaotao
-has-props
+56c90a089eb012c09a978433e590b6f2
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -194,7 +193,8 @@ has-props
 
 
 
-483
+
+679
 
 ddz_rank_3.png.meta
 file
@@ -264,40 +264,6 @@ xujing
 
 682
 
-ddz_avatar_02.png.meta
-file
-
-
-
-
-2018-09-11T17:43:04.000000Z
-ef663a1d40603876c2bdae37ca5fca56
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-682
-
 ddz_main_coin_bg.png
 file
 
@@ -332,48 +298,14 @@ has-props
 
 634
 
-ddz_main_bottom_bg.png.meta
+ddz_avatar_02.png.meta
 file
 
 
 
 
 2018-09-11T17:43:04.000000Z
-5c15b48f30ce03373fbb848f6314b6eb
-2018-05-02T08:25:16.035775Z
-18666
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-689
-
-ddz_avatar_03.png.meta
-file
-
-
-
-
-2018-09-11T17:43:04.000000Z
-929e264508b2fc72332304cfe6e123e2
+ef663a1d40603876c2bdae37ca5fca56
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -433,6 +365,74 @@ liaotao
 
 
 691
+
+ddz_avatar_03.png.meta
+file
+
+
+
+
+2018-09-11T17:43:04.000000Z
+929e264508b2fc72332304cfe6e123e2
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+682
+
+ddz_main_bottom_bg.png.meta
+file
+
+
+
+
+2018-09-11T17:43:04.000000Z
+5c15b48f30ce03373fbb848f6314b6eb
+2018-05-02T08:25:16.035775Z
+18666
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+689
 
 ddz_avatar_default.png.meta
 file

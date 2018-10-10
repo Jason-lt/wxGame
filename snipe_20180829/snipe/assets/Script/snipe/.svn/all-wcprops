@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/newsvn/hall-js/!svn/ver/20901/h5/snipe_20180829/snipe/assets/Script/snipe
+/newsvn/hall-js/!svn/ver/20996/h5/snipe_20180829/snipe/assets/Script/snipe
 END
 game_world.js.meta
 K 25
@@ -27,11 +27,17 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/snipe_res.js.meta
 END
+sxAdManager.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/snipe/sxAdManager.js.meta
+END
 game_world.js
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/newsvn/hall-js/!svn/ver/20901/h5/snipe_20180829/snipe/assets/Script/snipe/game_world.js
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/snipe/game_world.js
 END
 snipeEventType.js
 K 25
@@ -51,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 99
 /newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/snipeAudioHelper.js.meta
 END
-ServerManager.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/ServerManager.js.meta
-END
 snipe_boot.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/snipe_boot.js.meta
+END
+ServerManager.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/ServerManager.js.meta
 END
 snipe_res.js
 K 25
@@ -69,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/snipe_res.js
 END
-msg_handler.meta
+sxAdManager.js
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/msg_handler.meta
+V 89
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/snipe/sxAdManager.js
 END
 models.meta
 K 25
@@ -81,11 +87,17 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/models.meta
 END
+msg_handler.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/msg_handler.meta
+END
 snipeGlobalFuncs.js
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/newsvn/hall-js/!svn/ver/20843/h5/snipe_20180829/snipe/assets/Script/snipe/snipeGlobalFuncs.js
+/newsvn/hall-js/!svn/ver/20996/h5/snipe_20180829/snipe/assets/Script/snipe/snipeGlobalFuncs.js
 END
 QrOption.js.meta
 K 25

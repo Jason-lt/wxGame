@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.991_20180712/assets/resources/table/font
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ yuhongbin
 
 1681
 
-fnt03.fnt
-file
-
-
-
-
-2018-09-11T17:43:26.000000Z
-e165d4dca431904ba6a99901ed5a393a
-2018-05-09T08:00:14.763783Z
-19054
-xiaochuntian
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1466
-
 jifen-.png.meta
 file
 
@@ -128,17 +94,18 @@ zhangman
 
 683
 
-daquan.png.meta
+fnt03.fnt
 file
 
 
 
 
 2018-09-11T17:43:26.000000Z
-37ba1456fed571a8a521aa7dd2620302
-2018-05-11T21:02:02.525648Z
-19235
+e165d4dca431904ba6a99901ed5a393a
+2018-05-09T08:00:14.763783Z
+19054
 xiaochuntian
+has-props
 
 
 
@@ -159,8 +126,7 @@ xiaochuntian
 
 
 
-
-685
+1466
 
 jifen+.fnt.meta
 file
@@ -195,6 +161,40 @@ xujing
 
 
 163
+
+daquan.png.meta
+file
+
+
+
+
+2018-09-11T17:43:26.000000Z
+37ba1456fed571a8a521aa7dd2620302
+2018-05-11T21:02:02.525648Z
+19235
+xiaochuntian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+685
 
 jifen-.fnt.meta
 file
@@ -332,40 +332,6 @@ has-props
 
 15953
 
-daquan.png
-file
-
-
-
-
-2018-09-11T17:43:26.000000Z
-a42b12363acb13491de05233a14d2544
-2018-05-11T21:02:02.525648Z
-19235
-xiaochuntian
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-45890
-
 jifen+.fnt
 file
 
@@ -399,6 +365,40 @@ has-props
 
 
 1961
+
+daquan.png
+file
+
+
+
+
+2018-09-11T17:43:26.000000Z
+a42b12363acb13491de05233a14d2544
+2018-05-11T21:02:02.525648Z
+19235
+xiaochuntian
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45890
 
 jifen-.fnt
 file
@@ -434,40 +434,6 @@ has-props
 
 1964
 
-fnt.png.meta
-file
-
-
-
-
-2018-09-11T17:43:26.000000Z
-aa716e88e4f801e1d22dcc01fa52c433
-2018-04-25T10:47:44.139789Z
-18399
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-683
-
 daquan.fnt
 file
 
@@ -501,6 +467,40 @@ xiaochuntian
 
 
 4524
+
+fnt.png.meta
+file
+
+
+
+
+2018-09-11T17:43:26.000000Z
+aa716e88e4f801e1d22dcc01fa52c433
+2018-04-25T10:47:44.139789Z
+18399
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+683
 
 fnt01.png.meta
 file

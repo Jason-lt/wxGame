@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.23_20180428/assets/Script/ddz/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -502,6 +502,40 @@ zhangman
 
 12010
 
+ConfigRoomSession.js.meta
+file
+
+
+
+
+2018-09-11T17:41:47.000000Z
+5741396864c336652f171cff1368e5d0
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
 DetailsModel.js.meta
 file
 
@@ -536,14 +570,14 @@ liaotao
 
 197
 
-ConfigRoomSession.js.meta
+SeatInfo.js.meta
 file
 
 
 
 
 2018-09-11T17:41:47.000000Z
-5741396864c336652f171cff1368e5d0
+aafbf8042c46526d39082ed26bff9691
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -604,14 +638,14 @@ xujing
 
 197
 
-SeatInfo.js.meta
+CardType.js.meta
 file
 
 
 
 
 2018-09-11T17:41:47.000000Z
-aafbf8042c46526d39082ed26bff9691
+f8fca2f4980ca1610bbb671b8cc7ac05
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -672,14 +706,14 @@ xujing
 
 197
 
-CardType.js.meta
+HallInfoModel.js.meta
 file
 
 
 
 
 2018-09-11T17:41:47.000000Z
-f8fca2f4980ca1610bbb671b8cc7ac05
+8ddc0fbe86667de59c514f1245fcd653
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -740,17 +774,17 @@ xujing
 
 197
 
-HallInfoModel.js.meta
+DetailsModel.js
 file
 
 
 
 
 2018-09-11T17:41:47.000000Z
-8ddc0fbe86667de59c514f1245fcd653
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+8f3be48f502f5cdc0e3b1fb3eca4c275
+2018-04-27T17:33:48.333211Z
+18530
+liaotao
 
 
 
@@ -772,7 +806,7 @@ xujing
 
 
 
-197
+4761
 
 ConfigRoomSession.js
 file
@@ -808,40 +842,6 @@ xujing
 
 1732
 
-DetailsModel.js
-file
-
-
-
-
-2018-09-11T17:41:47.000000Z
-8f3be48f502f5cdc0e3b1fb3eca4c275
-2018-04-27T17:33:48.333211Z
-18530
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4761
-
 HistoryModel.js.meta
 file
 
@@ -876,40 +876,6 @@ liaotao
 
 197
 
-TableChatModel.js
-file
-
-
-
-
-2018-09-11T17:41:47.000000Z
-966d1abebe44a3efac6e9b590fc86f3d
-2018-04-28T10:26:04.128603Z
-18588
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3035
-
 SeatInfo.js
 file
 
@@ -943,6 +909,40 @@ has-props
 
 
 5687
+
+TableChatModel.js
+file
+
+
+
+
+2018-09-11T17:41:47.000000Z
+966d1abebe44a3efac6e9b590fc86f3d
+2018-04-28T10:26:04.128603Z
+18588
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3035
 
 CardInfo.js.meta
 file

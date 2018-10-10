@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.09_20180411/20180407/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -437,6 +437,40 @@ zhangman
 
 13317
 
+dizhu_table_chuntian.png
+file
+
+
+
+
+2018-09-11T17:43:13.000000Z
+2a3a2858d1e0501edde0ea208ee415f9
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46261
+
 interactive_emo1.png.meta
 file
 
@@ -505,40 +539,6 @@ zhangman
 
 10396
 
-dizhu_table_chuntian.png
-file
-
-
-
-
-2018-09-11T17:43:13.000000Z
-2a3a2858d1e0501edde0ea208ee415f9
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-46261
-
 ddz_table_ui.png
 file
 
@@ -572,40 +572,6 @@ has-props
 
 
 16043
-
-ddz_scene_ui.plist.meta
-file
-
-
-
-
-2018-09-11T17:43:13.000000Z
-e8927d4cc73c6323911b00a82b4afcf5
-2018-04-10T10:20:45.242614Z
-17716
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29524
 
 ddz_table_ani_common.png
 file
@@ -641,6 +607,43 @@ has-props
 
 75661
 
+ddz_scene_ui.plist.meta
+file
+
+
+
+
+2018-09-11T17:43:13.000000Z
+e8927d4cc73c6323911b00a82b4afcf5
+2018-04-10T10:20:45.242614Z
+17716
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29524
+
+nopack
+dir
+
 ddz_poker.plist
 file
 
@@ -674,9 +677,6 @@ zhangman
 
 
 19983
-
-nopack
-dir
 
 dizhu_table_chuntian.plist
 file
@@ -780,40 +780,6 @@ xujing
 
 7795
 
-ddz_table_ani_common.plist
-file
-
-
-
-
-2018-09-11T17:43:13.000000Z
-9ae19484b263099a80fea7b2c26f6ecd
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9343
-
 interactive_emo1.png
 file
 
@@ -847,6 +813,40 @@ has-props
 
 
 71097
+
+ddz_table_ani_common.plist
+file
+
+
+
+
+2018-09-11T17:43:13.000000Z
+9ae19484b263099a80fea7b2c26f6ecd
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9343
 
 ddz_scene_ui.plist
 file

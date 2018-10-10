@@ -42,10 +42,14 @@ cc.Class({
     },
 
     closeAction : function () {
-        this.node.destroy();
+        if(this.node){
+            this.node.destroy();
+        }
         shot.msgBoxNode = null;
+        this.unscheduleAllCallbacks();
     },
     onDestroy:function(){
+        shot.msgBoxNode = null;
         this.unscheduleAllCallbacks();
     }
 

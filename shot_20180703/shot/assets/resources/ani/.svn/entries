@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/shot/assets/resources/ani
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -26,17 +26,17 @@ zhangman
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
-liang.meta
+doubleHitAni.anim.meta
 file
 
 
 
 
 2018-09-11T17:39:04.000000Z
-59dd3e09e3b5921af1c07e60d262422c
-2018-08-03T07:23:59.930546Z
-20612
-yuhongbin
+587ac235f16f330cd0c934f50c9ff53f
+2018-07-04T13:52:31.066988Z
+20219
+zhangman
 
 
 
@@ -60,17 +60,17 @@ yuhongbin
 
 88
 
-doubleHitAni.anim.meta
+liang.meta
 file
 
 
 
 
 2018-09-11T17:39:04.000000Z
-587ac235f16f330cd0c934f50c9ff53f
-2018-07-04T13:52:31.066988Z
-20219
-zhangman
+59dd3e09e3b5921af1c07e60d262422c
+2018-08-03T07:23:59.930546Z
+20612
+yuhongbin
 
 
 
@@ -233,39 +233,8 @@ yuhongbin
 
 88
 
-grenade.meta
-file
-
-
-
-
-2018-09-11T17:39:04.000000Z
-c94a8eb9c02eb5f9a4cf0c25221d4bcd
-2018-08-01T10:00:23.619026Z
-20592
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
+liang
+dir
 
 doubleHitAni.anim
 file
@@ -301,21 +270,17 @@ zhangman
 
 1533
 
-liang
-dir
-
-ndwa_0.anim
+grenade.meta
 file
 
 
 
 
 2018-09-11T17:39:04.000000Z
-add04889d6b9a17430e2bd7a29df848b
-2018-07-13T03:33:56.466722Z
-20345
-liaotao
-has-props
+c94a8eb9c02eb5f9a4cf0c25221d4bcd
+2018-08-01T10:00:23.619026Z
+20592
+zhangman
 
 
 
@@ -336,7 +301,8 @@ has-props
 
 
 
-4913
+
+88
 
 shot_crazy_result.anim.meta
 file
@@ -371,6 +337,40 @@ zhangman
 
 
 88
+
+ndwa_0.anim
+file
+
+
+
+
+2018-09-11T17:39:04.000000Z
+add04889d6b9a17430e2bd7a29df848b
+2018-07-13T03:33:56.466722Z
+20345
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4913
 
 addScore.anim.meta
 file

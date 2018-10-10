@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xian ren zhang01",
+    "texture": "d81bb652-19bd-433c-849d-3338d248458b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      121
+    ]
+  }
+}

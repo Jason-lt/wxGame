@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/snipe/assets/resources/table/nopack
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ has-props
 
 3642
 
-rank_1.png.meta
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-484705eb3bfd6b9cc4b4c8558a97b260
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-675
-
 snipe_result_avatar_bg_middle.png
 file
 
@@ -162,6 +128,40 @@ has-props
 
 2735
 
+rank_1.png.meta
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+484705eb3bfd6b9cc4b4c8558a97b260
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+675
+
 rank_2.png.meta
 file
 
@@ -170,6 +170,40 @@ file
 
 2018-09-11T17:40:35.000000Z
 ef9e42b078b75ac124455a54286b6695
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+675
+
+rank_3.png.meta
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+3980bdc903edcebde7a788229f99a4e9
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
@@ -229,40 +263,6 @@ has-props
 
 
 225
-
-rank_3.png.meta
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-3980bdc903edcebde7a788229f99a4e9
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-675
 
 rank_avatar_bg_1.png.meta
 file
@@ -366,40 +366,6 @@ has-props
 
 3822
 
-rank_2.png
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-8f31cacc1962c701935812e347cc659a
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3719
-
 rabk_mine.png.meta
 file
 
@@ -433,6 +399,40 @@ zhangman
 
 
 680
+
+rank_2.png
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+8f31cacc1962c701935812e347cc659a
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3719
 
 rank_3.png
 file
@@ -468,40 +468,6 @@ has-props
 
 2810
 
-snipe_result_avatar_bg_left.png.meta
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-5737feebd6f8556aba676b99abe4b6bd
-2018-09-03T06:37:52.702875Z
-20843
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-700
-
 rank_avatar_bg_1.png
 file
 
@@ -535,6 +501,40 @@ has-props
 
 
 279
+
+snipe_result_avatar_bg_left.png.meta
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+5737feebd6f8556aba676b99abe4b6bd
+2018-09-03T06:37:52.702875Z
+20843
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+700
 
 rank_avatar_default.png.meta
 file

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "luo bo 02",
+    "texture": "a6d4f5bf-d48a-40e7-afc5-4545d4b68f96",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      60
+    ]
+  }
+}

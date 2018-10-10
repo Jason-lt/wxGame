@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/%20ddzImage/images/ddz_scene_ui
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -502,40 +502,6 @@ has-props
 
 1324
 
-ddz_main_peronal_jipaiqi.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-a6c51d84eb34f0af1b4ec60c982e5fd4
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1461
-
 ddz_cup_chi.png
 file
 
@@ -569,6 +535,40 @@ has-props
 
 
 10813
+
+ddz_main_peronal_jipaiqi.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+a6c51d84eb34f0af1b4ec60c982e5fd4
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1461
 
 ddz_cup_bottom.png
 file
@@ -604,40 +604,6 @@ has-props
 
 19818
 
-ddz_main_peronal_coin.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-8484027b7d06dedcf6a1e2dbb74e1b20
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2100
-
 ddz_main_white_board_circle.png
 file
 
@@ -671,6 +637,40 @@ has-props
 
 
 3437
+
+ddz_main_peronal_coin.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+8484027b7d06dedcf6a1e2dbb74e1b20
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2100
 
 ddz_diamond_avatar_default.png
 file
@@ -842,40 +842,6 @@ has-props
 
 13812
 
-ddz_diamond_bg.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-6365a9205f76e83c2dc984e600dc0550
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-650
-
 black_bg.png
 file
 
@@ -910,14 +876,14 @@ has-props
 
 82
 
-ddz_cup.png
+ddz_diamond_bg.png
 file
 
 
 
 
 2018-09-11T17:40:14.000000Z
-ab80b11c2257331da39a581255973abc
+6365a9205f76e83c2dc984e600dc0550
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -942,41 +908,7 @@ has-props
 
 
 
-28868
-
-ddz_roomlist_redBar.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-94d9fc90152db553d4c2f4d72b7ea1b7
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-518
+650
 
 ddz_roomlist_smallPerson.png
 file
@@ -1012,14 +944,14 @@ has-props
 
 479
 
-ddz_getReward_line.png
+ddz_roomlist_redBar.png
 file
 
 
 
 
 2018-09-11T17:40:14.000000Z
-8eb3e2d071663db2a9569d300d54ea9c
+94d9fc90152db553d4c2f4d72b7ea1b7
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1044,7 +976,41 @@ has-props
 
 
 
-181
+518
+
+ddz_cup.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+ab80b11c2257331da39a581255973abc
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28868
 
 ddz_reward_cell_bg.png
 file
@@ -1079,6 +1045,40 @@ has-props
 
 
 307
+
+ddz_getReward_line.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+8eb3e2d071663db2a9569d300d54ea9c
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+181
 
 ddz_rankinglist_line.png
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_6.92_2018_0827/assets/Script/hall/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ has-props
 
 988
 
-MatchInfo.js
-file
-
-
-
-
-2018-09-11T17:44:23.000000Z
-9c6be497d9b820090e4db0b1b36e264f
-2018-06-11T03:20:36.426234Z
-19903
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7731
-
 CustomRoomInfo.js.meta
 file
 
@@ -162,17 +128,17 @@ xujing
 
 197
 
-LoginInfo.js.meta
+MatchInfo.js
 file
 
 
 
 
 2018-09-11T17:44:23.000000Z
-0fe508bceda7ec3582bd69bd1ffdae1c
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+9c6be497d9b820090e4db0b1b36e264f
+2018-06-11T03:20:36.426234Z
+19903
+liaotao
 
 
 
@@ -194,7 +160,7 @@ xujing
 
 
 
-197
+7731
 
 UserInfoUData.js
 file
@@ -229,6 +195,40 @@ has-props
 
 
 4568
+
+LoginInfo.js.meta
+file
+
+
+
+
+2018-09-11T17:44:23.000000Z
+0fe508bceda7ec3582bd69bd1ffdae1c
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 TodoTaskVec.js.meta
 file
@@ -400,6 +400,40 @@ xujing
 
 197
 
+UserInfoGdata.js.meta
+file
+
+
+
+
+2018-09-11T17:44:23.000000Z
+97031cf7b0354884996bf5344f9cc3c8
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
 HallUserInfo.js.meta
 file
 
@@ -434,14 +468,14 @@ xujing
 
 197
 
-UserInfoGdata.js.meta
+UserHeartBeat.js.meta
 file
 
 
 
 
 2018-09-11T17:44:23.000000Z
-97031cf7b0354884996bf5344f9cc3c8
+cfdd1f65904baa5e35e3c974fb95d96b
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -501,40 +535,6 @@ has-props
 
 
 3321
-
-UserHeartBeat.js.meta
-file
-
-
-
-
-2018-09-11T17:44:23.000000Z
-cfdd1f65904baa5e35e3c974fb95d96b
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 LoginInfo.js
 file

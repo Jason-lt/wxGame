@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/%20ddzImage/images/ddz_scene_main
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ liaotao
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-ddz_message_line.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-c072632dd9f5e8013bc2aadd612d544e
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-457
 
 ddz_main_tips_icon.png
 file
@@ -94,6 +60,40 @@ has-props
 
 465
 
+ddz_message_line.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+c072632dd9f5e8013bc2aadd612d544e
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+457
+
 ddz_main_coin.png
 file
 
@@ -128,40 +128,6 @@ has-props
 
 16530
 
-ddz_main_led_trumpet_ss.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-b31a98169a0d9e58573b2c8e6c9aaa50
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-509
-
 ddz_button_big_red_v2.png
 file
 
@@ -195,6 +161,40 @@ has-props
 
 
 4258
+
+ddz_main_led_trumpet_ss.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+b31a98169a0d9e58573b2c8e6c9aaa50
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+509
 
 ddz_button_big_yellow_v2.png
 file
@@ -298,40 +298,6 @@ has-props
 
 1096
 
-ddz_toast_bg.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-eee7f8eaa6df73ca85c62e7c17997e6f
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-472
-
 ddz_main_rank_btn.png
 file
 
@@ -365,6 +331,40 @@ has-props
 
 
 7606
+
+ddz_toast_bg.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+eee7f8eaa6df73ca85c62e7c17997e6f
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+472
 
 ddz_main_line_bg.png
 file
@@ -1250,40 +1250,6 @@ has-props
 
 1904
 
-ddz_main_bubblet_2.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-e21eb2b76526f31733dd44121e2a131b
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5031
-
 ddz_main_game_friend.png
 file
 
@@ -1317,6 +1283,40 @@ has-props
 
 
 4736
+
+ddz_main_bubblet_2.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+e21eb2b76526f31733dd44121e2a131b
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5031
 
 ddz_message_open.png
 file
@@ -1454,40 +1454,6 @@ has-props
 
 11824
 
-ddz_icon_video.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-4d26b1891326fb399155508360a2a903
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9999
-
 main_avatar_border.png
 file
 
@@ -1521,6 +1487,40 @@ has-props
 
 
 1837
+
+ddz_icon_video.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+4d26b1891326fb399155508360a2a903
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9999
 
 home_ico.png
 file
@@ -1590,40 +1590,6 @@ has-props
 
 4215
 
-ddz_message_white.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-4d17e6a501c1429a9710d63d35e8c7b7
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-662
-
 withdrawal_blink.png
 file
 
@@ -1658,14 +1624,14 @@ has-props
 
 76
 
-ddz_main_redPacket_1.png
+ddz_message_white.png
 file
 
 
 
 
 2018-09-11T17:40:15.000000Z
-e25e4967641c375cce832d26439de083
+4d17e6a501c1429a9710d63d35e8c7b7
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1690,41 +1656,7 @@ has-props
 
 
 
-5426
-
-dda_mian_diamond.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-0851b93b8f1d54a5e2981580bc121f72
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1844
+662
 
 main_avatar_shadow.png
 file
@@ -1760,6 +1692,74 @@ has-props
 
 1022
 
+dda_mian_diamond.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+0851b93b8f1d54a5e2981580bc121f72
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1844
+
+ddz_main_redPacket_1.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+e25e4967641c375cce832d26439de083
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5426
+
 ddz_main_redPacket_2.png
 file
 
@@ -1793,74 +1793,6 @@ has-props
 
 
 2224
-
-ddz_main_redPacket_3.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-b76099e716692f1015498a8791321bd5
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1831
-
-ddz_main_getReward.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-9de3555f237ef8a9bb90cb291b045b4c
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9940
 
 ddz_main_led_trumpet.png
 file
@@ -1896,14 +1828,14 @@ has-props
 
 550
 
-ddz_main_share_quan.png
+ddz_main_getReward.png
 file
 
 
 
 
 2018-09-11T17:40:15.000000Z
-f2525036976a606555d3b9fc60d7eda1
+9de3555f237ef8a9bb90cb291b045b4c
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1928,7 +1860,41 @@ has-props
 
 
 
-12922
+9940
+
+ddz_main_redPacket_3.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+b76099e716692f1015498a8791321bd5
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1831
 
 ddz_main_avatar_bg.png
 file
@@ -1963,6 +1929,40 @@ has-props
 
 
 1540
+
+ddz_main_share_quan.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+f2525036976a606555d3b9fc60d7eda1
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12922
 
 ddz_main_tips_bg.png
 file
@@ -2066,40 +2066,6 @@ has-props
 
 3124
 
-ddz_main_yellow_bottom.png
-file
-
-
-
-
-2018-09-11T17:40:15.000000Z
-259ffeb28f06623972351007f12f2b5c
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4444
-
 ddz_main_bg_v2.png
 file
 
@@ -2133,6 +2099,40 @@ has-props
 
 
 123416
+
+ddz_main_yellow_bottom.png
+file
+
+
+
+
+2018-09-11T17:40:15.000000Z
+259ffeb28f06623972351007f12f2b5c
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4444
 
 ddz_main_giftBag.png
 file

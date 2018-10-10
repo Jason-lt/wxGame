@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jimu02",
+    "texture": "35gXDpgz1JJpbdBNNm0Uyh",
+    "rect": [
+      0,
+      0,
+      55,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      68
+    ]
+  }
+}

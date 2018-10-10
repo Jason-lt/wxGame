@@ -1,0 +1,362 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jb_01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.5666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "jb01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "curve": "linear",
+              "motionPath": []
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                227,
+                164
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "curve": "linear",
+              "motionPath": []
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -327,
+                -38
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "curve": [
+                0.4,
+                0.4,
+                0.59,
+                0.6
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                80,
+                146
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb04": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [],
+              "curve": [
+                0.59,
+                0.27,
+                0.42,
+                1
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -215,
+                -222
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb05": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "curve": [
+                0.53,
+                0.24,
+                0.39,
+                1
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -278,
+                129
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb06": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [],
+              "curve": [
+                0.27,
+                0.47,
+                0.41,
+                1
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                208,
+                -119
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb07": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [],
+              "curve": [
+                0.53,
+                0.22,
+                0.51,
+                0.74
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -193,
+                -37
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb08": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [],
+              "curve": [
+                0.4,
+                0.4,
+                0.44,
+                0.77
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                59,
+                -178
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "jb09": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [],
+              "curve": [
+                0.64,
+                0.02,
+                0.7,
+                0.7
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -113,
+                165
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jb010": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [],
+              "curve": [
+                0.4,
+                0.4,
+                0.38,
+                1.01
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -21,
+                -38
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

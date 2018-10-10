@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/table
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/table
 END
 ddz_message.plist
 K 25
@@ -33,17 +33,17 @@ svn:wc:ra_dav:version-url
 V 95
 /newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/resources/table/ddz_personInfo.png.meta
 END
-lottery_win_bg.png.meta
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/lottery_win_bg.png.meta
-END
 ddz_chat.plist.meta
 K 25
 svn:wc:ra_dav:version-url
 V 91
 /newsvn/hall-js/!svn/ver/17907/h5/tu-weixin-game/assets/resources/table/ddz_chat.plist.meta
+END
+lottery_win_bg.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/lottery_win_bg.png.meta
 END
 ddz_ranking.png.meta
 K 25
@@ -51,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/19397/h5/tu-weixin-game/assets/resources/table/ddz_ranking.png.meta
 END
-ddz_poker.png
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/newsvn/hall-js/!svn/ver/18671/h5/tu-weixin-game/assets/resources/table/ddz_poker.png
-END
 ddz_table_ui.plist.meta
 K 25
 svn:wc:ra_dav:version-url
 V 95
 /newsvn/hall-js/!svn/ver/20421/h5/tu-weixin-game/assets/resources/table/ddz_table_ui.plist.meta
+END
+ddz_poker.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/newsvn/hall-js/!svn/ver/18671/h5/tu-weixin-game/assets/resources/table/ddz_poker.png
 END
 ddz_table_ani_rocket.plist.meta
 K 25
@@ -189,17 +189,17 @@ svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/18772/h5/tu-weixin-game/assets/resources/table/dizhu_table_chuntian.png.meta
 END
-ddz_dayle_welfare.plist
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/resources/table/ddz_dayle_welfare.plist
-END
 ddz_table_ani_rocket.png.meta
 K 25
 svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/18760/h5/tu-weixin-game/assets/resources/table/ddz_table_ani_rocket.png.meta
+END
+ddz_dayle_welfare.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/resources/table/ddz_dayle_welfare.plist
 END
 interactive_emo.png
 K 25
@@ -207,17 +207,17 @@ svn:wc:ra_dav:version-url
 V 91
 /newsvn/hall-js/!svn/ver/18772/h5/tu-weixin-game/assets/resources/table/interactive_emo.png
 END
-ddz_tx_map.png.meta
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/newsvn/hall-js/!svn/ver/20416/h5/tu-weixin-game/assets/resources/table/ddz_tx_map.png.meta
-END
 ddz_table_ani_bomb.png
 K 25
 svn:wc:ra_dav:version-url
 V 94
 /newsvn/hall-js/!svn/ver/18772/h5/tu-weixin-game/assets/resources/table/ddz_table_ani_bomb.png
+END
+ddz_tx_map.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/newsvn/hall-js/!svn/ver/20416/h5/tu-weixin-game/assets/resources/table/ddz_tx_map.png.meta
 END
 ddz_personInfo.plist.meta
 K 25
@@ -225,17 +225,17 @@ svn:wc:ra_dav:version-url
 V 97
 /newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/resources/table/ddz_personInfo.plist.meta
 END
-ddz_chat.png
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/newsvn/hall-js/!svn/ver/17913/h5/tu-weixin-game/assets/resources/table/ddz_chat.png
-END
 ddz_scene_ui.png.meta
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/table/ddz_scene_ui.png.meta
+END
+ddz_chat.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/newsvn/hall-js/!svn/ver/17913/h5/tu-weixin-game/assets/resources/table/ddz_chat.png
 END
 ddz_mall.plist.meta
 K 25
@@ -249,23 +249,17 @@ svn:wc:ra_dav:version-url
 V 90
 /newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/resources/table/ddz_personInfo.png
 END
-ddz_message.png
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/table/ddz_message.png
-END
 ddz_table_ani_bomb.plist
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/18028/h5/tu-weixin-game/assets/resources/table/ddz_table_ani_bomb.plist
 END
-lottery_win_bg.png
+ddz_message.png
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/lottery_win_bg.png
+V 87
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/table/ddz_message.png
 END
 ddz_chat.plist
 K 25
@@ -273,11 +267,17 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/17913/h5/tu-weixin-game/assets/resources/table/ddz_chat.plist
 END
-interactive_emo1.plist.meta
+lottery_win_bg.png
 K 25
 svn:wc:ra_dav:version-url
-V 99
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/interactive_emo1.plist.meta
+V 90
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/lottery_win_bg.png
+END
+ddz_guide.plist.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/table/ddz_guide.plist.meta
 END
 ddz_withdraw.png
 K 25
@@ -285,11 +285,11 @@ svn:wc:ra_dav:version-url
 V 88
 /newsvn/hall-js/!svn/ver/19903/h5/tu-weixin-game/assets/resources/table/ddz_withdraw.png
 END
-ddz_guide.plist.meta
+interactive_emo1.plist.meta
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/table/ddz_guide.plist.meta
+V 99
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/interactive_emo1.plist.meta
 END
 ddz_withdraw.plist
 K 25
@@ -315,17 +315,17 @@ svn:wc:ra_dav:version-url
 V 81
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/font.meta
 END
-ddz_message.png.meta
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/table/ddz_message.png.meta
-END
 ddz_table_ani_bomb.plist.meta
 K 25
 svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/18028/h5/tu-weixin-game/assets/resources/table/ddz_table_ani_bomb.plist.meta
+END
+ddz_message.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/table/ddz_message.png.meta
 END
 ddz_mall.png.meta
 K 25
@@ -333,17 +333,17 @@ svn:wc:ra_dav:version-url
 V 89
 /newsvn/hall-js/!svn/ver/20171/h5/tu-weixin-game/assets/resources/table/ddz_mall.png.meta
 END
-nopack.meta
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/nopack.meta
-END
 ddz_poker.plist.meta
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/18671/h5/tu-weixin-game/assets/resources/table/ddz_poker.plist.meta
+END
+nopack.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/nopack.meta
 END
 dizhu_table_chuntian.plist.meta
 K 25
@@ -351,17 +351,11 @@ svn:wc:ra_dav:version-url
 V 103
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/dizhu_table_chuntian.plist.meta
 END
-interactive_emo1.png.meta
+ddz_guide.png.meta
 K 25
 svn:wc:ra_dav:version-url
-V 97
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/interactive_emo1.png.meta
-END
-dizhu_table_chuntian.png
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/newsvn/hall-js/!svn/ver/18772/h5/tu-weixin-game/assets/resources/table/dizhu_table_chuntian.png
+V 90
+/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/table/ddz_guide.png.meta
 END
 ddz_poker.meta
 K 25
@@ -369,11 +363,17 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/19393/h5/tu-weixin-game/assets/resources/table/ddz_poker.meta
 END
-ddz_guide.png.meta
+dizhu_table_chuntian.png
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/table/ddz_guide.png.meta
+V 96
+/newsvn/hall-js/!svn/ver/18772/h5/tu-weixin-game/assets/resources/table/dizhu_table_chuntian.png
+END
+interactive_emo1.png.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/table/interactive_emo1.png.meta
 END
 ddz_table_ui.png
 K 25

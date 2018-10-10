@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/newsvn/hall-js/!svn/ver/20894/h5/shot_20180703/shot/assets/Script/hall/utils
+/newsvn/hall-js/!svn/ver/21049/h5/shot_20180703/shot/assets/Script/hall/utils
 END
 AdManager.js.meta
 K 25
@@ -19,7 +19,7 @@ MsgBoxManager.js
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/shot/assets/Script/hall/utils/MsgBoxManager.js
+/newsvn/hall-js/!svn/ver/20927/h5/shot_20180703/shot/assets/Script/hall/utils/MsgBoxManager.js
 END
 ToDoTasks.js
 K 25
@@ -31,7 +31,7 @@ AdManager.js
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/newsvn/hall-js/!svn/ver/20894/h5/shot_20180703/shot/assets/Script/hall/utils/AdManager.js
+/newsvn/hall-js/!svn/ver/21049/h5/shot_20180703/shot/assets/Script/hall/utils/AdManager.js
 END
 MsgBoxManager.js.meta
 K 25

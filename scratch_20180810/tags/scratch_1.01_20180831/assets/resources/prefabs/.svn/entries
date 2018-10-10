@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/scratch_20180810/tags/scratch_1.01_20180831/assets/resources/prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,48 +60,14 @@ zhangman
 
 148
 
-scratch_toast_tips.prefab.meta
+scratch_withDraw.prefab.meta
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-a3f277f184b2fb0da810cfea8ccf25b0
-2018-08-20T15:49:42.973455Z
-20751
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-148
-
-scratch_drawList.prefab.meta
-file
-
-
-
-
-2018-09-11T17:40:29.000000Z
-d5a272f4602d41e39442a8ffb219e67a
+1e672a91ce0fec0a12f5141962c8ca82
 2018-08-21T16:40:58.228340Z
 20755
 zhangman
@@ -162,16 +128,50 @@ zhangman
 
 148
 
-scratch_withDraw.prefab.meta
+scratch_drawList.prefab.meta
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-1e672a91ce0fec0a12f5141962c8ca82
+d5a272f4602d41e39442a8ffb219e67a
 2018-08-21T16:40:58.228340Z
 20755
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+148
+
+scratch_toast_tips.prefab.meta
+file
+
+
+
+
+2018-09-11T17:40:29.000000Z
+a3f277f184b2fb0da810cfea8ccf25b0
+2018-08-20T15:49:42.973455Z
+20751
 zhangman
 
 
@@ -264,40 +264,6 @@ zhangman
 
 148
 
-scratch_reward.prefab
-file
-
-
-
-
-2018-09-11T17:40:29.000000Z
-13d33067796587dbe4bbae126a57ee38
-2018-08-31T08:34:45.831372Z
-20829
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-73890
-
 scratch_goldGift.prefab.meta
 file
 
@@ -332,14 +298,48 @@ zhangman
 
 148
 
-scratch_successWindow.prefab.meta
+scratch_reward.prefab
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-bc859f7e4e8ea0cb594ce6e3ecf0e5cc
+13d33067796587dbe4bbae126a57ee38
+2018-08-31T08:34:45.831372Z
+20829
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+73890
+
+scratch_turnTable.prefab.meta
+file
+
+
+
+
+2018-09-11T17:40:29.000000Z
+7a859a3a7f372c0880a6cf7d599e3b44
 2018-08-20T15:49:42.973455Z
 20751
 zhangman
@@ -400,14 +400,14 @@ zhangman
 
 65940
 
-scratch_turnTable.prefab.meta
+scratch_successWindow.prefab.meta
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-7a859a3a7f372c0880a6cf7d599e3b44
+bc859f7e4e8ea0cb594ce6e3ecf0e5cc
 2018-08-20T15:49:42.973455Z
 20751
 zhangman
@@ -434,14 +434,14 @@ zhangman
 
 148
 
-scratch_drawList.prefab
+scratch_withDraw.prefab
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-f7077da767c9d532bb5a7f52b8b071d2
+974e4b3013fac24e58a40799782ba0c7
 2018-08-31T08:34:45.831372Z
 20829
 zhangman
@@ -466,7 +466,7 @@ zhangman
 
 
 
-64377
+77571
 
 scratch_change_main.prefab
 file
@@ -502,14 +502,14 @@ zhangman
 
 59105
 
-scratch_withDraw.prefab
+scratch_drawList.prefab
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-974e4b3013fac24e58a40799782ba0c7
+f7077da767c9d532bb5a7f52b8b071d2
 2018-08-31T08:34:45.831372Z
 20829
 zhangman
@@ -534,7 +534,7 @@ zhangman
 
 
 
-77571
+64377
 
 scratch_toast_tips.prefab
 file

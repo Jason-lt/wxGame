@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suipian02",
+    "texture": "de7UAzZuxOfqZd0xyZmcDl",
+    "rect": [
+      0,
+      0,
+      39,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      36
+    ]
+  }
+}

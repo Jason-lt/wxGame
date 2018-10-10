@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_weaponsDepot_gun_8",
+    "texture": "5c36112c-a603-43eb-9310-181ba85dfd3d",
+    "atlas": "f77d0b1b-f661-4271-a1b2-0418a5b280e7",
+    "rect": [
+      2,
+      278,
+      94,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      140
+    ],
+    "rotated": 1
+  }
+}

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/newsvn/hall-js/!svn/ver/20791/h5/shot_20180703/imageRes/shot_scene_ui_2
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/imageRes/shot_scene_ui_2
 END
 shot_secretBox_shadow.png
 K 25
@@ -15,11 +15,11 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/20470/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_box_bulletType_macheineGun.png
 END
-shot_box_bulletType_ Gatling.png
+shot_secret_guang.png
 K 25
 svn:wc:ra_dav:version-url
-V 107
-/newsvn/hall-js/!svn/ver/20791/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_box_bulletType_%20Gatling.png
+V 94
+/newsvn/hall-js/!svn/ver/20219/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_secret_guang.png
 END
 shot_secretBox_box.png
 K 25
@@ -27,11 +27,11 @@ svn:wc:ra_dav:version-url
 V 95
 /newsvn/hall-js/!svn/ver/20350/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_secretBox_box.png
 END
-shot_secret_guang.png
+shot_box_bulletType_ Gatling.png
 K 25
 svn:wc:ra_dav:version-url
-V 94
-/newsvn/hall-js/!svn/ver/20219/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_secret_guang.png
+V 107
+/newsvn/hall-js/!svn/ver/20791/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_box_bulletType_%20Gatling.png
 END
 shot_surpass_bg.png
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20219/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_secret_sha.png
 END
-shot_box_bulletType_M16.png
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/newsvn/hall-js/!svn/ver/20470/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_box_bulletType_M16.png
-END
 shot_box_bulletType_ Barrett.png
 K 25
 svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20791/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_box_bulletType_%20Barrett.png
+END
+shot_box_bulletType_M16.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/newsvn/hall-js/!svn/ver/20470/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_box_bulletType_M16.png
 END
 shot_box_bulletType__AWM1.png
 K 25
@@ -134,12 +134,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 111
 /newsvn/hall-js/!svn/ver/20470/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_box_bulletType_win94_sideView.png
-END
-shot_result_button_big.png
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/newsvn/hall-js/!svn/ver/20219/h5/shot_20180703/imageRes/shot_scene_ui_2/shot_result_button_big.png
 END
 shot_result_bg_line.png
 K 25

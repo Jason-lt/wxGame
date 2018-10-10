@@ -1,7 +1,7 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -196,40 +196,6 @@ liaotao
 
 689
 
-lottery_win_bg.png.meta
-file
-
-
-
-
-2018-09-06T17:54:05.000000Z
-fb7eaaa1f80b8538b9a213de88fa10ab
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-689
-
 ddz_chat.plist.meta
 file
 
@@ -263,6 +229,40 @@ liaotao
 
 
 4666
+
+lottery_win_bg.png.meta
+file
+
+
+
+
+2018-09-06T17:54:05.000000Z
+fb7eaaa1f80b8538b9a213de88fa10ab
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+689
 
 ddz_ranking.png.meta
 file
@@ -298,40 +298,6 @@ liaotao
 
 686
 
-ddz_table_ui.plist.meta
-file
-
-
-
-
-2018-09-06T17:54:14.000000Z
-b986f6bb66bc8befe2231dcd840bab3f
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-38065
-
 ddz_poker.png
 file
 
@@ -366,8 +332,39 @@ has-props
 
 28679
 
-scene_bg
-dir
+ddz_table_ui.plist.meta
+file
+
+
+
+
+2018-09-06T17:54:14.000000Z
+b986f6bb66bc8befe2231dcd840bab3f
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38065
 
 ddz_table_ani_rocket.plist.meta
 file
@@ -402,6 +399,9 @@ liaotao
 
 
 12183
+
+scene_bg
+dir
 
 ddz_table_ani_common.plist.meta
 file
@@ -950,6 +950,40 @@ has-props
 
 116252
 
+ddz_chat.png.meta
+file
+
+
+
+
+2018-09-06T17:54:04.000000Z
+80a2b7a060859869c80e55c5b767178b
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+681
+
 interactive_emo1.plist
 file
 
@@ -1018,40 +1052,6 @@ liaotao
 
 9274
 
-ddz_chat.png.meta
-file
-
-
-
-
-2018-09-06T17:54:04.000000Z
-80a2b7a060859869c80e55c5b767178b
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-681
-
 ddz_poker.png.meta
 file
 
@@ -1085,40 +1085,6 @@ liaotao
 
 
 682
-
-dizhu_table_chuntian.png.meta
-file
-
-
-
-
-2018-09-06T17:54:05.000000Z
-9ff3c870a62ddf84dfc9dbd668826bbe
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-695
 
 ddz_newRoomList.png.meta
 file
@@ -1154,14 +1120,14 @@ liaotao
 
 688
 
-ddz_dayle_welfare.plist
+dizhu_table_chuntian.png.meta
 file
 
 
 
 
-2018-09-06T17:31:38.000000Z
-4a4111e0cd519c0fcb85667c79c2a66e
+2018-09-06T17:54:05.000000Z
+9ff3c870a62ddf84dfc9dbd668826bbe
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1186,7 +1152,7 @@ liaotao
 
 
 
-8897
+695
 
 ddz_table_ani_rocket.png.meta
 file
@@ -1222,6 +1188,40 @@ liaotao
 
 694
 
+ddz_dayle_welfare.plist
+file
+
+
+
+
+2018-09-06T17:31:38.000000Z
+4a4111e0cd519c0fcb85667c79c2a66e
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8897
+
 interactive_emo.png
 file
 
@@ -1255,40 +1255,6 @@ has-props
 
 
 178443
-
-ddz_tx_map.png.meta
-file
-
-
-
-
-2018-09-06T17:54:05.000000Z
-a9f8e46ab7457379f338a361e90f408d
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-683
 
 ddz_table_ani_bomb.png
 file
@@ -1324,6 +1290,40 @@ has-props
 
 85600
 
+ddz_tx_map.png.meta
+file
+
+
+
+
+2018-09-06T17:54:05.000000Z
+a9f8e46ab7457379f338a361e90f408d
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+683
+
 ddz_personInfo.plist.meta
 file
 
@@ -1358,40 +1358,6 @@ liaotao
 
 23268
 
-ddz_chat.png
-file
-
-
-
-
-2018-09-06T17:31:38.000000Z
-97a41f2b4d4a50ead4ca421c6c6fcc65
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11902
-
 ddz_scene_ui.png.meta
 file
 
@@ -1425,6 +1391,40 @@ liaotao
 
 
 687
+
+ddz_chat.png
+file
+
+
+
+
+2018-09-06T17:31:38.000000Z
+97a41f2b4d4a50ead4ca421c6c6fcc65
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11902
 
 ddz_mall.plist.meta
 file
@@ -1494,40 +1494,6 @@ has-props
 
 77961
 
-ddz_message.png
-file
-
-
-
-
-2018-09-06T17:31:38.000000Z
-ccb7f70968cead9693cf9da560cb8ea1
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16890
-
 ddz_table_ani_bomb.plist
 file
 
@@ -1562,14 +1528,14 @@ liaotao
 
 8906
 
-lottery_win_bg.png
+ddz_message.png
 file
 
 
 
 
 2018-09-06T17:31:38.000000Z
-d98e24fc2c02dd7860abab116ab937c4
+ccb7f70968cead9693cf9da560cb8ea1
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1594,7 +1560,7 @@ has-props
 
 
 
-35473
+16890
 
 ddz_chat.plist
 file
@@ -1630,14 +1596,48 @@ liaotao
 
 4470
 
-interactive_emo1.plist.meta
+lottery_win_bg.png
+file
+
+
+
+
+2018-09-06T17:31:38.000000Z
+d98e24fc2c02dd7860abab116ab937c4
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35473
+
+ddz_guide.plist.meta
 file
 
 
 
 
 2018-09-06T17:54:14.000000Z
-77279d7b27358afd2d1138160116f1e9
+3e540eea0f915d84990fda72cbe6dc33
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1662,7 +1662,7 @@ liaotao
 
 
 
-8232
+10338
 
 ddz_withdraw.png
 file
@@ -1698,14 +1698,14 @@ has-props
 
 11650
 
-ddz_guide.plist.meta
+interactive_emo1.plist.meta
 file
 
 
 
 
 2018-09-06T17:54:14.000000Z
-3e540eea0f915d84990fda72cbe6dc33
+77279d7b27358afd2d1138160116f1e9
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1730,7 +1730,7 @@ liaotao
 
 
 
-10338
+8232
 
 newFont
 dir
@@ -1871,40 +1871,6 @@ liaotao
 
 88
 
-ddz_message.png.meta
-file
-
-
-
-
-2018-09-06T17:54:04.000000Z
-26730c3c5570b7e109261049e1d10e09
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-684
-
 ddz_table_ani_bomb.plist.meta
 file
 
@@ -1938,6 +1904,40 @@ liaotao
 
 
 9853
+
+ddz_message.png.meta
+file
+
+
+
+
+2018-09-06T17:54:04.000000Z
+26730c3c5570b7e109261049e1d10e09
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+684
 
 ddz_mall.png.meta
 file
@@ -1973,40 +1973,6 @@ liaotao
 
 684
 
-nopack.meta
-file
-
-
-
-
-2018-09-06T17:31:38.000000Z
-4e3ab400f90a1c0f1a2f8bdd8de9cb64
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 ddz_poker.plist.meta
 file
 
@@ -2040,6 +2006,40 @@ liaotao
 
 
 31533
+
+nopack.meta
+file
+
+
+
+
+2018-09-06T17:31:38.000000Z
+4e3ab400f90a1c0f1a2f8bdd8de9cb64
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
 
 ddz_newRoomList.plist.meta
 file

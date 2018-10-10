@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/tags/jump_tags_1.61_20180731/assets/resources/prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ zhangman
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-jump_rank_list.prefab
-file
-
-
-
-
-2018-09-11T17:41:06.000000Z
-9b74c58496e84017edd705f1d5fb7d8f
-2018-06-12T15:18:29.731549Z
-19950
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-43487
 
 debugNode.prefab.meta
 file
@@ -94,16 +60,16 @@ zhangman
 
 116
 
-jump_new_tips.prefab
+jump_rank_list.prefab
 file
 
 
 
 
 2018-09-11T17:41:06.000000Z
-41802f7ebcdc8a3206571055214a15e2
-2018-06-15T10:22:24.209724Z
-20010
+9b74c58496e84017edd705f1d5fb7d8f
+2018-06-12T15:18:29.731549Z
+19950
 zhangman
 
 
@@ -126,7 +92,41 @@ zhangman
 
 
 
-15141
+43487
+
+main_toast.prefab.meta
+file
+
+
+
+
+2018-09-11T17:41:06.000000Z
+6a315863f3c7da80ec0567b7d26f0d33
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 btnTickForBtn.anim.meta
 file
@@ -162,16 +162,16 @@ zhangman
 
 88
 
-main_toast.prefab.meta
+jump_new_tips.prefab
 file
 
 
 
 
 2018-09-11T17:41:06.000000Z
-6a315863f3c7da80ec0567b7d26f0d33
-2018-06-12T03:51:33.694041Z
-19919
+41802f7ebcdc8a3206571055214a15e2
+2018-06-15T10:22:24.209724Z
+20010
 zhangman
 
 
@@ -194,7 +194,7 @@ zhangman
 
 
 
-116
+15141
 
 jump_toast_tips.prefab
 file
@@ -400,16 +400,16 @@ zhangman
 
 116
 
-btnTickForBtn.anim
+main_toast.prefab
 file
 
 
 
 
 2018-09-11T17:41:06.000000Z
-54739f1710119e9cdf0fef920fd41d25
-2018-06-23T13:38:34.407421Z
-20112
+c9d4c2a7f110809f0460dc2abb3363e6
+2018-06-12T03:51:33.694041Z
+19919
 zhangman
 
 
@@ -432,7 +432,7 @@ zhangman
 
 
 
-1251
+16530
 
 jump_result.prefab.meta
 file
@@ -468,16 +468,16 @@ zhangman
 
 116
 
-main_toast.prefab
+btnTickForBtn.anim
 file
 
 
 
 
 2018-09-11T17:41:06.000000Z
-c9d4c2a7f110809f0460dc2abb3363e6
-2018-06-12T03:51:33.694041Z
-19919
+54739f1710119e9cdf0fef920fd41d25
+2018-06-23T13:38:34.407421Z
+20112
 zhangman
 
 
@@ -500,7 +500,7 @@ zhangman
 
 
 
-16530
+1251
 
 jump_window_result.prefab
 file

@@ -1,0 +1,116 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "double_scene_ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "double_common_back": {
+      "__uuid__": "db38145d-d5ca-4e71-9d6b-c97a0447705a"
+    },
+    "double_common_bg": {
+      "__uuid__": "2ca8a91e-3046-42e1-8cbf-0c36b84995f5"
+    },
+    "double_common_bg_1": {
+      "__uuid__": "e642daea-0535-4d8e-b038-fd78e9636667"
+    },
+    "double_common_bg_white": {
+      "__uuid__": "b104d75b-4192-4646-a925-1cab5db4e99e"
+    },
+    "double_common_btnBg_1": {
+      "__uuid__": "a28b3288-1999-43b8-b5a4-9fcac7d2bbd6"
+    },
+    "double_common_btnBg_2": {
+      "__uuid__": "5238e691-500c-4ec1-a3a9-09335c4bd234"
+    },
+    "double_common_btnBg_3": {
+      "__uuid__": "3676536f-f055-4906-9b1d-5215e91e3e80"
+    },
+    "double_common_line": {
+      "__uuid__": "6e4a5362-d549-4e09-8370-9aff3e091e78"
+    },
+    "double_main_pause": {
+      "__uuid__": "96ba56c3-aa5d-412e-944b-56d7f7e2a4a1"
+    },
+    "double_main_progress_bg": {
+      "__uuid__": "a7fb58be-7b1f-4d82-b4fb-03a96120949c"
+    },
+    "double_main_progress_circle_bg": {
+      "__uuid__": "d808a22b-0d9a-44ce-824d-42580f45183a"
+    },
+    "double_main_progress_circle_selected": {
+      "__uuid__": "d642ca24-62a1-4189-89b0-42501929e214"
+    },
+    "double_main_progress_sprite": {
+      "__uuid__": "0dfea61f-9e84-4dba-ac66-56b59b3e4265"
+    },
+    "double_newResult_bg_1": {
+      "__uuid__": "48180c70-2355-455c-8626-5b7e29684626"
+    },
+    "double_newResult_bg_2": {
+      "__uuid__": "88b4a888-b56d-492a-b39a-a7add8fe605a"
+    },
+    "double_newResult_yellow": {
+      "__uuid__": "50f12398-ad1b-476a-ae68-da25199aab8e"
+    },
+    "double_nreResult_roll_bg": {
+      "__uuid__": "4d8daea5-d41c-449b-9478-2796b0c65bbe"
+    },
+    "double_pause_continue": {
+      "__uuid__": "085f313d-061b-4cae-ab3a-1a271d1109fd"
+    },
+    "double_pause_main": {
+      "__uuid__": "3dff7743-b759-4edc-8ba2-a92b14b9163a"
+    },
+    "double_pause_share": {
+      "__uuid__": "f4865247-47e9-4036-8fc2-cfc7d5fb48a9"
+    },
+    "double_result_again": {
+      "__uuid__": "b0f9be4c-c85e-4639-896c-9a3b16c117b1"
+    },
+    "double_result_bg": {
+      "__uuid__": "2e4699b2-b50c-4b04-a241-4840d5e5a24d"
+    },
+    "double_rewardWeapon_bg": {
+      "__uuid__": "14799b75-388e-4ffd-9d42-e74ad73727d9"
+    },
+    "double_rewardWeapon_tri": {
+      "__uuid__": "0fcb5ca7-1685-498c-bfbf-fd45c6e7da0e"
+    },
+    "double_rewardWeapon_triGet": {
+      "__uuid__": "6a6b38f1-241a-432d-b2a5-f04dadd4fa10"
+    },
+    "double_titlePage_coin": {
+      "__uuid__": "cb3fc8c5-38ff-414f-946e-ab2db6a29e5f"
+    },
+    "double_titlePage_rank": {
+      "__uuid__": "4c18b32c-833d-4d3a-80f7-19f2f3962a36"
+    },
+    "double_titlePage_title": {
+      "__uuid__": "9b84a9f4-7eb9-45fc-92a9-d81f409df9c5"
+    },
+    "double_weaponsDepot_bg_white": {
+      "__uuid__": "b66ffb3f-c2cc-41ae-8852-e2796f3996ee"
+    },
+    "double_weaponsDepot_icon_circle": {
+      "__uuid__": "8b1a7b8d-9697-41bc-a9f7-0f47d3fede3c"
+    },
+    "double_weaponsDepot_icon_reward": {
+      "__uuid__": "a945c2fd-200e-40b3-8a6d-26475d642f86"
+    },
+    "double_weaponsDepot_icon_video": {
+      "__uuid__": "23a22254-ebc4-40c9-a810-3a348a42068e"
+    },
+    "double_weaponsDepot_icon_weapon": {
+      "__uuid__": "7d8b489a-247c-4736-88c4-d6ac560d019d"
+    },
+    "double_window_newWeapon_checkBox_bg": {
+      "__uuid__": "66964f01-b0fc-44e7-936e-fa32d012d9e5"
+    },
+    "double_window_newWeapon_checkBox_choose": {
+      "__uuid__": "e869a67e-4ee3-458f-aead-2b0b81e8f379"
+    },
+    "double_window_newWeapon_close": {
+      "__uuid__": "31ad9d95-c0f8-4b8d-96ff-e371f4f21ffc"
+    }
+  }
+}

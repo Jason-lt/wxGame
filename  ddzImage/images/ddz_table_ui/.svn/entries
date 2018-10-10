@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/%20ddzImage/images/ddz_table_ui
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ has-props
 
 630
 
-ddz_table_yy_icon_big.png
-file
-
-
-
-
-2018-09-11T17:40:13.000000Z
-d7b6ce04fc74bb522ef245c430b77218
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2051
-
 ddz_card_back_bg.png
 file
 
@@ -161,6 +127,40 @@ has-props
 
 
 5444
+
+ddz_table_yy_icon_big.png
+file
+
+
+
+
+2018-09-11T17:40:13.000000Z
+d7b6ce04fc74bb522ef245c430b77218
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2051
 
 lottery_win_close.png
 file
@@ -1148,40 +1148,6 @@ has-props
 
 9956
 
-ddz_dizhu_hot_2.png
-file
-
-
-
-
-2018-09-11T17:40:13.000000Z
-3d900e66ab89045204b54ed9378b28f1
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10497
-
 ddz_gameResult_fail_noti2.png
 file
 
@@ -1216,14 +1182,14 @@ has-props
 
 3835
 
-lottery_win_title.png
+ddz_dizhu_hot_2.png
 file
 
 
 
 
 2018-09-11T17:40:13.000000Z
-3171365ba7857435cb734f5acead61f0
+3d900e66ab89045204b54ed9378b28f1
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1248,7 +1214,7 @@ has-props
 
 
 
-4342
+10497
 
 ddz_gameResult_fail_noti3.png
 file
@@ -1283,6 +1249,40 @@ has-props
 
 
 1825
+
+lottery_win_title.png
+file
+
+
+
+
+2018-09-11T17:40:13.000000Z
+3171365ba7857435cb734f5acead61f0
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4342
 
 avatar_bg.png
 file
@@ -1386,40 +1386,6 @@ has-props
 
 112
 
-ico_dm.png
-file
-
-
-
-
-2018-09-11T17:40:13.000000Z
-5de945a849cb2f7bfdc4281428c37c2e
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1310
-
 ddz_table_btn_chat.png
 file
 
@@ -1453,6 +1419,40 @@ has-props
 
 
 4556
+
+ico_dm.png
+file
+
+
+
+
+2018-09-11T17:40:13.000000Z
+5de945a849cb2f7bfdc4281428c37c2e
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1310
 
 ddz_table_btn_duiju.png
 file
@@ -1692,40 +1692,6 @@ has-props
 
 7136
 
-ddz_table_yy_send_00.png
-file
-
-
-
-
-2018-09-11T17:40:13.000000Z
-4f7fcdf6cae4dffd1b09349b3262f98b
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-532
-
 ddz_table_yy_icon_01.png
 file
 
@@ -1760,14 +1726,14 @@ has-props
 
 989
 
-ddz_table_yy_send_01.png
+ddz_table_yy_send_00.png
 file
 
 
 
 
 2018-09-11T17:40:13.000000Z
-b80887ac7ce380edb92efe9b8102f6fa
+4f7fcdf6cae4dffd1b09349b3262f98b
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1792,41 +1758,7 @@ has-props
 
 
 
-1022
-
-ddz_table_yy_icon_02.png
-file
-
-
-
-
-2018-09-11T17:40:13.000000Z
-6ba0db34ed122c9f9925bae8fa5424ad
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1007
+532
 
 ddz_avatar_dizhu.png
 file
@@ -1862,14 +1794,14 @@ has-props
 
 5163
 
-ddz_table_yy_send_02.png
+ddz_table_yy_icon_02.png
 file
 
 
 
 
 2018-09-11T17:40:13.000000Z
-e63baf3e548d1148a79e100b30d212c2
+6ba0db34ed122c9f9925bae8fa5424ad
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1894,16 +1826,16 @@ has-props
 
 
 
-1250
+1007
 
-ddz_table_yy_icon_03.png
+ddz_table_yy_send_01.png
 file
 
 
 
 
 2018-09-11T17:40:13.000000Z
-91ea42a8c65517dee1a4765fe0836814
+b80887ac7ce380edb92efe9b8102f6fa
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1928,7 +1860,7 @@ has-props
 
 
 
-1018
+1022
 
 avatar_shadow.png
 file
@@ -1964,14 +1896,14 @@ has-props
 
 1022
 
-lottery_split_line.png
+ddz_table_yy_icon_03.png
 file
 
 
 
 
 2018-09-11T17:40:13.000000Z
-250210d57fff624c810b7d7e5dbda88e
+91ea42a8c65517dee1a4765fe0836814
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1996,16 +1928,16 @@ has-props
 
 
 
-84
+1018
 
-ddz_table_yy_send_03.png
+ddz_table_yy_send_02.png
 file
 
 
 
 
 2018-09-11T17:40:13.000000Z
-ab169cae60f8e592b0019a49e48f8a0f
+e63baf3e548d1148a79e100b30d212c2
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -2030,7 +1962,7 @@ has-props
 
 
 
-1440
+1250
 
 ddz_table_yy_icon_04.png
 file
@@ -2066,6 +1998,74 @@ has-props
 
 1022
 
+ddz_table_yy_send_03.png
+file
+
+
+
+
+2018-09-11T17:40:13.000000Z
+ab169cae60f8e592b0019a49e48f8a0f
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1440
+
+lottery_split_line.png
+file
+
+
+
+
+2018-09-11T17:40:13.000000Z
+250210d57fff624c810b7d7e5dbda88e
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+84
+
 ddz_table_yy_icon_05.png
 file
 
@@ -2100,40 +2100,6 @@ has-props
 
 1031
 
-ddz_table_yy_icon_06.png
-file
-
-
-
-
-2018-09-11T17:40:13.000000Z
-c2583f9417e0fa401fc8248d5edeac07
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1038
-
 ddz_gameResult_win.png
 file
 
@@ -2167,6 +2133,40 @@ has-props
 
 
 9095
+
+ddz_table_yy_icon_06.png
+file
+
+
+
+
+2018-09-11T17:40:13.000000Z
+c2583f9417e0fa401fc8248d5edeac07
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1038
 
 ddz_table_yy_icon_07.png
 file

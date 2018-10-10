@@ -1,14 +1,14 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/resources/prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-11T02:53:03.413843Z
-20909
+2018-09-28T08:10:29.291409Z
+21025
 liaotao
 
 
@@ -25,40 +25,6 @@ liaotao
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-enter_queue.prefab
-file
-
-
-
-
-2018-09-08T17:02:26.000000Z
-45ae07b3f38fcbf384b2c94f61a88787
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24067
 
 gameTasks_small.anim.meta
 file
@@ -94,6 +60,74 @@ liaotao
 
 88
 
+enter_queue.prefab
+file
+
+
+
+
+2018-09-08T17:02:26.000000Z
+45ae07b3f38fcbf384b2c94f61a88787
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24067
+
+ddz_window_gameDetail.prefab
+file
+
+
+
+
+2018-09-21T22:42:21.000000Z
+ce9db331ee89b89a3eb52e134adb6b13
+2018-09-26T03:08:12.320198Z
+21008
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+118963
+
 ddz_item_shareMoments.prefab
 file
 
@@ -127,40 +161,6 @@ liaotao
 
 
 34354
-
-ddz_window_gameDetail.prefab
-file
-21008
-
-
-
-2018-09-21T22:42:21.000000Z
-ce9db331ee89b89a3eb52e134adb6b13
-2018-09-26T03:08:12.320198Z
-21008
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-118963
 
 throughNode.prefab
 file
@@ -266,7 +266,7 @@ liaotao
 
 notifyWindow.prefab
 file
-21008
+
 
 
 
@@ -297,40 +297,6 @@ liaotao
 
 
 61897
-
-matchNode.prefab
-file
-
-
-
-
-2018-09-06T17:31:31.000000Z
-bdd5525fdf8cab01c3b07fa49816844f
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-75483
 
 treasure_box.prefab
 file
@@ -366,14 +332,14 @@ liaotao
 
 49912
 
-userChat.prefab.meta
+matchNode.prefab
 file
 
 
 
 
-2018-09-06T17:54:04.000000Z
-83da69f8a56a369c6e2c2cc6f9a93e5a
+2018-09-06T17:31:31.000000Z
+bdd5525fdf8cab01c3b07fa49816844f
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -398,16 +364,16 @@ liaotao
 
 
 
-116
+75483
 
-collectDeskTop.prefab.meta
+userChat.prefab.meta
 file
 
 
 
 
 2018-09-06T17:54:04.000000Z
-23e6f8c954da82bb8bf90cc339a6db14
+83da69f8a56a369c6e2c2cc6f9a93e5a
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -467,6 +433,40 @@ liaotao
 
 
 1193
+
+collectDeskTop.prefab.meta
+file
+
+
+
+
+2018-09-06T17:54:04.000000Z
+23e6f8c954da82bb8bf90cc339a6db14
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 gameTasks_big.anim.meta
 file
@@ -572,7 +572,7 @@ liaotao
 
 ddz_diamond.prefab
 file
-21008
+
 
 
 
@@ -644,30 +644,6 @@ dir
 
 
 delete
-
-ddz_personInfoEdit.prefab.meta
-file
-21008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 ddz_window_normal.prefab
 file
@@ -1012,30 +988,6 @@ liaotao
 
 103796
 
-ddz_personInfoEdit.prefab
-file
-21008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 adNode.prefab
 file
 
@@ -1069,64 +1021,6 @@ liaotao
 
 
 5595
-
-ddz_zuanshiBox.prefab
-file
-21008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
-ddz_bubble_tips.prefab
-file
-21008
-
-
-
-2018-09-21T18:59:43.000000Z
-e5d8672538ce0083072338cdd9ae81cb
-2018-09-26T03:08:12.320198Z
-21008
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5109
 
 goldNode.prefab
 file
@@ -1162,16 +1056,16 @@ liaotao
 
 57644
 
-gameTasks_small.anim
+ddz_bubble_tips.prefab
 file
 
 
 
 
-2018-09-06T17:31:31.000000Z
-acea6063c3c7490b99a6af17951bab20
-2018-09-11T02:53:03.413843Z
-20909
+2018-09-21T18:59:43.000000Z
+e5d8672538ce0083072338cdd9ae81cb
+2018-09-26T03:08:12.320198Z
+21008
 liaotao
 
 
@@ -1194,41 +1088,7 @@ liaotao
 
 
 
-423
-
-betBoxAbstract.prefab.meta
-file
-
-
-
-
-2018-09-06T17:54:04.000000Z
-d807b82c8f820e8cdfcc495299b0f1a3
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
+5109
 
 officialAccountGuide.prefab.meta
 file
@@ -1264,38 +1124,14 @@ liaotao
 
 116
 
-ddz_shareReward.prefab.meta
-file
-21025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
-dissolveNode.prefab
+betBoxAbstract.prefab.meta
 file
 
 
 
 
-2018-09-06T17:31:31.000000Z
-8f6c518d476e7e6f691e0274cf1e2157
+2018-09-06T17:54:04.000000Z
+d807b82c8f820e8cdfcc495299b0f1a3
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1320,7 +1156,41 @@ liaotao
 
 
 
-14654
+116
+
+gameTasks_small.anim
+file
+
+
+
+
+2018-09-06T17:31:31.000000Z
+acea6063c3c7490b99a6af17951bab20
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+423
 
 ddz_window_skip.prefab
 file
@@ -1355,6 +1225,40 @@ liaotao
 
 
 29686
+
+dissolveNode.prefab
+file
+
+
+
+
+2018-09-06T17:31:31.000000Z
+8f6c518d476e7e6f691e0274cf1e2157
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14654
 
 huzhubaoxiang.meta
 file
@@ -1461,40 +1365,6 @@ liaotao
 
 116
 
-ddz_window_history.prefab.meta
-file
-
-
-
-
-2018-09-06T17:54:04.000000Z
-dbc676760b8de845ae9bd3d2b055f74c
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
 conversionSuccess.prefab
 file
 
@@ -1529,14 +1399,14 @@ liaotao
 
 5492
 
-adNode.prefab.meta
+ddz_window_history.prefab.meta
 file
 
 
 
 
-2018-09-08T18:58:44.000000Z
-601f3708ed3061fa018eabe09ca7220e
+2018-09-06T17:54:04.000000Z
+dbc676760b8de845ae9bd3d2b055f74c
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1563,14 +1433,14 @@ liaotao
 
 116
 
-dissolveNode.prefab.meta
+adNode.prefab.meta
 file
 
 
 
 
-2018-09-06T17:54:04.000000Z
-7c020eb746fd1d3a3c8d157648edd455
+2018-09-08T18:58:44.000000Z
+601f3708ed3061fa018eabe09ca7220e
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1631,9 +1501,17 @@ liaotao
 
 116
 
-ddz_helpBox.anim
+dissolveNode.prefab.meta
 file
-21008
+
+
+
+
+2018-09-06T17:54:04.000000Z
+7c020eb746fd1d3a3c8d157648edd455
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
 
 
 
@@ -1653,11 +1531,13 @@ file
 
 
 
-deleted
+
+
+116
 
 withdrawalMaintain.prefab
 file
-21008
+
 
 
 
@@ -1725,7 +1605,7 @@ liaotao
 
 ddz_window_history.prefab
 file
-21008
+
 
 
 
@@ -1794,14 +1674,14 @@ liaotao
 match
 dir
 
-ddz_window_save_match_result.prefab
+ddz_multiReward.prefab
 file
 
 
 
 
 2018-09-06T17:31:31.000000Z
-de95c5d2e1658cb91a432aec503839f1
+bf5d581b3dc447d006d04ab659294216
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1826,75 +1706,7 @@ liaotao
 
 
 
-22420
-
-ddz_window_revival.prefab
-file
-20968
-
-
-
-2018-09-12T21:49:19.000000Z
-b680a2d79d7bf0452374ef0239b74b19
-2018-09-21T02:55:11.065913Z
-20968
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-30188
-
-ddz_window_match_rewards.prefab.meta
-file
-
-
-
-
-2018-09-06T17:54:04.000000Z
-b940d6a92b604603ce36103bb0e4a5cb
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
+32064
 
 awad_tips_show.anim
 file
@@ -1930,14 +1742,14 @@ liaotao
 
 930
 
-ddz_multiReward.prefab
+ddz_window_match_rewards.prefab.meta
 file
 
 
 
 
-2018-09-06T17:31:31.000000Z
-bf5d581b3dc447d006d04ab659294216
+2018-09-06T17:54:04.000000Z
+b940d6a92b604603ce36103bb0e4a5cb
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1962,11 +1774,19 @@ liaotao
 
 
 
-32064
+116
 
-ddz_helpBox.prefab
+ddz_window_revival.prefab
 file
-21008
+
+
+
+
+2018-09-12T21:49:19.000000Z
+b680a2d79d7bf0452374ef0239b74b19
+2018-09-21T02:55:11.065913Z
+20968
+liaotao
 
 
 
@@ -1986,7 +1806,43 @@ file
 
 
 
-deleted
+
+
+30188
+
+ddz_window_save_match_result.prefab
+file
+
+
+
+
+2018-09-06T17:31:31.000000Z
+de95c5d2e1658cb91a432aec503839f1
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22420
 
 conversionSuccess.prefab.meta
 file
@@ -2089,30 +1945,6 @@ liaotao
 
 
 88
-
-ddz_shareReward.prefab
-file
-21025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 ddz_window_gameDetail.prefab.meta
 file
@@ -2291,30 +2123,6 @@ liaotao
 
 116
 
-ddz_zuanshiBox.prefab.meta
-file
-21008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 match.meta
 file
 
@@ -2416,30 +2224,6 @@ liaotao
 
 
 116
-
-ddz_helpBox.prefab.meta
-file
-21008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 lottery_win_show.anim.meta
 file
@@ -2722,7 +2506,7 @@ liaotao
 
 betBoxAbstract.prefab
 file
-21008
+
 
 
 
@@ -2821,30 +2605,6 @@ liaotao
 
 
 116
-
-ddz_helpBox.anim.meta
-file
-21008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 friendNode.prefab
 file
@@ -2950,7 +2710,7 @@ liaotao
 
 userChat.prefab
 file
-21008
+
 
 
 
@@ -2984,7 +2744,7 @@ liaotao
 
 gameTasks.prefab
 file
-21008
+
 
 
 

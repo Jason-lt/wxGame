@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.4_20180804/assets/Script/ComponentScript/window
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,6 +94,40 @@ zhangman
 
 4001
 
+newerNode.js.meta
+file
+
+
+
+
+2018-09-11T17:39:45.000000Z
+7605108073c5b41196609e1560dbc732
+2018-07-07T09:15:32.436659Z
+20269
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
 shot_result.js
 file
 
@@ -128,17 +162,17 @@ zhangman
 
 22053
 
-newerNode.js.meta
+zidandaoju.js.meta
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-7605108073c5b41196609e1560dbc732
-2018-07-07T09:15:32.436659Z
-20269
-zhangman
+92504edec5256701100b988b49d74d1a
+2018-07-06T14:38:13.800403Z
+20259
+liaotao
 
 
 
@@ -196,17 +230,17 @@ zhangman
 
 10941
 
-zidandaoju.js.meta
+shot_secret_box.js.meta
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-92504edec5256701100b988b49d74d1a
-2018-07-06T14:38:13.800403Z
-20259
-liaotao
+4f9b0f5f475945fe8605c2a4fca0857b
+2018-07-13T02:56:07.603938Z
+20341
+zhangman
 
 
 
@@ -264,16 +298,16 @@ zhangman
 
 197
 
-shot_secret_box.js.meta
+debugNode.js.meta
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-4f9b0f5f475945fe8605c2a4fca0857b
-2018-07-13T02:56:07.603938Z
-20341
+f11ffd3bea4d5d228f0144ca17642521
+2018-07-03T13:00:12.347196Z
+20204
 zhangman
 
 
@@ -309,40 +343,6 @@ file
 2018-07-05T02:57:34.149300Z
 20226
 liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
-debugNode.js.meta
-file
-
-
-
-
-2018-09-11T17:39:45.000000Z
-f11ffd3bea4d5d228f0144ca17642521
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
 
 
 

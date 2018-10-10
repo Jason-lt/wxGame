@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.931_20180628/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -162,40 +162,6 @@ liaotao
 
 7027
 
-ddz_chat.plist.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-23c9076a990376a28c06a97d308f387f
-2018-04-15T05:43:01.814590Z
-17907
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4666
-
 lottery_win_bg.png.meta
 file
 
@@ -229,6 +195,40 @@ xujing
 
 
 689
+
+ddz_chat.plist.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+23c9076a990376a28c06a97d308f387f
+2018-04-15T05:43:01.814590Z
+17907
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4666
 
 ddz_ranking.png.meta
 file
@@ -264,40 +264,6 @@ yuhongbin
 
 686
 
-ddz_table_ui.plist.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-35781b333b63a94fc9f609a558d3a47c
-2018-06-12T12:03:33.199783Z
-19944
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-38063
-
 ddz_poker.png
 file
 
@@ -332,6 +298,43 @@ has-props
 
 28679
 
+ddz_table_ui.plist.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+35781b333b63a94fc9f609a558d3a47c
+2018-06-12T12:03:33.199783Z
+19944
+yuhongbin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38063
+
+scene_bg
+dir
+
 ddz_table_ani_rocket.plist.meta
 file
 
@@ -365,9 +368,6 @@ yuhongbin
 
 
 12183
-
-scene_bg
-dir
 
 ddz_table_ani_common.plist.meta
 file
@@ -1052,40 +1052,6 @@ zhangman
 
 695
 
-ddz_table_ani_rocket.png.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-09bc9ccad0e3e4c00a3e57a9db49b785
-2018-05-04T07:49:39.777149Z
-18760
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-694
-
 ddz_dayle_welfare.plist
 file
 
@@ -1119,6 +1085,40 @@ liaotao
 
 
 6495
+
+ddz_table_ani_rocket.png.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+09bc9ccad0e3e4c00a3e57a9db49b785
+2018-05-04T07:49:39.777149Z
+18760
+yuhongbin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+694
 
 interactive_emo.png
 file
@@ -1154,40 +1154,6 @@ has-props
 
 178443
 
-ddz_tx_map.png.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-c5886f7d8f2ac385d380460e2e40fb13
-2018-05-07T09:29:36.321396Z
-18957
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-686
-
 ddz_table_ani_bomb.png
 file
 
@@ -1222,16 +1188,16 @@ has-props
 
 85600
 
-ddz_scene_ui.png.meta
+ddz_tx_map.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-ebe3ed5fe315ab9c58bd608b613c2c9d
-2018-06-11T15:33:31.896226Z
-19912
+c5886f7d8f2ac385d380460e2e40fb13
+2018-05-07T09:29:36.321396Z
+18957
 liaotao
 
 
@@ -1254,7 +1220,7 @@ liaotao
 
 
 
-687
+686
 
 ddz_chat.png
 file
@@ -1290,6 +1256,40 @@ has-props
 
 11902
 
+ddz_scene_ui.png.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+ebe3ed5fe315ab9c58bd608b613c2c9d
+2018-06-11T15:33:31.896226Z
+19912
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+687
+
 ddz_mall.plist.meta
 file
 
@@ -1323,40 +1323,6 @@ liaotao
 
 
 18365
-
-ddz_table_ani_bomb.plist
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-3946f7ef0c75a27320ea49c70cb210d4
-2018-04-17T09:56:48.550755Z
-18028
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8906
 
 ddz_message.png
 file
@@ -1392,17 +1358,17 @@ has-props
 
 16890
 
-ddz_chat.plist
+ddz_table_ani_bomb.plist
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-4f1d18f316d254830eaf13e3193a3b85
-2018-04-15T06:02:03.420606Z
-17913
-xujing
+3946f7ef0c75a27320ea49c70cb210d4
+2018-04-17T09:56:48.550755Z
+18028
+yuhongbin
 
 
 
@@ -1424,7 +1390,7 @@ xujing
 
 
 
-4470
+8906
 
 lottery_win_bg.png
 file
@@ -1460,17 +1426,17 @@ has-props
 
 35473
 
-ddz_guide.plist.meta
+ddz_chat.plist
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-6500eb5264035a6582ef457176da6248
-2018-06-28T02:47:23.366834Z
-20164
-liaotao
+4f1d18f316d254830eaf13e3193a3b85
+2018-04-15T06:02:03.420606Z
+17913
+xujing
 
 
 
@@ -1492,7 +1458,41 @@ liaotao
 
 
 
-8080
+4470
+
+interactive_emo1.plist.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+77279d7b27358afd2d1138160116f1e9
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8232
 
 ddz_withdraw.png
 file
@@ -1528,17 +1528,17 @@ has-props
 
 11650
 
-interactive_emo1.plist.meta
+ddz_guide.plist.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-77279d7b27358afd2d1138160116f1e9
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+6500eb5264035a6582ef457176da6248
+2018-06-28T02:47:23.366834Z
+20164
+liaotao
 
 
 
@@ -1560,7 +1560,7 @@ xujing
 
 
 
-8232
+8080
 
 ddz_withdraw.plist
 file
@@ -1698,40 +1698,6 @@ xujing
 
 88
 
-ddz_table_ani_bomb.plist.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-3d4aba87fb198aa447b83398f9bba48a
-2018-04-17T09:56:48.550755Z
-18028
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9853
-
 ddz_message.png.meta
 file
 
@@ -1765,6 +1731,40 @@ liaotao
 
 
 684
+
+ddz_table_ani_bomb.plist.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+3d4aba87fb198aa447b83398f9bba48a
+2018-04-17T09:56:48.550755Z
+18028
+yuhongbin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9853
 
 ddz_mall.png.meta
 file
@@ -1800,40 +1800,6 @@ liaotao
 
 684
 
-ddz_poker.plist.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-c3968b0cecd84787d88b564d171caf66
-2018-05-02T09:36:29.481740Z
-18671
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31533
-
 nopack.meta
 file
 
@@ -1867,6 +1833,40 @@ xujing
 
 
 88
+
+ddz_poker.plist.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+c3968b0cecd84787d88b564d171caf66
+2018-05-02T09:36:29.481740Z
+18671
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31533
 
 dizhu_table_chuntian.plist.meta
 file
@@ -1902,17 +1902,17 @@ xujing
 
 4181
 
-ddz_guide.png.meta
+interactive_emo1.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-d7a95fbee00b32a2f2cfe4f807eb7eea
-2018-06-28T02:47:23.366834Z
-20164
-liaotao
+76c24cd5900a3fa8923ca3f8d8089da8
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -1934,41 +1934,7 @@ liaotao
 
 
 
-685
-
-ddz_poker.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-a4809649be993450179c306515997072
-2018-05-16T07:05:23.647999Z
-19393
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
+691
 
 dizhu_table_chuntian.png
 file
@@ -2004,17 +1970,17 @@ has-props
 
 48006
 
-interactive_emo1.png.meta
+ddz_poker.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-76c24cd5900a3fa8923ca3f8d8089da8
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+a4809649be993450179c306515997072
+2018-05-16T07:05:23.647999Z
+19393
+zhangman
 
 
 
@@ -2036,20 +2002,19 @@ xujing
 
 
 
-691
+88
 
-ddz_table_ui.png
+ddz_guide.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-b8d54b3c5ab253262d1273cd02f8944b
-2018-06-05T01:51:07.308212Z
-19821
+d7a95fbee00b32a2f2cfe4f807eb7eea
+2018-06-28T02:47:23.366834Z
+20164
 liaotao
-has-props
 
 
 
@@ -2070,7 +2035,8 @@ has-props
 
 
 
-117044
+
+685
 
 ddz_tx_map.plist.meta
 file
@@ -2105,6 +2071,40 @@ liaotao
 
 
 12622
+
+ddz_table_ui.png
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+b8d54b3c5ab253262d1273cd02f8944b
+2018-06-05T01:51:07.308212Z
+19821
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+117044
 
 ddz_withdraw.plist.meta
 file

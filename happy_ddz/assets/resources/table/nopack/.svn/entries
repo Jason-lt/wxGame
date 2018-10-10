@@ -1,7 +1,7 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/resources/table/nopack
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -332,40 +332,6 @@ liaotao
 
 692
 
-new_bg.jpg.meta
-file
-
-
-
-
-2018-09-06T18:45:17.000000Z
-69c46ee841127f32b84cbde8879d9989
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-681
-
 ddz_welfare_weilingqu_bg.png
 file
 
@@ -399,6 +365,40 @@ has-props
 
 
 597
+
+new_bg.jpg.meta
+file
+
+
+
+
+2018-09-06T18:45:17.000000Z
+69c46ee841127f32b84cbde8879d9989
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+681
 
 ddz_welfare_help.png.meta
 file
@@ -1114,40 +1114,6 @@ liaotao
 
 688
 
-ddz_main_bottom_bg.png.meta
-file
-
-
-
-
-2018-09-06T17:54:05.000000Z
-5c15b48f30ce03373fbb848f6314b6eb
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-689
-
 ddz_roomlist_bg.png.meta
 file
 
@@ -1181,6 +1147,40 @@ liaotao
 
 
 692
+
+ddz_main_bottom_bg.png.meta
+file
+
+
+
+
+2018-09-06T17:54:05.000000Z
+5c15b48f30ce03373fbb848f6314b6eb
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+689
 
 ddz_welfare_weilingqu_bg.png.meta
 file
@@ -1318,40 +1318,6 @@ has-props
 
 5502
 
-ddz_avatar_default.png
-file
-
-
-
-
-2018-09-06T17:31:37.000000Z
-213b013c2ff980e9f9ae4758c5d3f1a7
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1540
-
 ddz_welfare_icon.png.meta
 file
 
@@ -1385,6 +1351,40 @@ liaotao
 
 
 685
+
+ddz_avatar_default.png
+file
+
+
+
+
+2018-09-06T17:31:37.000000Z
+213b013c2ff980e9f9ae4758c5d3f1a7
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1540
 
 ddz_tasks_di.png.meta
 file
@@ -1488,40 +1488,6 @@ liaotao
 
 687
 
-ddz_hongbao_bj8_1.png
-file
-
-
-
-
-2018-09-06T17:31:37.000000Z
-8ca3c48b50a66c24a21b17693b4bc732
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3320
-
 ddz_hongbao_bj3.png.meta
 file
 
@@ -1556,17 +1522,18 @@ liaotao
 
 688
 
-ddz_hongbao_bj7.png.meta
+ddz_hongbao_bj8_1.png
 file
 
 
 
 
-2018-09-06T17:54:05.000000Z
-44c981c90af4a8ce1e3eef4fb467f0c0
+2018-09-06T17:31:37.000000Z
+8ca3c48b50a66c24a21b17693b4bc732
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
+has-props
 
 
 
@@ -1587,8 +1554,7 @@ liaotao
 
 
 
-
-688
+3320
 
 ddz_main_coin_bg.png
 file
@@ -1624,6 +1590,40 @@ has-props
 
 444
 
+ddz_hongbao_bj7.png.meta
+file
+
+
+
+
+2018-09-06T17:54:05.000000Z
+44c981c90af4a8ce1e3eef4fb467f0c0
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+688
+
 ddz_hongbao_bj1.png
 file
 
@@ -1658,40 +1658,6 @@ has-props
 
 562
 
-ddz_hongbao_bj2.png
-file
-
-
-
-
-2018-09-06T17:31:37.000000Z
-ad385aa48ee9da8e8d745a61111f9a9d
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3554
-
 ddz_welfare_small_bg.png.meta
 file
 
@@ -1725,6 +1691,40 @@ liaotao
 
 
 693
+
+ddz_hongbao_bj2.png
+file
+
+
+
+
+2018-09-06T17:31:37.000000Z
+ad385aa48ee9da8e8d745a61111f9a9d
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3554
 
 ddz_hongbao_bj3.png
 file
@@ -1896,40 +1896,6 @@ has-props
 
 3696
 
-ddz_hongbao_bj8.png
-file
-
-
-
-
-2018-09-06T17:31:37.000000Z
-297bf6c9a18930c18784fb1e7d9045e2
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3280
-
 ddz_hongbao_bj12.png.meta
 file
 
@@ -1964,14 +1930,14 @@ liaotao
 
 689
 
-ddz_hongbao_bj9.png
+ddz_hongbao_bj8.png
 file
 
 
 
 
 2018-09-06T17:31:37.000000Z
-b85946feec78d459004ea86545c19807
+297bf6c9a18930c18784fb1e7d9045e2
 2018-09-11T02:53:03.413843Z
 20909
 liaotao
@@ -1996,7 +1962,7 @@ has-props
 
 
 
-115
+3280
 
 ddz_playmode_line.png
 file
@@ -2031,6 +1997,40 @@ has-props
 
 
 574
+
+ddz_hongbao_bj9.png
+file
+
+
+
+
+2018-09-06T17:31:37.000000Z
+b85946feec78d459004ea86545c19807
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+115
 
 ddz_hongbao_bj8_1.png.meta
 file
@@ -2100,40 +2100,6 @@ has-props
 
 11169
 
-ddz_hongbao_bj10.png
-file
-
-
-
-
-2018-09-06T17:31:37.000000Z
-7fa79153f70f0af16299380140244576
-2018-09-11T02:53:03.413843Z
-20909
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2403
-
 ddz_main_coin_bg.png.meta
 file
 
@@ -2167,6 +2133,40 @@ liaotao
 
 
 687
+
+ddz_hongbao_bj10.png
+file
+
+
+
+
+2018-09-06T17:31:37.000000Z
+7fa79153f70f0af16299380140244576
+2018-09-11T02:53:03.413843Z
+20909
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2403
 
 ddz_hongbao_bj11.png
 file

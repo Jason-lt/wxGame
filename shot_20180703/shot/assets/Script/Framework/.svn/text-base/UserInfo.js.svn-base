@@ -22,6 +22,7 @@ ty.UserInfo = {
     onShowParam : null,
 
     featureInfo : null,
+    //TODO:TEST
     isInBSGS:true, //是否在北上广深
     ip:'',
 

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/imageRes/shot_scene_ui
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/imageRes/shot_scene_ui
 END
 shot_begin_rank.png
 K 25
@@ -21,6 +21,12 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20219/h5/shot_20180703/imageRes/shot_scene_ui/shot_rank_bg.png
 END
+shot_common_btn_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/imageRes/shot_scene_ui/shot_common_btn_bg.png
+END
 shot_begin_guang.png
 K 25
 svn:wc:ra_dav:version-url
@@ -38,12 +44,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 90
 /newsvn/hall-js/!svn/ver/20264/h5/shot_20180703/imageRes/shot_scene_ui/shot_cong_guang.png
-END
-shot_gift_invite.png
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/newsvn/hall-js/!svn/ver/20204/h5/shot_20180703/imageRes/shot_scene_ui/shot_gift_invite.png
 END
 main_toast_bg.png
 K 25

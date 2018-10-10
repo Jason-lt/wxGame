@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_motongpisui",
+    "texture": "f317b27e-c61e-4dd9-a466-7ac3bb2097b5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      482,
+      634
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      486,
+      641
+    ]
+  }
+}

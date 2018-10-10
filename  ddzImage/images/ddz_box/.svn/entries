@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/%20ddzImage/images/ddz_box
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -638,14 +638,14 @@ has-props
 
 1159
 
-ddz_welfare_icon.png
+ddz_welfare_white_bg.png
 file
 
 
 
 
 2018-09-11T17:40:14.000000Z
-adb99b9cfb9dfbd3b5f0314397f5d075
+800a109e69509b91854c1b586c727380
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -670,75 +670,7 @@ has-props
 
 
 
-5583
-
-ddz_welfare_i.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-79bc0666333991510e70c5371d650738
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-793
-
-ddz_welfare_help.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-9a126ae0f46b76cc932c4bfb6d2e766f
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-685
+12177
 
 ddz_welfare_box.png
 file
@@ -774,14 +706,14 @@ has-props
 
 51908
 
-ddz_welfare_white_bg.png
+ddz_welfare_help.png
 file
 
 
 
 
 2018-09-11T17:40:14.000000Z
-800a109e69509b91854c1b586c727380
+9a126ae0f46b76cc932c4bfb6d2e766f
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -806,7 +738,75 @@ has-props
 
 
 
-12177
+685
+
+ddz_welfare_i.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+79bc0666333991510e70c5371d650738
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+793
+
+ddz_welfare_icon.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+adb99b9cfb9dfbd3b5f0314397f5d075
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5583
 
 ddz_welfare_shipin.png
 file
@@ -842,40 +842,6 @@ has-props
 
 3124
 
-ddz_welfare_box_bg.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-2c7e078940eab144aa0c6267871b405b
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1957
-
 ddz_diamond_red.png
 file
 
@@ -909,6 +875,40 @@ has-props
 
 
 1959
+
+ddz_welfare_box_bg.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+2c7e078940eab144aa0c6267871b405b
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1957
 
 ddz__box_bronze.png
 file
@@ -978,40 +978,6 @@ has-props
 
 41479
 
-ddz_result_bet.png
-file
-
-
-
-
-2018-09-11T17:40:14.000000Z
-875697d9b75fe49a480409cb615ee9b9
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3250
-
 ddz_welfare_title_3.png
 file
 
@@ -1045,6 +1011,40 @@ has-props
 
 
 9178
+
+ddz_result_bet.png
+file
+
+
+
+
+2018-09-11T17:40:14.000000Z
+875697d9b75fe49a480409cb615ee9b9
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3250
 
 ddz_welfare_icon_di.png
 file

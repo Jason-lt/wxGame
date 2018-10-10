@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.12_20180425/assets/Prefabs/windows/windowsSub
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ liaotao
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-ddz_cell_gameDetail.prefab.meta
-file
-
-
-
-
-2018-09-11T17:43:09.000000Z
-f87a86f219c7d546e1b0b2c15a5c8ae3
-2018-04-13T13:19:50.301562Z
-17844
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
 
 ddz_resultTitle.prefab
 file
@@ -93,6 +59,40 @@ yuhongbin
 
 
 24474
+
+ddz_cell_gameDetail.prefab.meta
+file
+
+
+
+
+2018-09-11T17:43:09.000000Z
+f87a86f219c7d546e1b0b2c15a5c8ae3
+2018-04-13T13:19:50.301562Z
+17844
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 ddz_tableView.prefab
 file
@@ -332,17 +332,17 @@ liaotao
 
 17301
 
-ddz_notify_cell.prefab.meta
+ddz_buttonList.prefab.meta
 file
 
 
 
 
 2018-09-11T17:43:09.000000Z
-91faf448c2dde5eddde412c49cec8cbc
-2018-04-16T11:00:29.150532Z
-17957
-liaotao
+9b7512cf8a81157c4c3c871975c0c083
+2018-04-13T13:19:50.301562Z
+17844
+zhangman
 
 
 
@@ -366,17 +366,17 @@ liaotao
 
 116
 
-ddz_buttonList.prefab.meta
+ddz_notify_cell.prefab.meta
 file
 
 
 
 
 2018-09-11T17:43:09.000000Z
-9b7512cf8a81157c4c3c871975c0c083
-2018-04-13T13:19:50.301562Z
-17844
-zhangman
+91faf448c2dde5eddde412c49cec8cbc
+2018-04-16T11:00:29.150532Z
+17957
+liaotao
 
 
 

@@ -102,11 +102,11 @@ hall.hallNetWorkCenter = {
         // };
         //TODO:TEST
         // hall.LOGE("===val.retmsg=====","====val.retmsg==="+JSON.stringify(val.retmsg));
-        ty.UserInfo.isInBSGS = true;
-        if(debugMode){
-            ty.UserInfo.isInBSGS = !debugMode;
-            // return;
-        }
+        // ty.UserInfo.isInBSGS = true;
+        // if(debugMode){
+        //     ty.UserInfo.isInBSGS = !debugMode;
+        //     // return;
+        // }
         if (!val.retmsg) {
             return;
         }
@@ -170,6 +170,15 @@ hall.hallNetWorkCenter = {
         // ty.NotificationCenter.trigger(shot.EventType.REPLAY_BG_MUSIC);
 
         if(shot.Share.isOnShare){
+            shot.onShowSuccess = true;
+            var date = hall.GlobalFuncs.ReadStringFromLocalStorage(shot.gameModel.ONHIDE_DATE);
+            var date2 = new Date().getTime();
+            var timeGap = date2-date;
+            if(shot.gameModel.shareRec){
+                shot.gameModel.shareTimeEnough = timeGap > shot.GameWorld.toolUserTimeConfig.shareRecTime;
+            }else {
+                shot.gameModel.shareTimeEnough = true;
+            }
             shot.Share.playAnimationAfterShareWithType();
         }else {
             if(scene == 1038 && hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 3 &&
@@ -202,6 +211,7 @@ hall.hallNetWorkCenter = {
             }
         }
         shot.Share.isOnShare = false;
+
         //
         // if (ty.SystemInfo.shareTicket &&  ty.SystemInfo.shareTicket != ""){
         //     var shareTicket = ty.SystemInfo.shareTicket;

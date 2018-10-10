@@ -20,6 +20,17 @@ cc.Class({
             default : null,
             type : cc.Label
         },
+
+        checkNode : {
+            default : null,
+            type : cc.Node
+        },
+        noCheckNode : {
+            default : null,
+            type : cc.Node
+        },
+
+
         rankTexture : cc.Texture2D,
         rankSpriteFrame : cc.SpriteFrame,
         rankSprite : cc.Sprite,
@@ -34,6 +45,7 @@ cc.Class({
 
     },
     onBackButton : function () {
+        shot.GlobalFuncs.hideAdBtnWithTag(5004,true);
         this.shotButton.node.stopAllActions();
         var sceneName = 'shot_begin';
         var onLaunched = function () {
@@ -53,10 +65,15 @@ cc.Class({
         // shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeScore);
     },
     playAgain : function () {
+        shot.GlobalFuncs.hideAdBtnWithTag(5004,true);
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["playAgain"]);
         ty.NotificationCenter.trigger(shot.EventType.GAME_START,"start");
         this.shotButton.node.stopAllActions();
         this.node.destroy();
+    },
+    moreGame : function () {
+        ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["moreGame"]);
+        hall.adManager.adNodeObj.clickAdIconResult();
     },
 
     // LIFE-CYCLE CALLBACKS:
@@ -77,11 +94,18 @@ cc.Class({
         this.bestScoreLabel.string = "本周最佳:"+shot.Share.shareKeywordReplace.bestScoreForSelf ;
 
         this.setRankInfo();
-        shot.GlobalFuncs.showAdBtnWithTag(5004,"gameover");
 
-        var count = hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_COUNT_TODAY,0);
-        count ++;
-        hall.GlobalFuncs.setInLocalStorage(shot.gameModel.OPEN_ADBTN_COUNT_TODAY,count);
+        if(shot.gameModel.getAllCheckConfig()){
+            this.noCheckNode.active = true;
+            this.checkNode.active = false;
+        }else {
+            this.noCheckNode.active = false;
+            this.checkNode.active = true;
+        }
+
+        // var count = hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_COUNT_TODAY,0);
+        // count ++;
+        // hall.GlobalFuncs.setInLocalStorage(shot.gameModel.OPEN_ADBTN_COUNT_TODAY,count);
     },
 
     setRankInfo : function () {
@@ -112,7 +136,7 @@ cc.Class({
     },
 
     onDestroy:function(){
-        shot.GlobalFuncs.hideAdBtnWithTag(5004,false);
+
         ty.NotificationCenter.ignoreScope(this);
         this.unscheduleAllCallbacks();
     }

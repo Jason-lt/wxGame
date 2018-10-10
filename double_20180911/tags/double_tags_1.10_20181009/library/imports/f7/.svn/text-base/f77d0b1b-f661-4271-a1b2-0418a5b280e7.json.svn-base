@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "double_weaponsDepot.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "double_weaponsDepot_gong_1": {
+      "__uuid__": "a48ade4b-0b89-4f98-b18f-c62ac52531e6"
+    },
+    "double_weaponsDepot_gong_10": {
+      "__uuid__": "c1dcaa81-df72-4149-9a26-e4a744238104"
+    },
+    "double_weaponsDepot_gong_11": {
+      "__uuid__": "ea479cc5-99e9-4c85-994e-9ac8d1506523"
+    },
+    "double_weaponsDepot_gong_12": {
+      "__uuid__": "be9d05bd-47a8-4670-8843-c7dfdf4bee98"
+    },
+    "double_weaponsDepot_gong_13": {
+      "__uuid__": "3dd44975-03ae-4a3f-8137-c43ad8d01b60"
+    },
+    "double_weaponsDepot_gong_2": {
+      "__uuid__": "ed2c2ee4-1edf-401b-8c61-1a9219de7293"
+    },
+    "double_weaponsDepot_gong_3": {
+      "__uuid__": "54fb9a98-ad1b-4ed9-a31c-f992160b7d44"
+    },
+    "double_weaponsDepot_gong_4": {
+      "__uuid__": "bab72712-5c14-424d-a5fc-4937fa58bc7c"
+    },
+    "double_weaponsDepot_gong_5": {
+      "__uuid__": "abc4d2a6-60b5-4013-b2bb-99071c9e1993"
+    },
+    "double_weaponsDepot_gong_6": {
+      "__uuid__": "3c7a2cf6-19a2-4758-ace6-c520d9a21a5a"
+    },
+    "double_weaponsDepot_gong_7": {
+      "__uuid__": "cffd8431-be76-4e2f-a952-939506c8ed80"
+    },
+    "double_weaponsDepot_gong_8": {
+      "__uuid__": "1024be03-23f9-4539-a8ca-443a0a965c1f"
+    },
+    "double_weaponsDepot_gong_9": {
+      "__uuid__": "2227c678-cd13-4524-8c79-b69be73c2e8d"
+    },
+    "double_weaponsDepot_gong_icon": {
+      "__uuid__": "d98f99c8-b006-407f-8311-cd5d87b96e35"
+    },
+    "double_weaponsDepot_gun_1": {
+      "__uuid__": "8ece94cf-3050-4dd3-85e5-69800f8c1d2e"
+    },
+    "double_weaponsDepot_gun_10": {
+      "__uuid__": "22bd94ad-2801-4b7e-9de1-bd0ae9a04301"
+    },
+    "double_weaponsDepot_gun_11": {
+      "__uuid__": "5402d63b-50ad-47a9-9a71-8d3c1945f17c"
+    },
+    "double_weaponsDepot_gun_12": {
+      "__uuid__": "fb22e083-83dd-42e2-be0e-ca6b191ded3a"
+    },
+    "double_weaponsDepot_gun_13": {
+      "__uuid__": "1057c3f8-3e2e-49f0-96eb-a48d80b5837c"
+    },
+    "double_weaponsDepot_gun_14": {
+      "__uuid__": "0d0a7d5c-b7b3-41cf-b76e-cc2d4d539002"
+    },
+    "double_weaponsDepot_gun_2": {
+      "__uuid__": "2b107197-6815-47e3-99bd-a1dc17bc9fe5"
+    },
+    "double_weaponsDepot_gun_3": {
+      "__uuid__": "e4607045-aca4-46ab-b037-504ed0c00669"
+    },
+    "double_weaponsDepot_gun_4": {
+      "__uuid__": "da2f1d7c-2aa8-4a2f-a142-3308753390a3"
+    },
+    "double_weaponsDepot_gun_5": {
+      "__uuid__": "3eb4d1ca-490f-4f8c-8ced-c3b9a7f4c4c1"
+    },
+    "double_weaponsDepot_gun_6": {
+      "__uuid__": "5fcd84f6-4bc9-4841-8a6e-8bc3d5aae7b8"
+    },
+    "double_weaponsDepot_gun_7": {
+      "__uuid__": "8342fea8-e528-4e5d-95ea-4b704bc32c53"
+    },
+    "double_weaponsDepot_gun_8": {
+      "__uuid__": "b493329c-0dbe-4f64-90be-d7f32f4d2a48"
+    },
+    "double_weaponsDepot_gun_9": {
+      "__uuid__": "4cdf2616-8daf-4c25-9eb2-6d456a1ebfad"
+    },
+    "double_weaponsDepot_gun_icon": {
+      "__uuid__": "41dc15b2-4972-47d0-aab5-1a74a4713f68"
+    }
+  }
+}

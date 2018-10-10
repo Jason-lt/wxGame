@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/tags/jump_tags_1.5_20180621/assets/resources/prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,6 +25,40 @@ zhangman
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
+
+debugNode.prefab.meta
+file
+
+
+
+
+2018-09-11T17:41:03.000000Z
+5f90e2bfbb09e87e4b8757898a4c8af4
+2018-06-13T11:10:49.158990Z
+19971
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 jump_rank_list.prefab
 file
@@ -60,16 +94,16 @@ zhangman
 
 43487
 
-debugNode.prefab.meta
+main_toast.prefab.meta
 file
 
 
 
 
 2018-09-11T17:41:03.000000Z
-5f90e2bfbb09e87e4b8757898a4c8af4
-2018-06-13T11:10:49.158990Z
-19971
+6a315863f3c7da80ec0567b7d26f0d33
+2018-06-12T03:51:33.694041Z
+19919
 zhangman
 
 
@@ -127,40 +161,6 @@ zhangman
 
 
 15141
-
-main_toast.prefab.meta
-file
-
-
-
-
-2018-09-11T17:41:03.000000Z
-6a315863f3c7da80ec0567b7d26f0d33
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
 
 jump_toast_tips.prefab
 file
@@ -366,40 +366,6 @@ zhangman
 
 116
 
-jump_result.prefab.meta
-file
-
-
-
-
-2018-09-11T17:41:03.000000Z
-ad0dcdc670e3d86181d861b60bb099f0
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
 main_toast.prefab
 file
 
@@ -433,6 +399,40 @@ zhangman
 
 
 16530
+
+jump_result.prefab.meta
+file
+
+
+
+
+2018-09-11T17:41:03.000000Z
+ad0dcdc670e3d86181d861b60bb099f0
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 jump_window_result.prefab
 file
@@ -468,16 +468,16 @@ zhangman
 
 53894
 
-countDown.prefab.meta
+jump_shareResurgence.prefab.meta
 file
 
 
 
 
 2018-09-11T17:41:03.000000Z
-58ecea252d11d284d2cdd020d3ab40f0
-2018-06-12T03:51:33.694041Z
-19919
+35e76e719ee986d42dbf665e8d7259ff
+2018-06-14T16:59:44.409685Z
+20002
 zhangman
 
 
@@ -502,16 +502,16 @@ zhangman
 
 116
 
-jump_shareResurgence.prefab.meta
+countDown.prefab.meta
 file
 
 
 
 
 2018-09-11T17:41:03.000000Z
-35e76e719ee986d42dbf665e8d7259ff
-2018-06-14T16:59:44.409685Z
-20002
+58ecea252d11d284d2cdd020d3ab40f0
+2018-06-12T03:51:33.694041Z
+19919
 zhangman
 
 

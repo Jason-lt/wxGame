@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component
+/newsvn/hall-js/!svn/ver/21025/h5/happy_ddz/assets/Script/ComponentScript/component
 END
 personalAssets.js
 K 25
@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/21009/h5/happy_ddz/assets/Script/ComponentScript/component/personalAssets.js
 END
-ddz_getRewardHistory.js
-K 25
-svn:wc:ra_dav:version-url
-V 107
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_getRewardHistory.js
-END
 MatchRankProgressScript.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 115
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/MatchRankProgressScript.js.meta
+END
+ddz_getRewardHistory.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_getRewardHistory.js
 END
 ddz_cell_roomlist.js
 K 25
@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 104
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_cell_roomlist.js
 END
-ddz_icon_newer_gifts.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 112
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_icon_newer_gifts.js.meta
-END
 ddz_rewardCell.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 106
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_rewardCell.js.meta
+END
+ddz_icon_newer_gifts.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_icon_newer_gifts.js.meta
 END
 ddz_banner_close.js.meta
 K 25
@@ -51,23 +51,17 @@ svn:wc:ra_dav:version-url
 V 103
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/DdzMatching.js.meta
 END
-ControlPanel.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 104
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ControlPanel.js.meta
-END
 ddz_rewardDetail_small.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 114
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_rewardDetail_small.js.meta
 END
-ProgressBarSub.js.meta
+ControlPanel.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ProgressBarSub.js.meta
+V 104
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ControlPanel.js.meta
 END
 ddz_redPacket.js.meta
 K 25
@@ -75,23 +69,29 @@ svn:wc:ra_dav:version-url
 V 105
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_redPacket.js.meta
 END
+ProgressBarSub.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ProgressBarSub.js.meta
+END
 DdzMatching.js
 K 25
 svn:wc:ra_dav:version-url
 V 98
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/DdzMatching.js
 END
-ddz_zuanShiAni.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_zuanShiAni.js.meta
-END
 personalInfo.js
 K 25
 svn:wc:ra_dav:version-url
 V 99
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/personalInfo.js
+END
+ddz_zuanShiAni.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_zuanShiAni.js.meta
 END
 ControlPanel.js
 K 25
@@ -183,17 +183,17 @@ svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_bubble_tips.js.meta
 END
-ddz_gameDetail_cell.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_gameDetail_cell.js.meta
-END
 enter_queue.js
 K 25
 svn:wc:ra_dav:version-url
 V 98
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/enter_queue.js
+END
+ddz_gameDetail_cell.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_gameDetail_cell.js.meta
 END
 boxTipsNode.js.meta
 K 25
@@ -207,17 +207,17 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_item_shareMoments.js
 END
-ddz_cell_match_reward.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 113
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_cell_match_reward.js.meta
-END
 ddz_cell_mall.js
 K 25
 svn:wc:ra_dav:version-url
 V 100
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_cell_mall.js
+END
+ddz_cell_match_reward.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_cell_match_reward.js.meta
 END
 ddz_cell_matchlist.js
 K 25
@@ -225,23 +225,17 @@ svn:wc:ra_dav:version-url
 V 105
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_cell_matchlist.js
 END
-ddz_progress.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 104
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_progress.js.meta
-END
 ddz_toast_cell.js
 K 25
 svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_toast_cell.js
 END
-ddz_banner_close.js
+ddz_progress.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 103
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_banner_close.js
+V 104
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_progress.js.meta
 END
 personalAssets.js.meta
 K 25
@@ -249,23 +243,29 @@ svn:wc:ra_dav:version-url
 V 106
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/personalAssets.js.meta
 END
+ddz_banner_close.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_banner_close.js
+END
 ddz_gameDetail_cell.js
 K 25
 svn:wc:ra_dav:version-url
 V 106
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_gameDetail_cell.js
 END
-ddz_buttonList.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_buttonList.js.meta
-END
 ddz_notify_cell.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_notify_cell.js.meta
+END
+ddz_buttonList.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_buttonList.js.meta
 END
 Card.js.meta
 K 25
@@ -279,23 +279,17 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_cell_match_reward.js
 END
-ProgressBarSub.js
-K 25
-svn:wc:ra_dav:version-url
-V 101
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ProgressBarSub.js
-END
 ddz_redPacket.js
 K 25
 svn:wc:ra_dav:version-url
 V 100
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_redPacket.js
 END
-ddz_item_createRoom.js.meta
+ProgressBarSub.js
 K 25
 svn:wc:ra_dav:version-url
-V 111
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_item_createRoom.js.meta
+V 101
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ProgressBarSub.js
 END
 videoIcon.js.meta
 K 25
@@ -303,11 +297,11 @@ svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/videoIcon.js.meta
 END
-ddz_tipswindow_createRoom_item.js
+ddz_item_createRoom.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 117
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_tipswindow_createRoom_item.js
+V 111
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_item_createRoom.js.meta
 END
 enter_queue.js.meta
 K 25
@@ -315,17 +309,11 @@ svn:wc:ra_dav:version-url
 V 103
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/enter_queue.js.meta
 END
-ddz_notify_cell.js
+ddz_tipswindow_createRoom_item.js
 K 25
 svn:wc:ra_dav:version-url
-V 102
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_notify_cell.js
-END
-ddz_buttonList.js
-K 25
-svn:wc:ra_dav:version-url
-V 101
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_buttonList.js
+V 117
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_tipswindow_createRoom_item.js
 END
 ddz_tableView.js.meta
 K 25
@@ -333,23 +321,23 @@ svn:wc:ra_dav:version-url
 V 105
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_tableView.js.meta
 END
+ddz_buttonList.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_buttonList.js
+END
+ddz_notify_cell.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_notify_cell.js
+END
 ddz_cell_mall.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 105
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_cell_mall.js.meta
-END
-ColorBg.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ColorBg.js.meta
-END
-ddz_item_tipsWindow_buttonNode.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 122
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_item_tipsWindow_buttonNode.js.meta
 END
 ddz_item_ft_chat.js.meta
 K 25
@@ -357,17 +345,29 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_item_ft_chat.js.meta
 END
-ddz_resultTitle.js
+ddz_item_tipsWindow_buttonNode.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 102
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_resultTitle.js
+V 122
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_item_tipsWindow_buttonNode.js.meta
+END
+ColorBg.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ColorBg.js.meta
 END
 box_up.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 98
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/box_up.js.meta
+END
+ddz_resultTitle.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ComponentScript/component/ddz_resultTitle.js
 END
 MatchRankProgressScript.js
 K 25

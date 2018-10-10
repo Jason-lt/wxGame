@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tu-weixin-game/assets/Script/hall/utils
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-11T02:09:07.948164Z
-20908
+2018-09-28T08:13:12.035609Z
+21027
 liaotao
 
 
@@ -196,17 +196,17 @@ has-props
 
 15955
 
-MsgBoxManager.js.meta
+sxAdManager.js.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-32e238fe37454c8cc55c132a20c67ea3
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+5bac960b41c7786c8a8aa5619e195dee
+2018-09-06T02:03:27.018688Z
+20884
+liaotao
 
 
 
@@ -232,7 +232,7 @@ xujing
 
 AdManager.js
 file
-21027
+
 
 
 
@@ -264,17 +264,17 @@ liaotao
 
 28959
 
-sxAdManager.js.meta
+MsgBoxManager.js.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-5bac960b41c7786c8a8aa5619e195dee
-2018-09-06T02:03:27.018688Z
-20884
-liaotao
+32e238fe37454c8cc55c132a20c67ea3
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -366,6 +366,40 @@ liaotao
 
 197
 
+sxAdManager.js
+file
+
+
+
+
+2018-09-21T01:36:12.000000Z
+2bf638130c7ff8431e25a01f19b64044
+2018-09-28T08:13:12.035609Z
+21027
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15397
+
 MsgBoxManager.js
 file
 
@@ -399,40 +433,6 @@ liaotao
 
 
 823
-
-sxAdManager.js
-file
-21027
-
-
-
-2018-09-21T01:36:12.000000Z
-2bf638130c7ff8431e25a01f19b64044
-2018-09-28T08:13:12.035609Z
-21027
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15397
 
 LoginBtnManager.js.meta
 file

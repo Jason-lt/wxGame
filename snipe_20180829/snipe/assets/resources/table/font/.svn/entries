@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/snipe/assets/resources/table/font
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ zhangman
 
 688
 
-big_score.fnt
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-d7b2aa01c433e953deb9f513986abb43
-2018-08-31T08:42:58.018164Z
-20833
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1481
-
 xinxi.png
 file
 
@@ -162,16 +128,16 @@ has-props
 
 29236
 
-shot_main_score.png.meta
+big_score.fnt
 file
 
 
 
 
 2018-09-11T17:40:35.000000Z
-558f57746602ec7ece67799063c1bb71
-2018-08-30T07:54:54.216802Z
-20828
+d7b2aa01c433e953deb9f513986abb43
+2018-08-31T08:42:58.018164Z
+20833
 zhangman
 
 
@@ -194,7 +160,7 @@ zhangman
 
 
 
-694
+1481
 
 shijiandao.fnt.meta
 file
@@ -230,6 +196,40 @@ zhangman
 
 163
 
+shot_main_score.png.meta
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+558f57746602ec7ece67799063c1bb71
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+694
+
 xinxi.fnt
 file
 
@@ -263,40 +263,6 @@ has-props
 
 
 6471
-
-shot_main_score.fnt.meta
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-c038e01f17f484db59cc9131c84ff630
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-163
 
 doubleHit.png.meta
 file
@@ -332,6 +298,40 @@ zhangman
 
 687
 
+shot_main_score.fnt.meta
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+c038e01f17f484db59cc9131c84ff630
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+163
+
 doubleHit.fnt.meta
 file
 
@@ -365,40 +365,6 @@ zhangman
 
 
 163
-
-shijiandao.png
-file
-
-
-
-
-2018-09-11T17:40:35.000000Z
-ad1d10059bb21e4026699e384d7c88a5
-2018-08-31T08:42:58.018164Z
-20833
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13330
 
 shot_main_score_normal.png.meta
 file
@@ -434,16 +400,16 @@ zhangman
 
 700
 
-shot_main_score.png
+shijiandao.png
 file
 
 
 
 
 2018-09-11T17:40:35.000000Z
-8969ab67f7df016d417cb158244c8efa
-2018-08-30T07:54:54.216802Z
-20828
+ad1d10059bb21e4026699e384d7c88a5
+2018-08-31T08:42:58.018164Z
+20833
 zhangman
 has-props
 
@@ -466,7 +432,41 @@ has-props
 
 
 
-3132
+13330
+
+shot_main_score_normal.fnt.meta
+file
+
+
+
+
+2018-09-11T17:40:35.000000Z
+b00cae3362e96370e621e3f517d109b3
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+163
 
 shijiandao.fnt
 file
@@ -502,17 +502,18 @@ has-props
 
 2298
 
-shot_main_score_normal.fnt.meta
+shot_main_score.png
 file
 
 
 
 
 2018-09-11T17:40:35.000000Z
-b00cae3362e96370e621e3f517d109b3
+8969ab67f7df016d417cb158244c8efa
 2018-08-30T07:54:54.216802Z
 20828
 zhangman
+has-props
 
 
 
@@ -533,8 +534,7 @@ zhangman
 
 
 
-
-163
+3132
 
 shot_main_score.fnt
 file

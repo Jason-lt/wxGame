@@ -1,0 +1,309 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dead_2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "posui/pingzi_03_posui02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -11,
+                67
+              ],
+              "motionPath": [
+                [
+                  -75,
+                  113,
+                  -52,
+                  49,
+                  -112,
+                  219
+                ]
+              ]
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": [
+                -139,
+                430
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 888
+            }
+          ]
+        }
+      },
+      "posui/pingzi_03_posui03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                2,
+                68
+              ],
+              "motionPath": [
+                [
+                  68,
+                  93,
+                  40,
+                  49,
+                  119,
+                  176
+                ]
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                176,
+                347
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -665
+            }
+          ]
+        }
+      },
+      "posui/pingzi_03_posui04": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -10.5,
+                50.8
+              ]
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": [
+                -54,
+                405
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 767
+            }
+          ]
+        }
+      },
+      "posui/pingzi_03_posui05": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": -980
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                8,
+                43.4
+              ]
+            },
+            {
+              "frame": 0.8,
+              "value": [
+                97,
+                408
+              ]
+            }
+          ]
+        }
+      },
+      "posui/particlesystem": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 200
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "posui/pingzi_03_posui01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "posui/pingzi_03_posui06": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "posui/pingzi_03_posui09": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "posui/pingzi_03_posui08": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "posui/pingzi_03_posui07": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "posui/chongjibo_166": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiang jiao 01",
+    "texture": "c8iIy/cgJPWK7SaZsC3I5O",
+    "rect": [
+      0,
+      0,
+      118,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      72
+    ]
+  }
+}

@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/prefabs
-END
-enter_queue.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20099/h5/tu-weixin-game/assets/resources/prefabs/enter_queue.prefab
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/prefabs
 END
 gameTasks_small.anim.meta
 K 25
@@ -15,17 +9,23 @@ svn:wc:ra_dav:version-url
 V 99
 /newsvn/hall-js/!svn/ver/18752/h5/tu-weixin-game/assets/resources/prefabs/gameTasks_small.anim.meta
 END
-ddz_window_gameDetail.prefab
+enter_queue.prefab
 K 25
 svn:wc:ra_dav:version-url
-V 102
-/newsvn/hall-js/!svn/ver/19940/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_gameDetail.prefab
+V 92
+/newsvn/hall-js/!svn/ver/20099/h5/tu-weixin-game/assets/resources/prefabs/enter_queue.prefab
 END
 ddz_item_shareMoments.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 102
 /newsvn/hall-js/!svn/ver/19483/h5/tu-weixin-game/assets/resources/prefabs/ddz_item_shareMoments.prefab
+END
+ddz_window_gameDetail.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/newsvn/hall-js/!svn/ver/19940/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_gameDetail.prefab
 END
 throughNode.prefab
 K 25
@@ -63,17 +63,17 @@ svn:wc:ra_dav:version-url
 V 100
 /newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/prefabs/ddz_reward_ani.prefab.meta
 END
-treasure_box.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/prefabs/treasure_box.prefab
-END
 matchNode.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 90
 /newsvn/hall-js/!svn/ver/20421/h5/tu-weixin-game/assets/resources/prefabs/matchNode.prefab
+END
+treasure_box.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/resources/prefabs/treasure_box.prefab
 END
 userChat.prefab.meta
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 94
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/prefabs/userChat.prefab.meta
 END
-lottery_win_show.anim
-K 25
-svn:wc:ra_dav:version-url
-V 95
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/prefabs/lottery_win_show.anim
-END
 collectDeskTop.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 100
 /newsvn/hall-js/!svn/ver/19064/h5/tu-weixin-game/assets/resources/prefabs/collectDeskTop.prefab.meta
+END
+lottery_win_show.anim
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/resources/prefabs/lottery_win_show.anim
 END
 gameTasks_big.anim.meta
 K 25
@@ -207,11 +207,11 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20472/h5/tu-weixin-game/assets/resources/prefabs/adNode.prefab
 END
-goldNode.prefab
+ddz_zuanshiBox.prefab
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/newsvn/hall-js/!svn/ver/20421/h5/tu-weixin-game/assets/resources/prefabs/goldNode.prefab
+V 95
+/newsvn/hall-js/!svn/ver/20190/h5/tu-weixin-game/assets/resources/prefabs/ddz_zuanshiBox.prefab
 END
 ddz_bubble_tips.prefab
 K 25
@@ -219,23 +219,11 @@ svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/20477/h5/tu-weixin-game/assets/resources/prefabs/ddz_bubble_tips.prefab
 END
-ddz_zuanshiBox.prefab
+goldNode.prefab
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/newsvn/hall-js/!svn/ver/20190/h5/tu-weixin-game/assets/resources/prefabs/ddz_zuanshiBox.prefab
-END
-officialAccountGuide.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/20398/h5/tu-weixin-game/assets/resources/prefabs/officialAccountGuide.prefab.meta
-END
-betBoxAbstract.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/newsvn/hall-js/!svn/ver/20398/h5/tu-weixin-game/assets/resources/prefabs/betBoxAbstract.prefab.meta
+V 89
+/newsvn/hall-js/!svn/ver/20421/h5/tu-weixin-game/assets/resources/prefabs/goldNode.prefab
 END
 gameTasks_small.anim
 K 25
@@ -243,23 +231,35 @@ svn:wc:ra_dav:version-url
 V 94
 /newsvn/hall-js/!svn/ver/18752/h5/tu-weixin-game/assets/resources/prefabs/gameTasks_small.anim
 END
+betBoxAbstract.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/newsvn/hall-js/!svn/ver/20398/h5/tu-weixin-game/assets/resources/prefabs/betBoxAbstract.prefab.meta
+END
+officialAccountGuide.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/hall-js/!svn/ver/20398/h5/tu-weixin-game/assets/resources/prefabs/officialAccountGuide.prefab.meta
+END
 ddz_shareReward.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/19912/h5/tu-weixin-game/assets/resources/prefabs/ddz_shareReward.prefab.meta
 END
-ddz_window_skip.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/newsvn/hall-js/!svn/ver/20403/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_skip.prefab
-END
 dissolveNode.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /newsvn/hall-js/!svn/ver/18003/h5/tu-weixin-game/assets/resources/prefabs/dissolveNode.prefab
+END
+ddz_window_skip.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/newsvn/hall-js/!svn/ver/20403/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_skip.prefab
 END
 huzhubaoxiang.meta
 K 25
@@ -285,17 +285,17 @@ svn:wc:ra_dav:version-url
 V 95
 /newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/resources/prefabs/ddz_reward_ani.prefab
 END
-conversionSuccess.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 98
-/newsvn/hall-js/!svn/ver/18881/h5/tu-weixin-game/assets/resources/prefabs/conversionSuccess.prefab
-END
 ddz_window_history.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 104
 /newsvn/hall-js/!svn/ver/17875/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_history.prefab.meta
+END
+conversionSuccess.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/newsvn/hall-js/!svn/ver/18881/h5/tu-weixin-game/assets/resources/prefabs/conversionSuccess.prefab
 END
 adNode.prefab.meta
 K 25
@@ -303,29 +303,29 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20467/h5/tu-weixin-game/assets/resources/prefabs/adNode.prefab.meta
 END
-ddz_window_skip.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 101
-/newsvn/hall-js/!svn/ver/20403/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_skip.prefab.meta
-END
 dissolveNode.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 98
 /newsvn/hall-js/!svn/ver/17890/h5/tu-weixin-game/assets/resources/prefabs/dissolveNode.prefab.meta
 END
-withdrawalMaintain.prefab
+ddz_window_skip.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
-V 99
-/newsvn/hall-js/!svn/ver/19428/h5/tu-weixin-game/assets/resources/prefabs/withdrawalMaintain.prefab
+V 101
+/newsvn/hall-js/!svn/ver/20403/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_skip.prefab.meta
 END
 ddz_helpBox.anim
 K 25
 svn:wc:ra_dav:version-url
 V 90
 /newsvn/hall-js/!svn/ver/19939/h5/tu-weixin-game/assets/resources/prefabs/ddz_helpBox.anim
+END
+withdrawalMaintain.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/newsvn/hall-js/!svn/ver/19428/h5/tu-weixin-game/assets/resources/prefabs/withdrawalMaintain.prefab
 END
 ddz_window_revive.prefab
 K 25
@@ -345,23 +345,11 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/18964/h5/tu-weixin-game/assets/resources/prefabs/progress.meta
 END
-ddz_multiReward.prefab
+ddz_window_save_match_result.prefab
 K 25
 svn:wc:ra_dav:version-url
-V 96
-/newsvn/hall-js/!svn/ver/20694/h5/tu-weixin-game/assets/resources/prefabs/ddz_multiReward.prefab
-END
-awad_tips_show.anim
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/newsvn/hall-js/!svn/ver/18916/h5/tu-weixin-game/assets/resources/prefabs/awad_tips_show.anim
-END
-ddz_window_match_rewards.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 110
-/newsvn/hall-js/!svn/ver/19054/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_match_rewards.prefab.meta
+V 109
+/newsvn/hall-js/!svn/ver/19452/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_save_match_result.prefab
 END
 ddz_window_revival.prefab
 K 25
@@ -369,11 +357,23 @@ svn:wc:ra_dav:version-url
 V 99
 /newsvn/hall-js/!svn/ver/19799/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_revival.prefab
 END
-ddz_window_save_match_result.prefab
+ddz_window_match_rewards.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
-V 109
-/newsvn/hall-js/!svn/ver/19452/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_save_match_result.prefab
+V 110
+/newsvn/hall-js/!svn/ver/19054/h5/tu-weixin-game/assets/resources/prefabs/ddz_window_match_rewards.prefab.meta
+END
+awad_tips_show.anim
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/newsvn/hall-js/!svn/ver/18916/h5/tu-weixin-game/assets/resources/prefabs/awad_tips_show.anim
+END
+ddz_multiReward.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/newsvn/hall-js/!svn/ver/20694/h5/tu-weixin-game/assets/resources/prefabs/ddz_multiReward.prefab
 END
 ddz_helpBox.prefab
 K 25

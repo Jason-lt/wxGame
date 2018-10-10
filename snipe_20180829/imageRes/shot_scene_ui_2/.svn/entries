@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/imageRes/shot_scene_ui_2
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,16 +94,16 @@ has-props
 
 66048
 
-shot_secretBox_box.png
+shot_secret_guang.png
 file
 
 
 
 
 2018-09-11T17:40:33.000000Z
-337856f94c4ca003d43e62cefd2a434c
-2018-09-11T01:50:55.521234Z
-20905
+a66e28ddb1a6e6d517012a943ec2046d
+2018-08-30T07:54:54.216802Z
+20828
 zhangman
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-42935
+64757
 
 shot_box_bulletType_ Gatling.png
 file
@@ -162,16 +162,16 @@ has-props
 
 71827
 
-shot_secret_guang.png
+shot_secretBox_box.png
 file
 
 
 
 
 2018-09-11T17:40:33.000000Z
-a66e28ddb1a6e6d517012a943ec2046d
-2018-08-30T07:54:54.216802Z
-20828
+337856f94c4ca003d43e62cefd2a434c
+2018-09-11T01:50:55.521234Z
+20905
 zhangman
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-64757
+42935
 
 shot_surpass_bg.png
 file
@@ -400,40 +400,6 @@ has-props
 
 36878
 
-shot_box_bulletType_M16.png
-file
-
-
-
-
-2018-09-11T17:40:33.000000Z
-53267c4dedb8cc54638997cea642c0cf
-2018-09-05T12:54:35.005672Z
-20872
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-53700
-
 shot_box_bulletType_ Barrett.png
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 70564
+
+shot_box_bulletType_M16.png
+file
+
+
+
+
+2018-09-11T17:40:33.000000Z
+53267c4dedb8cc54638997cea642c0cf
+2018-09-05T12:54:35.005672Z
+20872
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53700
 
 shot_box_bulletType__AWM1.png
 file

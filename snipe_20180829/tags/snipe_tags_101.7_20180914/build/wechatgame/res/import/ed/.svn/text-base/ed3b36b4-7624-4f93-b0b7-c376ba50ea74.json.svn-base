@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank_2",
+    "texture": "1aG3emmd9JBoEzy6nbw2+I",
+    "rect": [
+      0,
+      0,
+      79,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      54
+    ]
+  }
+}

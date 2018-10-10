@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.60_20180531/assets/resources/ani/winorlose
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ xujing
 
 3672
 
-winTitle.anim
-file
-
-
-
-
-2018-09-11T17:41:45.000000Z
-c467ea7d114389850b7d7b0280b51bdd
-2018-05-11T14:27:42.114823Z
-19209
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11121
-
 shibai.prefab.meta
 file
 
@@ -161,6 +127,40 @@ xujing
 
 
 116
+
+winTitle.anim
+file
+
+
+
+
+2018-09-11T17:41:45.000000Z
+c467ea7d114389850b7d7b0280b51bdd
+2018-05-11T14:27:42.114823Z
+19209
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11121
 
 gameFlow.prefab.meta
 file
@@ -196,40 +196,6 @@ xujing
 
 116
 
-lose.anim
-file
-
-
-
-
-2018-09-11T17:41:45.000000Z
-335a21e29e5ec70e0d35b6afaaa38843
-2018-05-11T14:24:48.020834Z
-19208
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-683
-
 winTitleAni.prefab
 file
 
@@ -263,6 +229,40 @@ yuhongbin
 
 
 40609
+
+lose.anim
+file
+
+
+
+
+2018-09-11T17:41:45.000000Z
+335a21e29e5ec70e0d35b6afaaa38843
+2018-05-11T14:24:48.020834Z
+19208
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+683
 
 loseTitle.anim
 file

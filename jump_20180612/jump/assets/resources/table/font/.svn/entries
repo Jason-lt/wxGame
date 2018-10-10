@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/jump/assets/resources/table/font
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -26,14 +26,14 @@ zhangman
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
-fenshubai.fnt.meta
+miaobianzi2.fnt.meta
 file
 
 
 
 
 2018-09-11T17:41:02.000000Z
-a8316e15a7e6014404c8a240d5d12237
+b3afc8eacb775bc90f5e079a25753c6b
 2018-06-12T03:51:33.694041Z
 19919
 zhangman
@@ -60,14 +60,14 @@ zhangman
 
 163
 
-miaobianzi2.fnt.meta
+fenshubai.fnt.meta
 file
 
 
 
 
 2018-09-11T17:41:02.000000Z
-b3afc8eacb775bc90f5e079a25753c6b
+a8316e15a7e6014404c8a240d5d12237
 2018-06-12T03:51:33.694041Z
 19919
 zhangman
@@ -128,40 +128,6 @@ zhangman
 
 683
 
-baizi.png
-file
-
-
-
-
-2018-09-11T17:41:02.000000Z
-baba9ec57bbb2ccf5257478e25840166
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10009
-
 hongzi.png
 file
 
@@ -195,6 +161,40 @@ has-props
 
 
 1409
+
+baizi.png
+file
+
+
+
+
+2018-09-11T17:41:02.000000Z
+baba9ec57bbb2ccf5257478e25840166
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10009
 
 heizi.fnt.meta
 file
@@ -230,40 +230,6 @@ zhangman
 
 163
 
-baizi.fnt
-file
-
-
-
-
-2018-09-11T17:41:02.000000Z
-a6b3c0f667a7b2f40f1337b2a1139cb0
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3140
-
 hongzi.fnt
 file
 
@@ -297,6 +263,40 @@ has-props
 
 
 677
+
+baizi.fnt
+file
+
+
+
+
+2018-09-11T17:41:02.000000Z
+a6b3c0f667a7b2f40f1337b2a1139cb0
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3140
 
 fenshuhei.png.meta
 file
@@ -332,40 +332,6 @@ zhangman
 
 687
 
-fenshubai.png
-file
-
-
-
-
-2018-09-11T17:41:02.000000Z
-c8c88d354dcf1ee82ac86d067a094d76
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2589
-
 miaobianzi2.png
 file
 
@@ -399,6 +365,40 @@ has-props
 
 
 7231
+
+fenshubai.png
+file
+
+
+
+
+2018-09-11T17:41:02.000000Z
+c8c88d354dcf1ee82ac86d067a094d76
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2589
 
 fenshuhei.fnt.meta
 file
@@ -434,14 +434,14 @@ zhangman
 
 163
 
-fenshubai.fnt
+miaobianzi2.fnt
 file
 
 
 
 
 2018-09-11T17:41:02.000000Z
-1972de78318b8bbf25882d51ce277f75
+3d051d65288808c30cace12a927d82b7
 2018-06-12T03:51:33.694041Z
 19919
 zhangman
@@ -466,7 +466,7 @@ has-props
 
 
 
-1753
+2785
 
 miaobianzi.png.meta
 file
@@ -502,14 +502,14 @@ zhangman
 
 688
 
-miaobianzi2.fnt
+fenshubai.fnt
 file
 
 
 
 
 2018-09-11T17:41:02.000000Z
-3d051d65288808c30cace12a927d82b7
+1972de78318b8bbf25882d51ce277f75
 2018-06-12T03:51:33.694041Z
 19919
 zhangman
@@ -534,7 +534,7 @@ has-props
 
 
 
-2785
+1753
 
 heizi.png
 file

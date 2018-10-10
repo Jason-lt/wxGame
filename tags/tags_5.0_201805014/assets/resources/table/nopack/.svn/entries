@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.0_201805014/assets/resources/table/nopack
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ has-props
 
 4325
 
-ddz_roomlist_scoreBg.png.meta
-file
-
-
-
-
-2018-09-11T17:43:02.000000Z
-f28dc0fcecb4df7b5069c23882ea9e74
-2018-05-05T08:22:40.315590Z
-18838
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-691
-
 ddz_tasks_di.png
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 483
+
+ddz_roomlist_scoreBg.png.meta
+file
+
+
+
+
+2018-09-11T17:43:02.000000Z
+f28dc0fcecb4df7b5069c23882ea9e74
+2018-05-05T08:22:40.315590Z
+18838
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+691
 
 ddz_main_coin_bg.png
 file
@@ -162,40 +162,6 @@ has-props
 
 634
 
-ddz_roomlist_bg.png.meta
-file
-
-
-
-
-2018-09-11T17:43:02.000000Z
-6d9ad7a8c9dd7cadb88244bd1ff5cc25
-2018-05-12T09:51:02.238389Z
-19248
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-692
-
 ddz_main_bottom_bg.png.meta
 file
 
@@ -230,16 +196,50 @@ zhangman
 
 689
 
-ddz_playmode_line.png.meta
+ddz_roomlist_bg.png.meta
 file
 
 
 
 
 2018-09-11T17:43:02.000000Z
-2735b036723b3e15ff17ef0e4a1054a6
-2018-05-09T16:11:59.654846Z
-19085
+6d9ad7a8c9dd7cadb88244bd1ff5cc25
+2018-05-12T09:51:02.238389Z
+19248
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+692
+
+ddz_yindao_shou.png.meta
+file
+
+
+
+
+2018-09-11T17:43:02.000000Z
+22e0393f3e869c3043bac2458d809ff4
+2018-05-09T10:50:04.413715Z
+19064
 liaotao
 
 
@@ -264,16 +264,16 @@ liaotao
 
 688
 
-ddz_yindao_shou.png.meta
+ddz_playmode_line.png.meta
 file
 
 
 
 
 2018-09-11T17:43:02.000000Z
-22e0393f3e869c3043bac2458d809ff4
-2018-05-09T10:50:04.413715Z
-19064
+2735b036723b3e15ff17ef0e4a1054a6
+2018-05-09T16:11:59.654846Z
+19085
 liaotao
 
 
@@ -366,40 +366,6 @@ zhangman
 
 681
 
-ddz_gameDetail_cel_number.png.meta
-file
-
-
-
-
-2018-09-11T17:43:02.000000Z
-0fc8c3cddf6b70feba52538752455bac
-2018-05-10T18:29:08.594237Z
-19154
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-694
-
 ddz_roomlist_scoreBg.png
 file
 
@@ -434,18 +400,17 @@ has-props
 
 410
 
-ddz_roomlist_bg.png
+ddz_gameDetail_cel_number.png.meta
 file
 
 
 
 
 2018-09-11T17:43:02.000000Z
-937f80079cbcd25c2743739bd6576e3d
-2018-05-05T08:22:40.315590Z
-18838
+0fc8c3cddf6b70feba52538752455bac
+2018-05-10T18:29:08.594237Z
+19154
 liaotao
-has-props
 
 
 
@@ -466,7 +431,8 @@ has-props
 
 
 
-987
+
+694
 
 ddz_main_bottom_bg.png
 file
@@ -501,6 +467,40 @@ has-props
 
 
 83
+
+ddz_roomlist_bg.png
+file
+
+
+
+
+2018-09-11T17:43:02.000000Z
+937f80079cbcd25c2743739bd6576e3d
+2018-05-05T08:22:40.315590Z
+18838
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+987
 
 ddz_yindao_shou.png
 file

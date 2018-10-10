@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gu02",
+    "texture": "c088QwnxBMz78mxt01hVxS",
+    "rect": [
+      0,
+      0,
+      81,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      95
+    ]
+  }
+}

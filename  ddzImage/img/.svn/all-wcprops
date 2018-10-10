@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img
+/newsvn/hall-js/!svn/ver/21003/h5/%20ddzImage/img
 END
 ddz_message.plist
 K 25
@@ -99,29 +99,23 @@ svn:wc:ra_dav:version-url
 V 65
 /newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_poker.plist
 END
-ddz_tx_map.png
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_tx_map.png
-END
 ddz_box.png
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_box.png
 END
-dizhu_table_chuntian.plist
+ddz_tx_map.png
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/dizhu_table_chuntian.plist
+V 64
+/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_tx_map.png
 END
-ddz_welfare_reward.png
+ddz_ranking.png
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_welfare_reward.png
+V 65
+/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_ranking.png
 END
 ddz_newRoomList.plist
 K 25
@@ -129,11 +123,17 @@ svn:wc:ra_dav:version-url
 V 71
 /newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_newRoomList.plist
 END
-ddz_ranking.png
+ddz_welfare_reward.png
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_ranking.png
+V 72
+/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_welfare_reward.png
+END
+dizhu_table_chuntian.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/dizhu_table_chuntian.plist
 END
 ddz_scene_ui.png
 K 25
@@ -153,23 +153,17 @@ svn:wc:ra_dav:version-url
 V 64
 /newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_mall.plist
 END
-ddz_table_ani_common.plist
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_table_ani_common.plist
-END
 ddz_guide.png
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_guide.png
 END
-ddz_tx_map.plist
+ddz_table_ani_common.plist
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_tx_map.plist
+V 76
+/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_table_ani_common.plist
 END
 ddz_box.plist
 K 25
@@ -177,17 +171,23 @@ svn:wc:ra_dav:version-url
 V 63
 /newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_box.plist
 END
-ddz_welfare_reward.plist
+ddz_tx_map.plist
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_welfare_reward.plist
+V 66
+/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_tx_map.plist
 END
 ddz_ranking.plist
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_ranking.plist
+END
+ddz_welfare_reward.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/newsvn/hall-js/!svn/ver/20903/h5/%20ddzImage/img/ddz_welfare_reward.plist
 END
 ddz_scene_ui_v2.png
 K 25

@@ -1,0 +1,1172 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong04",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        2,
+        280,
+        98,
+        257
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        98,
+        257
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_24",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        776,
+        230,
+        135,
+        91
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        135,
+        91
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bullet_small",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        553,
+        168,
+        43,
+        21
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        21
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong10",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        123,
+        2,
+        81,
+        240
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        81,
+        240
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian07",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        351,
+        467,
+        175,
+        25
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        175,
+        25
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian06",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        318,
+        239,
+        193,
+        28
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        193,
+        28
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian08",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        374,
+        195,
+        189,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian12",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        513,
+        239,
+        191,
+        28
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        191,
+        28
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian05",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        351,
+        269,
+        196,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        196,
+        45
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_3",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        711,
+        162,
+        126,
+        63
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        126,
+        63
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_21",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        667,
+        364,
+        92,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        92,
+        66
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong13",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        102,
+        280,
+        90,
+        250
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        90,
+        250
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_9",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        895,
+        342,
+        120,
+        87
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        120,
+        87
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian13",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        470,
+        269,
+        192,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        192,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian01",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        777,
+        86,
+        157,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        157,
+        47
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong12",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        181,
+        532,
+        96,
+        242
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        242
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "double_gun_ui.plist",
+    "_spriteFrames": {
+      "bullet_small": {
+        "__uuid__": "26y0065JlBz6SnBgw5PS+I"
+      },
+      "bullet_small_2": {
+        "__uuid__": "b4Q0NpjplGh5u6568sLeLc"
+      },
+      "danke": {
+        "__uuid__": "82eE+xH0dCR4KLRLu9Q88r"
+      },
+      "double_gong01": {
+        "__uuid__": "b4XmvcvIVG7rZOs1Hw5FQU"
+      },
+      "double_gong02": {
+        "__uuid__": "94qcIVJDJEY7buTKnDVXPI"
+      },
+      "double_gong03": {
+        "__uuid__": "78xzZWRypLR4JjX1IX2F/Z"
+      },
+      "double_gong04": {
+        "__uuid__": "0bWbSaiPRONYmCWFVzKX86"
+      },
+      "double_gong05": {
+        "__uuid__": "feB0p/zXZL9ITnKzgmDbkw"
+      },
+      "double_gong06": {
+        "__uuid__": "8bTD4OdnNIQYRZhQ5gpqoq"
+      },
+      "double_gong07": {
+        "__uuid__": "faZdxAeUVOFY9FwqIJV7ah"
+      },
+      "double_gong08": {
+        "__uuid__": "76r2kBAdNDMb8fIzB2pb0v"
+      },
+      "double_gong09": {
+        "__uuid__": "7cSBxp/zxGDZaUEWudqMhz"
+      },
+      "double_gong10": {
+        "__uuid__": "2fMYLy39RLwaBQYpoI4Z/o"
+      },
+      "double_gong11": {
+        "__uuid__": "8br8WXzH5PSpWGndJTsPVG"
+      },
+      "double_gong12": {
+        "__uuid__": "6dYXOBkwVDr5ax2EvxYT8M"
+      },
+      "double_gong13": {
+        "__uuid__": "57DJ+3YHZDx4uElOV8eYiu"
+      },
+      "double_gun_1": {
+        "__uuid__": "f77ygnXdtFiLnLqwJDuBTW"
+      },
+      "double_gun_2": {
+        "__uuid__": "bcFG5qTYZKdItTb2RKCKsf"
+      },
+      "double_gun_21": {
+        "__uuid__": "56FB7ViyRHHpjsvrBmHw9Q"
+      },
+      "double_gun_22": {
+        "__uuid__": "faJQ4dY6ZGqppc8ESt9FIK"
+      },
+      "double_gun_23": {
+        "__uuid__": "b8BiEQWSpIebkqVmFnqgfl"
+      },
+      "double_gun_24": {
+        "__uuid__": "19AsJ9WFZOUqRFjN24spdq"
+      },
+      "double_gun_25": {
+        "__uuid__": "f9prvovZlMUITt1so5asnR"
+      },
+      "double_gun_3": {
+        "__uuid__": "53rv2FEeRIRYg783+V5qsq"
+      },
+      "double_gun_4": {
+        "__uuid__": "9aKKeOfMlC5olB0gSvi3MX"
+      },
+      "double_gun_5": {
+        "__uuid__": "9fnBjzSCpE+KXcwcQiMk7y"
+      },
+      "double_gun_6": {
+        "__uuid__": "a98BCjrdRNKLrqc9O6Yr0V"
+      },
+      "double_gun_7": {
+        "__uuid__": "b7JS79eUVPkqqcw/7MxOBC"
+      },
+      "double_gun_8": {
+        "__uuid__": "c6WtwsD3tJv78AXaJPeIzM"
+      },
+      "double_gun_9": {
+        "__uuid__": "57vMqb1rxIfb9bW9rntJDz"
+      },
+      "double_jian01": {
+        "__uuid__": "6c7kbwXalCML1bg5Y2AD5i"
+      },
+      "double_jian02": {
+        "__uuid__": "77dT43dq1B1aS2s/trRytD"
+      },
+      "double_jian03": {
+        "__uuid__": "7d+3bsCAJAc7z7NNnK4OxQ"
+      },
+      "double_jian04": {
+        "__uuid__": "d7xY4uAWBIcahBFtHRjObQ"
+      },
+      "double_jian05": {
+        "__uuid__": "50y3ORLoNJX6AjSX7qlg7I"
+      },
+      "double_jian06": {
+        "__uuid__": "4aAEYowWJGiqw6m9LJ1Qhe"
+      },
+      "double_jian07": {
+        "__uuid__": "384nzaPY1FTry9zgRyrJrO"
+      },
+      "double_jian08": {
+        "__uuid__": "4bC29yvldGJLLwV+TWYllL"
+      },
+      "double_jian09": {
+        "__uuid__": "8fFY0o9ZtJ35uRHSbC4ySk"
+      },
+      "double_jian10": {
+        "__uuid__": "ccfcMhKyRBja1dCr/ODuDp"
+      },
+      "double_jian11": {
+        "__uuid__": "98usBhcPZPK7+5gSyXLQox"
+      },
+      "double_jian12": {
+        "__uuid__": "4cjkl4IJlDJ5tvhSL0xmPo"
+      },
+      "double_jian13": {
+        "__uuid__": "6b1N9+WbRGUqrq0rmW/UIb"
+      },
+      "double_shen01": {
+        "__uuid__": "87UpSs44FB37dm16/9Za4P"
+      },
+      "double_shen02": {
+        "__uuid__": "7fWBOwig5NCJhVyKiz3hmv"
+      },
+      "qiang_attack01": {
+        "__uuid__": "b155hgalhDULObVJ+oEKhJ"
+      },
+      "qiang_attack02": {
+        "__uuid__": "f9XM5818JNN7OVH5dgXATq"
+      },
+      "qiang_attack03": {
+        "__uuid__": "c970ckBN1BfKeg9LVgb9sK"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong08",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        167,
+        797,
+        85,
+        225
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        225
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian02",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        123,
+        244,
+        193,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        193,
+        33
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong03",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        194,
+        279,
+        84,
+        214
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        84,
+        214
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong09",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        254,
+        776,
+        68,
+        242
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        68,
+        242
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian03",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        448,
+        2,
+        173,
+        25
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        173,
+        25
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_shen02",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        922,
+        151,
+        56,
+        94
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        94
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "danke",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        565,
+        191,
+        21,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        21,
+        43
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_shen01",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        922,
+        209,
+        56,
+        94
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        94
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong06",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        98,
+        539,
+        81,
+        256
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        81,
+        256
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong11",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        2,
+        539,
+        94,
+        257
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        96,
+        257
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian09",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        374,
+        2,
+        191,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        191,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong02",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        279,
+        2,
+        93,
+        235
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        93,
+        235
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian11",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        398,
+        269,
+        194,
+        70
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        194,
+        70
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_4",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        777,
+        2,
+        157,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        157,
+        82
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_5",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        936,
+        2,
+        147,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        147,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_6",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        667,
+        290,
+        102,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        72
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qiang_attack01",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        2,
+        798,
+        163,
+        224
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        224
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bullet_small_2",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        475,
+        168,
+        76,
+        21
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        76,
+        21
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong01",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        206,
+        2,
+        71,
+        240
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        240
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_7",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        687,
+        2,
+        158,
+        88
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        158,
+        88
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_23",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        534,
+        375,
+        120,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        120,
+        72
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_2",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        913,
+        267,
+        107,
+        73
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        107,
+        73
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_8",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        475,
+        2,
+        164,
+        80
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        164,
+        80
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qiang_attack03",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        534,
+        269,
+        131,
+        104
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        163,
+        224
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian10",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        194,
+        495,
+        196,
+        28
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        196,
+        28
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_jian04",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        419,
+        2,
+        176,
+        27
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        176,
+        27
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_1",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        777,
+        135,
+        143,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        143,
+        93
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qiang_attack02",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        557,
+        2,
+        128,
+        158
+      ],
+      "offset": [
+        8,
+        -4
+      ],
+      "originalSize": [
+        162,
+        224
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_25",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        771,
+        323,
+        122,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        122,
+        78
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gun_22",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        598,
+        162,
+        111,
+        75
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        111,
+        75
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong07",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        280,
+        279,
+        69,
+        214
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        69,
+        214
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "double_gong05",
+      "texture": "5cIoLaeJhBzpD9Xln9CIuo",
+      "rect": [
+        2,
+        2,
+        119,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        119,
+        276
+      ]
+    }
+  }
+]

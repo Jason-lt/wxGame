@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/res/img
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-06T02:01:53.442225Z
-20883
+2018-09-28T08:11:38.510364Z
+21026
 liaotao
 
 
@@ -28,7 +28,7 @@ liaotao
 
 ddz_message.plist
 file
-21026
+
 
 
 
@@ -536,17 +536,18 @@ has-props
 
 16467
 
-dizhu_table_chuntian.plist
+ddz_ranking.png
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-830f6e94772b1ff86318bde564b7a78b
-2018-04-20T13:19:58.379525Z
-18173
-liaotao
+76e7e9e49b8c0912c100d337b87dbab8
+2018-05-16T09:20:25.607502Z
+19395
+yuhongbin
+has-props
 
 
 
@@ -567,8 +568,7 @@ liaotao
 
 
 
-
-4106
+133764
 
 ddz_welfare_reward.png
 file
@@ -604,18 +604,17 @@ has-props
 
 93856
 
-ddz_ranking.png
+dizhu_table_chuntian.plist
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-76e7e9e49b8c0912c100d337b87dbab8
-2018-05-16T09:20:25.607502Z
-19395
-yuhongbin
-has-props
+830f6e94772b1ff86318bde564b7a78b
+2018-04-20T13:19:58.379525Z
+18173
+liaotao
 
 
 
@@ -636,11 +635,12 @@ has-props
 
 
 
-133764
+
+4106
 
 ddz_scene_ui.png
 file
-21026
+
 
 
 
@@ -740,40 +740,6 @@ liaotao
 
 16033
 
-ddz_guide.png
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-36c1aabcfc04fe7e14efc8b243a7ac13
-2018-09-06T02:01:53.442225Z
-20883
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116634
-
 ddz_table_ani_common.plist
 file
 
@@ -808,17 +774,18 @@ xujing
 
 9343
 
-ddz_tx_map.plist
+ddz_guide.png
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-52bb05e917fd18fea134a80c29c0ae96
-2018-07-20T08:03:13.621600Z
-20415
+36c1aabcfc04fe7e14efc8b243a7ac13
+2018-09-06T02:01:53.442225Z
+20883
 liaotao
+has-props
 
 
 
@@ -839,8 +806,7 @@ liaotao
 
 
 
-
-13090
+116634
 
 ddz_box.plist
 file
@@ -876,16 +842,16 @@ liaotao
 
 20353
 
-ddz_welfare_reward.plist
+ddz_tx_map.plist
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-c23b64ab81331fd87f1557fea9abf747
-2018-06-11T15:32:12.215266Z
-19911
+52bb05e917fd18fea134a80c29c0ae96
+2018-07-20T08:03:13.621600Z
+20415
 liaotao
 
 
@@ -908,7 +874,7 @@ liaotao
 
 
 
-17490
+13090
 
 ddz_ranking.plist
 file
@@ -944,16 +910,16 @@ yuhongbin
 
 7430
 
-ddz_scene_ui.plist
+ddz_welfare_reward.plist
 file
-21026
 
 
 
-2018-09-28T01:23:00.000000Z
-679eb0946bc361630e28f880fd7caba3
-2018-09-28T08:11:38.510364Z
-21026
+
+2018-09-11T17:40:19.000000Z
+c23b64ab81331fd87f1557fea9abf747
+2018-06-11T15:32:12.215266Z
+19911
 liaotao
 
 
@@ -976,7 +942,7 @@ liaotao
 
 
 
-30634
+17490
 
 ddz_scene_ui_v2.png
 file
@@ -1011,6 +977,40 @@ has-props
 
 
 52623
+
+ddz_scene_ui.plist
+file
+
+
+
+
+2018-09-28T01:23:00.000000Z
+679eb0946bc361630e28f880fd7caba3
+2018-09-28T08:11:38.510364Z
+21026
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30634
 
 ddz_dayle_welfare.png
 file
@@ -1286,7 +1286,7 @@ yuhongbin
 
 ddz_message.png
 file
-21026
+
 
 
 

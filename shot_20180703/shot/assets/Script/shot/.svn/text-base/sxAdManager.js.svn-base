@@ -1,34 +1,5 @@
 //三消交叉导流
 shot.sxAdmanager = {
-    // sxAdInfo: {
-    //     "icons": [
-    //         // {
-    //         //     "weight": 10,
-    //         //     "type": 0,//0为静图，1为动图
-    //         //     "imgLink": "https://sanxqn.nalrer.cn/tysanxiao/common/Sbt_melon_1.png",
-    //         //     "openType": 0,//0为静图，1为小程序
-    //         //     "openData":
-    //         //         [
-    //         //             { "imgurl": "https://sanxqn.nalrer.cn/tysanxiao/box-worldCup/linkImages/WorldCup_Img_1.jpg", "weight": 50 },
-    //         //             { "imgurl": "https://sanxqn.nalrer.cn/tysanxiao/trialine/linkimage/link002.png", "weight": 100 },
-    //         //             { "imgurl": "https://sanxqn.nalrer.cn/tysanxiao/1010/linkImages/1010_link_image.png", "weight": 37 },
-    //         //         ]
-    //         // },
-    //         {
-    //             "weight": 10,
-    //             "type": 1,
-    //             "imgLink": "https://sanxqn.nalrer.cn/tysanxiao/box/Ad/1.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/2.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/3.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/4.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/5.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/6.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/7.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/8.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/9.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/10.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/11.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/12.png,https://sanxqn.nalrer.cn/tysanxiao/box/Ad/13.png",
-    //             "openType": 0,
-    //             "openData":
-    //                 [
-    //                     { "imgurl": "https://sanxqn.nalrer.cn/tysanxiao/box-worldCup/linkImages/WorldCup_Img_1.jpg", "weight": 80 },
-    //                     { "imgurl": "https://sanxqn.nalrer.cn/tysanxiao/1010/linkImages/1010_link_image.png", "weight": 11 },
-    //                 ]
-    //         }
-    //     ],
-    //     "framesInterval": 3,
-    //     "position": [{ "x": 600, "y": 450 }, { "x": 50, "y": 760 }, { "x": 550, "y": 820 }]
-    // },
     sxAdInfo: null,
     opDataWeight: [],
     iconWeight: null,
@@ -38,57 +9,51 @@ shot.sxAdmanager = {
     callback: null,
     isLoadConfig: false,
 
-    adIcon : null,
 
-
-    show: function (dx, dy, scale) {
+    show: function (dx,dy) {//, scale) {
         try {
+            if(this.iconWeight == 0){
+                this.hide();
+                return;
+            }
             if (this.adIcon) {
-                hall.LOGW("sxAdManager: " + "restart adIcon");
-                if (dx == 0 && dy == 0) {
-                    this.setPositionByScene(0);
-                }else {
-                    this.adIcon.position = cc.v2(dx, dy);
-                }
+
                 this.adIcon.active = true;
+                this.adIcon.x = dx;
+                this.adIcon.y = dy;
+                // hall.LOGE("show","=====show===="+this.adIcon.x+"======"+this.adIcon.y+"===="+this.adIcon.scale);
                 cc.director.getScheduler().schedule(
                     this.callback, this.adIcon, this.sxAdInfo.framesInterval, !this.isSwitchIcon);
             } else {
 
                 var that = this;
                 var callback = () => {
-                    hall.LOGW("sxAdManager: " + "first adIcon");
                     that.adIcon = new cc.Node();
 
-                    // this.adIcon.position = cc.v2(cc.winSize.width - dx, dy);
-                    that.adIcon.position = cc.v2(dx, dy);
-
-                    if (dx == 0 && dy == 0)
-                        that.setPositionByScene(0);
-                    if (scale)
-                        that.adIcon.scale = scale;
-
-                    if (typeof wx !== 'undefined') {
-                        that.initWeight();
-                        that.iconIndex = 0;
-                        that.isSwitchIcon = true;
-                        that.callback = () => {
-                            that.switchIcon();
-                        }
-                        that.callback();
-                        cc.director.getScheduler().schedule(
-                            that.callback, that.adIcon, that.sxAdInfo.framesInterval, !that.isSwitchIcon);
-                        that.adIcon.addComponent(cc.Button);
-                        that.adIcon.on('click', that.onClickAdIconBtn, that);
-
-                        that.adIcon.zIndex = 999;
-                        cc.game.addPersistRootNode(that.adIcon);
+                    // if (typeof wx !== 'undefined') {
+                    that.initWeight();
+                    that.iconIndex = 0;
+                    that.isSwitchIcon = true;
+                    that.callback = () => {
+                        that.switchIcon();
                     }
+                    that.callback();
+                    that.adIcon.x = dx;
+                    that.adIcon.y = dy;
+                    cc.director.getScheduler().schedule(
+                        that.callback, that.adIcon, that.sxAdInfo.framesInterval, !that.isSwitchIcon);
+                    that.adIcon.addComponent(cc.Button);
+
+                    that.adIcon.on('click', that.onClickAdIconBtn, that);
+
+                    that.adIcon.zIndex = 9999;
+                    cc.game.addPersistRootNode(that.adIcon);
+                    // }
                 };
                 this.loadConfigFile(callback);
             }
         } catch (error) {
-            hall.LOGW("sxAdManager: ", error);
+            console.log("sxAdManager: ", error);
 
         }
     },
@@ -97,7 +62,6 @@ shot.sxAdmanager = {
         if (this.adIcon) {
             cc.director.getScheduler().unschedule(this.callback, this.adIcon);
             this.adIcon.active = false;
-            hall.LOGW("sxAdManager: " + "Ad hide success");
         }
 
     },
@@ -114,19 +78,64 @@ shot.sxAdmanager = {
         }
     },
 
-    setPositionByScene: function (index) {
+    setPositionById: function (id) {
         if (this.adIcon) {
-            let dx = this.sxAdInfo.position[index].x;
-            let dy = this.sxAdInfo.position[index].y;
+            let index = -1;
+            for (let i = 0; i < this.sxAdInfo.position.length; i++) {
+                if (this.sxAdInfo.position[i].id == id)
+                    index = i;
+            }
+            if (index != -1) {
+                let widget = this.sxAdInfo.position[index].type;
+                let dx = this.sxAdInfo.position[index].x;
+                let dy = this.sxAdInfo.position[index].y;
+                this.setWidgetPosition(widget, dx, dy);
 
-            hall.LOGW(index, "x: ", dx, "y: ", dy);
-            this.adIcon.position = cc.v2(dx, dy);
+            }
+        }
+        else{
+            var that = this;
+            setTimeout(() => {
+                that.setPositionById(id);
+            }, 10);
         }
     },
+    setWidgetPosition: function (type, x, y) {
+        switch (type) {
+            case 1://top left
+                this.adIcon.position = cc.v2(x, cc.winSize.height - y);
+                break;
+            case 2://top right
+                this.adIcon.position = cc.v2(cc.winSize.width - x, cc.winSize.height - y);
+                break;
+            case 3://bottom left
+                this.adIcon.position = cc.v2(x, y);
+                break;
+            case 4://bottom right
+                this.adIcon.position = cc.v2(cc.winSize.width - x, y);
+                break;
+            case 5://top HorizontalCenter
+                this.adIcon.position = cc.v2(cc.winSize.width / 2 + x, cc.winSize.height - y);
+                break;
+            case 6://bottom HorizontalCenter
+                this.adIcon.position = cc.v2(cc.winSize.width / 2 + x, y);
+                break;
+            case 7://left VerticalCenter
+                this.adIcon.position = cc.v2(x, cc.winSize.height / 2 + y);
+                break;
+            case 8://right VerticalCenter
+                this.adIcon.position = cc.v2(cc.winSize.width - x, cc.winSize.height / 2 + y);
+                break;
+            case 9://HorizontalCenter VerticalCenter
+                this.adIcon.position = cc.v2(cc.winSize.width / 2 + x, cc.winSize.height / 2 + y);
+                break;
+            default:
+                break;
+        }
 
+    },
     loadConfigFile: function (callback) {
         try {
-            hall.LOGW('getConfigFile');
             let self = this;
             let xhr = cc.loader.getXMLHttpRequest();
             var timedOut = false;
@@ -134,8 +143,9 @@ shot.sxAdmanager = {
                 timedOut = true;
                 xhr.abort();
             }, 3000);
-            // xhr.open("GET", "https://sanxqn.nalrer.cn/tysanxiao/box/adconfig/configDaoLiu7.json", true);
-            xhr.open("GET","https://nslyqn.nalrer.cn/nsly/crazygun/growth/adConfigFile/configDaoLiu.json",true);
+            // xhr.open("GET", "https://sanxqn.nalrer.cn/tysanxiao/box/adconfig/configDaoLiu11.json", true);
+            xhr.open("GET", "https://nslyqn.nalrer.cn/nsly/crazygun/growth/adConfigFile/configDaoLiu_2.json", true);
+            // https://nslyqn.nalrer.cn/nsly/crazygun/growth/adConfigFile/configDaoLiu.json
             xhr.onreadystatechange = function () {
                 if (timedOut) {
                     return;
@@ -144,14 +154,12 @@ shot.sxAdmanager = {
                 if (xhr.readyState === 4) {
                     if ((xhr.status >= 200 && xhr.status < 300)) {
                         self.isLoadConfig = true;
-                        hall.LOGW("http res(" + xhr.responseText.length + "):" + xhr.responseText);
                         try {
                             let ret = JSON.parse(xhr.responseText);
-                            hall.LOGW('get config', ret);
 
                             // 游戏开关
                             self.sxAdInfo = ret;
-                            hall.LOGW('sxAdInfo:', self.sxAdInfo);
+                            shot.sxAdmanager.refreshIconsWeight();
                             callback();
 
                             //Global.Gameversion = true;
@@ -160,14 +168,12 @@ shot.sxAdmanager = {
                             // self.loadIp();
                             // }
                             self.retryConfigFile();
-                            hall.LOGW("err:" + e);
                         }
                     } else {
                         // if (param) {
                         //     self.loadIp();
                         // }
                         self.retryConfigFile();
-                        hall.LOGW('get config error', xhr);
                     }
                 }
                 // self.loadIp();
@@ -187,44 +193,68 @@ shot.sxAdmanager = {
             //     // self.loadIp();
             //     self.retryConfigFile();
             // }
-            hall.LOGW(' get config error', error);
+            console.log(' get config error', error);
         }
     },
     retryConfigFile: function () {
         if (!this.isLoadConfig) {
+            var that = this;
             setTimeout(() => {
-                this.loadConfigFile(false);
+                that.loadConfigFile(false);
             }, 20000);
         }
     },
     switchIcon: function () {//刷新Icon
         try {
+            if(this.iconWeight == 0){
+                this.hide();
+                return;
+            }
             let num = Math.floor(Math.random() * this.iconWeight);
             this.iconIndex = this.selectItemByWeight(num, this.sxAdInfo.icons);
 
-            if (this.iconIndex != -1) {
-                if (this.iconIndex != this.preIconIndex) {
-                    if (this.sxAdInfo.icons[this.iconIndex].type == 0) {
-                        hall.LOGW("sxAdManager: " + "load static Ad");
-                        if (this.adIcon.getComponent(cc.Animation)) {//除去动态icon的组件
-                            this.adIcon.removeComponent(cc.Animation);
-                            this.adIcon.removeComponent(cc.Sprite);
-                        }
-                        this.loadStaticImg(this.sxAdInfo.icons[this.iconIndex]);
-                    } else if (this.sxAdInfo.icons[this.iconIndex].type == 1) {
-                        hall.LOGW("sxAdManager: " + "load dynamic Ad");
-                        if (this.adIcon.getComponent(cc.Sprite)) {//除去静态icon的组件
-                            this.adIcon.getComponent(cc.Sprite).spriteFrame = null;
-                        }
-                        this.loadDynamicImg(this.sxAdInfo.icons[this.iconIndex]);
-                    }
-                    this.preIconIndex = this.iconIndex;
-                }
-
+            if (this.iconIndex == -1) {
+                this.hide();
+                return;
             }
+
+            if (this.iconIndex != this.preIconIndex) {
+                if (this.sxAdInfo.icons[this.iconIndex].type == 0) {
+                    if (this.adIcon.getComponent(cc.Animation)) {//除去动态icon的组件
+                        this.adIcon.removeComponent(cc.Animation);
+                        this.adIcon.removeComponent(cc.Sprite);
+                    }
+                    this.loadStaticImg(this.sxAdInfo.icons[this.iconIndex]);
+                } else if (this.sxAdInfo.icons[this.iconIndex].type == 1) {
+                    if (this.adIcon.getComponent(cc.Sprite)) {//除去静态icon的组件
+                        this.adIcon.getComponent(cc.Sprite).spriteFrame = null;
+                    }
+                    this.loadDynamicImg(this.sxAdInfo.icons[this.iconIndex]);
+                }
+                this.preIconIndex = this.iconIndex;
+            }
+
+
         } catch (err) {
-            hall.LOGW("sxAdManager: ", err);
             cc.director.getScheduler().unschedule(this.callback, this.adIcon);
+        }
+    },
+
+    //重新刷新
+    refreshIconsWeight: function () {
+        for (let i = 0; i < this.sxAdInfo.icons.length; i++) {
+            var allWeight = 0;
+            for (let j = 0; j < this.sxAdInfo.icons[i].openData.length; j++) {
+                if (this.sxAdInfo.icons[i].openData[j].clickHide && this.isClickApp(this.sxAdInfo.icons[i].openData[j].imgurl)) {
+                    this.sxAdInfo.icons[i].openData[j].weight = 0;
+                }
+                else {
+                    allWeight += this.sxAdInfo.icons[i].openData[j].weight;
+                }
+            }
+            if (allWeight == 0) {
+                this.sxAdInfo.icons[i].weight = 0;
+            }
         }
     },
 
@@ -243,13 +273,21 @@ shot.sxAdmanager = {
     //添加导流入口Icon静态图片
     loadStaticImg: function (arr) {
         let link = arr.imgLink;
+        let scale = arr.scale;
         let self = this;
         cc.loader.load(link, function (err, tex) {
-            if (self.adIcon.getComponent(cc.Sprite)) {//重新调用时可能是同一个静态icon也可能适另一个静态icon
-                self.adIcon.getComponent(cc.Sprite).spriteFrame = new cc.SpriteFrame(tex);
-            }
-            else {
-                self.adIcon.addComponent(cc.Sprite).spriteFrame = new cc.SpriteFrame(tex);
+            try {
+                if (self.adIcon.getComponent(cc.Sprite)) {//重新调用时可能是同一个静态icon也可能适另一个静态icon
+                    self.adIcon.getComponent(cc.Sprite).spriteFrame = new cc.SpriteFrame(tex);
+                    self.adIcon.scale = scale;
+                }
+                else {
+                    self.adIcon.addComponent(cc.Sprite).spriteFrame = new cc.SpriteFrame(tex);
+                    self.adIcon.scale = scale;
+                }
+            } catch (err) {
+                console.log(err);
+                self.adIcon.addComponent(cc.Sprite).spriteFrame = null;
             }
         });
     },
@@ -257,6 +295,7 @@ shot.sxAdmanager = {
     //添加导流入口Icon动画
     loadDynamicImg: function (arr) {
         let link = arr.imgLink.split(',');
+        let scale = arr.scale;
         let self = this;
         var adIconFrames = [];
         var playFrames = () => {
@@ -285,25 +324,30 @@ shot.sxAdmanager = {
             }
         };
         cc.loader.load(link, function (err, results) {
-            if (err) {
-                for (var i = 0; i < err.length; i++) {
-                    hall.LOGW("sxAdManager: ", 'load Dynamic img failed' + err[i] + ']: ' + results.getError(err[i]));
-                }
-            }
-            else {
+            // if (err) {
+            //     for (var i = 0; i < err.length; i++) {
+            //         console.log("sxAdManager: ", 'load Dynamic img failed' + err[i] + ']: ' + results.getError(err[i]));
+            //     }
+            // }
+            // else {
+            try {
                 adIconFrames.splice(0, adIconFrames.length);
 
                 for (let i = 0; i < link.length; i++) {
                     var tex = results.getContent(link[i]);
                     adIconFrames.push(new cc.SpriteFrame(tex));
                 }
+                self.adIcon.scale = scale;
                 playFrames();
+            } catch (err) {
+                console.log(err);
+                adIconFrames.push(null);
             }
-        });
+        }
+        );
     },
 
     onClickAdIconBtn: function () {
-        hall.GlobalFuncs.setInLocalStorage(shot.gameModel.OPEN_ADBTN_TYPE_TODAY,'STU');
         if (typeof wx !== 'undefined') {
             try {
                 let iconIndex = this.iconIndex;
@@ -316,10 +360,8 @@ shot.sxAdmanager = {
                             // current: ''; // 当前要显示的图片url
                             urls: [this.sxAdInfo.icons[iconIndex].openData[index].imgurl], // 需要预览的图片url列表
                             success: (res) => {
-                                hall.LOGW("sxAdManager: " + 'preview success', res);
                             },
                             fail: (res) => {
-                                hall.LOGW("sxAdManager: " + 'preview fail', res);
                             },
                             // complete: () => {
 
@@ -328,8 +370,6 @@ shot.sxAdmanager = {
                     }
                     else if (this.sxAdInfo.icons[iconIndex].openType == 1) {
                         var bi_paramlist = this.sxAdInfo.icons[iconIndex].biparam;
-                        hall.LOGW(bi_paramlist);
-                        hall.LOGW(this.sxAdInfo.icons[iconIndex].topath);
                         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeClickAdBtn, bi_paramlist);
                         wx.navigateToMiniProgram({
                             appId: this.sxAdInfo.icons[iconIndex].openData[index].imgurl,
@@ -337,17 +377,21 @@ shot.sxAdmanager = {
                             envVersion: 'release',
                             extraData: null,
                             success: function (res) {
+                                shot.sxAdmanager.saveItem(shot.sxAdmanager.sxAdInfo.icons[iconIndex].openData[index].imgurl);
+                                //刷新权重
+                                shot.sxAdmanager.refreshIconsWeight();
+                                shot.sxAdmanager.initWeight();
+                                //刷新icon
+                                shot.sxAdmanager.switchIcon();
                                 ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeClickDirectToMiniGameSuccess, bi_paramlist);
-                                hall.LOGW('wx.navigateToMiniProgram success');
-                                hall.LOGW(res);
                             },
                             fail: function (res) {
                                 ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeClickDirectToMiniGameFail, bi_paramlist);
-                                hall.LOGW('wx.navigateToMiniProgram fail');
-                                hall.LOGW(res);
+                                console.log('wx.navigateToMiniProgram fail');
+                                console.log(res);
                             },
                             complete: function (res) {
-                                hall.LOGW('navigateToMiniProgram ==== complete');
+                                console.log('navigateToMiniProgram ==== complete');
                             }
                         });
                     }
@@ -355,22 +399,43 @@ shot.sxAdmanager = {
                 }
 
             } catch (error) {
-                hall.LOGW("sxAdManager: ", error);
+                console.log("sxAdManager: ", error);
             }
         }
     },
 
+    //随机权重
     selectItemByWeight(num, arr) {
         let limit = 0;
         for (let i = 0; i < arr.length; i++) {
             let weight = arr[i].weight;
             if (weight) {
-                if (num < weight + limit && num > limit) {
+                if (num <= weight + limit && num >= limit) {
                     return i;
                 }
             }
             limit += weight;
         }
         return -1;
+    },
+
+    //当前app是否被点击过
+    isClickApp: function (appid) {
+        let storedata = cc.sys.localStorage.getItem("sxad-data");
+        if (storedata && storedata !== '' && storedata.indexOf(appid) >= 0) {
+            return true;
+        }
+        return false;
+    },
+
+    //app点击，保存appID到本地
+    saveItem: function (appid) {
+        let storedata = cc.sys.localStorage.getItem("sxad-data");
+        if (storedata && storedata !== '') {
+            storedata += appid + ',';
+        } else {
+            storedata = appid + ',';
+        }
+        cc.sys.localStorage.setItem("sxad-data", storedata);
     }
-}
+};

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "luo bo 01",
+    "texture": "2a6a11qdBErZN7pAlEuBQX",
+    "rect": [
+      0,
+      0,
+      53,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      91
+    ]
+  }
+}

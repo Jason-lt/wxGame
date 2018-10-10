@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_gun_7",
+    "texture": "5c2282da-7898-41ce-90fd-5e59fd088ba8",
+    "atlas": "6faafaa0-1641-4db8-850c-c3e10b6b0366",
+    "rect": [
+      687,
+      2,
+      158,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      88
+    ],
+    "rotated": 1
+  }
+}

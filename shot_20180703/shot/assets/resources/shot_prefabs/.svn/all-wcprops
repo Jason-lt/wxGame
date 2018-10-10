@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/shot/assets/resources/shot_prefabs
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs
 END
 shot_mystery_giftBag.prefab.meta
 K 25
@@ -37,13 +37,13 @@ debugNode.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 99
-/newsvn/hall-js/!svn/ver/20777/h5/shot_20180703/shot/assets/resources/shot_prefabs/debugNode.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/debugNode.prefab
 END
 shot_resurgence.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 105
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_resurgence.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_resurgence.prefab
 END
 shot_throw.prefab
 K 25
@@ -67,7 +67,7 @@ shot_diamond.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 102
-/newsvn/hall-js/!svn/ver/20777/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_diamond.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_diamond.prefab
 END
 shot_toast_tips.prefab.meta
 K 25
@@ -91,7 +91,7 @@ shot_prop.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 99
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_prop.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_prop.prefab
 END
 debugNode.prefab.meta
 K 25
@@ -117,23 +117,23 @@ svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/20400/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_crazyTime.prefab.meta
 END
-shot_secret_box.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_secret_box.prefab
-END
 adNode.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/newsvn/hall-js/!svn/ver/20576/h5/shot_20180703/shot/assets/resources/shot_prefabs/adNode.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/adNode.prefab
+END
+shot_secret_box.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_secret_box.prefab
 END
 shot_mystery_giftBag.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 110
-/newsvn/hall-js/!svn/ver/20603/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_mystery_giftBag.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_mystery_giftBag.prefab
 END
 shot_diamond.prefab.meta
 K 25
@@ -145,7 +145,7 @@ shot_shareResult.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 106
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_shareResult.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_shareResult.prefab
 END
 shot_result.prefab.meta
 K 25
@@ -165,23 +165,23 @@ svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20359/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_getProp.prefab.meta
 END
-shot_result.prefab
-K 25
-svn:wc:ra_dav:version-url
-V 101
-/newsvn/hall-js/!svn/ver/20586/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_result.prefab
-END
 newerNode.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 104
 /newsvn/hall-js/!svn/ver/20264/h5/shot_20180703/shot/assets/resources/shot_prefabs/newerNode.prefab.meta
 END
+shot_result.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_result.prefab
+END
 shot_getProp.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 102
-/newsvn/hall-js/!svn/ver/20831/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_getProp.prefab
+/newsvn/hall-js/!svn/ver/20924/h5/shot_20180703/shot/assets/resources/shot_prefabs/shot_getProp.prefab
 END
 shot_secret_box.prefab.meta
 K 25

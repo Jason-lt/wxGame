@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub
+/newsvn/hall-js/!svn/ver/21024/h5/happy_ddz/assets/Prefabs/windows/windowsSub
 END
 ddz_game_result_new.prefab
 K 25
@@ -117,11 +117,11 @@ svn:wc:ra_dav:version-url
 V 104
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_cell_gameDetail.prefab
 END
-ddz_notify_cell.prefab.meta
+ddz_buttonList.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
-V 105
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_notify_cell.prefab.meta
+V 104
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_buttonList.prefab.meta
 END
 ddz_cell_roomlist.prefab.meta
 K 25
@@ -129,11 +129,11 @@ svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_cell_roomlist.prefab.meta
 END
-ddz_buttonList.prefab.meta
+ddz_notify_cell.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
-V 104
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_buttonList.prefab.meta
+V 105
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_notify_cell.prefab.meta
 END
 ddz_cell_history.prefab
 K 25
@@ -159,29 +159,29 @@ svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_game_result_new.prefab.meta
 END
-ddz_tableView.prefab.meta
-K 25
-svn:wc:ra_dav:version-url
-V 103
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_tableView.prefab.meta
-END
 ddz_game_result_through.prefab
 K 25
 svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_game_result_through.prefab
 END
-ddz_cell_mall.prefab.meta
+ddz_tableView.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 103
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_cell_mall.prefab.meta
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_tableView.prefab.meta
 END
 ddz_rewardCell.prefab.meta
 K 25
 svn:wc:ra_dav:version-url
 V 104
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_rewardCell.prefab.meta
+END
+ddz_cell_mall.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Prefabs/windows/windowsSub/ddz_cell_mall.prefab.meta
 END
 ddz_item_createRoom.prefab
 K 25

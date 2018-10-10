@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jita02",
+    "texture": "9823c8af-c91e-4de7-b4ec-39126b4db59c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      159
+    ]
+  }
+}

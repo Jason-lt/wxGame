@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.01_20180420/assets/Prefabs/windows
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -34,74 +34,6 @@ file
 
 2018-09-11T17:44:35.000000Z
 19bba214ad0db0beaa7bfd552953d7c1
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
-ddz_main.prefab
-file
-
-
-
-
-2018-09-11T17:44:35.000000Z
-bca6398c4b54436595080c2869ffa10e
-2018-04-15T05:49:02.672690Z
-17908
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-101339
-
-ddz_getRedpaket.prefab.meta
-file
-
-
-
-
-2018-09-11T17:44:35.000000Z
-467106dc6a6903fde4d942ca2c39083e
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -161,6 +93,74 @@ liaotao
 
 
 116
+
+ddz_getRedpaket.prefab.meta
+file
+
+
+
+
+2018-09-11T17:44:35.000000Z
+467106dc6a6903fde4d942ca2c39083e
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
+
+ddz_main.prefab
+file
+
+
+
+
+2018-09-11T17:44:35.000000Z
+bca6398c4b54436595080c2869ffa10e
+2018-04-15T05:49:02.672690Z
+17908
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+101339
 
 ddz_rank_list.prefab
 file
@@ -230,40 +230,6 @@ zhangman
 
 119157
 
-ddz_useDiamond.prefab
-file
-
-
-
-
-2018-09-11T17:44:35.000000Z
-2a6be418b503f64e08d6c328abf274db
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24455
-
 ddz_getReward_main.prefab
 file
 
@@ -297,6 +263,40 @@ xujing
 
 
 29813
+
+ddz_useDiamond.prefab
+file
+
+
+
+
+2018-09-11T17:44:35.000000Z
+2a6be418b503f64e08d6c328abf274db
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24455
 
 windowsSub.meta
 file
@@ -332,14 +332,14 @@ xujing
 
 88
 
-ddz_rewardDetail.prefab.meta
+massageWindow.prefab.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-1d13151caa2217a9a5cb6de0622ccae1
+896ff455ec4bae0a7476d96c759cb7ef
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -400,14 +400,14 @@ zhangman
 
 116
 
-massageWindow.prefab.meta
+ddz_rewardDetail.prefab.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-896ff455ec4bae0a7476d96c759cb7ef
+1d13151caa2217a9a5cb6de0622ccae1
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -468,40 +468,6 @@ liaotao
 
 27273
 
-notifyWindow.prefab
-file
-
-
-
-
-2018-09-11T17:44:35.000000Z
-1890aaed768c713919180bcff02b0af2
-2018-04-18T17:15:22.842852Z
-18129
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-36544
-
 ddz_getRedpaket.prefab
 file
 
@@ -535,6 +501,40 @@ zhangman
 
 
 16611
+
+notifyWindow.prefab
+file
+
+
+
+
+2018-09-11T17:44:35.000000Z
+1890aaed768c713919180bcff02b0af2
+2018-04-18T17:15:22.842852Z
+18129
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36544
 
 windowsSub
 dir

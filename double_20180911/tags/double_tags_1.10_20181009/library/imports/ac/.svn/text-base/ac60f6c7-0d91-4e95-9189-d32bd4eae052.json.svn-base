@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huang guan 02",
+    "texture": "8da6a44f-a7ba-4f3b-b990-ef026938a4ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      58
+    ]
+  }
+}

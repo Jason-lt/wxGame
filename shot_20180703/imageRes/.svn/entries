@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/imageRes
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-08-31T08:39:21.499883Z
-20831
+2018-09-13T14:38:05.836993Z
+20924
 zhangman
 
 
@@ -60,6 +60,40 @@ yuhongbin
 
 5430
 
+shot_scene_ui.plist
+file
+
+
+
+
+2018-10-10T23:28:07.000000Z
+7de3ebe3bcb233fd2c3153effce5e0e8
+2018-09-13T14:38:05.836993Z
+20924
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14090
+
 shot_jiutong.tps
 file
 
@@ -94,39 +128,8 @@ yuhongbin
 
 5444
 
-shot_scene_ui.plist
-file
-
-
-
-
-2018-09-11T17:39:03.000000Z
-bdea66307d6ae345e34625f165ee762d
-2018-08-31T08:39:21.499883Z
-20831
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14084
+waste
+dir
 
 shot_main_ui.tps
 file
@@ -161,9 +164,6 @@ zhangman
 
 
 5411
-
-waste
-dir
 
 shot_grenade.png
 file
@@ -208,10 +208,10 @@ file
 
 
 
-2018-09-11T17:39:03.000000Z
-6532508c060b9bc0f523eef406a71f20
-2018-08-28T01:38:06.844457Z
-20791
+2018-10-10T23:28:07.000000Z
+724a0c4943da6365a1abdb6ea037e156
+2018-09-13T14:38:05.836993Z
+20924
 zhangman
 has-props
 
@@ -234,18 +234,18 @@ has-props
 
 
 
-954554
+953319
 
-shot_scene_ui.tps
+shot_grenade.plist
 file
 
 
 
 
 2018-09-11T17:39:03.000000Z
-570600cb96c737507fb41d77c11a50e9
-2018-07-03T13:00:12.347196Z
-20204
+a4162c2f84180127e93bbc061d1c477c
+2018-08-24T10:22:07.811223Z
+20777
 zhangman
 
 
@@ -268,7 +268,7 @@ zhangman
 
 
 
-5415
+5054
 
 shot_bottles.png
 file
@@ -304,16 +304,16 @@ has-props
 
 280777
 
-shot_grenade.plist
+shot_scene_ui.tps
 file
 
 
 
 
 2018-09-11T17:39:03.000000Z
-a4162c2f84180127e93bbc061d1c477c
-2018-08-24T10:22:07.811223Z
-20777
+570600cb96c737507fb41d77c11a50e9
+2018-07-03T13:00:12.347196Z
+20204
 zhangman
 
 
@@ -336,7 +336,7 @@ zhangman
 
 
 
-5054
+5415
 
 shot_motongpisui.png
 file
@@ -449,10 +449,10 @@ file
 
 
 
-2018-09-11T17:39:03.000000Z
-62bdcd60eaf0e78d052290d6bf534bd0
-2018-08-28T01:38:06.844457Z
-20791
+2018-10-10T23:28:07.000000Z
+42da8f7a553c09d48648beaafde0cf1c
+2018-09-13T14:38:05.836993Z
+20924
 zhangman
 
 
@@ -475,7 +475,7 @@ zhangman
 
 
 
-13336
+12849
 
 shot_bottles.plist
 file
@@ -662,10 +662,10 @@ file
 
 
 
-2018-09-11T17:39:03.000000Z
-817ca56608a8ea23890314bf201fc1ac
-2018-08-31T08:39:21.499883Z
-20831
+2018-10-10T23:28:07.000000Z
+fc58386d6c35b7f1e21225d53771fa98
+2018-09-13T14:38:05.836993Z
+20924
 zhangman
 has-props
 
@@ -688,7 +688,7 @@ has-props
 
 
 
-1346401
+1339267
 
 nopack
 dir

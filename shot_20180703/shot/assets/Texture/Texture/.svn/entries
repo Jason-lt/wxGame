@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/shot/assets/Texture/Texture
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -27,6 +27,9 @@ zhangman
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
 pingzi_1
+dir
+
+pingzi_2
 dir
 
 chongjibo_166.png
@@ -62,9 +65,6 @@ has-props
 
 
 19167
-
-pingzi_2
-dir
 
 pingzi_3
 dir
@@ -211,40 +211,6 @@ has-props
 
 88
 
-pingzi_2.meta
-file
-
-
-
-
-2018-09-11T17:39:04.000000Z
-3a9a043e3858f3085624c4a9f5c100ef
-2018-07-09T11:22:50.671020Z
-20291
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 chongjibo_166.png.meta
 file
 
@@ -278,6 +244,40 @@ has-props
 
 
 686
+
+pingzi_2.meta
+file
+
+
+
+
+2018-09-11T17:39:04.000000Z
+3a9a043e3858f3085624c4a9f5c100ef
+2018-07-09T11:22:50.671020Z
+20291
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
 
 pingzi_3.meta
 file

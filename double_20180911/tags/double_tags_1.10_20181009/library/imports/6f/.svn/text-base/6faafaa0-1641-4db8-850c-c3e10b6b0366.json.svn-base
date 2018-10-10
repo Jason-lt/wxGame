@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "double_gun_ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "bullet_small": {
+      "__uuid__": "26cb4d3a-e499-41cf-a4a7-060c393d2f88"
+    },
+    "bullet_small_2": {
+      "__uuid__": "b4434369-8e99-4687-9bba-e7af2c2de2dc"
+    },
+    "danke": {
+      "__uuid__": "82784fb1-1f47-4247-828b-44bbbd43cf2b"
+    },
+    "double_gong01": {
+      "__uuid__": "b45e6bdc-bc85-46ee-b64e-b351f0e45414"
+    },
+    "double_gong02": {
+      "__uuid__": "94a9c215-2432-4463-b6ee-4ca9c35573c8"
+    },
+    "double_gong03": {
+      "__uuid__": "78c73656-472a-4b47-8263-5f5217d85fd9"
+    },
+    "double_gong04": {
+      "__uuid__": "0b59b49a-88f4-4e35-8982-585573297f3a"
+    },
+    "double_gong05": {
+      "__uuid__": "fe074a7f-cd76-4bf4-84e7-2b38260db930"
+    },
+    "double_gong06": {
+      "__uuid__": "8b4c3e0e-7673-4841-8459-850e60a6aa2a"
+    },
+    "double_gong07": {
+      "__uuid__": "fa65dc40-7945-4e15-8f45-c2a20957b6a1"
+    },
+    "double_gong08": {
+      "__uuid__": "76af6901-01d3-4331-bf1f-233076a5bd2f"
+    },
+    "double_gong09": {
+      "__uuid__": "7c481c69-ff3c-460d-9694-116b9da8c873"
+    },
+    "double_gong10": {
+      "__uuid__": "2f3182f2-dfd4-4bc1-a050-629a08e19fe8"
+    },
+    "double_gong11": {
+      "__uuid__": "8bafc597-cc7e-4f4a-9586-9dd253b0f546"
+    },
+    "double_gong12": {
+      "__uuid__": "6d617381-9305-43af-96b1-d84bf1613f0c"
+    },
+    "double_gong13": {
+      "__uuid__": "570c9fb7-6076-43c7-8b84-94e57c7988ae"
+    },
+    "double_gun_1": {
+      "__uuid__": "f7ef2827-5ddb-4588-b9cb-ab0243b814d6"
+    },
+    "double_gun_2": {
+      "__uuid__": "bc146e6a-4d86-4a74-8b53-6f644a08ab1f"
+    },
+    "double_gun_21": {
+      "__uuid__": "56141ed5-8b24-471e-98ec-beb0661f0f50"
+    },
+    "double_gun_22": {
+      "__uuid__": "fa250e1d-63a6-46aa-9a5c-f044adf4520a"
+    },
+    "double_gun_23": {
+      "__uuid__": "b8062110-592a-4879-b92a-566167aa07e5"
+    },
+    "double_gun_24": {
+      "__uuid__": "1902c27d-5856-4e52-a445-8cddb8b2976a"
+    },
+    "double_gun_25": {
+      "__uuid__": "f9a6bbe8-bd99-4c50-84ed-d6ca396ac9d1"
+    },
+    "double_gun_3": {
+      "__uuid__": "53aefd85-11e4-4845-883b-f37f95e6ab2a"
+    },
+    "double_gun_4": {
+      "__uuid__": "9a28a78e-7cc9-42e6-8941-d204af8b7317"
+    },
+    "double_gun_5": {
+      "__uuid__": "9f9c18f3-482a-44f8-a5dc-c1c422324ef2"
+    },
+    "double_gun_6": {
+      "__uuid__": "a9f010a3-add4-4d28-baea-73d3ba62bd15"
+    },
+    "double_gun_7": {
+      "__uuid__": "b7252efd-7945-4f92-aa9c-c3feccc4e042"
+    },
+    "double_gun_8": {
+      "__uuid__": "c65adc2c-0f7b-49bf-bf00-5da24f788ccc"
+    },
+    "double_gun_9": {
+      "__uuid__": "57bcca9b-d6bc-487d-bf5b-5bdae7b490f3"
+    },
+    "double_jian01": {
+      "__uuid__": "6cee46f0-5da9-4230-bd5b-839636003e62"
+    },
+    "double_jian02": {
+      "__uuid__": "77753e37-76ad-41d5-a4b6-b3fb6b472b43"
+    },
+    "double_jian03": {
+      "__uuid__": "7dfb76ec-0802-4073-bcfb-34d9cae0ec50"
+    },
+    "double_jian04": {
+      "__uuid__": "d7c58e2e-0160-4871-a841-16d1d18ce6d0"
+    },
+    "double_jian05": {
+      "__uuid__": "50cb7391-2e83-495f-a023-497eea960ec8"
+    },
+    "double_jian06": {
+      "__uuid__": "4a004628-c162-468a-ac3a-9bd2c9d5085e"
+    },
+    "double_jian07": {
+      "__uuid__": "38e27cda-3d8d-454e-bcbd-ce0472ac9ace"
+    },
+    "double_jian08": {
+      "__uuid__": "4b0b6f72-be57-4624-b2f0-57e4d662594b"
+    },
+    "double_jian09": {
+      "__uuid__": "8f158d28-f59b-49df-9b91-1d26c2e324a4"
+    },
+    "double_jian10": {
+      "__uuid__": "cc7dc321-2b24-418d-ad5d-0abfce0ee0e9"
+    },
+    "double_jian11": {
+      "__uuid__": "98bac061-70f6-4f2b-bfb9-812c972d0a31"
+    },
+    "double_jian12": {
+      "__uuid__": "4c8e4978-2099-4327-9b6f-8522f4c663e8"
+    },
+    "double_jian13": {
+      "__uuid__": "6bd4df7e-59b4-4652-aaea-d2b996fd421b"
+    },
+    "double_shen01": {
+      "__uuid__": "875294ac-e381-41df-b766-d7affd65ae0f"
+    },
+    "double_shen02": {
+      "__uuid__": "7f5813b0-8a0e-4d08-9855-c8a8b3de19af"
+    },
+    "qiang_attack01": {
+      "__uuid__": "b1e79860-6a58-4350-b39b-549fa810a849"
+    },
+    "qiang_attack02": {
+      "__uuid__": "f95cce7c-d7c2-4d37-b395-1f97605c04ea"
+    },
+    "qiang_attack03": {
+      "__uuid__": "c9ef4724-04dd-417c-a7a0-f4b5606fdb0a"
+    }
+  }
+}

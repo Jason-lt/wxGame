@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.931_20180628/assets/resources/table/ddz_poker
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -196,40 +196,6 @@ zhangman
 
 679
 
-ddz_big_2.png.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-373826d0b6002d2e29ba43209bb7c4d3
-2018-05-16T07:05:23.647999Z
-19393
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-678
-
 ddz_card_fore_back_middle.png.meta
 file
 
@@ -263,6 +229,40 @@ zhangman
 
 
 696
+
+ddz_big_2.png.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+373826d0b6002d2e29ba43209bb7c4d3
+2018-05-16T07:05:23.647999Z
+19393
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+678
 
 ddz_onpuker_hui9sprite.png
 file
@@ -298,40 +298,6 @@ has-props
 
 1323
 
-ddz_b_golden_2.png.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-a390a7255073b709b0e075f3e97b6766
-2018-05-16T07:05:23.647999Z
-19393
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-684
-
 ddz_0000.png
 file
 
@@ -366,18 +332,17 @@ has-props
 
 7448
 
-ddz_0001.png
+ddz_b_golden_2.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-57228c16a0882e97fb39248e2821a6a4
+a390a7255073b709b0e075f3e97b6766
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
-has-props
 
 
 
@@ -398,7 +363,8 @@ has-props
 
 
 
-7189
+
+684
 
 ddz_small_4.png.meta
 file
@@ -433,6 +399,40 @@ zhangman
 
 
 680
+
+ddz_0001.png
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+57228c16a0882e97fb39248e2821a6a4
+2018-05-16T07:05:23.647999Z
+19393
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7189
 
 ddz_b_red_3.png.meta
 file
@@ -1012,6 +1012,74 @@ has-props
 
 1734
 
+ddz_dizhutag.png.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+116b622663f07f87260de83838b8615e
+2018-05-16T07:05:23.647999Z
+19393
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+681
+
+ddz_b_black_8.png
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+8b76a2e16605067bb562a233e14d069b
+2018-05-16T07:05:23.647999Z
+19393
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1692
+
 ddz_b_black_12.png.meta
 file
 
@@ -1080,14 +1148,14 @@ has-props
 
 3250
 
-ddz_b_black_8.png
+ddz_b_black_9.png
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-8b76a2e16605067bb562a233e14d069b
+96026cfc6a1197de53f336e35b1f7728
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
@@ -1112,41 +1180,7 @@ has-props
 
 
 
-1692
-
-ddz_dizhutag.png.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-116b622663f07f87260de83838b8615e
-2018-05-16T07:05:23.647999Z
-19393
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-681
+1718
 
 ddz_0001.png.meta
 file
@@ -1181,40 +1215,6 @@ zhangman
 
 
 679
-
-ddz_b_black_9.png
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-96026cfc6a1197de53f336e35b1f7728
-2018-05-16T07:05:23.647999Z
-19393
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1718
 
 ddz_big_3.png.meta
 file
@@ -1318,40 +1318,6 @@ has-props
 
 1977
 
-ddz_b_black_10.png
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-3124e15fdd5a29b29f7d45be3e2be131
-2018-05-16T07:05:23.647999Z
-19393
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1387
-
 ddz_b_red_12.png
 file
 
@@ -1385,6 +1351,40 @@ has-props
 
 
 1670
+
+ddz_b_black_10.png
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+3124e15fdd5a29b29f7d45be3e2be131
+2018-05-16T07:05:23.647999Z
+19393
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1387
 
 ddz_b_black_11.png
 file
@@ -1420,17 +1420,18 @@ has-props
 
 1828
 
-ddz_b_red_0.png.meta
+ddz_dizhutag.png
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-6b2ed55a1a940178752f97f9ff79aecb
+587ae3561661e2807c3002b418c382e9
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
+has-props
 
 
 
@@ -1451,8 +1452,7 @@ zhangman
 
 
 
-
-682
+7027
 
 ddz_b_black_12.png
 file
@@ -1488,48 +1488,14 @@ has-props
 
 1563
 
-ddz_dizhutag.png
+ddz_b_red_0.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-587ae3561661e2807c3002b418c382e9
-2018-05-16T07:05:23.647999Z
-19393
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7027
-
-ddz_b_golden_3.png.meta
-file
-
-
-
-
-2018-09-11T17:41:38.000000Z
-ddf3cb3882f3959d0cd3bf91ef6986f6
+6b2ed55a1a940178752f97f9ff79aecb
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
@@ -1554,7 +1520,7 @@ zhangman
 
 
 
-686
+682
 
 ddz_big_0.png
 file
@@ -1590,14 +1556,14 @@ has-props
 
 1934
 
-ddz_b_black_0.png.meta
+ddz_b_golden_3.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-a012f2493b27ddf27d4981a4ac9c6431
+ddf3cb3882f3959d0cd3bf91ef6986f6
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
@@ -1622,7 +1588,7 @@ zhangman
 
 
 
-684
+686
 
 ddz_big_1.png
 file
@@ -1658,18 +1624,17 @@ has-props
 
 2787
 
-ddz_big_2.png
+ddz_b_black_0.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-84cdf5c1a49c62926705d147ca871f10
+a012f2493b27ddf27d4981a4ac9c6431
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
-has-props
 
 
 
@@ -1690,7 +1655,8 @@ has-props
 
 
 
-2569
+
+684
 
 ddz_card_fore_back_middle.png
 file
@@ -1726,17 +1692,18 @@ has-props
 
 1374
 
-ddz_b_red_4.png.meta
+ddz_big_2.png
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-4ab67ef128f0418cfbe451e889305fac
+84cdf5c1a49c62926705d147ca871f10
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
+has-props
 
 
 
@@ -1757,8 +1724,7 @@ zhangman
 
 
 
-
-686
+2569
 
 ddz_big_3.png
 file
@@ -1794,14 +1760,14 @@ has-props
 
 2659
 
-ddz_b_golden_7.png.meta
+ddz_b_red_4.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-e398b3910408e11377ccc81d4768bc08
+4ab67ef128f0418cfbe451e889305fac
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
@@ -1826,7 +1792,7 @@ zhangman
 
 
 
-683
+686
 
 ddz_big_4.png
 file
@@ -1861,6 +1827,40 @@ has-props
 
 
 3346
+
+ddz_b_golden_7.png.meta
+file
+
+
+
+
+2018-09-11T17:41:38.000000Z
+e398b3910408e11377ccc81d4768bc08
+2018-05-16T07:05:23.647999Z
+19393
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+683
 
 ddz_b_black_4.png.meta
 file
@@ -1998,18 +1998,17 @@ has-props
 
 1517
 
-ddz_b_golden_1.png
+ddz_joker_bigking.png.meta
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-eec97125f6c50ca7f3cfce93c2478c79
+cdc461e16b8300eb0288a3c1a51e252e
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
-has-props
 
 
 
@@ -2030,7 +2029,8 @@ has-props
 
 
 
-1564
+
+688
 
 ddz_b_black_8.png.meta
 file
@@ -2066,17 +2066,18 @@ zhangman
 
 682
 
-ddz_joker_bigking.png.meta
+ddz_b_golden_1.png
 file
 
 
 
 
 2018-09-11T17:41:38.000000Z
-cdc461e16b8300eb0288a3c1a51e252e
+eec97125f6c50ca7f3cfce93c2478c79
 2018-05-16T07:05:23.647999Z
 19393
 zhangman
+has-props
 
 
 
@@ -2097,8 +2098,7 @@ zhangman
 
 
 
-
-688
+1564
 
 ddz_b_golden_2.png
 file

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank_mine_bg",
+    "texture": "121uqhRH9HmqS5CBG+jRU2",
+    "rect": [
+      0,
+      0,
+      556,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      556,
+      119
+    ]
+  }
+}

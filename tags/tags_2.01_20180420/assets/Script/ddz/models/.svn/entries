@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.01_20180420/assets/Script/ddz/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -502,40 +502,6 @@ zhangman
 
 7602
 
-DetailsModel.js.meta
-file
-
-
-
-
-2018-09-11T17:44:35.000000Z
-a7c816af7ad3bc62516adda473bef360
-2018-04-14T16:45:29.437985Z
-17875
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 ConfigRoomSession.js.meta
 file
 
@@ -570,17 +536,17 @@ xujing
 
 197
 
-SeatInfo.js.meta
+DetailsModel.js.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-aafbf8042c46526d39082ed26bff9691
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+a7c816af7ad3bc62516adda473bef360
+2018-04-14T16:45:29.437985Z
+17875
+liaotao
 
 
 
@@ -604,14 +570,14 @@ xujing
 
 197
 
-QuickStartModel.js.meta
+SeatInfo.js.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-1de6cebd6511c5f5f2f79767b365dfe8
+aafbf8042c46526d39082ed26bff9691
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -672,14 +638,14 @@ xujing
 
 197
 
-MatchModel.js.meta
+QuickStartModel.js.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-324bd05ff5560c4d2d95694a2172d9f4
+1de6cebd6511c5f5f2f79767b365dfe8
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -740,14 +706,14 @@ xujing
 
 197
 
-ConfigRoomSession.js
+MatchModel.js.meta
 file
 
 
 
 
 2018-09-11T17:44:35.000000Z
-2fc658098556ffac73f8d1ceaf940b97
+324bd05ff5560c4d2d95694a2172d9f4
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -772,7 +738,7 @@ xujing
 
 
 
-1732
+197
 
 DetailsModel.js
 file
@@ -807,6 +773,40 @@ liaotao
 
 
 4292
+
+ConfigRoomSession.js
+file
+
+
+
+
+2018-09-11T17:44:35.000000Z
+2fc658098556ffac73f8d1ceaf940b97
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1732
 
 HistoryModel.js.meta
 file

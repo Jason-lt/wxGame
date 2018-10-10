@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_6.0_20180721/assets/resources/ani
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -223,6 +223,12 @@ yuhongbin
 treasure_box
 dir
 
+pop_order_info
+dir
+
+look
+dir
+
 rideoBtnTick.anim
 file
 
@@ -256,12 +262,6 @@ liaotao
 
 
 1509
-
-look
-dir
-
-pop_order_info
-dir
 
 btnTick.anim.meta
 file
@@ -331,6 +331,9 @@ yuhongbin
 
 88
 
+huodejipaiqi
+dir
+
 jipaiqi.meta
 file
 
@@ -364,9 +367,6 @@ yuhongbin
 
 
 88
-
-huodejipaiqi
-dir
 
 gongzhonghao.meta
 file
@@ -578,17 +578,17 @@ yuhongbin
 
 88
 
-ddz_bq.meta
+jinji.meta
 file
 
 
 
 
 2018-09-11T17:44:21.000000Z
-23128992bf1b5a189376cddafd965eb5
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+3e2597156bb2127d4736991aa4e6b183
+2018-05-07T02:56:35.349228Z
+18942
+yuhongbin
 
 
 
@@ -612,17 +612,17 @@ xujing
 
 88
 
-jinji.meta
+ddz_bq.meta
 file
 
 
 
 
 2018-09-11T17:44:21.000000Z
-3e2597156bb2127d4736991aa4e6b183
-2018-05-07T02:56:35.349228Z
-18942
-yuhongbin
+23128992bf1b5a189376cddafd965eb5
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 

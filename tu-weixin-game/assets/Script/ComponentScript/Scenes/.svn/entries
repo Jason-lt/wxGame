@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tu-weixin-game/assets/Script/ComponentScript/Scenes
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-06T02:03:27.018688Z
-20884
+2018-09-28T08:13:12.035609Z
+21027
 liaotao
 
 
@@ -25,74 +25,6 @@ liaotao
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-MatchListScene.js
-file
-
-
-
-
-2018-09-11T17:38:58.000000Z
-1023199c15f6d4827fcff9247233b6e0
-2018-08-27T06:54:59.082518Z
-20787
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5642
-
-DdzTAbleChatAni.js.meta
-file
-
-
-
-
-2018-09-11T17:38:58.000000Z
-501610b982497f9616b73d059cb41bc1
-2018-05-09T09:44:54.126579Z
-19059
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 Ddz.js.meta
 file
@@ -128,9 +60,77 @@ xujing
 
 197
 
+DdzTAbleChatAni.js.meta
+file
+
+
+
+
+2018-09-11T17:38:58.000000Z
+501610b982497f9616b73d059cb41bc1
+2018-05-09T09:44:54.126579Z
+19059
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+MatchListScene.js
+file
+
+
+
+
+2018-09-11T17:38:58.000000Z
+1023199c15f6d4827fcff9247233b6e0
+2018-08-27T06:54:59.082518Z
+20787
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5642
+
 DdzTableScene.js
 file
-21027
+
 
 
 
@@ -230,6 +230,74 @@ liaotao
 
 197
 
+ddz_rank.js.meta
+file
+
+
+
+
+2018-09-11T17:38:58.000000Z
+89445cf620035c00d0b9407653389d11
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+Ddz.js
+file
+
+
+
+
+2018-09-28T04:00:15.000000Z
+d59dfd37be79e97dc476e3a8ed4a5002
+2018-09-28T08:13:12.035609Z
+21027
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21462
+
 DdzTableChatAni.js
 file
 
@@ -264,48 +332,14 @@ liaotao
 
 6966
 
-Ddz.js
-file
-21027
-
-
-
-2018-09-28T04:00:15.000000Z
-d59dfd37be79e97dc476e3a8ed4a5002
-2018-09-28T08:13:12.035609Z
-21027
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21462
-
-ddz_rank.js.meta
+DdzTableAniPlayer.js.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-89445cf620035c00d0b9407653389d11
+3f528bb4a6e36486b8719f858e55472b
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -366,43 +400,9 @@ liaotao
 
 197
 
-DdzTableAniPlayer.js.meta
-file
-
-
-
-
-2018-09-11T17:38:58.000000Z
-3f528bb4a6e36486b8719f858e55472b
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 ddz_reward.js
 file
-21027
+
 
 
 

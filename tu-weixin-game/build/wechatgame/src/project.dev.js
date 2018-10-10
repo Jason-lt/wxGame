@@ -29508,7 +29508,6 @@ require = function() {
         }, successcb, failcb);
       },
       getUserFeatureInfo: function getUserFeatureInfo() {
-        var that = this;
         var _url = "https://iploc.ywdier.com/api/iploc5/search/city";
         wx.request({
           url: _url,
@@ -29519,6 +29518,30 @@ require = function() {
             ty.NotificationCenter.trigger(ty.EventType.GET_USER_FEATURE_SUCCESS, res);
           }
         });
+      },
+      getShareValueConfig: function getShareValueConfig() {
+        var timeStamp = new Date().getTime();
+        var reqObj = {};
+        reqObj.act = "api.getUserFeature";
+        reqObj.time = 153248531;
+        reqObj.cloud_id = ty.SystemInfo.cloudid;
+        reqObj.game_id = ty.SystemInfo.gameId;
+        reqObj.user_id = 10003;
+        var signStr = this.getConfigSignStr(reqObj);
+        hall.LOGE("", "file = [PropagateInterface] fun = [getShareValueConfig] _sign = " + JSON.stringify(signStr));
+        var paramStrList = [];
+        for (var key in reqObj) paramStrList.push(key + "=" + reqObj[key]);
+        paramStrList.push("sign=" + signStr);
+        var finalUrl = "https://analy.ywdier.com/?" + paramStrList.join("&");
+        var successcb = function successcb(ret) {
+          ty.NotificationCenter.trigger(ty.EventType.GET_USER_FEATURE_SUCCESS, ret);
+        };
+        var failcb = function failcb(ret) {
+          ty.NotificationCenter.trigger(ty.EventType.GET_USER_FEATURE_FAIL, ret);
+        };
+        ty.HttpUtil.httpGet({
+          url: finalUrl
+        }, successcb, failcb);
       },
       getConfigSignStr: function getConfigSignStr(reqObj) {
         var sortedKeys = Object.keys(reqObj).sort();
@@ -32053,7 +32076,7 @@ require = function() {
       clientIdInt: 23142,
       cloudid: 24,
       version: 6.995,
-      loginUrl: "http://192.168.20.108:8000/",
+      loginUrl: "https://openrich.nalrer.cn/",
       deviceId: "wechatGame",
       wxAppId: "wxbfebdafc2fc60b54",
       appId: 9999,
@@ -33511,6 +33534,7 @@ require = function() {
             hall.LOGD(null, "userId:" + ty.UserInfo.userId + " userName:" + ty.UserInfo.userName + " userPic:" + ty.UserInfo.userPic);
             ty.PropagateInterface.getUserFeatureInfo();
             ty.PropagateInterface.getShareConfigInfo();
+            ty.PropagateInterface.getShareValueConfig();
             var token = result.token;
             hall.LOGD(null, "token:" + token);
             wx.setStorage({

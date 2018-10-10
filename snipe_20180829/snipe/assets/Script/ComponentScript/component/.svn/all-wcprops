@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/newsvn/hall-js/!svn/ver/20889/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component
 END
 countDown.js.meta
 K 25
@@ -27,11 +27,11 @@ svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_bucket.js
 END
-shot_gun.js.meta
+shot_toast_tips.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 111
-/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_gun.js.meta
+V 118
+/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_toast_tips.js.meta
 END
 shot_bottle.js.meta
 K 25
@@ -39,11 +39,11 @@ svn:wc:ra_dav:version-url
 V 114
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_bottle.js.meta
 END
-shot_toast_tips.js.meta
+shot_gun.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 118
-/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_toast_tips.js.meta
+V 111
+/newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_gun.js.meta
 END
 shot_rank.js.meta
 K 25
@@ -69,11 +69,11 @@ svn:wc:ra_dav:version-url
 V 113
 /newsvn/hall-js/!svn/ver/20828/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/main_toast.js.meta
 END
-shot_gun.js
+shot_toast_tips.js
 K 25
 svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/20889/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_gun.js
+V 113
+/newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_toast_tips.js
 END
 shot_bottle.js
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_bottle.js
 END
-shot_toast_tips.js
+shot_gun.js
 K 25
 svn:wc:ra_dav:version-url
-V 113
-/newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_toast_tips.js
+V 106
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_gun.js
 END
 shot_rank.js
 K 25
 svn:wc:ra_dav:version-url
 V 107
-/newsvn/hall-js/!svn/ver/20839/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_rank.js
+/newsvn/hall-js/!svn/ver/20989/h5/snipe_20180829/snipe/assets/Script/ComponentScript/component/shot_rank.js
 END
 jump_pause.js.meta
 K 25

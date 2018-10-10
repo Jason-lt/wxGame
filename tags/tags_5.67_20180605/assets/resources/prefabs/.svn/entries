@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.67_20180605/assets/resources/prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ liaotao
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-gameTasks_small.anim.meta
-file
-
-
-
-
-2018-09-11T17:42:34.000000Z
-ebc54f6b588d507bb3475a7d1e6d47a1
-2018-05-04T03:36:37.686782Z
-18752
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
 
 enter_queue.prefab
 file
@@ -94,17 +60,17 @@ liaotao
 
 22349
 
-ddz_item_shareMoments.prefab
+gameTasks_small.anim.meta
 file
 
 
 
 
 2018-09-11T17:42:34.000000Z
-c7cf1f1024d53f5c0722319cb99ed0bc
-2018-05-18T12:53:12.363715Z
-19483
-zhangman
+ebc54f6b588d507bb3475a7d1e6d47a1
+2018-05-04T03:36:37.686782Z
+18752
+liaotao
 
 
 
@@ -126,7 +92,7 @@ zhangman
 
 
 
-34354
+88
 
 ddz_window_gameDetail.prefab
 file
@@ -161,6 +127,40 @@ zhangman
 
 
 118963
+
+ddz_item_shareMoments.prefab
+file
+
+
+
+
+2018-09-11T17:42:34.000000Z
+c7cf1f1024d53f5c0722319cb99ed0bc
+2018-05-18T12:53:12.363715Z
+19483
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34354
 
 lottery_win_close.anim
 file
@@ -298,40 +298,6 @@ liaotao
 
 35926
 
-matchNode.prefab
-file
-
-
-
-
-2018-09-11T17:42:34.000000Z
-d2cf6fcfa265b5eb0547db59e29ff679
-2018-05-14T11:32:31.590661Z
-19303
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-75481
-
 treasure_box.prefab
 file
 
@@ -366,6 +332,40 @@ liaotao
 
 25797
 
+matchNode.prefab
+file
+
+
+
+
+2018-09-11T17:42:34.000000Z
+d2cf6fcfa265b5eb0547db59e29ff679
+2018-05-14T11:32:31.590661Z
+19303
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75481
+
 userChat.prefab.meta
 file
 
@@ -377,40 +377,6 @@ file
 2018-04-13T09:20:38.742162Z
 17836
 xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
-collectDeskTop.prefab.meta
-file
-
-
-
-
-2018-09-11T17:42:34.000000Z
-23e6f8c954da82bb8bf90cc339a6db14
-2018-05-09T10:50:04.413715Z
-19064
-liaotao
 
 
 
@@ -467,6 +433,40 @@ xujing
 
 
 1193
+
+collectDeskTop.prefab.meta
+file
+
+
+
+
+2018-09-11T17:42:34.000000Z
+23e6f8c954da82bb8bf90cc339a6db14
+2018-05-09T10:50:04.413715Z
+19064
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 ddz_pop_order_info.prefab
 file
@@ -1015,40 +1015,6 @@ liaotao
 
 57642
 
-gameTasks_small.anim
-file
-
-
-
-
-2018-09-11T17:42:34.000000Z
-acea6063c3c7490b99a6af17951bab20
-2018-05-04T03:36:37.686782Z
-18752
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-423
-
 officialAccountGuide.prefab.meta
 file
 
@@ -1082,6 +1048,40 @@ liaotao
 
 
 116
+
+gameTasks_small.anim
+file
+
+
+
+
+2018-09-11T17:42:34.000000Z
+acea6063c3c7490b99a6af17951bab20
+2018-05-04T03:36:37.686782Z
+18752
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+423
 
 dissolveNode.prefab
 file
@@ -1188,40 +1188,6 @@ xujing
 
 116
 
-conversionSuccess.prefab
-file
-
-
-
-
-2018-09-11T17:42:34.000000Z
-32da4d9c484ee67737e187b5f32a99ce
-2018-05-05T13:26:33.715980Z
-18881
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5492
-
 ddz_window_history.prefab.meta
 file
 
@@ -1255,6 +1221,40 @@ liaotao
 
 
 116
+
+conversionSuccess.prefab
+file
+
+
+
+
+2018-09-11T17:42:34.000000Z
+32da4d9c484ee67737e187b5f32a99ce
+2018-05-05T13:26:33.715980Z
+18881
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5492
 
 adNode.prefab.meta
 file
@@ -1463,17 +1463,85 @@ xujing
 match
 dir
 
-choosePlayMode.prefab.meta
+ddz_window_save_match_result.prefab
 file
 
 
 
 
 2018-09-11T17:42:34.000000Z
-75f2da5c1920b032bc98ee4edded139b
-2018-05-09T16:11:59.654846Z
-19085
+de95c5d2e1658cb91a432aec503839f1
+2018-05-18T06:22:29.499579Z
+19452
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22420
+
+ddz_window_revival.prefab
+file
+
+
+
+
+2018-09-11T17:42:34.000000Z
+78c6beb7ece4a0db84a2c1d58560d658
+2018-06-01T09:45:17.216846Z
+19799
 liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30173
+
+ddz_window_match_rewards.prefab.meta
+file
+
+
+
+
+2018-09-11T17:42:34.000000Z
+b940d6a92b604603ce36103bb0e4a5cb
+2018-05-09T08:00:14.763783Z
+19054
+xiaochuntian
 
 
 
@@ -1531,50 +1599,16 @@ liaotao
 
 930
 
-ddz_window_match_rewards.prefab.meta
+choosePlayMode.prefab.meta
 file
 
 
 
 
 2018-09-11T17:42:34.000000Z
-b940d6a92b604603ce36103bb0e4a5cb
-2018-05-09T08:00:14.763783Z
-19054
-xiaochuntian
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
-ddz_window_revival.prefab
-file
-
-
-
-
-2018-09-11T17:42:34.000000Z
-78c6beb7ece4a0db84a2c1d58560d658
-2018-06-01T09:45:17.216846Z
-19799
+75f2da5c1920b032bc98ee4edded139b
+2018-05-09T16:11:59.654846Z
+19085
 liaotao
 
 
@@ -1597,41 +1631,7 @@ liaotao
 
 
 
-30173
-
-ddz_window_save_match_result.prefab
-file
-
-
-
-
-2018-09-11T17:42:34.000000Z
-de95c5d2e1658cb91a432aec503839f1
-2018-05-18T06:22:29.499579Z
-19452
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22420
+116
 
 conversionSuccess.prefab.meta
 file
@@ -1735,17 +1735,17 @@ liaotao
 
 88
 
-ddz_item_shareMoments.prefab.meta
+ddz_window_gameDetail.prefab.meta
 file
 
 
 
 
 2018-09-11T17:42:34.000000Z
-c0288802a20ec951d5642baa25273900
-2018-05-15T09:01:30.602669Z
-19372
-zhangman
+102ff69380ce9119dd24c1b5d7e0c6e4
+2018-04-14T12:25:46.166314Z
+17866
+liaotao
 
 
 
@@ -1769,17 +1769,17 @@ zhangman
 
 116
 
-ddz_window_gameDetail.prefab.meta
+ddz_item_shareMoments.prefab.meta
 file
 
 
 
 
 2018-09-11T17:42:34.000000Z
-102ff69380ce9119dd24c1b5d7e0c6e4
-2018-04-14T12:25:46.166314Z
-17866
-liaotao
+c0288802a20ec951d5642baa25273900
+2018-05-15T09:01:30.602669Z
+19372
+zhangman
 
 
 

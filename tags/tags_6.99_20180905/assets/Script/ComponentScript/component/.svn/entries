@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_6.99_20180905/assets/Script/ComponentScript/component
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ liaotao
 
 3767
 
-ddz_getRewardHistory.js
-file
-
-
-
-
-2018-09-11T17:42:56.000000Z
-11909ea18afab546ff36f9eb82105a2f
-2018-06-12T09:59:57.384178Z
-19937
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1838
-
 MatchRankProgressScript.js.meta
 file
 
@@ -127,6 +93,40 @@ xujing
 
 
 197
+
+ddz_getRewardHistory.js
+file
+
+
+
+
+2018-09-11T17:42:56.000000Z
+11909ea18afab546ff36f9eb82105a2f
+2018-06-12T09:59:57.384178Z
+19937
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1838
 
 ddz_cell_roomlist.js
 file
@@ -162,17 +162,17 @@ liaotao
 
 5099
 
-ddz_icon_newer_gifts.js.meta
+ddz_rewardCell.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-b6498260147799b6507a6dec95949b47
-2018-06-23T07:50:27.268912Z
-20103
-zhangman
+b18401134a8fc82185806b441c6b5abb
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -196,17 +196,17 @@ zhangman
 
 197
 
-ddz_rewardCell.js.meta
+ddz_icon_newer_gifts.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-b18401134a8fc82185806b441c6b5abb
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+b6498260147799b6507a6dec95949b47
+2018-06-23T07:50:27.268912Z
+20103
+zhangman
 
 
 
@@ -332,40 +332,6 @@ xujing
 
 197
 
-ControlPanel.js.meta
-file
-
-
-
-
-2018-09-11T17:42:56.000000Z
-81fb4ad80bb217331290da3e6d21cf35
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 ddz_rewardDetail_small.js.meta
 file
 
@@ -400,16 +366,16 @@ liaotao
 
 197
 
-ProgressBarSub.js.meta
+ControlPanel.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-c0d688d4df6ea6647a06f80e3307f863
-2018-05-07T11:58:03.886918Z
-18969
+81fb4ad80bb217331290da3e6d21cf35
+2018-04-13T09:20:38.742162Z
+17836
 xujing
 
 
@@ -444,6 +410,40 @@ file
 37f62c7d1b175e4866a543e44fba5ad8
 2018-04-13T09:20:38.742162Z
 17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+ProgressBarSub.js.meta
+file
+
+
+
+
+2018-09-11T17:42:56.000000Z
+c0d688d4df6ea6647a06f80e3307f863
+2018-05-07T11:58:03.886918Z
+18969
 xujing
 
 
@@ -1080,40 +1080,6 @@ liaotao
 
 9266
 
-ddz_bubble_tips.js.meta
-file
-
-
-
-
-2018-09-11T17:42:56.000000Z
-c04cc0b60275f7aadf8f4faecebfe96a
-2018-06-29T02:00:44.138712Z
-20178
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 ddz_zuanshiBox.js.meta
 file
 
@@ -1148,16 +1114,16 @@ liaotao
 
 197
 
-ddz_gameDetail_cell.js.meta
+ddz_bubble_tips.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-555eb1bde297e5e90ee49967c419b0de
-2018-04-14T12:25:46.166314Z
-17866
+c04cc0b60275f7aadf8f4faecebfe96a
+2018-06-29T02:00:44.138712Z
+20178
 liaotao
 
 
@@ -1215,6 +1181,40 @@ liaotao
 
 
 5227
+
+ddz_gameDetail_cell.js.meta
+file
+
+
+
+
+2018-09-11T17:42:56.000000Z
+555eb1bde297e5e90ee49967c419b0de
+2018-04-14T12:25:46.166314Z
+17866
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 personInfoSelect.js
 file
@@ -1318,40 +1318,6 @@ liaotao
 
 26195
 
-ddz_cell_match_reward.js.meta
-file
-
-
-
-
-2018-09-11T17:42:56.000000Z
-efe2fdd7f7be974ca56c37a141f2b02d
-2018-05-09T07:41:02.366442Z
-19051
-xiaochuntian
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 ddz_cell_mall.js
 file
 
@@ -1385,6 +1351,40 @@ liaotao
 
 
 2966
+
+ddz_cell_match_reward.js.meta
+file
+
+
+
+
+2018-09-11T17:42:56.000000Z
+efe2fdd7f7be974ca56c37a141f2b02d
+2018-05-09T07:41:02.366442Z
+19051
+xiaochuntian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 ddz_cell_matchlist.js
 file
@@ -1420,40 +1420,6 @@ liaotao
 
 4043
 
-ddz_progress.js.meta
-file
-
-
-
-
-2018-09-11T17:42:56.000000Z
-ee6d8d68b662e14c3f8e40354ff32037
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 ddz_toast_cell.js
 file
 
@@ -1488,17 +1454,17 @@ liaotao
 
 1488
 
-ddz_banner_close.js
+ddz_progress.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-d48dc138ba792367a6804d84fe71c4e6
-2018-08-27T06:54:59.082518Z
-20787
-liaotao
+ee6d8d68b662e14c3f8e40354ff32037
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -1520,7 +1486,7 @@ liaotao
 
 
 
-1168
+197
 
 personalAssets.js.meta
 file
@@ -1556,6 +1522,40 @@ liaotao
 
 197
 
+ddz_banner_close.js
+file
+
+
+
+
+2018-09-11T17:42:56.000000Z
+d48dc138ba792367a6804d84fe71c4e6
+2018-08-27T06:54:59.082518Z
+20787
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1168
+
 ddz_gameDetail_cell.js
 file
 
@@ -1590,17 +1590,17 @@ zhangman
 
 1161
 
-ddz_notify_cell.js.meta
+ddz_buttonList.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-daa999faa99add58507bc4d7d682249b
-2018-04-16T11:00:29.150532Z
-17957
-liaotao
+bf8762a92a7a6d2e9f23ec625cd70a58
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -1624,17 +1624,17 @@ liaotao
 
 197
 
-ddz_buttonList.js.meta
+ddz_notify_cell.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-bf8762a92a7a6d2e9f23ec625cd70a58
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+daa999faa99add58507bc4d7d682249b
+2018-04-16T11:00:29.150532Z
+17957
+liaotao
 
 
 
@@ -1760,6 +1760,40 @@ liaotao
 
 197
 
+ddz_redPacket.js
+file
+
+
+
+
+2018-09-11T17:42:56.000000Z
+fa32335c01096ad573bf98081085e41b
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1298
+
 ProgressBarSub.js
 file
 
@@ -1794,17 +1828,17 @@ xujing
 
 2063
 
-ddz_redPacket.js
+videoIcon.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-fa32335c01096ad573bf98081085e41b
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+3b74c87fc828a89f1c734c2c76066f71
+2018-05-29T06:26:20.781273Z
+19733
+liaotao
 
 
 
@@ -1826,7 +1860,7 @@ xujing
 
 
 
-1298
+197
 
 ddz_item_createRoom.js.meta
 file
@@ -1862,16 +1896,16 @@ zhangman
 
 197
 
-videoIcon.js.meta
+enter_queue.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-3b74c87fc828a89f1c734c2c76066f71
-2018-05-29T06:26:20.781273Z
-19733
+4837fda1649f404c8fac3d834d5b6ade
+2018-05-16T08:19:51.671595Z
+19394
 liaotao
 
 
@@ -1930,17 +1964,17 @@ zhangman
 
 1272
 
-enter_queue.js.meta
+ddz_tableView.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-4837fda1649f404c8fac3d834d5b6ade
-2018-05-16T08:19:51.671595Z
-19394
-liaotao
+b5c632ab87e30aff962396b304474db6
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -1963,40 +1997,6 @@ liaotao
 
 
 197
-
-ddz_notify_cell.js
-file
-
-
-
-
-2018-09-11T17:42:56.000000Z
-9c7c2630640c66c9be9bdd7d595572c4
-2018-09-06T02:03:27.018688Z
-20884
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3462
 
 ddz_buttonList.js
 file
@@ -2032,17 +2032,17 @@ xujing
 
 5652
 
-ddz_tableView.js.meta
+ddz_notify_cell.js
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-b5c632ab87e30aff962396b304474db6
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+9c7c2630640c66c9be9bdd7d595572c4
+2018-09-06T02:03:27.018688Z
+20884
+liaotao
 
 
 
@@ -2064,7 +2064,7 @@ xujing
 
 
 
-197
+3462
 
 ddz_cell_mall.js.meta
 file
@@ -2100,17 +2100,17 @@ liaotao
 
 197
 
-ddz_item_ft_chat.js.meta
+ColorBg.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-399d392bc1fb32cad9399799e2393d06
-2018-05-10T10:04:25.913197Z
-19118
-zhangman
+f44e8748aa3565738ec59317b81cc4e2
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -2134,17 +2134,17 @@ zhangman
 
 197
 
-ColorBg.js.meta
+ddz_item_ft_chat.js.meta
 file
 
 
 
 
 2018-09-11T17:42:56.000000Z
-f44e8748aa3565738ec59317b81cc4e2
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+399d392bc1fb32cad9399799e2393d06
+2018-05-10T10:04:25.913197Z
+19118
+zhangman
 
 
 

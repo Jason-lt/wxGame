@@ -98,11 +98,11 @@ cc.Class({
                 default:
                     break;
             }
+            shot.Share.resultType = 0;
         }else {
             hall.MsgBoxManager.showToast({title : "可入群查看自己的排行哦~"});
         }
 
-        shot.Share.resultType = 0;
     },
     showRankListForShare : function () {
         // hall.LOGD("==","file = [ddz_rank] fun = [showRankListForShare] data = " + JSON.stringify(this.shareTicket));
@@ -145,6 +145,7 @@ cc.Class({
     onRankButton : function () {
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["groupRankAtRank"]);
         var shareType = shot.Share.onShareType.clickStatShareTypeRankList;
+        shot.gameModel.shareRec = 0;
         shot.Share.shareWithType(shareType);
     },
     onStartButton : function () {

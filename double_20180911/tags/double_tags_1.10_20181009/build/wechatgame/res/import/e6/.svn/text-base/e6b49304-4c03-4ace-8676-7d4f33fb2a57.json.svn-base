@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huang guan 01",
+    "texture": "8fk76n9RhOgJ/W7h3ICU20",
+    "rect": [
+      0,
+      0,
+      75,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      88
+    ]
+  }
+}

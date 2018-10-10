@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles
 END
 pingzi_05_01.png
 K 25
@@ -51,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_09_04.png
 END
-pingzi_01.png
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01.png
-END
 pingzi_10_01.png
 K 25
 svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_10_01.png
+END
+pingzi_01.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01.png
 END
 pingzi_10_02.png
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_10_03.png
 END
-pingzi_04_01.png
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_01.png
-END
 pingzi_10_04.png
 K 25
 svn:wc:ra_dav:version-url
 V 87
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_10_04.png
+END
+pingzi_04_01.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_01.png
 END
 pingzi_04_02.png
 K 25
@@ -175,13 +175,13 @@ pingzi_01_posui01.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui01.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui01.png
 END
 pingzi_01_posui02.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui02.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui02.png
 END
 pingzi_02_posui01.png
 K 25
@@ -189,41 +189,23 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui01.png
 END
-pingzi_03_posui01.png
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui01.png
-END
-pingzi_01_posui03.png
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui03.png
-END
 pingzi_02_posui02.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui02.png
 END
-pingzi_04_posui01.png
+pingzi_01_posui03.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui01.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui03.png
 END
-pingzi_03_posui02.png
+pingzi_03_posui01.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui02.png
-END
-pingzi_01_posui04.png
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui04.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui01.png
 END
 pingzi_02_posui03.png
 K 25
@@ -231,23 +213,23 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui03.png
 END
-pingzi_04_posui02.png
+pingzi_01_posui04.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui02.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui04.png
 END
-pingzi_03_posui03.png
+pingzi_03_posui02.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui03.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui02.png
 END
-pingzi_01_posui05.png
+pingzi_04_posui01.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui05.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui01.png
 END
 pingzi_02_posui04.png
 K 25
@@ -255,23 +237,23 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui04.png
 END
-pingzi_04_posui03.png
+pingzi_01_posui05.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui03.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui05.png
 END
-pingzi_03_posui04.png
+pingzi_03_posui03.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui04.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui03.png
 END
-pingzi_01_posui06.png
+pingzi_04_posui02.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui06.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui02.png
 END
 pingzi_02_posui05.png
 K 25
@@ -279,23 +261,23 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui05.png
 END
-pingzi_04_posui04.png
+pingzi_01_posui06.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui04.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui06.png
 END
-pingzi_03_posui05.png
+pingzi_03_posui04.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui05.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui04.png
 END
-pingzi_01_posui07.png
+pingzi_04_posui03.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui07.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui03.png
 END
 pingzi_02_posui06.png
 K 25
@@ -303,17 +285,23 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui06.png
 END
-pingzi_04_posui05.png
+pingzi_01_posui07.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui05.png
+/newsvn/hall-js/!svn/ver/20930/h5/snipe_20180829/imageRes/shot_bottles/pingzi_01_posui07.png
 END
-pingzi_03_posui06.png
+pingzi_03_posui05.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui06.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui05.png
+END
+pingzi_04_posui04.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui04.png
 END
 pingzi_02_posui07.png
 K 25
@@ -321,17 +309,17 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui07.png
 END
-pingzi_04_posui06.png
+pingzi_03_posui06.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui06.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui06.png
 END
-pingzi_03_posui07.png
+pingzi_04_posui05.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui07.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui05.png
 END
 pingzi_02_posui08.png
 K 25
@@ -339,17 +327,17 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui08.png
 END
-pingzi_04_posui07.png
+pingzi_03_posui07.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui07.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui07.png
 END
-pingzi_03_posui08.png
+pingzi_04_posui06.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui08.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui06.png
 END
 pingzi_02_posui09.png
 K 25
@@ -357,17 +345,29 @@ svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_02_posui09.png
 END
-pingzi_04_posui08.png
+pingzi_03_posui08.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui08.png
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui08.png
+END
+pingzi_04_posui07.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui07.png
 END
 pingzi_03_posui09.png
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_03_posui09.png
+END
+pingzi_04_posui08.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/newsvn/hall-js/!svn/ver/20905/h5/snipe_20180829/imageRes/shot_bottles/pingzi_04_posui08.png
 END
 pingzi_04_posui09.png
 K 25

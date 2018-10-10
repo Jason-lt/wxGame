@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "double_animation_ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "baoxiang": {
+      "__uuid__": "1b193a9b-565d-4fd4-8c82-e7969a79335d"
+    },
+    "baoxiang0": {
+      "__uuid__": "b8611244-11b3-44a7-958c-470aa876c138"
+    },
+    "guangxian02": {
+      "__uuid__": "59109e43-6f69-416e-9058-5ba5bc56e80c"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bingjiling02",
+    "texture": "64ccd4d2-9170-4dd6-a9fb-69583c587eff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      93
+    ]
+  }
+}

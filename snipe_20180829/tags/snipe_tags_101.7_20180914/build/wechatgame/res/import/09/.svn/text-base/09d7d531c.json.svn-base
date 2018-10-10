@@ -1,0 +1,8028 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui06",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        358,
+        478,
+        24,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        26
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui08",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        385,
+        222,
+        36,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        42
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "pingzi_2",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_2",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "c08nXDL+9ED77T5LuhJYSP"
+            },
+            {
+              "__uuid__": "b5+40TpmhF94vilQ4qjdix"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "dc9KgJMuROTb74edZshpiP"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "posui",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 11
+        },
+        {
+          "__id__": 12
+        },
+        {
+          "__id__": 13
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "3fV5weHydJ8IjJ3yozAz8h"
+      },
+      "_opacity": 0
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui03",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "47XmfxVgtBMIz3aV3NSiN3"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "9eF0sZszlI6IiCFYIj3oYC"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 13,
+        "height": 35
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -1.2,
+        "y": 103
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui02",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "3bYUzWiLZPPLMMQfMpUBDb"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "d5mLp43V9LFKm4DlcXQqE2"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 19,
+        "height": 60
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -15,
+        "y": 91
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui04",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "fc/Y1OX1FLEKCYItll4WiL"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "11VIZhRhRP+p6poyok8Zd0"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 28,
+        "height": 56
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 7.3,
+        "y": 92.2
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui05",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "89dDH8hExOBLEtQ03mk31Z"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "4bXyUnMEJGy7EryAGC/nZM"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 20,
+        "height": 42
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -14,
+        "y": 64
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui06",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "88iBGHE3ZO27Sb2i0H/Daa"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "a40DhAoaxDOKpP4YmecYPU"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 35,
+        "height": 44
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 7,
+        "y": 63
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui08",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "63jQtfkkxLrL9QSMaX4qg+"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "51ho5fxptJE79/aKwrjLRe"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 36,
+        "height": 36
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 6,
+        "y": 31
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui07",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "229SKGGwhH/LMO4xERwM/h"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "14XbalbelKDIRlbw61mez7"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 24,
+        "height": 32
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -12,
+        "y": 39
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui09",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "bcBMeLwY5Ilo2RCHY0/MZt"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "72FQM5IWxN4KxJE49gVk4P"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 45,
+        "height": 24
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -2,
+        "y": 15
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui10",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 11
+          },
+          "_spriteFrame": {
+            "__uuid__": "e6JwJFtm5Fa6LCyVaNDuu4"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "93VHJAk/5OAIA0VoVHu24H"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 44,
+        "height": 12
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -1,
+        "y": 6
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_02_posui01",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 12
+          },
+          "_spriteFrame": {
+            "__uuid__": "211E+vPnNHxbSuhN9WICCV"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "eaaaUTVtFHmZr1t4A9nm1l"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 22,
+        "height": 46
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -1.2,
+        "y": 141
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "particlesystem",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.ParticleSystem",
+          "node": {
+            "__id__": 13
+          },
+          "_custom": true,
+          "_texture": {
+            "__uuid__": "02delMVqdBD70a/HSD99FK"
+          },
+          "_dstBlendFactor": 1,
+          "_totalParticles": 1000,
+          "_emissionRate": 0,
+          "_lifeVar": 0.1,
+          "_startColor": {
+            "__type__": "cc.Color",
+            "r": 92,
+            "g": 2,
+            "b": 121
+          },
+          "_endColor": {
+            "__type__": "cc.Color",
+            "r": 219,
+            "g": 28,
+            "b": 255
+          },
+          "_endColorVar": {
+            "__type__": "cc.Color"
+          },
+          "_angle": 270,
+          "_angleVar": 180,
+          "_startSize": 15,
+          "_startSizeVar": 5,
+          "_endSize": 15,
+          "_endSpinVar": 720,
+          "_posVar": {
+            "__type__": "cc.Vec2",
+            "x": 7,
+            "y": 7
+          },
+          "_positionType": 1,
+          "_gravity": {
+            "__type__": "cc.Vec2",
+            "x": 0.25,
+            "y": 0.8600000143051147
+          },
+          "_speed": 300,
+          "_speedVar": 100,
+          "_tangentialAccel": 0,
+          "_startRadius": 100
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "0bB5kLDzxA7bLafiBXtl/c"
+        },
+        "fileId": "473qtHplpIf5Q12EcG+LSU"
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 56.7
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui09",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        256,
+        703,
+        45,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        23
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01_posui04",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        423,
+        270,
+        32,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        32,
+        38
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui10",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        2,
+        716,
+        47,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        47,
+        38
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_2",
+    "_duration": 0.8,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui/pingzi_03_posui02": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -11,
+                  67
+                ],
+                "motionPath": [
+                  [
+                    -75,
+                    113,
+                    -52,
+                    49,
+                    -112,
+                    219
+                  ]
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -139,
+                  430
+                ],
+                "motionPath": []
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 888
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  2,
+                  68
+                ],
+                "motionPath": [
+                  [
+                    68,
+                    93,
+                    40,
+                    49,
+                    119,
+                    176
+                  ]
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  176,
+                  347
+                ],
+                "motionPath": []
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": -665
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -10.5,
+                  50.8
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  -54,
+                  405
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.43333333333333335,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 767
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui05": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 255
+              },
+              {
+                "frame": 0.8,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.8,
+                "value": -980
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  8,
+                  43.4
+                ]
+              },
+              {
+                "frame": 0.8,
+                "value": [
+                  97,
+                  408
+                ]
+              }
+            ]
+          }
+        },
+        "posui/particlesystem": {
+          "comps": {
+            "cc.ParticleSystem": {
+              "emissionRate": [
+                {
+                  "frame": 0,
+                  "value": 0
+                },
+                {
+                  "frame": 0.03333333333333333,
+                  "value": 200
+                },
+                {
+                  "frame": 0.06666666666666667,
+                  "value": 0
+                }
+              ]
+            }
+          }
+        },
+        "posui/pingzi_03_posui01": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui06": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui09": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui08": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui07": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui/chongjibo_166": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui01",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        256,
+        679,
+        22,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        22,
+        46
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui07",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        463,
+        270,
+        24,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01_posui05",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        2,
+        778,
+        28,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        35
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01_posui06",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        145,
+        733,
+        38,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        26
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_3",
+    "_duration": 0.8666666666666667,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui/pingzi_03_posui02": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -11,
+                  67
+                ],
+                "motionPath": [
+                  [
+                    -75,
+                    113,
+                    -52,
+                    49,
+                    -112,
+                    219
+                  ]
+                ]
+              },
+              {
+                "frame": 0.7,
+                "value": [
+                  -139,
+                  430
+                ],
+                "motionPath": []
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.7,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7,
+                "value": 888
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  2,
+                  68
+                ],
+                "motionPath": [
+                  [
+                    68,
+                    93,
+                    40,
+                    49,
+                    119,
+                    176
+                  ]
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  176,
+                  347
+                ],
+                "motionPath": []
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.4,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": -665
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -10.5,
+                  50.8
+                ]
+              },
+              {
+                "frame": 0.8,
+                "value": [
+                  -54,
+                  405
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.4,
+                "value": 255
+              },
+              {
+                "frame": 0.8,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.8,
+                "value": 767
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui05": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.43333333333333335,
+                "value": 255
+              },
+              {
+                "frame": 0.8666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.8666666666666667,
+                "value": -980
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  8,
+                  43.4
+                ]
+              },
+              {
+                "frame": 0.8666666666666667,
+                "value": [
+                  97,
+                  408
+                ]
+              }
+            ]
+          }
+        },
+        "posui/particlesystem": {
+          "comps": {
+            "cc.ParticleSystem": {
+              "emissionRate": [
+                {
+                  "frame": 0,
+                  "value": 0
+                },
+                {
+                  "frame": 0.03333333333333333,
+                  "value": 270
+                },
+                {
+                  "frame": 0.06666666666666667,
+                  "value": 0
+                }
+              ]
+            }
+          }
+        },
+        "posui/pingzi_03_posui01": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui06": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -11,
+                  35
+                ],
+                "motionPath": [
+                  [
+                    -43,
+                    155,
+                    -38,
+                    77,
+                    -48,
+                    245
+                  ]
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  -31,
+                  372
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 635
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui09": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.7,
+                "value": 0
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  1,
+                  12
+                ],
+                "motionPath": [
+                  [
+                    82,
+                    63,
+                    47,
+                    4,
+                    148,
+                    176
+                  ]
+                ]
+              },
+              {
+                "frame": 0.7,
+                "value": [
+                  225,
+                  393
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7,
+                "value": 444
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui08": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -5,
+                  19.8
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  -344,
+                  229
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 444
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui07": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.7,
+                "value": 0
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  7,
+                  33
+                ],
+                "motionPath": [
+                  [
+                    127,
+                    68,
+                    71,
+                    17,
+                    226,
+                    157
+                  ]
+                ]
+              },
+              {
+                "frame": 0.7,
+                "value": [
+                  343,
+                  336
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7,
+                "value": -120
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui/chongjibo_166": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 0
+              }
+            ],
+            "scaleY": [
+              {
+                "frame": 0,
+                "value": 0.8
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 1
+              }
+            ],
+            "scaleX": [
+              {
+                "frame": 0,
+                "value": 0.8
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 1
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui09",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        304,
+        679,
+        22,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        22,
+        43
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui02",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        2,
+        665,
+        19,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        19,
+        60
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui05",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        328,
+        703,
+        31,
+        29
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        31,
+        29
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qiang_dead01",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        110,
+        640,
+        96,
+        91
+      ],
+      "offset": [
+        2,
+        -9
+      ],
+      "originalSize": [
+        130,
+        113
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui03",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        147,
+        297,
+        13,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        13,
+        35
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qiang_dead02",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        220,
+        485,
+        95,
+        110
+      ],
+      "offset": [
+        3,
+        0
+      ],
+      "originalSize": [
+        129,
+        112
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui04",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        2,
+        808,
+        27,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        35
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui01",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        51,
+        718,
+        29,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        51,
+        46
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01_posui03",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        332,
+        485,
+        23,
+        18
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        23,
+        18
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_2",
+    "_duration": 0.7666666666666667,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui1": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui2": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui3": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui07": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  19.5,
+                  54.6
+                ]
+              },
+              {
+                "frame": 0.6,
+                "value": [
+                  255,
+                  109
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.6,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": -442
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui06": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -7.8,
+                  51.3
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  196,
+                  255
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 312
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui05": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -16.9,
+                  72.8
+                ]
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": [
+                  51,
+                  301
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.4,
+                "value": 255
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": -363
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  11,
+                  78
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  -109,
+                  289
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 234
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -14.3,
+                  79.3
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  -193,
+                  200
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 222
+              }
+            ]
+          }
+        },
+        "chongjibo_166": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "pingzi_4",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_4",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 11
+        },
+        {
+          "__id__": 18
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "7bBDOnkPVNoL9EuAgxbY1/"
+            },
+            {
+              "__uuid__": "824k64jW1A9qrnwKRWR/r4"
+            },
+            {
+              "__uuid__": "874327k5lKSILqKAMSG84l"
+            },
+            {
+              "__uuid__": "51ykTE4dJC+rV9++XwP/FL"
+            },
+            {
+              "__uuid__": "d01XIqZ/JBkJriDaD1T/EE"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "511XCubrBLU72IwGoH4cAI"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "posui1",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_active": false,
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "0e8jaZDu1IUogTSyJKxeAm"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui02",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "d2//f3kJ9OVKhCjZeFwBMT"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "8e1qx2k5ZLcJg5cMfHniTw"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 21,
+        "height": 23
+      },
+      "_rotationX": -872,
+      "_rotationY": -872,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 88,
+        "y": 259
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui01",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "e0BUV6wAFM/4V5arW3N3Nv"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "97+RgpuCtHXp7scK8ccvrg"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 21,
+        "height": 27
+      },
+      "_rotationX": 750,
+      "_rotationY": 750,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -92,
+        "y": 284
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "posui2",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 10
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "0f9uaBn75BzbRl6JSR93NX"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui07",
+      "_parent": {
+        "__id__": 5
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "b61OR535tF5KytmHHMcnUs"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "52MtQhZ8lK1Z4cPxNJ/LA5"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 28,
+        "height": 50
+      },
+      "_rotationX": -442,
+      "_rotationY": -442,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 255,
+        "y": 109
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui06",
+      "_parent": {
+        "__id__": 5
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "55LAQs1O9PD7dPe1QYfFnI"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "e3FuGIaYdM7Jxi3cPmmbPu"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 28,
+        "height": 46
+      },
+      "_rotationX": 312,
+      "_rotationY": 312,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 196,
+        "y": 255
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui05",
+      "_parent": {
+        "__id__": 5
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "54ISPsAN9JaoRSj8lcLh75"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "c7oOTPaspObbvRRA8odU34"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 35,
+        "height": 36
+      },
+      "_rotationX": -363,
+      "_rotationY": -363,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 51,
+        "y": 301
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui04",
+      "_parent": {
+        "__id__": 5
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "4cGzGgIApFhIu6qwLmV+q8"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "9aKx2wAQVAIoWXUJoTTziO"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 27,
+        "height": 35
+      },
+      "_rotationX": 234,
+      "_rotationY": 234,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -109,
+        "y": 289
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui03",
+      "_parent": {
+        "__id__": 5
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "5dUr1kq2JMRYiEDq5O22w6"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "34ft4tfJxNo7wnFUZpZHN4"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 33,
+        "height": 33
+      },
+      "_rotationX": 222,
+      "_rotationY": 222,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -193,
+        "y": 200
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "posui3",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 12
+        },
+        {
+          "__id__": 13
+        },
+        {
+          "__id__": 14
+        },
+        {
+          "__id__": 15
+        },
+        {
+          "__id__": 16
+        },
+        {
+          "__id__": 17
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "b1bnzjLYpKJbDP3fAzxIpr"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui13",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 12
+          },
+          "_spriteFrame": {
+            "__uuid__": "edGUsyPQxNeoE+k5e5XKKj"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "b7/TMlg9lCIb52BbqOoS3Q"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 52,
+        "height": 20
+      },
+      "_rotationX": 180,
+      "_rotationY": 180,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 119,
+        "y": 245
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui12",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 13
+          },
+          "_spriteFrame": {
+            "__uuid__": "e7W06vcdRBxa5yTN+xQzsL"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "8fVfqs9qpMI7YUKK9bTgwM"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 37,
+        "height": 24
+      },
+      "_rotationX": 180,
+      "_rotationY": 180,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -282,
+        "y": -49
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui11",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 14
+          },
+          "_spriteFrame": {
+            "__uuid__": "bdHC6tgm5HyZYNWGVvdNS8"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "1fwzU0FGhIFIzvob5+hpFq"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 51,
+        "height": 44
+      },
+      "_rotationX": -190,
+      "_rotationY": -190,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 221,
+        "y": -44
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui10",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 15
+          },
+          "_spriteFrame": {
+            "__uuid__": "13Zt2I7X1EhKA3LkkIPix4"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "d8Ls8o0aFF6pFT1sCQM9ff"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 47,
+        "height": 38
+      },
+      "_rotationX": 330,
+      "_rotationY": 330,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -320,
+        "y": 129
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui09",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 16
+          },
+          "_spriteFrame": {
+            "__uuid__": "37K/XyxtpEWIRiECLQpoCz"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "34YZyui0VOa75SzazVmOyK"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 22,
+        "height": 43
+      },
+      "_rotationX": -222,
+      "_rotationY": -222,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 324,
+        "y": 221
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_04_posui08",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 17
+          },
+          "_spriteFrame": {
+            "__uuid__": "0a542hUIFNXqMvuz+voDXj"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "76GUEGQX9PsoMYThe5iNpq"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 36,
+        "height": 42
+      },
+      "_rotationX": 223,
+      "_rotationY": 223,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -225,
+        "y": 132
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "chongjibo_166",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 18
+          },
+          "_spriteFrame": {
+            "__uuid__": "93a6LOQydLN7ljOrcTwYPi"
+          },
+          "_dstBlendFactor": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53WJq/l2hJ4K56cUZ6ylUQ"
+        },
+        "fileId": "77M7YZtyJF5Yxrh+lMW81e"
+      },
+      "_opacity": 0,
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 255
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 256,
+        "height": 256
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 49
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01_posui02",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        145,
+        761,
+        38,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        26
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui05",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        46,
+        774,
+        35,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        35,
+        36
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui06",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        208,
+        679,
+        28,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        46
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui03",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        111,
+        459,
+        33,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        33
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui04",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        358,
+        379,
+        25,
+        25
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        25
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui08",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        385,
+        266,
+        36,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        36
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_5",
+    "_duration": 0.7,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui1": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui2": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui3": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui07": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  19.5,
+                  54.6
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  255,
+                  109
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": -442
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui06": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -7.8,
+                  51.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  196,
+                  255
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 312
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui05": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -16.9,
+                  72.8
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  51,
+                  301
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": -363
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  11,
+                  78
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -109,
+                  289
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 234
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -14.3,
+                  79.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  -193,
+                  200
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 222
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui13": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  9.7,
+                  10.4
+                ]
+              },
+              {
+                "frame": 0.6,
+                "value": [
+                  119,
+                  245
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.6,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": 180
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui12": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -23.4,
+                  12.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  -282,
+                  -49
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 180
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui11": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  17.5,
+                  31.8
+                ]
+              },
+              {
+                "frame": 0.5,
+                "value": [
+                  221,
+                  -44
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": -190
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui10": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -20.8,
+                  29.9
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -320,
+                  129
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 330
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui09": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  33.8,
+                  41.6
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  324,
+                  221
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": -181.63636363636363
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": -222
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui08": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -27.3,
+                  42.2
+                ]
+              },
+              {
+                "frame": 0.7,
+                "value": [
+                  -225,
+                  132
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7,
+                "value": 223
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.7,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "chongjibo_166": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.1,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01_posui07",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        51,
+        749,
+        43,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        23
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead",
+    "_duration": 0.7666666666666667,
+    "sample": 30,
+    "wrapMode": 0,
+    "curveData": {
+      "paths": {
+        "posui/pingzi_01_posui01": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  97
+                ],
+                "motionPath": [
+                  [
+                    -133,
+                    -16,
+                    -39,
+                    -43,
+                    -226,
+                    23
+                  ]
+                ],
+                "curve": [
+                  0.12,
+                  0.68,
+                  0.47,
+                  0.54
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  -284,
+                  208
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 270
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.43333333333333335,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_01_posui02": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  -3,
+                  62
+                ],
+                "motionPath": [
+                  [
+                    -81,
+                    6,
+                    -29,
+                    -36,
+                    -138.5,
+                    78.5
+                  ]
+                ],
+                "curve": [
+                  0.21,
+                  0.63,
+                  0.7,
+                  0.7
+                ]
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": [
+                  -199,
+                  197
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": 312
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.4,
+                "value": 255
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_01_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0.5,
+                  79.1
+                ],
+                "curve": [
+                  0.25,
+                  0.69,
+                  0.7,
+                  0.7
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -56,
+                  288
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 323
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_01_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  5,
+                  50
+                ],
+                "motionPath": [
+                  [
+                    133,
+                    147,
+                    82,
+                    87,
+                    176,
+                    198
+                  ]
+                ],
+                "curve": [
+                  0.25,
+                  0.75,
+                  0.7,
+                  0.7
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  176,
+                  229
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": -90
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.4,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_01_posui06": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  3,
+                  25
+                ],
+                "motionPath": [
+                  [
+                    138.5,
+                    64.4,
+                    75.4,
+                    22.4,
+                    194,
+                    101.3
+                  ]
+                ],
+                "curve": [
+                  0.27,
+                  0.73,
+                  0.7,
+                  0.7
+                ]
+              },
+              {
+                "frame": 0.7,
+                "value": [
+                  219,
+                  145
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.7,
+                "value": -360
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.7,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_01_posui05": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  -7.9,
+                  33.9
+                ],
+                "curve": [
+                  0.28,
+                  0.66,
+                  0.7,
+                  0.7
+                ]
+              },
+              {
+                "frame": 0.5333333333333333,
+                "value": [
+                  61,
+                  260
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.5333333333333333,
+                "value": 555
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_01_posui07": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  0,
+                  9
+                ],
+                "motionPath": [
+                  [
+                    -87,
+                    125,
+                    -56,
+                    69,
+                    -118,
+                    181
+                  ]
+                ],
+                "curve": [
+                  0.26,
+                  0.65,
+                  0.7,
+                  0.7
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  -128,
+                  264
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": -180
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.4,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              }
+            ]
+          }
+        },
+        "pingzi_01": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/particlesystem": {
+          "comps": {
+            "cc.ParticleSystem": {
+              "emissionRate": [
+                {
+                  "frame": 0,
+                  "value": 0
+                },
+                {
+                  "frame": 0.03333333333333333,
+                  "value": 100
+                },
+                {
+                  "frame": 0.1,
+                  "value": 0
+                }
+              ]
+            }
+          }
+        },
+        "posui/guangquan": {
+          "props": {
+            "scaleX": [
+              {
+                "frame": 0,
+                "value": 0,
+                "curve": [
+                  0.18,
+                  0.89,
+                  0.31,
+                  1.21
+                ]
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 1
+              }
+            ],
+            "scaleY": [
+              {
+                "frame": 0,
+                "value": 0,
+                "curve": [
+                  0.18,
+                  0.89,
+                  0.31,
+                  1.21
+                ]
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 1
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/chongjibo_166": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 0
+              }
+            ],
+            "scaleY": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0.8
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              }
+            ],
+            "scaleX": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0.8
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui07",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        381,
+        695,
+        33,
+        30
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        30
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead",
+    "_duration": 0.13333333333333333,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "qiang_dead01": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "qiang_dead02": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": 255
+              },
+              {
+                "frame": 0.1,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "qiang_dead03": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.06666666666666667,
+                "value": 0
+              },
+              {
+                "frame": 0.1,
+                "value": 255
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_4",
+    "_duration": 0.7,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui1": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui2": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui3": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui07": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  19.5,
+                  54.6
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  255,
+                  109
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": -442
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui06": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -7.8,
+                  51.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  196,
+                  255
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 312
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui05": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -16.9,
+                  72.8
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  51,
+                  301
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": -363
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  11,
+                  78
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -109,
+                  289
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 234
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -14.3,
+                  79.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  -193,
+                  200
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 222
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui13": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  9.7,
+                  10.4
+                ]
+              },
+              {
+                "frame": 0.6,
+                "value": [
+                  119,
+                  245
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.6,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": 180
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui12": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -23.4,
+                  12.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  -282,
+                  -49
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 180
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui11": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  17.5,
+                  31.8
+                ]
+              },
+              {
+                "frame": 0.5,
+                "value": [
+                  221,
+                  -44
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": -190
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui10": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -20.8,
+                  29.9
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -320,
+                  129
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 330
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui09": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  33.8,
+                  41.6
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  324,
+                  221
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": -181.63636363636363
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": -222
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui08": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -27.3,
+                  42.2
+                ]
+              },
+              {
+                "frame": 0.7,
+                "value": [
+                  -225,
+                  132
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7,
+                "value": 223
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.7,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "chongjibo_166": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_3",
+    "_duration": 0.7,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui1": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui2": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui3": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui07": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  19.5,
+                  54.6
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  255,
+                  109
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": -442
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui06": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -7.8,
+                  51.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  196,
+                  255
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.2,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 312
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui05": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -16.9,
+                  72.8
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  51,
+                  301
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": -363
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  11,
+                  78
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -109,
+                  289
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 234
+              }
+            ]
+          }
+        },
+        "posui2/pingzi_04_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -14.3,
+                  79.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  -193,
+                  200
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 222
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui13": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  9.7,
+                  10.4
+                ]
+              },
+              {
+                "frame": 0.6,
+                "value": [
+                  119,
+                  245
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 255
+              },
+              {
+                "frame": 0.6,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": 180
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui12": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -23.4,
+                  12.3
+                ]
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": [
+                  -282,
+                  -49
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": 180
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui11": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  17.5,
+                  31.8
+                ]
+              },
+              {
+                "frame": 0.5,
+                "value": [
+                  221,
+                  -44
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.5,
+                "value": -190
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui10": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -20.8,
+                  29.9
+                ]
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": [
+                  -320,
+                  129
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 330
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.3,
+                "value": 255
+              },
+              {
+                "frame": 0.6333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui09": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  33.8,
+                  41.6
+                ]
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": [
+                  324,
+                  221
+                ]
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.6,
+                "value": -181.63636363636363
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": -222
+              }
+            ]
+          }
+        },
+        "posui3/pingzi_04_posui08": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -27.3,
+                  42.2
+                ]
+              },
+              {
+                "frame": 0.7,
+                "value": [
+                  -225,
+                  132
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7,
+                "value": 223
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.7,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "chongjibo_166": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui06",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        99,
+        733,
+        35,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        35,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui05",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        2,
+        756,
+        20,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        20,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chongjibo_166",
+      "texture": "51ItfQ6ABJrrzHzNhpNP4P",
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        256,
+        256
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01_posui01",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        96,
+        770,
+        22,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        22,
+        38
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qiang_dead03",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        385,
+        304,
+        130,
+        113
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        130,
+        113
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_1",
+    "_duration": 0.8666666666666667,
+    "sample": 30,
+    "wrapMode": 0,
+    "curveData": {
+      "paths": {
+        "posui/pingzi_02_posui01": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  -1,
+                  141
+                ],
+                "motionPath": [
+                  [
+                    -94,
+                    82,
+                    -19.6,
+                    66.7,
+                    -181.4,
+                    116.3
+                  ]
+                ]
+              },
+              {
+                "frame": 0.8666666666666667,
+                "value": [
+                  -186.3,
+                  397
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.8666666666666667,
+                "value": -720
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.2,
+                "value": 255
+              },
+              {
+                "frame": 0.8666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui03": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui02": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui04": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui05": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui06": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui08": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui07": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui09": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui10": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 255
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/particlesystem": {
+          "comps": {
+            "cc.ParticleSystem": {
+              "emissionRate": [
+                {
+                  "frame": 0,
+                  "value": 0
+                },
+                {
+                  "frame": 0.03333333333333333,
+                  "value": 90
+                },
+                {
+                  "frame": 0.06666666666666667,
+                  "value": 0
+                }
+              ],
+              "startSize": [
+                {
+                  "frame": 0,
+                  "value": 9
+                }
+              ]
+            }
+          }
+        },
+        "posui": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui07",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        332,
+        506,
+        28,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        50
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui09",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        358,
+        431,
+        45,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        24
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui11",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        64,
+        665,
+        51,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        51,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_01",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        384,
+        535,
+        49,
+        108
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        108
+      ],
+      "rotated": 1
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "pingzi_3",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_3",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "36oR5iLS1LK4cSouFBaWgQ"
+            },
+            {
+              "__uuid__": "1746IWkdRFe5TnMf0C3BXj"
+            },
+            {
+              "__uuid__": "c0V72AtOZD278iL/Ew9LBy"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "360dP+z7xPkbRLVhbELQcQ"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "posui",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 11
+        },
+        {
+          "__id__": 12
+        },
+        {
+          "__id__": 13
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "15roefRolAr4uosDR55rD0"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui01",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "4fsQYmvV1Ch4g6lvCwFC6I"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "5bw1tVJeJBTamwkIzGCVdu"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 27,
+        "height": 36
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 1.5,
+        "y": 103.8
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui02",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "f9CS9bsfNH+JtDfUsgLa42"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "b5n6pkcSZA97KMfWqrofyj"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 25,
+        "height": 23
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -11,
+        "y": 67
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui03",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "dbtcdP1NpJ8ImToSRT99+p"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "07qHIj3rxN/qzA8CCiZsGe"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 42,
+        "height": 44
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 2,
+        "y": 68
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui04",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "5duEwPXrJLGLUxYhJdzcMS"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "5cNs+klllBgI+0hA+tG1ix"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 25,
+        "height": 25
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -10.5,
+        "y": 50.8
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui05",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "43iDb4EEpGeo46v9JONOn1"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "0eFfRq/+JH0qlwHVtkTLGH"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 31,
+        "height": 29
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 8,
+        "y": 43.4
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui06",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "07s7RVJRhMJJ41dpcafIBQ"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "8aOcHAShVP/ImG8kcRB+mS"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 24,
+        "height": 26
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -11,
+        "y": 35
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui09",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "0c02PPijZMPoww+k+ZitVO"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "abAmJzB3NFaolynKok3QoT"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 45,
+        "height": 23
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 1,
+        "y": 12
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui08",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "d2mX5IBL1AuYcyf63/mA4C"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "6cJYcuW35L6o3xAtU8KNr9"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 36,
+        "height": 20
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -5,
+        "y": 19.8
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_03_posui07",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 11
+          },
+          "_spriteFrame": {
+            "__uuid__": "7diwsAsqVM27LgGZNASuuq"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "c4fc0+VVtKQrGekVcwD4sL"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 33,
+        "height": 30
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 7,
+        "y": 33
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "particlesystem",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.ParticleSystem",
+          "node": {
+            "__id__": 12
+          },
+          "_custom": true,
+          "_texture": {
+            "__uuid__": "02delMVqdBD70a/HSD99FK"
+          },
+          "_dstBlendFactor": 1,
+          "_totalParticles": 300,
+          "_emissionRate": 0,
+          "_life": 0.6,
+          "_lifeVar": 0.2,
+          "_endColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_endColorVar": {
+            "__type__": "cc.Color"
+          },
+          "_angleVar": 60,
+          "_startSize": 15,
+          "_startSizeVar": 11,
+          "_endSize": 15,
+          "_endSizeVar": 5,
+          "_startSpin": -47.369998931884766,
+          "_endSpinVar": 370,
+          "_posVar": {
+            "__type__": "cc.Vec2",
+            "x": 7,
+            "y": 7
+          },
+          "_positionType": 1,
+          "_gravity": {
+            "__type__": "cc.Vec2",
+            "x": 0.25,
+            "y": 0.8600000143051147
+          },
+          "_speed": 800,
+          "_speedVar": 100,
+          "_tangentialAccel": 0,
+          "_startRadius": 100
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "69XziTM/tIAZGxc525uO1r"
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 45.8
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "chongjibo_166",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 13
+          },
+          "_spriteFrame": {
+            "__uuid__": "93a6LOQydLN7ljOrcTwYPi"
+          },
+          "_dstBlendFactor": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "bemnZdneZCuqsVl0fVLwHY"
+        },
+        "fileId": "1b1bhoP7dHQpDcz/D2PQHt"
+      },
+      "_opacity": 0,
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 256,
+        "height": 256
+      },
+      "_scaleX": 0.8,
+      "_scaleY": 0.8,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 69
+      }
+    }
+  ],
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_1",
+    "_duration": 0.7333333333333333,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui/pingzi_03_posui01": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  1,
+                  104
+                ],
+                "motionPath": [
+                  [
+                    -80,
+                    79,
+                    -46,
+                    51,
+                    -129,
+                    145
+                  ]
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  -166,
+                  328
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": -888
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui02": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui03": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui04": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui05": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui06": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui09": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui08": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_03_posui07": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/particlesystem": {
+          "comps": {
+            "cc.ParticleSystem": {
+              "emissionRate": [
+                {
+                  "frame": 0,
+                  "value": 0
+                },
+                {
+                  "frame": 0.03333333333333333,
+                  "value": 50
+                },
+                {
+                  "frame": 0.06666666666666667,
+                  "value": 0
+                }
+              ]
+            }
+          }
+        },
+        "posui/chongjibo_166": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_2",
+    "_duration": 1.1333333333333333,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui01": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui10": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -1,
+                  6
+                ],
+                "motionPath": [
+                  [
+                    120,
+                    42,
+                    69,
+                    -51,
+                    167,
+                    188
+                  ]
+                ]
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": [
+                  247,
+                  465
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": 540
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.7,
+                "value": 255
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui09": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -2,
+                  15
+                ],
+                "motionPath": [
+                  [
+                    -117,
+                    36,
+                    -79,
+                    -50,
+                    -172,
+                    163
+                  ]
+                ]
+              },
+              {
+                "frame": 0.9666666666666667,
+                "value": [
+                  -194,
+                  458
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.9666666666666667,
+                "value": 720
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.6333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.9666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui07": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -12,
+                  39
+                ],
+                "motionPath": [
+                  [
+                    -49,
+                    116,
+                    -36,
+                    49,
+                    -74,
+                    247
+                  ]
+                ]
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": [
+                  -96,
+                  480
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": 999
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.6333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui08": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  6,
+                  31
+                ],
+                "motionPath": [
+                  [
+                    172,
+                    68,
+                    98,
+                    22,
+                    273,
+                    129
+                  ]
+                ]
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": [
+                  364,
+                  250
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": 788
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.6333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui06": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  7,
+                  63
+                ],
+                "motionPath": [
+                  [
+                    66,
+                    158,
+                    47,
+                    79,
+                    102,
+                    311
+                  ]
+                ]
+              },
+              {
+                "frame": 1.1333333333333333,
+                "value": [
+                  130,
+                  581
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1.1333333333333333,
+                "value": -837
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.7333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 1.1333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui05": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -14,
+                  64
+                ],
+                "motionPath": [
+                  [
+                    -93,
+                    63,
+                    -57,
+                    50,
+                    -206,
+                    104
+                  ]
+                ]
+              },
+              {
+                "frame": 1,
+                "value": [
+                  -423,
+                  212
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1,
+                "value": 555
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.6,
+                "value": 255
+              },
+              {
+                "frame": 1,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui04": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  7.3,
+                  92.2
+                ]
+              },
+              {
+                "frame": 1.1,
+                "value": [
+                  229,
+                  549
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1.1,
+                "value": 312
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.6666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 1.1,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui02": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -15,
+                  91
+                ],
+                "motionPath": [
+                  [
+                    -114,
+                    120,
+                    -70,
+                    83,
+                    -222,
+                    211
+                  ]
+                ]
+              },
+              {
+                "frame": 0.9666666666666667,
+                "value": [
+                  -382,
+                  400
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.9666666666666667,
+                "value": 556
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.5666666666666667,
+                "value": 255
+              },
+              {
+                "frame": 0.9666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/pingzi_02_posui03": {
+          "props": {
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -1.2,
+                  103
+                ]
+              },
+              {
+                "frame": 1,
+                "value": [
+                  -1,
+                  508
+                ]
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1,
+                "value": 1334
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0.6666666666666666,
+                "value": 255
+              },
+              {
+                "frame": 1,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "posui/particlesystem": {
+          "comps": {
+            "cc.ParticleSystem": {
+              "emissionRate": [
+                {
+                  "frame": 0,
+                  "value": 0
+                },
+                {
+                  "frame": 0.03333333333333333,
+                  "value": 150
+                },
+                {
+                  "frame": 0.06666666666666667,
+                  "value": 0
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "dead",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "dead",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 6
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "81wtqh81VPDJV8Hkcp4n0B"
+            }
+          ]
+        },
+        {
+          "__type__": "fd3f9HvLUpAUYe53Fw74C6x",
+          "node": {
+            "__id__": 1
+          },
+          "sprite1": {
+            "__id__": 3
+          },
+          "sprite2": {
+            "__id__": 5
+          },
+          "sprite3": {
+            "__id__": 7
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "c5jmdFvgBNOYaRX0kj06/b"
+        },
+        "fileId": "33ju3bpHtO/pQxONOwQuM6"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "qiang_dead01",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "c5jmdFvgBNOYaRX0kj06/b"
+        },
+        "fileId": "e5wD61bf5I0ryJGy9uJ/Oc"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 96,
+        "height": 91
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 2
+      },
+      "_spriteFrame": {
+        "__uuid__": "43j/BlHoRDlKd7n9glkBLe"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "qiang_dead02",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 5
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "c5jmdFvgBNOYaRX0kj06/b"
+        },
+        "fileId": "60bO8PFTJHjJlsrmkw6XNX"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 95,
+        "height": 110
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 9.7
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 4
+      },
+      "_spriteFrame": {
+        "__uuid__": "4b//fbERlFtZy3NatoUVRU"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "qiang_dead03",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 7
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "c5jmdFvgBNOYaRX0kj06/b"
+        },
+        "fileId": "e7CfuCAo1I5qXpG+l+NSLg"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 130,
+        "height": 113
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 5.9
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 6
+      },
+      "_spriteFrame": {
+        "__uuid__": "b4faQ9+ZNJrqK8okpPlAJG"
+      }
+    }
+  ],
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dead_1",
+    "_duration": 0.8333333333333334,
+    "sample": 30,
+    "curveData": {
+      "paths": {
+        "posui2": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui3": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        },
+        "posui1": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              }
+            ]
+          }
+        },
+        "posui1/pingzi_04_posui01": {
+          "props": {
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 255
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 0
+              }
+            ],
+            "position": [
+              {
+                "frame": 0.03333333333333333,
+                "value": [
+                  -1,
+                  123
+                ],
+                "motionPath": [
+                  [
+                    -52,
+                    135,
+                    -42,
+                    97,
+                    -73,
+                    214
+                  ]
+                ]
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": [
+                  -92,
+                  284
+                ],
+                "motionPath": []
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": 750
+              }
+            ]
+          }
+        },
+        "posui1/pingzi_04_posui02": {
+          "props": {
+            "position": [
+              {
+                "frame": 0,
+                "value": [
+                  -1,
+                  106
+                ],
+                "motionPath": [
+                  [
+                    55,
+                    127,
+                    41,
+                    75,
+                    76,
+                    207
+                  ]
+                ]
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": [
+                  88,
+                  259
+                ],
+                "motionPath": []
+              }
+            ],
+            "opacity": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": 255
+              },
+              {
+                "frame": 0.5,
+                "value": 255
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": 0
+              }
+            ],
+            "rotation": [
+              {
+                "frame": 0.03333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": -872
+              }
+            ]
+          }
+        },
+        "chongjibo_166": {
+          "props": {
+            "active": [
+              {
+                "frame": 0,
+                "value": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui08",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        185,
+        733,
+        36,
+        20
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        20
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui02",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        489,
+        270,
+        21,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        21,
+        23
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "pingzi_1",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_1",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "7dCr6iHDdB4rmenKZDsOzf"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "f5XWdEgAVGlLE8vXonoi3e"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "beWOwsgtVA/LB+vmMPedEL"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "92EZFbofxDr4QtsvlGHyYT"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "x": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 43,
+        "height": 116
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "posui",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 11
+        },
+        {
+          "__id__": 12
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "aaldRjNA9NRIF1HBVyJGIw"
+      },
+      "_opacity": 0
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01_posui01",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "9bizQfMfJACakDqJDqP8ci"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "5anzHznVVPcYSgd2iA/8bu"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 22,
+        "height": 38
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 1.9850414578653957e-12,
+        "y": 97.00000000000712
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01_posui02",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "53teSASRJL7b+jA5BEnr5K"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "79BPa5qGZNoY7s5KihuAae"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 38,
+        "height": 26
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -2.9999999999999303,
+        "y": 62.00000000000026
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01_posui03",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "4f5sKMKQVHq64Uh9Mj+fHP"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "c8K2I28xhFrbuYH0Ov+7h5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 23,
+        "height": 18
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 0.5000000000002467,
+        "y": 79.09999999999908
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01_posui04",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 7
+          },
+          "_spriteFrame": {
+            "__uuid__": "0e4Lmys2RHDqR1Ts74djM4"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "49l5Fik01Jp79N8eFgRBie"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 32,
+        "height": 38
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 4.999999999999309,
+        "y": 49.999999999999666
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01_posui06",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 8
+          },
+          "_spriteFrame": {
+            "__uuid__": "322xlJj9BNeZz7GVDGam77"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "d2oo40WA1Ds6vDU9RZV5Od"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 38,
+        "height": 26
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 2.9999999999999303,
+        "y": 25.000000000000004
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01_posui05",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "26Sf+9MnNCzLZW9JSnIy6M"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "769R7XRuBJ+JQf+0h9Ix1B"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 28,
+        "height": 35
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -7.900000000000152,
+        "y": 33.8999999999995
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "pingzi_01_posui07",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "7bXacUeBtCJY9CgDPouvWn"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "e8DEuLPLlPLrctO3wUwyPR"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 43,
+        "height": 23
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 1.5023703803944642e-13,
+        "y": 8.999999999999838
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "particlesystem",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.ParticleSystem",
+          "node": {
+            "__id__": 11
+          },
+          "_custom": true,
+          "_texture": {
+            "__uuid__": "02delMVqdBD70a/HSD99FK"
+          },
+          "_dstBlendFactor": 1,
+          "_totalParticles": 1000,
+          "_emissionRate": 0,
+          "_lifeVar": 0.1,
+          "_startColor": {
+            "__type__": "cc.Color",
+            "r": 157,
+            "g": 255,
+            "b": 165
+          },
+          "_endColor": {
+            "__type__": "cc.Color",
+            "r": 140,
+            "g": 255,
+            "b": 159
+          },
+          "_endColorVar": {
+            "__type__": "cc.Color"
+          },
+          "_angle": 270,
+          "_angleVar": 180,
+          "_startSize": 15,
+          "_startSizeVar": 5,
+          "_endSize": 15,
+          "_endSpinVar": 720,
+          "_posVar": {
+            "__type__": "cc.Vec2",
+            "x": 7,
+            "y": 7
+          },
+          "_positionType": 1,
+          "_gravity": {
+            "__type__": "cc.Vec2",
+            "x": 0.25,
+            "y": 0.8600000143051147
+          },
+          "_speed": 300,
+          "_speedVar": 100,
+          "_tangentialAccel": 0,
+          "_startRadius": 100
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "ed+o5p4rlDnp2hfai0+B6Y"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "chongjibo_166",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 12
+          },
+          "_spriteFrame": {
+            "__uuid__": "93a6LOQydLN7ljOrcTwYPi"
+          },
+          "_dstBlendFactor": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "d54G3WBApPSrLFIGAaMpD9"
+        },
+        "fileId": "67qD2zEhRAKI3VakZTl0OC"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 256,
+        "height": 256
+      },
+      "_scaleX": 0.8,
+      "_scaleY": 0.8,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 35.3
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui03",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        424,
+        147,
+        51,
+        76
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        51,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui01",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        208,
+        709,
+        35,
+        44
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        59,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui10",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        147,
+        334,
+        44,
+        12
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        12
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui12",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        385,
+        196,
+        37,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        37,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_04_posui13",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        111,
+        494,
+        52,
+        20
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        52,
+        20
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_03_posui02",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        358,
+        406,
+        25,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        23
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pingzi_02_posui04",
+      "texture": "8fet9zkbZGwqZxqMXdUhWp",
+      "rect": [
+        2,
+        686,
+        28,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        56
+      ],
+      "rotated": 1
+    }
+  }
+]

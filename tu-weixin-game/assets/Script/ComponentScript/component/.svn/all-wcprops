@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ComponentScript/component
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ComponentScript/component
 END
 personalAssets.js
 K 25
@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 106
 /newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ComponentScript/component/personalAssets.js
 END
-MatchRankProgressScript.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 120
-/newsvn/hall-js/!svn/ver/18969/h5/tu-weixin-game/assets/Script/ComponentScript/component/MatchRankProgressScript.js.meta
-END
 ddz_getRewardHistory.js
 K 25
 svn:wc:ra_dav:version-url
 V 112
 /newsvn/hall-js/!svn/ver/19937/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_getRewardHistory.js
+END
+MatchRankProgressScript.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/newsvn/hall-js/!svn/ver/18969/h5/tu-weixin-game/assets/Script/ComponentScript/component/MatchRankProgressScript.js.meta
 END
 ddz_cell_roomlist.js
 K 25
@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/19526/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_cell_roomlist.js
 END
-ddz_rewardCell.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_rewardCell.js.meta
-END
 ddz_icon_newer_gifts.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 117
 /newsvn/hall-js/!svn/ver/20103/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_icon_newer_gifts.js.meta
+END
+ddz_rewardCell.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_rewardCell.js.meta
 END
 ddz_cell_getDiamond.js
 K 25
@@ -57,29 +57,29 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/DdzMatching.js.meta
 END
-ddz_rewardDetail_small.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/newsvn/hall-js/!svn/ver/19983/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_rewardDetail_small.js.meta
-END
 ControlPanel.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ControlPanel.js.meta
 END
-ddz_redPacket.js.meta
+ddz_rewardDetail_small.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 110
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_redPacket.js.meta
+V 119
+/newsvn/hall-js/!svn/ver/19983/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_rewardDetail_small.js.meta
 END
 ProgressBarSub.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /newsvn/hall-js/!svn/ver/18969/h5/tu-weixin-game/assets/Script/ComponentScript/component/ProgressBarSub.js.meta
+END
+ddz_redPacket.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_redPacket.js.meta
 END
 DdzMatching.js
 K 25
@@ -189,29 +189,29 @@ svn:wc:ra_dav:version-url
 V 100
 /newsvn/hall-js/!svn/ver/20694/h5/tu-weixin-game/assets/Script/ComponentScript/component/userChat.js
 END
-ddz_zuanshiBox.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/newsvn/hall-js/!svn/ver/19952/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_zuanshiBox.js.meta
-END
 ddz_bubble_tips.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 112
 /newsvn/hall-js/!svn/ver/20178/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_bubble_tips.js.meta
 END
-enter_queue.js
+ddz_zuanshiBox.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 103
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ComponentScript/component/enter_queue.js
+V 111
+/newsvn/hall-js/!svn/ver/19952/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_zuanshiBox.js.meta
 END
 ddz_gameDetail_cell.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 116
 /newsvn/hall-js/!svn/ver/17866/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_gameDetail_cell.js.meta
+END
+enter_queue.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ComponentScript/component/enter_queue.js
 END
 personInfoSelect.js
 K 25
@@ -231,17 +231,17 @@ svn:wc:ra_dav:version-url
 V 113
 /newsvn/hall-js/!svn/ver/20477/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_item_shareMoments.js
 END
-ddz_cell_mall.js
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/newsvn/hall-js/!svn/ver/18971/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_cell_mall.js
-END
 ddz_cell_match_reward.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 118
 /newsvn/hall-js/!svn/ver/19051/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_cell_match_reward.js.meta
+END
+ddz_cell_mall.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/newsvn/hall-js/!svn/ver/18971/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_cell_mall.js
 END
 ddz_cell_matchlist.js
 K 25
@@ -249,23 +249,17 @@ svn:wc:ra_dav:version-url
 V 110
 /newsvn/hall-js/!svn/ver/19903/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_cell_matchlist.js
 END
-ddz_toast_cell.js
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/20477/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_toast_cell.js
-END
 ddz_progress.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_progress.js.meta
 END
-personalAssets.js.meta
+ddz_toast_cell.js
 K 25
 svn:wc:ra_dav:version-url
-V 111
-/newsvn/hall-js/!svn/ver/18621/h5/tu-weixin-game/assets/Script/ComponentScript/component/personalAssets.js.meta
+V 106
+/newsvn/hall-js/!svn/ver/20477/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_toast_cell.js
 END
 ddz_banner_close.js
 K 25
@@ -273,23 +267,29 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/20787/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_banner_close.js
 END
+personalAssets.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/newsvn/hall-js/!svn/ver/18621/h5/tu-weixin-game/assets/Script/ComponentScript/component/personalAssets.js.meta
+END
 ddz_gameDetail_cell.js
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /newsvn/hall-js/!svn/ver/19147/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_gameDetail_cell.js
 END
-ddz_buttonList.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_buttonList.js.meta
-END
 ddz_notify_cell.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 112
 /newsvn/hall-js/!svn/ver/17957/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_notify_cell.js.meta
+END
+ddz_buttonList.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_buttonList.js.meta
 END
 Card.js.meta
 K 25
@@ -309,23 +309,17 @@ svn:wc:ra_dav:version-url
 V 110
 /newsvn/hall-js/!svn/ver/19952/h5/tu-weixin-game/assets/Script/ComponentScript/component/huzhubaoxiang.js.meta
 END
-ddz_redPacket.js
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_redPacket.js
-END
 ProgressBarSub.js
 K 25
 svn:wc:ra_dav:version-url
 V 106
 /newsvn/hall-js/!svn/ver/18975/h5/tu-weixin-game/assets/Script/ComponentScript/component/ProgressBarSub.js
 END
-videoIcon.js.meta
+ddz_redPacket.js
 K 25
 svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/19733/h5/tu-weixin-game/assets/Script/ComponentScript/component/videoIcon.js.meta
+V 105
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_redPacket.js
 END
 ddz_item_createRoom.js.meta
 K 25
@@ -333,11 +327,11 @@ svn:wc:ra_dav:version-url
 V 116
 /newsvn/hall-js/!svn/ver/17860/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_item_createRoom.js.meta
 END
-enter_queue.js.meta
+videoIcon.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 108
-/newsvn/hall-js/!svn/ver/19394/h5/tu-weixin-game/assets/Script/ComponentScript/component/enter_queue.js.meta
+V 106
+/newsvn/hall-js/!svn/ver/19733/h5/tu-weixin-game/assets/Script/ComponentScript/component/videoIcon.js.meta
 END
 ddz_tipswindow_createRoom_item.js
 K 25
@@ -345,17 +339,11 @@ svn:wc:ra_dav:version-url
 V 122
 /newsvn/hall-js/!svn/ver/17844/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_tipswindow_createRoom_item.js
 END
-ddz_tableView.js.meta
+enter_queue.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 110
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_tableView.js.meta
-END
-ddz_buttonList.js
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/newsvn/hall-js/!svn/ver/19337/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_buttonList.js
+V 108
+/newsvn/hall-js/!svn/ver/19394/h5/tu-weixin-game/assets/Script/ComponentScript/component/enter_queue.js.meta
 END
 ddz_notify_cell.js
 K 25
@@ -363,23 +351,35 @@ svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_notify_cell.js
 END
+ddz_buttonList.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/hall-js/!svn/ver/19337/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_buttonList.js
+END
+ddz_tableView.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_tableView.js.meta
+END
 ddz_cell_mall.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 110
 /newsvn/hall-js/!svn/ver/18621/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_cell_mall.js.meta
 END
-ddz_item_ft_chat.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 113
-/newsvn/hall-js/!svn/ver/19118/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_item_ft_chat.js.meta
-END
 ddz_item_tipsWindow_buttonNode.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 127
 /newsvn/hall-js/!svn/ver/17924/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_item_tipsWindow_buttonNode.js.meta
+END
+ddz_item_ft_chat.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/hall-js/!svn/ver/19118/h5/tu-weixin-game/assets/Script/ComponentScript/component/ddz_item_ft_chat.js.meta
 END
 ColorBg.js.meta
 K 25

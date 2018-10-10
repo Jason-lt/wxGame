@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_10/20180407/assets/Script/hall/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -128,40 +128,6 @@ zhangman
 
 197
 
-LoginInfo.js.meta
-file
-
-
-
-
-2018-09-11T17:42:22.000000Z
-0fe508bceda7ec3582bd69bd1ffdae1c
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 UserInfoUData.js
 file
 
@@ -195,6 +161,40 @@ has-props
 
 
 4477
+
+LoginInfo.js.meta
+file
+
+
+
+
+2018-09-11T17:42:22.000000Z
+0fe508bceda7ec3582bd69bd1ffdae1c
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 TodoTaskVec.js.meta
 file
@@ -366,6 +366,40 @@ zhangman
 
 197
 
+UserInfoGdata.js.meta
+file
+
+
+
+
+2018-09-11T17:42:22.000000Z
+97031cf7b0354884996bf5344f9cc3c8
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
 HallUserInfo.js.meta
 file
 
@@ -400,14 +434,14 @@ zhangman
 
 197
 
-UserInfoGdata.js.meta
+UserHeartBeat.js.meta
 file
 
 
 
 
 2018-09-11T17:42:22.000000Z
-97031cf7b0354884996bf5344f9cc3c8
+cfdd1f65904baa5e35e3c974fb95d96b
 2018-04-07T11:57:31.797720Z
 17629
 zhangman
@@ -467,40 +501,6 @@ has-props
 
 
 3324
-
-UserHeartBeat.js.meta
-file
-
-
-
-
-2018-09-11T17:42:22.000000Z
-cfdd1f65904baa5e35e3c974fb95d96b
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 LoginInfo.js
 file

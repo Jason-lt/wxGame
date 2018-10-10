@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nao zhong 02",
+    "texture": "cabc0ac9-a129-42f5-98f7-2b06410c01a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      100
+    ]
+  }
+}

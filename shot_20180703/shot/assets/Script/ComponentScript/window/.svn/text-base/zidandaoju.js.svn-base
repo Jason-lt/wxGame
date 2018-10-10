@@ -65,6 +65,9 @@ cc.Class({
             this.gunSprite.spriteFrame = this.propSpriteList[state];
             this.gunNameLabel.string = shot.GameWorld.propertyConfig[type].name;
             this.gunDescLabel.string = shot.GameWorld.propertyConfig[type].desc;
+
+            shot.GlobalFuncs.setBulletType(shot.GameWorld.propertyConfig[type].bulletType);
+
         }
         this.playLoopAni(state);
     },

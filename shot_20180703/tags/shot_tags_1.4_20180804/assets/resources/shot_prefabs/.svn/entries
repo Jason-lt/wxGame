@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.4_20180804/assets/resources/shot_prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -26,17 +26,17 @@ zhangman
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
-shot_mystery_giftBag.prefab.meta
+debugNode.prefab.meta
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-c7a9f96e4bb6969b58e1f3babafcb1ab
-2018-07-05T02:57:34.149300Z
-20226
-liaotao
+55831bb010c2b7e7d07dbdc108e1317b
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
 
 
 
@@ -60,17 +60,17 @@ liaotao
 
 116
 
-debugNode.prefab.meta
+shot_mystery_giftBag.prefab.meta
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-55831bb010c2b7e7d07dbdc108e1317b
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
+c7a9f96e4bb6969b58e1f3babafcb1ab
+2018-07-05T02:57:34.149300Z
+20226
+liaotao
 
 
 
@@ -162,40 +162,6 @@ zhangman
 
 116
 
-newerNode.prefab
-file
-
-
-
-
-2018-09-11T17:39:45.000000Z
-da87807ca795582e1017124a53b100d3
-2018-07-07T10:40:04.778546Z
-20270
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12507
-
 shot_toast_tips.prefab
 file
 
@@ -229,6 +195,40 @@ liaotao
 
 
 4954
+
+newerNode.prefab
+file
+
+
+
+
+2018-09-11T17:39:45.000000Z
+da87807ca795582e1017124a53b100d3
+2018-07-07T10:40:04.778546Z
+20270
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12507
 
 shot_rank.prefab
 file
@@ -298,40 +298,6 @@ zhangman
 
 116
 
-adNode.prefab
-file
-
-
-
-
-2018-09-11T17:39:45.000000Z
-18f220afd118603ca14ad9cee68adda6
-2018-07-31T09:26:55.539970Z
-20576
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7065
-
 shot_secret_box.prefab
 file
 
@@ -366,16 +332,16 @@ zhangman
 
 44808
 
-shot_mystery_giftBag.prefab
+adNode.prefab
 file
 
 
 
 
 2018-09-11T17:39:45.000000Z
-9ff83ca5a235c1523c83513c5d6ff87e
-2018-08-02T10:07:23.860429Z
-20603
+18f220afd118603ca14ad9cee68adda6
+2018-07-31T09:26:55.539970Z
+20576
 zhangman
 
 
@@ -398,7 +364,7 @@ zhangman
 
 
 
-37996
+7065
 
 debugNode.prefab
 file
@@ -433,6 +399,40 @@ zhangman
 
 
 36619
+
+shot_mystery_giftBag.prefab
+file
+
+
+
+
+2018-09-11T17:39:45.000000Z
+9ff83ca5a235c1523c83513c5d6ff87e
+2018-08-02T10:07:23.860429Z
+20603
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37996
 
 shot_diamond.prefab.meta
 file

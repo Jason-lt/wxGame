@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/tags/jump_tags_1.51_20180623/assets/resources/table
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -128,40 +128,6 @@ zhangman
 
 88
 
-jump_main_ui.plist.meta
-file
-
-
-
-
-2018-09-11T17:41:05.000000Z
-099e97d3bde7652b17fa9cc11f241f4a
-2018-06-19T12:11:58.751979Z
-20038
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23375
-
 font.meta
 file
 
@@ -195,6 +161,40 @@ zhangman
 
 
 88
+
+jump_main_ui.plist.meta
+file
+
+
+
+
+2018-09-11T17:41:05.000000Z
+099e97d3bde7652b17fa9cc11f241f4a
+2018-06-19T12:11:58.751979Z
+20038
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23375
 
 jump_main_ui.png
 file
@@ -335,6 +335,9 @@ zhangman
 scene_bg
 dir
 
+font
+dir
+
 jump_main_ui.plist
 file
 
@@ -368,9 +371,6 @@ zhangman
 
 
 20279
-
-font
-dir
 
 jump_main_scene_ui.plist.meta
 file

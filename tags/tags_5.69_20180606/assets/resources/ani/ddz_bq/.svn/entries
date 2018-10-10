@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.69_20180606/assets/resources/ani/ddz_bq
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -26,10 +26,10 @@ liaotao
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
 
-ddz_table_interactive_emotion4_0_action
+ddz_table_interactive_emotion3_1_action
 dir
 
-ddz_table_interactive_emotion3_1_action
+ddz_table_interactive_emotion4_0_action
 dir
 
 ddz_table_interactive_emotion4_1_action
@@ -43,40 +43,6 @@ file
 
 2018-09-11T17:42:42.000000Z
 1648496f96856fbed1898ed1cc6d975e
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
-ddz_table_interactive_emotion2_0_action.meta
-file
-
-
-
-
-2018-09-11T17:42:42.000000Z
-d38a16aac7d5ba9f68911ddfd827a126
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -137,14 +103,14 @@ xujing
 
 88
 
-ddz_table_interactive_emotion3_0_action.meta
+ddz_table_interactive_emotion2_0_action.meta
 file
 
 
 
 
 2018-09-11T17:42:42.000000Z
-5662218428f904420b6aa19d45089b02
+d38a16aac7d5ba9f68911ddfd827a126
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -205,14 +171,14 @@ xujing
 
 88
 
-ddz_table_interactive_emotion4_0_action.meta
+ddz_table_interactive_emotion3_0_action.meta
 file
 
 
 
 
 2018-09-11T17:42:42.000000Z
-0bee1b95b5553429a89c2f61e75a2ce9
+5662218428f904420b6aa19d45089b02
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -247,6 +213,40 @@ file
 
 2018-09-11T17:42:42.000000Z
 92c4f0b94300dc43af65c667318f1415
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+ddz_table_interactive_emotion4_0_action.meta
+file
+
+
+
+
+2018-09-11T17:42:42.000000Z
+0bee1b95b5553429a89c2f61e75a2ce9
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -310,10 +310,10 @@ xujing
 ddz_table_interactive_emotion1_0_action
 dir
 
-ddz_table_interactive_emotion2_0_action
+ddz_table_interactive_emotion1_1_action
 dir
 
-ddz_table_interactive_emotion1_1_action
+ddz_table_interactive_emotion2_0_action
 dir
 
 ddz_table_interactive_emotion3_0_action

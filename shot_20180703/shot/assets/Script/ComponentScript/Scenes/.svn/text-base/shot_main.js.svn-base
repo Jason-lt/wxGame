@@ -248,7 +248,6 @@ cc.Class({
         ty.NotificationCenter.listen(shot.EventType.GAME_START,this.gameStart, this);
         ty.NotificationCenter.listen(shot.EventType.GAME_LEVEL_UP,this.levelUp, this);
 
-        //TODO:TEST
         if(shot.GameWorld.initBulletType){
             shot.GlobalFuncs.setBulletType(shot.GameWorld.initBulletType);
         }else {
@@ -530,6 +529,7 @@ cc.Class({
 
         if(this.addBulletType == "share"){
             ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["shareAddBullet"]);
+            shot.gameModel.shareRec = shot.GameWorld.toolUserTimeConfig.addBullet.shareRec;
             shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeAddBullet);
         }else if(this.addBulletType == "ad"){
             var dayCount = hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.DAY_VIDEO_TIME,0);
@@ -566,6 +566,10 @@ cc.Class({
     },
     playAnimationAfterShareWithType : function (shareType) {
         if (shareType && shareType == shot.Share.onShareType.clickStatShareTypeAddBullet) {
+            if(!shot.gameModel.shareTimeEnough){
+                hall.MsgBoxManager.showToast({title : '换个群试试吧'});
+                return;
+            }
             this.showBanner();
             this.setAddBulletButton();
             shot.GameWorld.addBulletTime ++;
@@ -576,7 +580,6 @@ cc.Class({
             }
         }
     },
-
     //游戏过程
     gameStart : function (type,isFirst) {
         shot.GlobalFuncs.setDayOriginGameData();
@@ -1378,6 +1381,8 @@ cc.Class({
     showBanner : function (refresh) {
         hall.adManager.showBannerAd("adunit-53ba999759aa14de",refresh);
         shot.GlobalFuncs.showAdBtnWithTag(5002,"normalLevel");
+
+        // hall.adManager.showBanner({x:this.windowWidth/2,y:83});
         // shot.curBannerAd.style.left = 0;
         // top = res.height;
         // if(ty.UserInfo.systemType == ty.UserInfo.SYSTEMTYPE.iPhoneXType){

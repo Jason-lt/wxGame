@@ -1,0 +1,282 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jiatelin",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {
+      "qiang/shot_box_bulletType__jtl04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "qiang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "qiang/shot_box_bulletType__jtl03_02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.7
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0.8
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0.9
+            },
+            {
+              "frame": 0.1,
+              "value": 1
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -13.9,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -7.3,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                -3.7,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                0.6,
+                207.2
+              ]
+            }
+          ]
+        }
+      },
+      "qiang/shot_box_bulletType__jtl03_01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                4.2,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                7.8,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                13.4,
+                207.2
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0.8
+            },
+            {
+              "frame": 0.1,
+              "value": 0.6
+            }
+          ]
+        }
+      },
+      "qiang/shot_box_bulletType__jtl03_03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                12.1,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                14.5,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                17.5,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                19.6,
+                207.2
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0.7
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0.5
+            },
+            {
+              "frame": 0.1,
+              "value": 0.2
+            }
+          ]
+        }
+      },
+      "qiang/shot_box_bulletType__jtl03_04": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -11.2,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                -16.6,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                -16.2,
+                207.2
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                -15,
+                207.2
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 0.7
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0.8
+            },
+            {
+              "frame": 0.1,
+              "value": 0.9
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

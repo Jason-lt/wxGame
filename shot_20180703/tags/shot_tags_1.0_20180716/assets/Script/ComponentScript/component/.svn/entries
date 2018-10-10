@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.0_20180716/assets/Script/ComponentScript/component
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -128,51 +128,17 @@ zhangman
 
 16287
 
-shot_gun.js.meta
+shot_toast_tips.js.meta
 file
 
 
 
 
 2018-09-11T17:39:33.000000Z
-1816a1c2b671a06ab9f93d28a72a42a4
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
-shot_bottle.js.meta
-file
-
-
-
-
-2018-09-11T17:39:33.000000Z
-8963cc36e75bc0480bf99a8749fddcbe
-2018-07-03T13:00:12.347196Z
-20204
-zhangman
+623e30e91aa430f723f04206dc148a14
+2018-07-05T02:57:34.149300Z
+20226
+liaotao
 
 
 
@@ -230,17 +196,51 @@ zhangman
 
 2723
 
-shot_toast_tips.js.meta
+shot_bottle.js.meta
 file
 
 
 
 
 2018-09-11T17:39:33.000000Z
-623e30e91aa430f723f04206dc148a14
-2018-07-05T02:57:34.149300Z
-20226
-liaotao
+8963cc36e75bc0480bf99a8749fddcbe
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+shot_gun.js.meta
+file
+
+
+
+
+2018-09-11T17:39:33.000000Z
+1816a1c2b671a06ab9f93d28a72a42a4
+2018-07-03T13:00:12.347196Z
+20204
+zhangman
 
 
 
@@ -400,17 +400,17 @@ zhangman
 
 197
 
-shot_gun.js
+shot_toast_tips.js
 file
 
 
 
 
 2018-09-11T17:39:33.000000Z
-0f2dd38e85ff639dc809b9c939922783
-2018-07-14T15:23:39.589813Z
-20359
-zhangman
+e1848b0726a1a342f662a923530a52fc
+2018-07-11T09:53:59.639003Z
+20324
+liaotao
 
 
 
@@ -432,7 +432,7 @@ zhangman
 
 
 
-2879
+1826
 
 shot_bottle.js
 file
@@ -468,17 +468,17 @@ zhangman
 
 3672
 
-shot_toast_tips.js
+shot_gun.js
 file
 
 
 
 
 2018-09-11T17:39:33.000000Z
-e1848b0726a1a342f662a923530a52fc
-2018-07-11T09:53:59.639003Z
-20324
-liaotao
+0f2dd38e85ff639dc809b9c939922783
+2018-07-14T15:23:39.589813Z
+20359
+zhangman
 
 
 
@@ -500,7 +500,7 @@ liaotao
 
 
 
-1826
+2879
 
 shot_rank.js
 file

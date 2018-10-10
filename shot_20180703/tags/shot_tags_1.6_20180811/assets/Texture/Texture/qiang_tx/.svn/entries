@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.6_20180811/assets/Texture/Texture/qiang_tx
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ zhangman
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-dead.prefab.meta
-file
-
-
-
-
-2018-09-11T17:39:49.000000Z
-02209a1dab934cab8de4abf75a617a5c
-2018-07-09T11:22:50.671020Z
-20291
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
 
 dead.anim
 file
@@ -94,14 +60,14 @@ has-props
 
 1361
 
-qiang.prefab.meta
+dead.prefab.meta
 file
 
 
 
 
 2018-09-11T17:39:49.000000Z
-97c987baa3c623cb514a8bf2330e0656
+02209a1dab934cab8de4abf75a617a5c
 2018-07-09T11:22:50.671020Z
 20291
 zhangman
@@ -161,6 +127,40 @@ has-props
 
 
 2384
+
+qiang.prefab.meta
+file
+
+
+
+
+2018-09-11T17:39:49.000000Z
+97c987baa3c623cb514a8bf2330e0656
+2018-07-09T11:22:50.671020Z
+20291
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 qiang_dead01.png.meta
 file
@@ -264,40 +264,6 @@ has-props
 
 685
 
-zidan.anim
-file
-
-
-
-
-2018-09-11T17:39:49.000000Z
-8f3eaf45bd64902f3825bf3907fba11a
-2018-07-10T11:40:30.471158Z
-20315
-yuhongbin
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1298
-
 zidan.prefab.meta
 file
 
@@ -331,6 +297,40 @@ has-props
 
 
 116
+
+zidan.anim
+file
+
+
+
+
+2018-09-11T17:39:49.000000Z
+8f3eaf45bd64902f3825bf3907fba11a
+2018-07-10T11:40:30.471158Z
+20315
+yuhongbin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1298
 
 dead.prefab
 file
@@ -434,40 +434,6 @@ has-props
 
 687
 
-qiang_dead01.png
-file
-
-
-
-
-2018-09-11T17:39:49.000000Z
-7827c6a513a31afaf51ae34fd18fd32b
-2018-07-09T11:22:50.671020Z
-20291
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5011
-
 qiang_attack02.png.meta
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 690
+
+qiang_dead01.png
+file
+
+
+
+
+2018-09-11T17:39:49.000000Z
+7827c6a513a31afaf51ae34fd18fd32b
+2018-07-09T11:22:50.671020Z
+20291
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5011
 
 qiang_dead02.png
 file

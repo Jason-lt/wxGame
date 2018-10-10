@@ -11,6 +11,12 @@ snipe.gameModel = {
     OPEN_BOX_CLOSE_STATE_CHECK : "OPEN_BOX_CLOSE_STATE_CHECK",
     DEBUG_MODE : "DEBUG_MODE",
 
+    OPEN_ADBTN_STATE_TODAY : 'OPEN_ADBTN_STATE_TODAY',
+    OPEN_ADBTN_COUNT_TODAY : 'OPEN_ADBTN_COUNT_TODAY',
+    OPEN_ADBTN_TYPE_TODAY : 'OPEN_ADBTN_TYPE_TODAY',
+    // OPEN_ADBTN_HIDE_TYPE_TODAY : 'OPEN_ADBTN_HIDE_TYPE_TODAY',
+    OPEN_ADBTN_STATE_HOUR : 'OPEN_ADBTN_STATE_HOUR',
+
     rankWindow : null,
     totalScore : 0,
     //获取布局配置信息
@@ -331,6 +337,9 @@ snipe.gameModel = {
         }
         if(value.tishenJugglingLevelConfig){
             snipe.GameWorld.tishenJugglingLevelConfig = value.tishenJugglingLevelConfig;
+        }
+        if(value.growthConfig){
+            snipe.GameWorld.growthConfig = value.growthConfig;
         }
         ty.NotificationCenter.trigger(snipe.EventType.GUNNER_SHARE_SCHEME);
     },

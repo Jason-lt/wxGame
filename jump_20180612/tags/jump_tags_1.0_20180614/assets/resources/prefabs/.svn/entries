@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/jump_20180612/tags/jump_tags_1.0_20180614/assets/resources/prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ zhangman
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-jump_rank_list.prefab
-file
-
-
-
-
-2018-09-11T17:41:09.000000Z
-9b74c58496e84017edd705f1d5fb7d8f
-2018-06-12T15:18:29.731549Z
-19950
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-43487
 
 debugNode.prefab.meta
 file
@@ -93,6 +59,40 @@ zhangman
 
 
 116
+
+jump_rank_list.prefab
+file
+
+
+
+
+2018-09-11T17:41:09.000000Z
+9b74c58496e84017edd705f1d5fb7d8f
+2018-06-12T15:18:29.731549Z
+19950
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43487
 
 main_toast.prefab.meta
 file
@@ -264,40 +264,6 @@ zhangman
 
 30942
 
-main_toast.prefab
-file
-
-
-
-
-2018-09-11T17:41:09.000000Z
-c9d4c2a7f110809f0460dc2abb3363e6
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16530
-
 jump_result.prefab.meta
 file
 
@@ -331,6 +297,40 @@ zhangman
 
 
 116
+
+main_toast.prefab
+file
+
+
+
+
+2018-09-11T17:41:09.000000Z
+c9d4c2a7f110809f0460dc2abb3363e6
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16530
 
 jump_window_result.prefab
 file
@@ -400,40 +400,6 @@ zhangman
 
 116
 
-jump_rank_list.prefab.meta
-file
-
-
-
-
-2018-09-11T17:41:09.000000Z
-3956d2f3767b46f4597ca6f8c0d23aa1
-2018-06-12T03:51:33.694041Z
-19919
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116
-
 jump_diamond.prefab
 file
 
@@ -467,6 +433,40 @@ zhangman
 
 
 51585
+
+jump_rank_list.prefab.meta
+file
+
+
+
+
+2018-09-11T17:41:09.000000Z
+3956d2f3767b46f4597ca6f8c0d23aa1
+2018-06-12T03:51:33.694041Z
+19919
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
 
 jump_result.prefab
 file

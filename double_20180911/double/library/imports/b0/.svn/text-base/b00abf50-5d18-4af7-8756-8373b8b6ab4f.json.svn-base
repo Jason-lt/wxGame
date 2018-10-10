@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gu02",
+    "texture": "c0f3c430-9f10-4ccf-bf26-c6dd35855c52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      95
+    ]
+  }
+}

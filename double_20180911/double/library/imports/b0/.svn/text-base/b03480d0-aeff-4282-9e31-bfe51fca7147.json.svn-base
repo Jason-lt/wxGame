@@ -1,0 +1,257 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "qiang_01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "qiang01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                -23,
+                0
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "qiang_tx": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                157.4,
+                19
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                134.4,
+                19
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                157.4,
+                19
+              ]
+            }
+          ]
+        }
+      },
+      "qiang_tx/qiang_attack01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "qiang_tx/qiang_attack02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "qiang_tx/qiang_attack03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yan": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.06666666666666667,
+                "value": 150
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "zidan": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                135,
+                25
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                640,
+                25
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                135,
+                25
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "danke": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.1,
+              "value": [
+                98,
+                34
+              ],
+              "motionPath": [
+                [
+                  -10,
+                  48,
+                  43,
+                  238,
+                  -29,
+                  -64
+                ]
+              ],
+              "curve": [
+                0.4,
+                0.4,
+                0.47,
+                1
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -18,
+                -718
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.1,
+              "value": -90
+            },
+            {
+              "frame": 0.5,
+              "value": -720
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

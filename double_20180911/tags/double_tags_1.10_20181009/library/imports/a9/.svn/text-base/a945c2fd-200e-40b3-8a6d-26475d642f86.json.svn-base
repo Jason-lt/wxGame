@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_weaponsDepot_icon_reward",
+    "texture": "c03866ed-d581-46bb-a9be-2e0ef36de7c9",
+    "atlas": "d11001a8-9e03-48d7-b222-b3ca0a2ab5e9",
+    "rect": [
+      92,
+      974,
+      40,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      39
+    ],
+    "rotated": 1
+  }
+}

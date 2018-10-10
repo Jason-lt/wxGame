@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/newsvn/hall-js/!svn/ver/20908/h5/tu-weixin-game/assets/Script/hall/utils
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/hall/utils
 END
 AdManager.js.meta
 K 25
@@ -33,11 +33,11 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/20694/h5/tu-weixin-game/assets/Script/hall/utils/ToDoTasks.js
 END
-MsgBoxManager.js.meta
+sxAdManager.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/hall/utils/MsgBoxManager.js.meta
+V 93
+/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/hall/utils/sxAdManager.js.meta
 END
 AdManager.js
 K 25
@@ -45,11 +45,11 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/hall/utils/AdManager.js
 END
-sxAdManager.js.meta
+MsgBoxManager.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/hall/utils/sxAdManager.js.meta
+V 95
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/hall/utils/MsgBoxManager.js.meta
 END
 BuyCenter.js.meta
 K 25
@@ -63,17 +63,17 @@ svn:wc:ra_dav:version-url
 V 93
 /newsvn/hall-js/!svn/ver/18189/h5/tu-weixin-game/assets/Script/hall/utils/GlobalTimer.js.meta
 END
-MsgBoxManager.js
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/Script/hall/utils/MsgBoxManager.js
-END
 sxAdManager.js
 K 25
 svn:wc:ra_dav:version-url
 V 88
 /newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/hall/utils/sxAdManager.js
+END
+MsgBoxManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/newsvn/hall-js/!svn/ver/20462/h5/tu-weixin-game/assets/Script/hall/utils/MsgBoxManager.js
 END
 LoginBtnManager.js.meta
 K 25

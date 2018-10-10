@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.83_20180621/assets/resources/prefabs/match
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -162,40 +162,6 @@ xiaochuntian
 
 116
 
-ddz_toast_cell.prefab
-file
-
-
-
-
-2018-09-11T17:42:04.000000Z
-c9292870e9e8e92824d1136194a8afe0
-2018-06-14T14:26:48.416788Z
-19999
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4999
-
 ddz_congratulation.prefab
 file
 
@@ -229,6 +195,40 @@ liaotao
 
 
 138722
+
+ddz_toast_cell.prefab
+file
+
+
+
+
+2018-09-11T17:42:04.000000Z
+c9292870e9e8e92824d1136194a8afe0
+2018-06-14T14:26:48.416788Z
+19999
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4999
 
 ddz_arena_result_lose.prefab.meta
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.5_20180809/assets/resources/table/font
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -60,40 +60,6 @@ has-props
 
 11300
 
-big_score.fnt
-file
-
-
-
-
-2018-09-11T17:39:59.000000Z
-ac091064fa5dde796f0f4ce8ace86ea0
-2018-07-05T13:11:31.161893Z
-20242
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1454
-
 xinxi.png
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 27534
+
+big_score.fnt
+file
+
+
+
+
+2018-09-11T17:39:59.000000Z
+ac091064fa5dde796f0f4ce8ace86ea0
+2018-07-05T13:11:31.161893Z
+20242
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1454
 
 shot_main_score.png.meta
 file
@@ -196,40 +196,6 @@ zhangman
 
 6057
 
-shot_main_score.fnt.meta
-file
-
-
-
-
-2018-09-11T17:39:59.000000Z
-767109bfdfc047318a354edc028caba5
-2018-07-04T13:52:31.066988Z
-20219
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-163
-
 doubleHit.png.meta
 file
 
@@ -263,6 +229,40 @@ yuhongbin
 
 
 687
+
+shot_main_score.fnt.meta
+file
+
+
+
+
+2018-09-11T17:39:59.000000Z
+767109bfdfc047318a354edc028caba5
+2018-07-04T13:52:31.066988Z
+20219
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+163
 
 doubleHit.fnt.meta
 file
@@ -332,40 +332,6 @@ zhangman
 
 700
 
-shot_main_score_normal.fnt.meta
-file
-
-
-
-
-2018-09-11T17:39:59.000000Z
-0ce15fddc19cdf19486802ba030debf8
-2018-07-05T08:27:04.290909Z
-20235
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-163
-
 shot_main_score.png
 file
 
@@ -400,16 +366,16 @@ has-props
 
 4870
 
-shot_main_score.fnt
+shot_main_score_normal.fnt.meta
 file
 
 
 
 
 2018-09-11T17:39:59.000000Z
-29bee7db845302b865bf45309a70723b
-2018-07-06T11:40:09.160307Z
-20255
+0ce15fddc19cdf19486802ba030debf8
+2018-07-05T08:27:04.290909Z
+20235
 zhangman
 
 
@@ -432,7 +398,7 @@ zhangman
 
 
 
-1566
+163
 
 doubleHit.png
 file
@@ -467,6 +433,40 @@ has-props
 
 
 1162
+
+shot_main_score.fnt
+file
+
+
+
+
+2018-09-11T17:39:59.000000Z
+29bee7db845302b865bf45309a70723b
+2018-07-06T11:40:09.160307Z
+20255
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1566
 
 big_score.png.meta
 file

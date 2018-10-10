@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/tags/snipe_tags_101.7_20180908/assets/Script/snipe
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,10 +94,10 @@ zhangman
 
 197
 
-msg_handler
+models
 dir
 
-models
+msg_handler
 dir
 
 QrOption.js
@@ -304,14 +304,14 @@ zhangman
 
 197
 
-ServerManager.js.meta
+snipe_boot.js.meta
 file
 
 
 
 
 2018-09-11T17:40:58.000000Z
-ba69a0f21f8f556c97854890e482e915
+bb91239b85dc7e57d356d3f9076d71d8
 2018-09-03T06:37:52.702875Z
 20843
 zhangman
@@ -338,14 +338,14 @@ zhangman
 
 197
 
-snipe_boot.js.meta
+ServerManager.js.meta
 file
 
 
 
 
 2018-09-11T17:40:58.000000Z
-bb91239b85dc7e57d356d3f9076d71d8
+ba69a0f21f8f556c97854890e482e915
 2018-09-03T06:37:52.702875Z
 20843
 zhangman
@@ -406,14 +406,14 @@ has-props
 
 2028
 
-msg_handler.meta
+models.meta
 file
 
 
 
 
 2018-09-11T17:40:58.000000Z
-89e910e14fba284031d2225cc3065f97
+2b3ca3f2f6824d7b662b298a9f46f311
 2018-09-03T06:37:52.702875Z
 20843
 zhangman
@@ -440,14 +440,14 @@ zhangman
 
 88
 
-models.meta
+msg_handler.meta
 file
 
 
 
 
 2018-09-11T17:40:58.000000Z
-2b3ca3f2f6824d7b662b298a9f46f311
+89e910e14fba284031d2225cc3065f97
 2018-09-03T06:37:52.702875Z
 20843
 zhangman

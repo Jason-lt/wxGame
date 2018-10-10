@@ -212,19 +212,6 @@
                 <key>sourceSize</key>
                 <string>{640,43}</string>
             </dict>
-            <key>shot_result_button_big.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1026,1153},{412,123}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{412,123}}</string>
-                <key>sourceSize</key>
-                <string>{412,123}</string>
-            </dict>
             <key>shot_result_gift.png</key>
             <dict>
                 <key>frame</key>
@@ -241,7 +228,7 @@
             <key>shot_secretBox_box.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1252,1653},{236,195}}</string>
+                <string>{{1110,1528},{236,195}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -306,7 +293,7 @@
             <key>shot_secret_guang.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1110,1278},{373,373}}</string>
+                <string>{{1110,1153},{373,373}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -352,7 +339,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:62efc5aadae837b433ae79152fe949a3$</string>
+            <string>$TexturePacker:SmartUpdate:55f902b44b3f6773c0392b8337d3cbf7$</string>
             <key>textureFileName</key>
             <string>shot_scene_ui_2.png</string>
         </dict>

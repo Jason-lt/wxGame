@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/res/images/ddz_personInfo
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -570,40 +570,6 @@ has-props
 
 1754
 
-ddz_xingzuo_1.png
-file
-
-
-
-
-2018-09-11T17:40:17.000000Z
-b06d6de905e964cebca5fa2e95d39b38
-2018-07-24T16:28:42.859877Z
-20461
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-977
-
 ddz_info_bg_1.png
 file
 
@@ -638,14 +604,14 @@ has-props
 
 1313
 
-ddz_xingzuo_2.png
+ddz_xingzuo_1.png
 file
 
 
 
 
 2018-09-11T17:40:17.000000Z
-6adb43cea22828f6164c5fa4cbdae6d2
+b06d6de905e964cebca5fa2e95d39b38
 2018-07-24T16:28:42.859877Z
 20461
 liaotao
@@ -670,7 +636,7 @@ has-props
 
 
 
-877
+977
 
 ddz_info_bg_2.png
 file
@@ -706,14 +672,14 @@ has-props
 
 1351
 
-ddz_xingzuo_3.png
+ddz_xingzuo_2.png
 file
 
 
 
 
 2018-09-11T17:40:17.000000Z
-04856b27ff00d0746b15a7170246f556
+6adb43cea22828f6164c5fa4cbdae6d2
 2018-07-24T16:28:42.859877Z
 20461
 liaotao
@@ -738,7 +704,7 @@ has-props
 
 
 
-1120
+877
 
 ddz_info_xiala_di.png
 file
@@ -773,6 +739,40 @@ has-props
 
 
 1808
+
+ddz_xingzuo_3.png
+file
+
+
+
+
+2018-09-11T17:40:17.000000Z
+04856b27ff00d0746b15a7170246f556
+2018-07-24T16:28:42.859877Z
+20461
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1120
 
 ddz_xingzuo_4.png
 file
@@ -910,40 +910,6 @@ has-props
 
 851
 
-ddz_xingzuo_8.png
-file
-
-
-
-
-2018-09-11T17:40:17.000000Z
-59babee4398683169611128c9dd662a5
-2018-07-24T16:28:42.859877Z
-20461
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-917
-
 ddz_info_select.png
 file
 
@@ -977,6 +943,40 @@ has-props
 
 
 1317
+
+ddz_xingzuo_8.png
+file
+
+
+
+
+2018-09-11T17:40:17.000000Z
+59babee4398683169611128c9dd662a5
+2018-07-24T16:28:42.859877Z
+20461
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+917
 
 ddz_xingzuo_9.png
 file

@@ -47,6 +47,7 @@ cc.Class({
 
     onShareToFriend : function () {
         ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["showToFriend"]);
+        shot.gameModel.shareRec = 0;
         shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeScore);
     },
 

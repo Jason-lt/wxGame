@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.01_20180420/assets/animation
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -63,10 +63,16 @@ xujing
 fapai
 dir
 
+ddz_resultTitle
+dir
+
 zuanshi
 dir
 
-ddz_resultTitle
+ddz_main
+dir
+
+jingdeng
 dir
 
 loading.anim.meta
@@ -102,12 +108,6 @@ xujing
 
 
 88
-
-jingdeng
-dir
-
-ddz_main
-dir
 
 ddz_congratulation
 dir
@@ -214,40 +214,6 @@ xujing
 
 88
 
-zuanshi.meta
-file
-
-
-
-
-2018-09-11T17:44:34.000000Z
-ca2498705e7c5054244ae91b14886ef5
-2018-04-17T08:01:10.876996Z
-18007
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 ddz_resultTitle.meta
 file
 
@@ -282,17 +248,17 @@ xujing
 
 88
 
-ddz_main.meta
+zuanshi.meta
 file
 
 
 
 
 2018-09-11T17:44:34.000000Z
-523bb53917df6d590dfefe40fb80dc58
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+ca2498705e7c5054244ae91b14886ef5
+2018-04-17T08:01:10.876996Z
+18007
+yuhongbin
 
 
 
@@ -324,6 +290,40 @@ file
 
 2018-09-11T17:44:34.000000Z
 8db7163889faa1fffbf7d122da2a4973
+2018-04-13T09:20:38.742162Z
+17836
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+ddz_main.meta
+file
+
+
+
+
+2018-09-11T17:44:34.000000Z
+523bb53917df6d590dfefe40fb80dc58
 2018-04-13T09:20:38.742162Z
 17836
 xujing

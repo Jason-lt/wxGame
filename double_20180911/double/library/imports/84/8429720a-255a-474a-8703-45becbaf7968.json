@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiang ji 01",
+    "texture": "cebf82c4-7550-43e7-bb5c-17d351d632c8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      82
+    ]
+  }
+}

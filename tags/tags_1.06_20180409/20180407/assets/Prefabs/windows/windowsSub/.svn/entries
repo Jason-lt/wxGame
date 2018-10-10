@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.06_20180409/20180407/assets/Prefabs/windows/windowsSub
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -162,40 +162,6 @@ zhangman
 
 10227
 
-ddz_getReward_redIcom.prefab
-file
-
-
-
-
-2018-09-11T17:43:32.000000Z
-13b704158baffd0c73694f7af6aa9768
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14919
-
 ddz_shareResult.prefab.meta
 file
 
@@ -229,6 +195,40 @@ zhangman
 
 
 116
+
+ddz_getReward_redIcom.prefab
+file
+
+
+
+
+2018-09-11T17:43:32.000000Z
+13b704158baffd0c73694f7af6aa9768
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14919
 
 ddz_redPacket.prefab.meta
 file
@@ -434,40 +434,6 @@ zhangman
 
 34545
 
-ddz_redPacket.prefab
-file
-
-
-
-
-2018-09-11T17:43:32.000000Z
-53430f25357d0853b65ed20796d2e5cd
-2018-04-07T11:57:31.797720Z
-17629
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8265
-
 ddz_buttonListNode.prefab.meta
 file
 
@@ -501,6 +467,40 @@ zhangman
 
 
 116
+
+ddz_redPacket.prefab
+file
+
+
+
+
+2018-09-11T17:43:32.000000Z
+53430f25357d0853b65ed20796d2e5cd
+2018-04-07T11:57:31.797720Z
+17629
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8265
 
 ddz_massage_cell.prefab.meta
 file

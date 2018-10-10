@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/scratch_20180810/scratch/assets/Script/ComponentScript/window
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ zhangman
 
 6757
 
-scratch_successWindow.js
-file
-
-
-
-
-2018-09-11T17:40:24.000000Z
-aa4fa30e4febb482eae82aee5f41af0c
-2018-08-23T08:03:24.783224Z
-20770
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2272
-
 scratch_turnTable.js
 file
 
@@ -162,16 +128,16 @@ zhangman
 
 6097
 
-scratch_reward.js.meta
+scratch_successWindow.js
 file
 
 
 
 
 2018-09-11T17:40:24.000000Z
-9ce44175d7e29e174933f2118a393fde
-2018-08-16T02:22:08.314990Z
-20719
+aa4fa30e4febb482eae82aee5f41af0c
+2018-08-23T08:03:24.783224Z
+20770
 zhangman
 
 
@@ -194,16 +160,16 @@ zhangman
 
 
 
-197
+2272
 
-scratch_change.js.meta
+scratch_reward.js.meta
 file
 
 
 
 
 2018-09-11T17:40:24.000000Z
-ee7d27302909f36afc073b80f1908700
+9ce44175d7e29e174933f2118a393fde
 2018-08-16T02:22:08.314990Z
 20719
 zhangman
@@ -264,14 +230,48 @@ zhangman
 
 197
 
-scratch_drawList.js.meta
+scratch_change.js.meta
 file
 
 
 
 
 2018-09-11T17:40:24.000000Z
-293278f327ed53adb852b4301ccb36f9
+ee7d27302909f36afc073b80f1908700
+2018-08-16T02:22:08.314990Z
+20719
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+scratch_withDraw.js.meta
+file
+
+
+
+
+2018-09-11T17:40:24.000000Z
+752de87da604121524c7b1bde58ad4fd
 2018-08-16T02:22:08.314990Z
 20719
 zhangman
@@ -332,14 +332,14 @@ zhangman
 
 197
 
-scratch_withDraw.js.meta
+scratch_drawList.js.meta
 file
 
 
 
 
 2018-09-11T17:40:24.000000Z
-752de87da604121524c7b1bde58ad4fd
+293278f327ed53adb852b4301ccb36f9
 2018-08-16T02:22:08.314990Z
 20719
 zhangman
@@ -434,40 +434,6 @@ zhangman
 
 197
 
-scratch_reward.js
-file
-
-
-
-
-2018-09-11T17:40:24.000000Z
-b2bfa52404a72ff81554dd4fda8eed05
-2018-08-24T07:21:14.364552Z
-20773
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4811
-
 scratch_goldGift.js.meta
 file
 
@@ -501,6 +467,40 @@ zhangman
 
 
 197
+
+scratch_reward.js
+file
+
+
+
+
+2018-09-11T17:40:24.000000Z
+b2bfa52404a72ff81554dd4fda8eed05
+2018-08-24T07:21:14.364552Z
+20773
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4811
 
 scratch_change.js
 file

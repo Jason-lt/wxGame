@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tu-weixin-game/assets/Script/ddz/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-06T02:03:27.018688Z
-20884
+2018-09-28T08:13:12.035609Z
+21027
 liaotao
 
 
@@ -538,7 +538,7 @@ liaotao
 
 GameModel.js
 file
-21027
+
 
 
 
@@ -569,40 +569,6 @@ liaotao
 
 
 53599
-
-DetailsModel.js.meta
-file
-
-
-
-
-2018-09-11T17:38:58.000000Z
-a7c816af7ad3bc62516adda473bef360
-2018-04-14T16:45:29.437985Z
-17875
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 ConfigRoomSession.js.meta
 file
@@ -638,17 +604,17 @@ xujing
 
 197
 
-SeatInfo.js.meta
+DetailsModel.js.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-aafbf8042c46526d39082ed26bff9691
-2018-04-13T09:20:38.742162Z
-17836
-xujing
+a7c816af7ad3bc62516adda473bef360
+2018-04-14T16:45:29.437985Z
+17875
+liaotao
 
 
 
@@ -706,14 +672,14 @@ xujing
 
 197
 
-CardType.js.meta
+SeatInfo.js.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-f8fca2f4980ca1610bbb671b8cc7ac05
+aafbf8042c46526d39082ed26bff9691
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -774,14 +740,14 @@ xujing
 
 197
 
-HallInfoModel.js.meta
+CardType.js.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-8ddc0fbe86667de59c514f1245fcd653
+f8fca2f4980ca1610bbb671b8cc7ac05
 2018-04-13T09:20:38.742162Z
 17836
 xujing
@@ -842,17 +808,17 @@ xujing
 
 197
 
-DetailsModel.js
+HallInfoModel.js.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-8f3be48f502f5cdc0e3b1fb3eca4c275
-2018-04-27T17:33:48.333211Z
-18530
-liaotao
+8ddc0fbe86667de59c514f1245fcd653
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -874,7 +840,7 @@ liaotao
 
 
 
-4761
+197
 
 ConfigRoomSession.js
 file
@@ -910,6 +876,40 @@ xujing
 
 1732
 
+DetailsModel.js
+file
+
+
+
+
+2018-09-11T17:38:58.000000Z
+8f3be48f502f5cdc0e3b1fb3eca4c275
+2018-04-27T17:33:48.333211Z
+18530
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4761
+
 HistoryModel.js.meta
 file
 
@@ -944,40 +944,6 @@ liaotao
 
 197
 
-SeatInfo.js
-file
-
-
-
-
-2018-09-11T17:38:58.000000Z
-b31722e7f3939680640c75720af3f29d
-2018-07-24T16:30:03.010006Z
-20462
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7625
-
 TableChatModel.js
 file
 
@@ -1011,6 +977,40 @@ zhangman
 
 
 4033
+
+SeatInfo.js
+file
+
+
+
+
+2018-09-11T17:38:58.000000Z
+b31722e7f3939680640c75720af3f29d
+2018-07-24T16:30:03.010006Z
+20462
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7625
 
 CardInfo.js.meta
 file

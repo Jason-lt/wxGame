@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank_avatar_bg_3",
+    "texture": "e566abd5-dace-4d62-955f-f2c99264d24f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      112,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      115
+    ]
+  }
+}

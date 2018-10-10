@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_1.0_20180403_main/assets/Script/ddz/models
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -162,40 +162,6 @@ xujing
 
 197
 
-QuickStartModel.js
-file
-
-
-
-
-2018-09-11T17:42:29.000000Z
-f118d1d39f20568c2eaff11551138994
-2018-02-04T20:53:25.479625Z
-16395
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-304
-
 CardType.js
 file
 
@@ -230,17 +196,17 @@ has-props
 
 4078
 
-MatchModel.js
+QuickStartModel.js
 file
 
 
 
 
 2018-09-11T17:42:29.000000Z
-f666a9971c26dfb0714fbfa36db3ea7e
-2018-04-02T09:16:09.088241Z
-17561
-zhangman
+f118d1d39f20568c2eaff11551138994
+2018-02-04T20:53:25.479625Z
+16395
+xujing
 
 
 
@@ -262,7 +228,41 @@ zhangman
 
 
 
-15845
+304
+
+TableState.js.meta
+file
+
+
+
+
+2018-09-11T17:42:29.000000Z
+93cf5d69ee622416abc4ce37c83df702
+2018-01-30T12:57:43.087147Z
+16217
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 HallInfoModel.js
 file
@@ -298,17 +298,17 @@ xujing
 
 1634
 
-TableState.js.meta
+MatchModel.js
 file
 
 
 
 
 2018-09-11T17:42:29.000000Z
-93cf5d69ee622416abc4ce37c83df702
-2018-01-30T12:57:43.087147Z
-16217
-xujing
+f666a9971c26dfb0714fbfa36db3ea7e
+2018-04-02T09:16:09.088241Z
+17561
+zhangman
 
 
 
@@ -330,7 +330,7 @@ xujing
 
 
 
-197
+15845
 
 TableInfoModel.js
 file
@@ -434,40 +434,6 @@ xujing
 
 197
 
-TableInfo.js.meta
-file
-
-
-
-
-2018-09-11T17:42:29.000000Z
-e3da140c79a539f53dc59513c9de3237
-2018-01-30T12:57:43.087147Z
-16217
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
-
 TableState.js
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 6663
+
+TableInfo.js.meta
+file
+
+
+
+
+2018-09-11T17:42:29.000000Z
+e3da140c79a539f53dc59513c9de3237
+2018-01-30T12:57:43.087147Z
+16217
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
 
 ConfigRoomSession.js.meta
 file

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ddz
+/newsvn/hall-js/!svn/ver/21025/h5/happy_ddz/assets/Script/ddz
 END
 ddz_boot.js
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 77
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ddz/DdzEventType.js
 END
-DdzGlobalFuncs.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ddz/DdzGlobalFuncs.js.meta
-END
 ServerManager.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ddz/ServerManager.js.meta
+END
+DdzGlobalFuncs.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/newsvn/hall-js/!svn/ver/20909/h5/happy_ddz/assets/Script/ddz/DdzGlobalFuncs.js.meta
 END
 AILongestType.js
 K 25

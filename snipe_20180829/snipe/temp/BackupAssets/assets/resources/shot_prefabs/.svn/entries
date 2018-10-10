@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/snipe/temp/BackupAssets/assets/resources/shot_prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -25,40 +25,6 @@ zhangman
 
 
 672eaac0-c63f-479a-b55d-a1e6ba5c11a3
-
-shot_toast_tips.prefab
-file
-
-
-
-
-2018-09-11T17:40:42.000000Z
-5d3ab2d86e2fe8e65d945c53e6d72620
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4954
 
 newerNode.prefab
 file
@@ -94,6 +60,40 @@ zhangman
 
 12507
 
+shot_toast_tips.prefab
+file
+
+
+
+
+2018-09-11T17:40:42.000000Z
+5d3ab2d86e2fe8e65d945c53e6d72620
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4954
+
 shot_rank.prefab
 file
 
@@ -128,40 +128,6 @@ zhangman
 
 49504
 
-shot_secret_box.prefab
-file
-
-
-
-
-2018-09-11T17:40:42.000000Z
-c8339076243b26b29d0aa07a73e0e9d4
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-53112
-
 adNode.prefab
 file
 
@@ -195,6 +161,40 @@ zhangman
 
 
 7065
+
+shot_secret_box.prefab
+file
+
+
+
+
+2018-09-11T17:40:42.000000Z
+c8339076243b26b29d0aa07a73e0e9d4
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53112
 
 shot_mystery_giftBag.prefab
 file
@@ -468,40 +468,6 @@ zhangman
 
 15725
 
-shot_prop.prefab
-file
-
-
-
-
-2018-09-11T17:40:42.000000Z
-4334a6b88be8a47ea3d234aa6bd7da8d
-2018-08-30T07:54:54.216802Z
-20828
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-66304
-
 shot_getProp.prefab
 file
 
@@ -535,4 +501,38 @@ zhangman
 
 
 38191
+
+shot_prop.prefab
+file
+
+
+
+
+2018-09-11T17:40:42.000000Z
+4334a6b88be8a47ea3d234aa6bd7da8d
+2018-08-30T07:54:54.216802Z
+20828
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66304
 

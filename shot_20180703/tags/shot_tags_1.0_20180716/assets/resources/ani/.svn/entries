@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/shot_20180703/tags/shot_tags_1.0_20180716/assets/resources/ani
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,6 +94,9 @@ zhangman
 
 88
 
+daoju_qiang
+dir
+
 btnTickForBtn.anim.meta
 file
 
@@ -127,9 +130,6 @@ zhangman
 
 
 88
-
-daoju_qiang
-dir
 
 levelChange.anim.meta
 file
@@ -267,6 +267,40 @@ has-props
 
 4913
 
+addScore.anim.meta
+file
+
+
+
+
+2018-09-11T17:39:33.000000Z
+11e924aa6a6a339182c2441e5fa967d9
+2018-07-04T10:38:31.751281Z
+20215
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
 btnTickForBtn.anim
 file
 
@@ -301,16 +335,16 @@ zhangman
 
 1251
 
-addScore.anim.meta
+doubleHitAni1.anim.meta
 file
 
 
 
 
 2018-09-11T17:39:33.000000Z
-11e924aa6a6a339182c2441e5fa967d9
-2018-07-04T10:38:31.751281Z
-20215
+b00df2ad1df5fa2ca103e053baffc517
+2018-07-04T13:52:31.066988Z
+20219
 zhangman
 
 
@@ -368,40 +402,6 @@ zhangman
 
 
 884
-
-doubleHitAni1.anim.meta
-file
-
-
-
-
-2018-09-11T17:39:33.000000Z
-b00df2ad1df5fa2ca103e053baffc517
-2018-07-04T13:52:31.066988Z
-20219
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
 
 daoju_qiang.meta
 file

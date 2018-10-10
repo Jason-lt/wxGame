@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/scratch_20180810/tags/scratch_1.01_20180831/assets/Script/ComponentScript/component
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -366,6 +366,40 @@ renzhang
 
 7465
 
+scratch_cell_goldGift.js.meta
+file
+
+
+
+
+2018-09-11T17:40:29.000000Z
+7bf136b0069c5c6e58bdbbefdd1cf287
+2018-08-16T02:22:08.314990Z
+20719
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
 scratch_cell_main.js
 file
 
@@ -400,14 +434,14 @@ zhangman
 
 6411
 
-scratch_cell_goldGift.js.meta
+bottomNode.js.meta
 file
 
 
 
 
 2018-09-11T17:40:29.000000Z
-7bf136b0069c5c6e58bdbbefdd1cf287
+c5969ceb119aae7a4510be324e8688c0
 2018-08-16T02:22:08.314990Z
 20719
 zhangman
@@ -467,40 +501,6 @@ zhangman
 
 
 1268
-
-bottomNode.js.meta
-file
-
-
-
-
-2018-09-11T17:40:29.000000Z
-c5969ceb119aae7a4510be324e8688c0
-2018-08-16T02:22:08.314990Z
-20719
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-197
 
 scratch_toast_tips.js
 file

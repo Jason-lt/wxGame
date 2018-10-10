@@ -41,6 +41,7 @@ cc.Class({
     onInviteAction : function () {
         if(this.state == 0){
             ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["diamondInvitation"]);
+            shot.gameModel.shareRec = 0;
             shot.Share.shareWithType(shot.Share.onShareType.clickStatShareTypeDiamond);
             // var _config = shot.GameWorld.gunnerShareSchemeConfig;
             // if (_config && _config.resurgenceShare){

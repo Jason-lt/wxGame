@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_5.88_20180626/assets/resources/ani
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -322,6 +322,9 @@ yuhongbin
 
 88
 
+huodejipaiqi
+dir
+
 jipaiqi.meta
 file
 
@@ -355,9 +358,6 @@ yuhongbin
 
 
 88
-
-huodejipaiqi
-dir
 
 ranking.meta
 file
@@ -501,40 +501,6 @@ xujing
 guanqia
 dir
 
-ddz_bq.meta
-file
-
-
-
-
-2018-09-11T17:44:27.000000Z
-23128992bf1b5a189376cddafd965eb5
-2018-04-13T09:20:38.742162Z
-17836
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-88
-
 jinji.meta
 file
 
@@ -569,20 +535,17 @@ yuhongbin
 
 88
 
-ranking
-dir
-
-rideoBtnTick.anim.meta
+ddz_bq.meta
 file
 
 
 
 
 2018-09-11T17:44:27.000000Z
-bed22243c4bca3adf8a297c8156f20c7
-2018-05-29T06:26:20.781273Z
-19733
-liaotao
+23128992bf1b5a189376cddafd965eb5
+2018-04-13T09:20:38.742162Z
+17836
+xujing
 
 
 
@@ -639,6 +602,43 @@ xujing
 
 
 88
+
+rideoBtnTick.anim.meta
+file
+
+
+
+
+2018-09-11T17:44:27.000000Z
+bed22243c4bca3adf8a297c8156f20c7
+2018-05-29T06:26:20.781273Z
+19733
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+ranking
+dir
 
 doudizhu
 dir

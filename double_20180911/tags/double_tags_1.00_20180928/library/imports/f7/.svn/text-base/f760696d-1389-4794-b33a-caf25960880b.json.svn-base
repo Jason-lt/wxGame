@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dian shi 01",
+    "texture": "3c679326-133a-48f9-85e9-8e350967f7be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      77
+    ]
+  }
+}

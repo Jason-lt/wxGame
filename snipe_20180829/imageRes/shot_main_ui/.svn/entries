@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/snipe_20180829/imageRes/shot_main_ui
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -638,40 +638,6 @@ has-props
 
 438592
 
-shot_main_bulletType_Kar98k_overlookView.png
-file
-
-
-
-
-2018-09-11T17:40:33.000000Z
-69cd1d46e227c7576d8848fb9a0fc92c
-2018-09-05T12:54:35.005672Z
-20872
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16793
-
 shot_main_juggling_tong.png
 file
 
@@ -705,6 +671,40 @@ has-props
 
 
 15480
+
+shot_main_bulletType_Kar98k_overlookView.png
+file
+
+
+
+
+2018-09-11T17:40:33.000000Z
+69cd1d46e227c7576d8848fb9a0fc92c
+2018-09-05T12:54:35.005672Z
+20872
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16793
 
 shot_main_bulletType_win94_overlookView.png
 file
@@ -944,16 +944,16 @@ has-props
 
 2269
 
-shot_main_countDown_bar_bg.png
+shot_main_bulletType_M16.png
 file
 
 
 
 
 2018-09-11T17:40:33.000000Z
-ce63237a31c251a5ca3ede5b9a83b12e
-2018-08-30T07:54:54.216802Z
-20828
+ae19db6a335a3efcbca63c8c128b55b2
+2018-09-05T12:54:35.005672Z
+20872
 zhangman
 has-props
 
@@ -976,7 +976,7 @@ has-props
 
 
 
-428
+15590
 
 shot_main_addBullet_text_bg.png
 file
@@ -1012,16 +1012,16 @@ has-props
 
 909
 
-shot_main_bulletType_M16.png
+shot_main_countDown_bar_bg.png
 file
 
 
 
 
 2018-09-11T17:40:33.000000Z
-ae19db6a335a3efcbca63c8c128b55b2
-2018-09-05T12:54:35.005672Z
-20872
+ce63237a31c251a5ca3ede5b9a83b12e
+2018-08-30T07:54:54.216802Z
+20828
 zhangman
 has-props
 
@@ -1044,7 +1044,7 @@ has-props
 
 
 
-15590
+428
 
 shot_main_doubleHit_title.png
 file

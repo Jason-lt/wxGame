@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/scratch_20180810/imageRes/scratch_scene_ui
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -94,40 +94,6 @@ has-props
 
 112040
 
-scratch_gameGift_bg.png
-file
-
-
-
-
-2018-09-11T17:40:27.000000Z
-97a3e9d330e361f398dfb031e0f938bd
-2018-08-20T06:18:47.467865Z
-20745
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3953
-
 scratch_turnTable_button.png
 file
 
@@ -162,14 +128,14 @@ has-props
 
 120001
 
-scratch_main_free_cell_icon.png
+scratch_gameGift_bg.png
 file
 
 
 
 
 2018-09-11T17:40:27.000000Z
-cd6f28df8fbe9b20e88df3a8c4365027
+97a3e9d330e361f398dfb031e0f938bd
 2018-08-20T06:18:47.467865Z
 20745
 zhangman
@@ -194,41 +160,7 @@ has-props
 
 
 
-138846
-
-scratch_main_free_cell_bg.png
-file
-
-
-
-
-2018-09-11T17:40:27.000000Z
-592221551cdb57b9098050fd43d56dd2
-2018-08-20T06:18:47.467865Z
-20745
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7789
+3953
 
 scratch_reward_icon.png
 file
@@ -264,6 +196,74 @@ has-props
 
 157314
 
+scratch_main_free_cell_bg.png
+file
+
+
+
+
+2018-09-11T17:40:27.000000Z
+592221551cdb57b9098050fd43d56dd2
+2018-08-20T06:18:47.467865Z
+20745
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7789
+
+scratch_main_free_cell_icon.png
+file
+
+
+
+
+2018-09-11T17:40:27.000000Z
+cd6f28df8fbe9b20e88df3a8c4365027
+2018-08-20T06:18:47.467865Z
+20745
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138846
+
 scratch_main_gift.png
 file
 
@@ -298,40 +298,6 @@ has-props
 
 7300
 
-scratch_gameGift_btn_bg.png
-file
-
-
-
-
-2018-09-11T17:40:27.000000Z
-89dbde950d404378d16454905cbb133f
-2018-08-16T02:22:08.314990Z
-20719
-zhangman
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24077
-
 scratch_win_title.png
 file
 
@@ -365,6 +331,40 @@ has-props
 
 
 11319
+
+scratch_gameGift_btn_bg.png
+file
+
+
+
+
+2018-09-11T17:40:27.000000Z
+89dbde950d404378d16454905cbb133f
+2018-08-16T02:22:08.314990Z
+20719
+zhangman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24077
 
 scratch_reward_chip_bg.png
 file

@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tu-weixin-game/assets/resources/table/nopack
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-06-12T09:59:57.384178Z
-19937
+2018-09-28T08:13:12.035609Z
+21027
 liaotao
 
 
@@ -60,40 +60,6 @@ has-props
 
 287
 
-famhsheguang01.png
-file
-21027
-
-
-
-2018-09-27T22:26:54.000000Z
-1691f7be782a7f7dce9a53461837f123
-2018-09-28T08:13:12.035609Z
-21027
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-28187
-
 ddz_welfare_bg.png
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 1465
+
+famhsheguang01.png
+file
+
+
+
+
+2018-09-27T22:26:54.000000Z
+1691f7be782a7f7dce9a53461837f123
+2018-09-28T08:13:12.035609Z
+21027
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28187
 
 ddz_roomlist_scoreBg.png.meta
 file
@@ -572,7 +572,7 @@ has-props
 
 new_reward_redBag.png
 file
-21027
+
 
 
 
@@ -980,7 +980,7 @@ liaotao
 
 famhsheguang01.png.meta
 file
-21027
+
 
 
 
@@ -1048,7 +1048,7 @@ has-props
 
 new_reward_redBag.png.meta
 file
-21027
+
 
 
 
@@ -1116,7 +1116,7 @@ has-props
 
 guangyun01.png
 file
-21027
+
 
 
 
@@ -1216,40 +1216,6 @@ yuhongbin
 
 688
 
-ddz_roomlist_bg.png.meta
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-6d9ad7a8c9dd7cadb88244bd1ff5cc25
-2018-05-12T09:51:02.238389Z
-19248
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-692
-
 ddz_main_bottom_bg.png.meta
 file
 
@@ -1283,6 +1249,40 @@ zhangman
 
 
 689
+
+ddz_roomlist_bg.png.meta
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+6d9ad7a8c9dd7cadb88244bd1ff5cc25
+2018-05-12T09:51:02.238389Z
+19248
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+692
 
 ddz_welfare_weilingqu_bg.png.meta
 file
@@ -1420,40 +1420,6 @@ has-props
 
 5502
 
-ddz_avatar_default.png
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-213b013c2ff980e9f9ae4758c5d3f1a7
-2018-04-25T07:59:08.266191Z
-18394
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1540
-
 ddz_welfare_icon.png.meta
 file
 
@@ -1487,6 +1453,40 @@ liaotao
 
 
 685
+
+ddz_avatar_default.png
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+213b013c2ff980e9f9ae4758c5d3f1a7
+2018-04-25T07:59:08.266191Z
+18394
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1540
 
 ddz_tasks_di.png.meta
 file
@@ -1590,6 +1590,40 @@ liaotao
 
 687
 
+ddz_hongbao_bj3.png.meta
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+2f82f29d7b8b83aec88220dfc6d21793
+2018-05-21T13:58:41.577604Z
+19545
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+688
+
 ddz_hongbao_bj8_1.png
 file
 
@@ -1624,17 +1658,17 @@ has-props
 
 3320
 
-ddz_hongbao_bj3.png.meta
+ddz_hongbao_bj7.png.meta
 file
 
 
 
 
 2018-09-11T17:39:01.000000Z
-2f82f29d7b8b83aec88220dfc6d21793
-2018-05-21T13:58:41.577604Z
-19545
-liaotao
+44c981c90af4a8ce1e3eef4fb467f0c0
+2018-05-21T10:44:14.871558Z
+19540
+yuhongbin
 
 
 
@@ -1692,40 +1726,6 @@ has-props
 
 444
 
-ddz_hongbao_bj7.png.meta
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-44c981c90af4a8ce1e3eef4fb467f0c0
-2018-05-21T10:44:14.871558Z
-19540
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-688
-
 ddz_hongbao_bj1.png
 file
 
@@ -1760,40 +1760,6 @@ has-props
 
 562
 
-ddz_welfare_small_bg.png.meta
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-c24a3b7ed6836d8f416267790f43582a
-2018-06-11T15:33:31.896226Z
-19912
-liaotao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-693
-
 ddz_hongbao_bj2.png
 file
 
@@ -1827,6 +1793,40 @@ has-props
 
 
 3554
+
+ddz_welfare_small_bg.png.meta
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+c24a3b7ed6836d8f416267790f43582a
+2018-06-11T15:33:31.896226Z
+19912
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+693
 
 ddz_hongbao_bj3.png
 file
@@ -1998,40 +1998,6 @@ has-props
 
 3696
 
-ddz_hongbao_bj12.png.meta
-file
-
-
-
-
-2018-09-11T17:39:01.000000Z
-76ab391795ebcc764cb8138e26d26db2
-2018-05-21T10:44:14.871558Z
-19540
-yuhongbin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-689
-
 ddz_hongbao_bj8.png
 file
 
@@ -2066,18 +2032,17 @@ has-props
 
 3280
 
-ddz_playmode_line.png
+ddz_hongbao_bj12.png.meta
 file
 
 
 
 
 2018-09-11T17:39:01.000000Z
-67ad56cf76646ae3293487d41de8bc81
-2018-05-09T16:11:59.654846Z
-19085
-liaotao
-has-props
+76ab391795ebcc764cb8138e26d26db2
+2018-05-21T10:44:14.871558Z
+19540
+yuhongbin
 
 
 
@@ -2098,7 +2063,8 @@ has-props
 
 
 
-574
+
+689
 
 ddz_hongbao_bj9.png
 file
@@ -2134,9 +2100,43 @@ has-props
 
 115
 
+ddz_playmode_line.png
+file
+
+
+
+
+2018-09-11T17:39:01.000000Z
+67ad56cf76646ae3293487d41de8bc81
+2018-05-09T16:11:59.654846Z
+19085
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+574
+
 guangyun01.png.meta
 file
-21027
+
 
 
 

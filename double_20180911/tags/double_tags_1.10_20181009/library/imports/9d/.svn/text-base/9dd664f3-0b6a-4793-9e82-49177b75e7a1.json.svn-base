@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "double_object_5",
+    "texture": "e66d0765-b21a-4486-93bb-4edad9bd9f8c",
+    "atlas": "729cfa52-c8c6-41a8-b45e-8ff878629e79",
+    "rect": [
+      375,
+      521,
+      154,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      127
+    ],
+    "rotated": 1
+  }
+}

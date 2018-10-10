@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hua ping 01",
+    "texture": "d65bf1a3-8630-4186-921f-dd33bbd843ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      92
+    ]
+  }
+}

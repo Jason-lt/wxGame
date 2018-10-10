@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xian ren zhang02",
+    "texture": "5c+2iFwuNDobUGuvTnrckn",
+    "rect": [
+      0,
+      0,
+      80,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      124
+    ]
+  }
+}

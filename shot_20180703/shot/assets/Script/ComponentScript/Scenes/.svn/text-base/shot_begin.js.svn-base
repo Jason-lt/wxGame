@@ -102,7 +102,6 @@ cc.Class({
                 }
             }
         }
-
         ty.UserInfo.onShowParam.isFirstOpen = false;
     },
 
@@ -117,6 +116,7 @@ cc.Class({
         }
 
         if(!shot.gameModel.getAllCheckConfig()){
+            shot.sxAdmanager2.show();
             var sceneSize = cc.director.getWinSize();
             if(shot.GameWorld.growthConfig['home'].indexOf('CO') > -1){
                 if(hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 1){
@@ -129,7 +129,7 @@ cc.Class({
             }
             if(shot.GameWorld.growthConfig['home'].indexOf('STU') > -1){
                 if(hall.GlobalFuncs.ReadNumFromLocalStorage(shot.gameModel.OPEN_ADBTN_STATE_TODAY,0) != 2){
-                    shot.sxAdmanager.show(72,sceneSize.height/2-80,0.6);
+                    shot.sxAdmanager.show(72,sceneSize.height/2-80,shot.GameWorld.growthConfig.STUScale);
                 }
             }
         }
@@ -151,6 +151,7 @@ cc.Class({
         if (result.pointId == shot.Share.SharePointType.getFreeTool){
             this.freeToolNode.active = result.leftCount;
         }
+        this.freeToolNode.active = true;
     },
     changeGameClubButtonActive : function () {
 
@@ -158,14 +159,15 @@ cc.Class({
             if(!shot.gameClubButton){
                 var sysInfo = hall.adManager.getSysInfo();
                 var screenHeight = sysInfo.screenHeight;
+                var screenWidth = sysInfo.screenWidth;
                 hall.LOGD("===","===screenHeight==="+screenHeight);
                 shot.gameClubButton = wx.createGameClubButton({
                     type : "image",
                     image : "https://nslyqn.nalrer.cn/nsly/crazygun/icon/game.png",
                     icon: 'green',
                     style: {
-                        left: 10,
-                        top: screenHeight-68,
+                        left: screenWidth-68+10,
+                        top: screenHeight/2+94-42+15,
                         width: 42,
                         height: 42
                     }
@@ -200,7 +202,7 @@ cc.Class({
         if(shot.gameClubButton){
             shot.gameClubButton.destroy();
         }
-
+        shot.sxAdmanager2.hide();
         shot.GlobalFuncs.hideAdBtnWithTag(5001,true);
 
         shot.gameClubButton = null;

@@ -13,7 +13,7 @@ ty.SystemInfo = {
     clientIdInt: 24377,
     cloudid:24,
 
-    version:101.7,
+    version:101.73,
     isCheckVersion : true,
 
     // loginUrl: 'https://fz.nalrer.cn/', //仿真地址
@@ -28,7 +28,7 @@ ty.SystemInfo = {
     // wss.nalrer.cn
 
     deviceId: 'wechatGame',
-    wxAppId: 'wxca71cd422b7fa67c',
+    wxAppId: 'wx6a9fc3d2c62410d8',
     appId: 9999,
     hallId: 9999,
     gameId: 110,

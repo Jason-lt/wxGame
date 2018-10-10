@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "puosui_01",
+  "_duration": 0.6666666666666666,
+  "curveData": {
+    "paths": {
+      "suipian_01": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.05,
+                "value": 100
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "suipian_02": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.05,
+                "value": 100
+              },
+              {
+                "frame": 0.21666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "suipian_03": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.05,
+                "value": 40
+              },
+              {
+                "frame": 0.21666666666666667,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "qiu _01": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.05,
+                "value": 300
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

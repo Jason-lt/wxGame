@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bei01",
+    "texture": "26cd33dd-b359-407b-b2c7-5566a1ff465b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      90
+    ]
+  }
+}

@@ -150,6 +150,9 @@ cc.Class({
     },
 
     updateToDoubleHitContinue : function () {
+
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
+
         this.state = 2;
         // this.propSprite.spriteFrame = this.propSpriteList[1];
         this.titleLabel.string = "<color=#F1A955><b>恢复连击</b></c>";
@@ -165,6 +168,9 @@ cc.Class({
 
     },
     updateInfo:function(result){
+
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
+
         this.titleLabel.string = "<color=#F1A955><b>道 具</b></c>";
         this.propSprite.node.active = true;
         this.doubleHitNode.active = false;
@@ -319,6 +325,7 @@ cc.Class({
             snipe.GameWorld.doubleHitCountDownTime = true;
         }
         this.centerBtn.node.stopAllActions();
+        snipe.GlobalFuncs.showAdBtnWithTag(5002,"normalLevel");
         this.node.destroy();
     },
     onBlack : function () {

@@ -1,14 +1,14 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tu-weixin-game/assets/Prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-08-13T06:35:14.777454Z
-20694
+2018-09-28T08:13:12.035609Z
+21027
 liaotao
 
 
@@ -60,40 +60,6 @@ xujing
 
 88
 
-SmallCardPrefab.prefab
-file
-
-
-
-
-2018-09-11T17:38:58.000000Z
-89a5eca1ab7027b272dff1ad04510bf7
-2018-05-02T14:44:54.252234Z
-18692
-xujing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12739
-
 personInfoSelect.prefab
 file
 
@@ -128,9 +94,43 @@ liaotao
 
 11140
 
+SmallCardPrefab.prefab
+file
+
+
+
+
+2018-09-11T17:38:58.000000Z
+89a5eca1ab7027b272dff1ad04510bf7
+2018-05-02T14:44:54.252234Z
+18692
+xujing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12739
+
 shareRedPacket.prefab
 file
-21027
+
 
 
 
@@ -264,16 +264,16 @@ xujing
 
 18775
 
-guideIcon.prefab.meta
+personalAssets.prefab.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-97ae902a9176ab6a7b564f13207a4480
-2018-05-10T08:31:12.550778Z
-19111
+d17e2bf75212086ef7fdb14a005c9866
+2018-05-01T11:00:05.809232Z
+18617
 liaotao
 
 
@@ -332,16 +332,16 @@ liaotao
 
 116
 
-personalAssets.prefab.meta
+guideIcon.prefab.meta
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-d17e2bf75212086ef7fdb14a005c9866
-2018-05-01T11:00:05.809232Z
-18617
+97ae902a9176ab6a7b564f13207a4480
+2018-05-10T08:31:12.550778Z
+19111
 liaotao
 
 
@@ -403,17 +403,17 @@ xujing
 
 116
 
-guideIcon.prefab
+personalAssets.prefab
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-cb88c7d383786fb386485c832347ef30
-2018-06-23T07:50:27.268912Z
-20103
-zhangman
+cb0d497de5cad9d0ad69394e14a7079c
+2018-08-13T06:35:14.777454Z
+20694
+liaotao
 
 
 
@@ -435,7 +435,7 @@ zhangman
 
 
 
-16813
+32010
 
 personDataEdit.prefab
 file
@@ -471,17 +471,17 @@ liaotao
 
 17210
 
-personalAssets.prefab
+guideIcon.prefab
 file
 
 
 
 
 2018-09-11T17:38:58.000000Z
-cb0d497de5cad9d0ad69394e14a7079c
-2018-08-13T06:35:14.777454Z
-20694
-liaotao
+cb88c7d383786fb386485c832347ef30
+2018-06-23T07:50:27.268912Z
+20103
+zhangman
 
 
 
@@ -503,7 +503,7 @@ liaotao
 
 
 
-32010
+16813
 
 personInfoSelect.prefab.meta
 file

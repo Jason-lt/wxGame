@@ -1,0 +1,175 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xinshou_cd01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.033333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "t_hong": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "t_huang": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "t_lan": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "t_lv": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "j_hong": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3.033333333333333,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "j_huang": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "j_lv": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3.033333333333333,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "j_lan": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": 30
+              },
+              {
+                "frame": 3.033333333333333,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

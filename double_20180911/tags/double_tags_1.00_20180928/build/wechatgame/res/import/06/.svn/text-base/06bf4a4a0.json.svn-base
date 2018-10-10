@@ -1,0 +1,184 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "01",
+      "texture": "54DfgDXMNDo6ZTfrLDqOn0",
+      "rect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        64,
+        64
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "daji_cheng",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "daji_cheng",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_clips": [
+            {
+              "__uuid__": "c5wVsDXgpJrYtryP27WH2b"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "3fHTldug1Eu4Xj2SvmQS1j"
+        },
+        "fileId": "4eyVW0rGdFbIss2Otmjmsc"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "00",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "1cdQd8ouhFYo5snkOJQ+qH"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "3fHTldug1Eu4Xj2SvmQS1j"
+        },
+        "fileId": "b0vLUwGqxGUbOIpS4sZCnt"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 113,
+        "b": 1
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 64,
+        "height": 64
+      },
+      "_scaleX": 10.29,
+      "_scaleY": 10.29,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": -7
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "qiu _02",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.ParticleSystem",
+          "node": {
+            "__id__": 3
+          },
+          "_custom": true,
+          "_texture": {
+            "__uuid__": "fdY3gawGtIzafTcDSF4y1B"
+          },
+          "_totalParticles": 200,
+          "_emissionRate": 100,
+          "_life": 0.20000000298023224,
+          "_lifeVar": 0.5,
+          "_startColorVar": {
+            "__type__": "cc.Color",
+            "a": 0
+          },
+          "_endColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_angle": 360,
+          "_angleVar": 360,
+          "_startSize": 30,
+          "_startSizeVar": 10,
+          "_endSize": 15,
+          "_endSizeVar": 8,
+          "_endSpinVar": 360,
+          "_posVar": {
+            "__type__": "cc.Vec2",
+            "x": 7,
+            "y": 7
+          },
+          "_emitterMode": 1,
+          "_gravity": {
+            "__type__": "cc.Vec2",
+            "x": 0.25,
+            "y": 0.8600000143051147
+          },
+          "_speed": 0,
+          "_speedVar": 190.7899932861328,
+          "_tangentialAccel": -92.11000061035156,
+          "_tangentialAccelVar": 65.79000091552734,
+          "_radialAccel": -671.0499877929688,
+          "_radialAccelVar": 65.79000091552734,
+          "_startRadius": 50,
+          "_startRadiusVar": 30,
+          "_endRadius": 300,
+          "_endRadiusVar": 50
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "3fHTldug1Eu4Xj2SvmQS1j"
+        },
+        "fileId": "83ayxLiHZLXJDtAJVtYG+G"
+      }
+    }
+  ]
+]

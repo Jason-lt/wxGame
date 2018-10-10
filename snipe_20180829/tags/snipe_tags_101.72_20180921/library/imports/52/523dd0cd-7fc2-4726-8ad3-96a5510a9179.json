@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_box_bulletType__jtl04",
+    "texture": "ebb51215-f8e6-4f85-8174-4e7b9bb838ed",
+    "atlas": "86c7f060-2dcc-44e9-a31a-2302bf178dfa",
+    "rect": [
+      2,
+      1945,
+      68,
+      93
+    ],
+    "offset": [
+      0,
+      -7
+    ],
+    "originalSize": [
+      68,
+      107
+    ]
+  }
+}

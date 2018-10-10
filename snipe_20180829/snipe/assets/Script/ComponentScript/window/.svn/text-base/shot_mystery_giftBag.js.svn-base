@@ -61,6 +61,8 @@ cc.Class({
         //     this.tips.string = "先到先得，抢完为止\n自己也能抢哦~";
         // }
 
+        snipe.GlobalFuncs.hideAdBtnWithTag(5002,true);
+
         this.btnText.string = "<color=#2B2B2B><b><size=44>分享礼包</b></color>";
         this.tipsRich.string = "<color=#622508>分享到群里可以和朋友一起抢</c><img src='shot_gift_diamond'/><color=#622508>哦</c>";
     },

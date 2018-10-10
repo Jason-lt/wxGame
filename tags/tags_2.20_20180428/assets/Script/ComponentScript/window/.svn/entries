@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/tags/tags_2.20_20180428/assets/Script/ComponentScript/window
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -536,40 +536,6 @@ xujing
 
 197
 
-ddz_revivalWindow.js
-file
-
-
-
-
-2018-09-11T17:43:16.000000Z
-9f06275c52d40fe99ba68995ac374104
-2018-04-27T22:31:37.374250Z
-18556
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5431
-
 ddz_cell_history.js
 file
 
@@ -603,6 +569,40 @@ liaotao
 
 
 2921
+
+ddz_revivalWindow.js
+file
+
+
+
+
+2018-09-11T17:43:16.000000Z
+9f06275c52d40fe99ba68995ac374104
+2018-04-27T22:31:37.374250Z
+18556
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5431
 
 FriendModule.js.meta
 file
@@ -774,40 +774,6 @@ liaotao
 
 1147
 
-ddz_success.js
-file
-
-
-
-
-2018-09-11T17:43:16.000000Z
-f99c66a4115064d66858f80672debe5f
-2018-04-18T18:15:55.836090Z
-18131
-zhangman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2529
-
 ddz_window_gameDetail.js.meta
 file
 
@@ -841,6 +807,40 @@ liaotao
 
 
 197
+
+ddz_success.js
+file
+
+
+
+
+2018-09-11T17:43:16.000000Z
+f99c66a4115064d66858f80672debe5f
+2018-04-18T18:15:55.836090Z
+18131
+zhangman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2529
 
 ddz_main.js.meta
 file
@@ -1012,17 +1012,17 @@ liaotao
 
 7469
 
-ddz_revivalWindow.js.meta
+ddz_cell_history.js.meta
 file
 
 
 
 
 2018-09-11T17:43:16.000000Z
-dda163dca3e428533a0e9a4927c27ff9
-2018-04-21T12:47:10.270137Z
-18212
-xujing
+20dc252422e5d801ffb7fde6ee627c25
+2018-04-14T16:45:29.437985Z
+17875
+liaotao
 
 
 
@@ -1046,17 +1046,17 @@ xujing
 
 197
 
-ddz_cell_history.js.meta
+ddz_revivalWindow.js.meta
 file
 
 
 
 
 2018-09-11T17:43:16.000000Z
-20dc252422e5d801ffb7fde6ee627c25
-2018-04-14T16:45:29.437985Z
-17875
-liaotao
+dda163dca3e428533a0e9a4927c27ff9
+2018-04-21T12:47:10.270137Z
+18212
+xujing
 
 
 

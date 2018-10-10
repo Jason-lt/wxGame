@@ -79,6 +79,9 @@ cc.Class({
         ty.Timer.setTimer(this, main, 1/10,1000);
         // ddz.matchModel.getRankList();
         ty.NotificationCenter.listen(snipe.EventType.UPDATE_SHARE_STATE, this.playAnimationAfterShareWithType, this);
+
+        snipe.GlobalFuncs.hideAdBtnWithTag(5004,true);
+        snipe.GlobalFuncs.hideAdBtnWithTag(5001,true);
     },
 
     playAnimationAfterShareWithType : function (shareType) {

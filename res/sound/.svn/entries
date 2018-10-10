@@ -1,7 +1,7 @@
 10
 
 dir
-20908
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/res/sound
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
@@ -196,40 +196,6 @@ has-props
 
 7550
 
-man_pass.mp3
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-96cfc2d303317a436f5dc1e89d83e1f0
-2018-04-02T07:04:56.101019Z
-17550
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6923
-
 click_cards.mp3
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 3687
+
+man_pass.mp3
+file
+
+
+
+
+2018-09-11T17:40:19.000000Z
+96cfc2d303317a436f5dc1e89d83e1f0
+2018-04-02T07:04:56.101019Z
+17550
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6923
 
 man_three_one.mp3
 file
@@ -1012,6 +1012,40 @@ has-props
 
 6714
 
+Upgrade.mp3
+file
+
+
+
+
+2018-09-11T17:40:19.000000Z
+bf8c4a3962b4a16a7a8a323b7da13782
+2018-04-02T07:04:56.101019Z
+17550
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66957
+
 female_I_got_left_two_cards_erdou.mp3
 file
 
@@ -1080,40 +1114,6 @@ has-props
 
 2281
 
-Upgrade.mp3
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-bf8c4a3962b4a16a7a8a323b7da13782
-2018-04-02T07:04:56.101019Z
-17550
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-66957
-
 female_I_got_left_two_cards.mp3
 file
 
@@ -1147,40 +1147,6 @@ has-props
 
 
 14237
-
-Victory.mp3
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-97a86740e7f8fd13950dd23d47c11ff4
-2018-04-02T07:04:56.101019Z
-17550
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41344
 
 female_I_got_left_one_cards_erdou.mp3
 file
@@ -1216,6 +1182,40 @@ has-props
 
 9385
 
+Victory.mp3
+file
+
+
+
+
+2018-09-11T17:40:19.000000Z
+97a86740e7f8fd13950dd23d47c11ff4
+2018-04-02T07:04:56.101019Z
+17550
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41344
+
 female_I_got_left_one_cards.mp3
 file
 
@@ -1249,74 +1249,6 @@ has-props
 
 
 14272
-
-man_1_point.mp3
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-f61b2ceb073a9687fa9e4ecd45ece637
-2018-04-02T07:04:56.101019Z
-17550
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7341
-
-female_airplane.mp3
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-3e540978521309b21abc375ebaa1919b
-2018-04-02T07:04:56.101019Z
-17550
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6087
 
 female_not_call.mp3
 file
@@ -1352,14 +1284,14 @@ has-props
 
 6505
 
-man_3_point.mp3
+female_airplane.mp3
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-4bea9256a419522ffa1ed78820737a0d
+3e540978521309b21abc375ebaa1919b
 2018-04-02T07:04:56.101019Z
 17550
 xujing
@@ -1384,7 +1316,41 @@ has-props
 
 
 
-9640
+6087
+
+man_1_point.mp3
+file
+
+
+
+
+2018-09-11T17:40:19.000000Z
+f61b2ceb073a9687fa9e4ecd45ece637
+2018-04-02T07:04:56.101019Z
+17550
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7341
 
 table_victory.mp3
 file
@@ -1420,14 +1386,14 @@ has-props
 
 8530
 
-back_button_Click_Sound.mp3
+man_3_point.mp3
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-7c08385eff65c3e12c7af6a1c957c123
+4bea9256a419522ffa1ed78820737a0d
 2018-04-02T07:04:56.101019Z
 17550
 xujing
@@ -1452,7 +1418,7 @@ has-props
 
 
 
-4055
+9640
 
 female_four_with_two.mp3
 file
@@ -1488,14 +1454,14 @@ has-props
 
 7759
 
-man_I_got_left_two_cards_erdou.mp3
+back_button_Click_Sound.mp3
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-078528408f9862bf20457e7a28b1decd
+7c08385eff65c3e12c7af6a1c957c123
 2018-04-02T07:04:56.101019Z
 17550
 xujing
@@ -1520,7 +1486,7 @@ has-props
 
 
 
-6982
+4055
 
 table_lose.mp3
 file
@@ -1556,14 +1522,14 @@ has-props
 
 6376
 
-man_I_got_left_two_cards.mp3
+man_I_got_left_two_cards_erdou.mp3
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-1479f47b67773e08fba78d353dba9444
+078528408f9862bf20457e7a28b1decd
 2018-04-02T07:04:56.101019Z
 17550
 xujing
@@ -1588,7 +1554,7 @@ has-props
 
 
 
-15073
+6982
 
 female_not_rob.mp3
 file
@@ -1623,6 +1589,40 @@ has-props
 
 
 6296
+
+man_I_got_left_two_cards.mp3
+file
+
+
+
+
+2018-09-11T17:40:19.000000Z
+1479f47b67773e08fba78d353dba9444
+2018-04-02T07:04:56.101019Z
+17550
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15073
 
 female_three_with_one.mp3
 file
@@ -1692,40 +1692,6 @@ has-props
 
 16221
 
-man_I_got_left_one_cards_erdou.mp3
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-53cca1b2578b38d4bd14a580cb507d8c
-2018-04-02T07:04:56.101019Z
-17550
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6982
-
 continuous_pair.mp3
 file
 
@@ -1760,14 +1726,14 @@ has-props
 
 13356
 
-man_I_got_left_one_cards.mp3
+man_I_got_left_one_cards_erdou.mp3
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-69d8d2fb9fa8f71d8ade9b8f699664fe
+53cca1b2578b38d4bd14a580cb507d8c
 2018-04-02T07:04:56.101019Z
 17550
 xujing
@@ -1792,7 +1758,7 @@ has-props
 
 
 
-14864
+6982
 
 female_four_with_two_pair.mp3
 file
@@ -1828,6 +1794,40 @@ has-props
 
 8595
 
+man_I_got_left_one_cards.mp3
+file
+
+
+
+
+2018-09-11T17:40:19.000000Z
+69d8d2fb9fa8f71d8ade9b8f699664fe
+2018-04-02T07:04:56.101019Z
+17550
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14864
+
 airplane_beiguan.mp3
 file
 
@@ -1862,14 +1862,14 @@ has-props
 
 60117
 
-table_background_music.mp3
+man_airplane.mp3
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-bc7a85b8c94f8cf8631d3cb9f25116bb
+d325a9baa6bbbde87059cd3c6c3230b0
 2018-04-02T07:04:56.101019Z
 17550
 xujing
@@ -1894,7 +1894,7 @@ has-props
 
 
 
-203809
+8804
 
 man_not_call.mp3
 file
@@ -1930,14 +1930,14 @@ has-props
 
 6714
 
-man_airplane.mp3
+table_background_music.mp3
 file
 
 
 
 
 2018-09-11T17:40:19.000000Z
-d325a9baa6bbbde87059cd3c6c3230b0
+bc7a85b8c94f8cf8631d3cb9f25116bb
 2018-04-02T07:04:56.101019Z
 17550
 xujing
@@ -1962,7 +1962,7 @@ has-props
 
 
 
-8804
+203809
 
 female_three_with_one_pair.mp3
 file
@@ -2032,40 +2032,6 @@ has-props
 
 7550
 
-man_three_with_one.mp3
-file
-
-
-
-
-2018-09-11T17:40:19.000000Z
-a45ed9d44121de86d87f87e596cebcbe
-2018-04-02T07:04:56.101019Z
-17550
-xujing
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9013
-
 female_rob_dizhu.mp3
 file
 
@@ -2099,6 +2065,40 @@ has-props
 
 
 8595
+
+man_three_with_one.mp3
+file
+
+
+
+
+2018-09-11T17:40:19.000000Z
+a45ed9d44121de86d87f87e596cebcbe
+2018-04-02T07:04:56.101019Z
+17550
+xujing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9013
 
 man_bomb.mp3
 file

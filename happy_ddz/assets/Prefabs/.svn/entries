@@ -1,14 +1,14 @@
 10
 
 dir
-20909
+21051
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js/h5/happy_ddz/assets/Prefabs
 https://liaotao@tyyxsvn.touch4.me/newsvn/hall-js
 
 
 
-2018-09-11T02:53:03.413843Z
-20909
+2018-09-28T08:07:57.215314Z
+21024
 liaotao
 
 
@@ -93,30 +93,6 @@ liaotao
 
 
 12739
-
-personInfoSelect.prefab
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 shareRedPacket.prefab
 file
@@ -288,54 +264,6 @@ liaotao
 
 116
 
-guideIcon.prefab.meta
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
-personDataEdit.prefab.meta
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 windows
 dir
 
@@ -375,7 +303,7 @@ liaotao
 
 personalAssets.prefab
 file
-21006
+
 
 
 
@@ -406,54 +334,6 @@ liaotao
 
 
 22797
-
-guideIcon.prefab
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
-personDataEdit.prefab
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 SmallCardPrefab.prefab.meta
 file
@@ -488,30 +368,6 @@ liaotao
 
 
 116
-
-personInfoSelect.prefab.meta
-file
-21006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 shareRedPacket.prefab.meta
 file
@@ -651,7 +507,7 @@ liaotao
 
 Avatar.prefab
 file
-21006
+
 
 
 
