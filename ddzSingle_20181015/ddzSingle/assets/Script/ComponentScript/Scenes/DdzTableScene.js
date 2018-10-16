@@ -37,23 +37,21 @@ cc.Class({
         this._multiNum = 1;
 
         //座位相关
-        this._leftSeatinfo = new ddz.SeatInfo();
-        this._rightSeatinfo = new ddz.SeatInfo();
-        this._mySeatinfo = new ddz.SeatInfo();
+        this._leftSeatinfo = {};
+        this._rightSeatinfo = {};
+        this._mySeatinfo = {};
         this._mySeatIndex = 0;
         this._showCardIndex = 0;
         this._changeLaiZi = false;
 
-        //table数据
-        this._tableInfo = new ddz._TableInfo();
-        this._tableState = new ddz._TableState();
+        // //table数据
+        // this._tableInfo = new ddz._TableInfo();
+        // this._tableState = new ddz._TableState();
 
         //打牌逻辑存储
         this._topCardType = null; //需要管的牌型，只能是一个牌型.不需要在每次table_info里面topcard有变动的时候都去转换，只在需要用到的时候转换
         this._playTips = null; //轮到玩家操作时会自动寻找所有能管得上的手牌，如果没有，则进行提示，如果有，点提示按钮的时候用
         this._tipNum = 0; //每次点提示按钮都会切换下一个提示牌，当收到下次该我出牌时重置回0
-
-        this._netMsgHandler = null;
 
         this._mode = ddz.Enums.PlayMode.PLAY_MODE_NET;
         this._type = ddz.Enums.PlayType.PLAY_TYPE_JINGDIAN; //经典，欢乐，比赛，癞子   联网版由服务器消息决定
@@ -262,20 +260,6 @@ cc.Class({
         smallCard.active = false;
 
         this.FIRSTLINECARDY = this.cardsContainer.height - ddz.CARD_BIG_SIZE.height;
-
-        this._netMsgHandler = new ddz.PlayingNetMsg(this);
-
-        if (ddz.quickStartModel.cache){
-            //牌桌创建之前,有可能quick_start
-            this._netMsgHandler.onQuickStart(ddz.quickStartModel.cache);
-            ddz.quickStartModel.cache = null;
-        }
-
-        if (ddz.tableInfoModel.cache){
-            //牌桌创建之前,有可能table_info已经存在了(断线重连的情况)
-            this._netMsgHandler.onTableInfo(ddz.tableInfoModel.cache);
-            // ddz.tableInfoModel.cache = null;
-        }
 
         this.myCardNote = [];
         ddz.isClickJiPaiQi = false;
@@ -554,8 +538,6 @@ cc.Class({
         hall.adManager.destroyWidthBannerAd();
         this.tableInfo().destroy();
         ddz.tableInfoModel.clean();
-        this._netMsgHandler.destroy();
-        this._netMsgHandler = null;
         this._cardAniPlayer.shut();
         this._cardAniPlayer = null;
         this._chatAniPlayer.shut();
@@ -661,78 +643,18 @@ cc.Class({
         this.toThrough();
         this.node.on(cc.Node.EventType.TOUCH_END, this._bgGroundTouch, this);
 
-        if (this._tableState.normalInfo.m_state != ddz.Enums.TableState.TABLEDSTAT_IDLE){
-            this._refreshMultipleLabel(false, true, true);
-        }
-
-        var winnerCount = ddz.matchModel.getCurWinnerCount();
 
         // banner 广告
-        if (this.tableInfo().getSceneType() == ddz.Enums.SceneType.MATCH){
-            //检查配置是否开启
-            var bc = ddz.gameModel.getTableBannerConfigJson();
-            var btc = ddz.gameModel.getTableTopBannerConfigJson();
-            var isTop = false;
-
-            // var bottomNode = this.node.getChildByName('playerBottom');
-            // var bw = bottomNode.getComponent(cc.Widget);
-            // bw.bottom = 190;
-            this.jipaiqi.active = true;
-
-            var winnerCount = ddz.matchModel.getCurWinnerCount();
-            if (bc){
-                if (bc.start) {
-                    if (winnerCount >= bc.start) {
-                        isTop = false;
-                        this.showMatchBanner(bc,isTop);
-                    }
-                }else {
-                    isTop = false;
-                    this.showMatchBanner(bc,isTop);
-                }
-            }else if (btc){
-                if (btc.start) {
-                    if (winnerCount >= bc.start) {
-                        isTop = true;
-                        this.showMatchBanner(btc,isTop);
-                    }
-                }else {
-                    isTop = true;
-                    this.showMatchBanner(btc,isTop);
-                }
-            }
-
-        }else if (this._goldPanel) {
-            var bc = ddz.gameModel.getGoldTableBannerConfigJson();
-            if (bc) {
-                if (bc.start) {
-                    if (winnerCount >= bc.start) {
-                        this.showGoldBanner(bc);
-                    }
-                }else {
-                    this.showGoldBanner(bc);
-                }
-            }
-        }else if (this._arenaPanel){
-            var bc = ddz.gameModel.getMatchTableBannerConfigJson();
-            if (bc) {
-                if (bc.start) {
-                    if (winnerCount >= bc.start) {
-                        this.showArenaMatchBanner(bc);
-                    }
-                }else {
-                    this.showArenaMatchBanner(bc);
-                }
-            }
-        }else if (this._friendPanel){
-            // hall.adManager.destroyBannerAd();
-            hall.adManager.destroyWidthBannerAd();
-            // hall.adManager.destroyResurgenceBannerAd();
-        }else {
-            // hall.adManager.destroyBannerAd();
-            hall.adManager.destroyWidthBannerAd();
-            // hall.adManager.destroyResurgenceBannerAd();
-        }
+        // var bc = ddz.gameModel.getGoldTableBannerConfigJson();
+        // if (bc) {
+        //     if (bc.start) {
+        //         if (winnerCount >= bc.start) {
+        //             this.showGoldBanner(bc);
+        //         }
+        //     }else {
+        //         this.showGoldBanner(bc);
+        //     }
+        // }
     },
 
     // 金币场banner广告
@@ -2785,15 +2707,7 @@ cc.Class({
             ty.NotificationCenter.trigger(ddz.EventType.UPDATE_CARD_NOTE, this.myCardNote);
         }
 
-        if (this.tableInfo().getSceneType() == ddz.Enums.SceneType.MATCH) {
-            if (ddz.gameModel.firstUseJiPaiQiPoint > 0){// 首次得记牌器
-                ddz.gameModel.shareToGetreward(ddz.Share.SharePointType.firstUseJiPaiQi);
-            }else {
-                this.userJiPaiQi();
-            }
-
-            // this.userJiPaiQi();
-        }
+        this.userJiPaiQi();
     },
 
     userJiPaiQi:function(){
@@ -2938,85 +2852,31 @@ cc.Class({
             //显示流局图片,
             this._cardAniPlayer.playGameFlow();
 
-            if (this.tableInfo().getSceneType() == ddz.Enums.SceneType.MATCH){
-                ddz.matchModel.isGameFlow = true;
-                ddz.matchModel.getMatchDes();
-                //流局重新发牌
-                ty.Timer.setTimer(this, function () {
-                    that._reset();
-
-                    if (ddz.matchModel.checkOldVersion() && ddz.matchModel.getStageIndex() === 1){
-                    }else {
-                        //修改为第一关失败,还会在比赛进程里,流局可以直接发挑战
-                        // ddz.matchModel.matchChallenge();
-                    }
-
-                }, 1, 0);
-
-                return;
-            }
-
-            if (this._goldPanel){
-                this.scheduleOnce(function () {
-                    that._reset();
-                    var playModel = that.tableInfo().playMode;
-                    var _mixID = that.tableInfo().mixId;
-                    // hall.MsgFactory.getQuickStart(ty.UserInfo.userId, ddz.GameId, ddz.quickStartModel.getRoomId(), hall.staticSystemInfo.version, null, null, null,null,_mixID,playModel);
-                }, 2);
-                return;
-            }
+            this.scheduleOnce(function () {
+                that._reset();
+                var playModel = that.tableInfo().playMode;
+                var _mixID = that.tableInfo().mixId;
+                // hall.MsgFactory.getQuickStart(ty.UserInfo.userId, ddz.GameId, ddz.quickStartModel.getRoomId(), hall.staticSystemInfo.version, null, null, null,null,_mixID,playModel);
+            }, 2);
         }
         else{
             ty.NotificationCenter.trigger(ddz.EventType.SHOW_GAME_WIN_ANI, dzwin);
         }
 
-        var isChunTian = false;
-
-        if (!isFlow && this._tableState.normalInfo.m_chuntian > 1) {
-            //播放春天动画
-            this._cardAniPlayer.playChunTian();
-            isChunTian = true;
-
-        }
+        // //播放春天动画
+        // this._cardAniPlayer.playChunTian();
+        // isChunTian = true;
 
         if (this.tableInfo().getSceneType() == ddz.Enums.SceneType.MATCH) {
             ddz.matchModel.isDiZhuWin = dzwin;
-            ddz.matchModel.getMatchDes();
         }
 
         this._operateController.hideAll();
         this.cardsTip.string = "";
         //游戏结束
         this.setStatus(ddz.Enums.PlayStatus.PLAY_STATUS_GAMEOVER);
-        // this._tableInfo.parseComplain(result);
-        this._tableState.parseTableState(result["stat"]);
 
         // 好友桌对局流水
-
-        var ftInfo = this._tableInfo.ftInfo;
-
-        if (ftInfo && result.results && result.results.length > 0){
-            ftInfo.parseGameWin(result);
-            // hall.GlobalFuncs.onShowDetail(this);
-        }
-
-        if (that._friendPanel) {
-            if (result['curRound'] < result['totalRound']){
-                // ty.Timer.setTimer(this, function () {
-                //     if (that._friendPanel) {
-                //         that._reset();
-                //         that._friendPanel.setBtnReadyState(!ftInfo.allComplete);
-                //     }
-                // }, 8, 0);
-            }
-            else{
-                ty.Timer.setTimer(this, function () {
-                    ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeEndFriendGame,
-                        [that.tableInfo().ftInfo.totalRound,that.tableInfo().ftInfo.curRound,ddz.Share.shareKeywordReplace.goodCard]);
-                    hall.GlobalFuncs.onShowDetail();
-                }, 7, 0);
-            }
-        }
 
         //修复春天后,不加倍的BUG.
         this._refreshMultipleLabel(false, true);
@@ -3029,14 +2889,7 @@ cc.Class({
         if(result.new_gift_reward){
             ddz.matchModel.new_gift_reward = result.new_gift_reward;
         }
-
-        if (isChunTian) {
-            ty.NotificationCenter.trigger(ddz.EventType.SET_BOX_TYPE, "春天宝箱");
-        }
-
-        // ty.Timer.setTimer(this, function () {
-        //     hall.GlobalFuncs.onTreasureBox();
-        // }, 4, 0);
+        
     },
 
     _startGameOverAnimation: function(result) {

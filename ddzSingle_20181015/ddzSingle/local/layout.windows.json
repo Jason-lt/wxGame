@@ -92,11 +92,11 @@
         "type": "dock-h"
       },
       "panels": [
+        "node-library",
         "console",
         "timeline",
         "inspector",
         "builder",
-        "node-library",
         "hierarchy",
         "assets",
         "scene"

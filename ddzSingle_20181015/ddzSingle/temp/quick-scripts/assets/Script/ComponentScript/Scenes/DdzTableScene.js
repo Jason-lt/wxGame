@@ -43,23 +43,21 @@ cc.Class({
         this._multiNum = 1;
 
         //座位相关
-        this._leftSeatinfo = new ddz.SeatInfo();
-        this._rightSeatinfo = new ddz.SeatInfo();
-        this._mySeatinfo = new ddz.SeatInfo();
+        this._leftSeatinfo = {};
+        this._rightSeatinfo = {};
+        this._mySeatinfo = {};
         this._mySeatIndex = 0;
         this._showCardIndex = 0;
         this._changeLaiZi = false;
 
-        //table数据
-        this._tableInfo = new ddz._TableInfo();
-        this._tableState = new ddz._TableState();
+        // //table数据
+        // this._tableInfo = new ddz._TableInfo();
+        // this._tableState = new ddz._TableState();
 
         //打牌逻辑存储
         this._topCardType = null; //需要管的牌型，只能是一个牌型.不需要在每次table_info里面topcard有变动的时候都去转换，只在需要用到的时候转换
         this._playTips = null; //轮到玩家操作时会自动寻找所有能管得上的手牌，如果没有，则进行提示，如果有，点提示按钮的时候用
         this._tipNum = 0; //每次点提示按钮都会切换下一个提示牌，当收到下次该我出牌时重置回0
-
-        this._netMsgHandler = null;
 
         this._mode = ddz.Enums.PlayMode.PLAY_MODE_NET;
         this._type = ddz.Enums.PlayType.PLAY_TYPE_JINGDIAN; //经典，欢乐，比赛，癞子   联网版由服务器消息决定
@@ -266,20 +264,6 @@ cc.Class({
         smallCard.active = false;
 
         this.FIRSTLINECARDY = this.cardsContainer.height - ddz.CARD_BIG_SIZE.height;
-
-        this._netMsgHandler = new ddz.PlayingNetMsg(this);
-
-        if (ddz.quickStartModel.cache) {
-            //牌桌创建之前,有可能quick_start
-            this._netMsgHandler.onQuickStart(ddz.quickStartModel.cache);
-            ddz.quickStartModel.cache = null;
-        }
-
-        if (ddz.tableInfoModel.cache) {
-            //牌桌创建之前,有可能table_info已经存在了(断线重连的情况)
-            this._netMsgHandler.onTableInfo(ddz.tableInfoModel.cache);
-            // ddz.tableInfoModel.cache = null;
-        }
 
         this.myCardNote = [];
         ddz.isClickJiPaiQi = false;
@@ -543,8 +527,6 @@ cc.Class({
         hall.adManager.destroyWidthBannerAd();
         this.tableInfo().destroy();
         ddz.tableInfoModel.clean();
-        this._netMsgHandler.destroy();
-        this._netMsgHandler = null;
         this._cardAniPlayer.shut();
         this._cardAniPlayer = null;
         this._chatAniPlayer.shut();

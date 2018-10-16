@@ -1664,11 +1664,6 @@
     "meta": 1539644792000,
     "relativePath": "Script"
   },
-  "86f6dfb3-799f-423b-b01b-4e058d7bc516": {
-    "asset": 1539664159000,
-    "meta": 1539664159000,
-    "relativePath": "Scene/TableScene.fire"
-  },
   "dabfaec9-d4d3-46bd-843e-d7959c1f7e94": {
     "asset": 1539644787000,
     "meta": 1539644788000,
@@ -1685,7 +1680,7 @@
     "relativePath": "Script/CommonFrame/PropagateInterface.js"
   },
   "6daf3533-560b-49e3-a03a-9641e1bb4c77": {
-    "asset": 1539663347000,
+    "asset": 1539665224000,
     "meta": 1539644788000,
     "relativePath": "Script/ComponentScript/component"
   },
@@ -1703,11 +1698,6 @@
     "asset": 1539644787000,
     "meta": 1539644942000,
     "relativePath": "Script/ComponentScript/component/boxTipsNode.js"
-  },
-  "43603791-ea04-46af-bfba-0ff7f807f8cc": {
-    "asset": 1539644787000,
-    "meta": 1539644942000,
-    "relativePath": "Script/ComponentScript/component/Card.js"
   },
   "736aa7c6-099d-423b-aab4-df36860c9a5c": {
     "asset": 1539644787000,
@@ -1823,11 +1813,6 @@
     "asset": 1539644787000,
     "meta": 1539644943000,
     "relativePath": "Script/ComponentScript/component/personalAssets.js"
-  },
-  "5a966fc5-92dd-4c6b-b96e-b35a0fee8f34": {
-    "asset": 1539644787000,
-    "meta": 1539644943000,
-    "relativePath": "Script/ComponentScript/component/PlayerPanel.js"
   },
   "c0cd3696-6874-4675-8c78-79ea5b3b5449": {
     "asset": 1539644787000,
@@ -1979,14 +1964,9 @@
     "meta": 1539644949000,
     "relativePath": "Script/Framework/Timer.js"
   },
-  "2ffa4cd6-8225-434a-b26f-5e92ed0adf57": {
-    "asset": 1539644788000,
-    "meta": 1539644949000,
-    "relativePath": "Script/Framework/TuyooSDK.js"
-  },
   "383fab20-8a1e-448b-9116-c669a2eb0550": {
     "asset": 1539644788000,
-    "meta": 1539663934000,
+    "meta": 1539664677000,
     "relativePath": "Script/GlobalScript.js"
   },
   "165bd899-9c61-4598-a88e-65176cff433e": {
@@ -2244,20 +2224,10 @@
     "meta": 1539648807000,
     "relativePath": "Script/ddz/models/MatchModel.js"
   },
-  "03a45ba3-89e5-4d31-a223-5429c900a41e": {
-    "asset": 1539656448000,
-    "meta": 1539658091000,
-    "relativePath": "Script/ComponentScript/Scenes/DdzTableScene.js"
-  },
   "6ab5e5ad-daa1-4e3a-8705-8a5d81e91078": {
     "asset": 1539662201000,
     "meta": 1539662304000,
     "relativePath": "Script/hall/HallNetWorkCenter.js"
-  },
-  "c3b5590b-7ee0-40d6-a500-78781fc3eb9e": {
-    "asset": 1539661946000,
-    "meta": 1539661947000,
-    "relativePath": "Script/hall/boot.js"
   },
   "5ac9f282-c303-4018-b3d5-4b9263b504e2": {
     "asset": 1539662487000,
@@ -2270,8 +2240,8 @@
     "relativePath": "Script/ComponentScript/component/ddzsingle_robot_longest.js"
   },
   "b14b2c77-f2c6-4a44-bf28-193c36074679": {
-    "asset": 1539662864000,
-    "meta": 1539662967000,
+    "asset": 1539663834000,
+    "meta": 1539665304000,
     "relativePath": "Script/ComponentScript/component/ddzsingle_robot_type_finder.js"
   },
   "74ee77c8-3200-4fbf-8c62-a043281edb5d": {
@@ -2284,14 +2254,49 @@
     "meta": 1539662968000,
     "relativePath": "Script/ComponentScript/component/ddzsingle_robot.js"
   },
-  "1ee1f091-42d9-44d6-9d91-4c893626fb17": {
-    "asset": 1539664095000,
-    "meta": 1539664141000,
-    "relativePath": "Script/ComponentScript/component/ddzsingle_robot_chat.js"
-  },
   "5b5feab1-8af6-41ba-b48a-17569ef2240a": {
     "asset": 1539664095000,
     "meta": 1539664141000,
     "relativePath": "Script/ComponentScript/component/ddzsingle_string_resource.js"
+  },
+  "1ee1f091-42d9-44d6-9d91-4c893626fb17": {
+    "asset": 1539665224000,
+    "meta": 1539665227000,
+    "relativePath": "Script/ComponentScript/component/ddzsingle_robot_chat.js"
+  },
+  "5a966fc5-92dd-4c6b-b96e-b35a0fee8f34": {
+    "asset": 1539665433000,
+    "meta": 1539665438000,
+    "relativePath": "Script/ComponentScript/component/PlayerPanel.js"
+  },
+  "2ffa4cd6-8225-434a-b26f-5e92ed0adf57": {
+    "asset": 1539665516000,
+    "meta": 1539665520000,
+    "relativePath": "Script/Framework/TuyooSDK.js"
+  },
+  "c3b5590b-7ee0-40d6-a500-78781fc3eb9e": {
+    "asset": 1539665727000,
+    "meta": 1539665735000,
+    "relativePath": "Script/hall/boot.js"
+  },
+  "64f51486-a75a-437d-85f5-8618d17829f3": {
+    "asset": 1536687538000,
+    "meta": 1539665949000,
+    "relativePath": "Script/ddz/models/CardInfo.js"
+  },
+  "43603791-ea04-46af-bfba-0ff7f807f8cc": {
+    "asset": 1539665959000,
+    "meta": 1539665962000,
+    "relativePath": "Script/ComponentScript/component/Card.js"
+  },
+  "86f6dfb3-799f-423b-b01b-4e058d7bc516": {
+    "asset": 1539666245000,
+    "meta": 1539666245000,
+    "relativePath": "Scene/TableScene.fire"
+  },
+  "03a45ba3-89e5-4d31-a223-5429c900a41e": {
+    "asset": 1539666236000,
+    "meta": 1539666240000,
+    "relativePath": "Script/ComponentScript/Scenes/DdzTableScene.js"
   }
 }

@@ -65,10 +65,10 @@ cc.Class({
     },
 
     getIsFriend:function () {
-        return this._playController.tableInfo().getSceneType() == ddz.Enums.SceneType.FRIEND;
+        return false;
     },
     getIsGold:function () {
-        return this._playcontroller.tableInfo().getSceneType() == ddz.Enums.SceneType.NORMAL;
+        return true;
     },
 
     onShoGameWinAni:function (dizhuWin) {

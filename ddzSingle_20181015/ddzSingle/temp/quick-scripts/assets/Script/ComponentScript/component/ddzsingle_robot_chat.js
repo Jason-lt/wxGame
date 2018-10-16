@@ -18,6 +18,18 @@ cc._RF.push(module, '1ee1fCRQtlE1p2RTIk2JvsX', 'ddzsingle_robot_chat', __filenam
 // ddz.STRING.DDZ_PLAY_CHAT_STRING_1006: '搏一搏,单车变摩托。', 6
 // ddz.STRING.DDZ_PLAY_CHAT_STRING_1007: '炸得好!', 7
 
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1001 = '真怕猪一样的队友！';
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1000 = '我等的假花儿都谢了!';
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1003 = '我炸你个桃花朵朵开! ';
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1002 = '一走一停真有型,一秒一卡好潇洒。';
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1005 = '风吹鸡蛋壳,牌去人安乐。';
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1004 = '姑娘,你真是条汉子。';
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1007 = '炸得好!',
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1006 = '搏一搏,单车变摩托。';
+// ddz.stringMode.DDZ_PLAY_CHAT_STRING_1008 = '请输入要发送的信息';
+
+require("ddzsingle_string_resource");
+
 ddz.chatMsg = [{
 	'msg': ddz.stringMode.DDZ_PLAY_CHAT_STRING_1000,
 	'index': 0

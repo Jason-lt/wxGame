@@ -15,6 +15,7 @@ require('GlobalTimer');
 require('RecordManager');
 hall.ME = new UserInfo();
 hall.gameWorld = new HallGameWorld();
+ddz.AI = new ddz.AIRobot();
 
 // 系统信息，获取一次即可
 hall.staticSystemInfo = {

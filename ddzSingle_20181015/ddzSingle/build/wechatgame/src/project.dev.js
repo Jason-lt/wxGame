@@ -17064,6 +17064,40 @@ require = function() {
     });
     cc._RF.pop();
   }, {} ],
+  CardInfo: [ function(require, module, exports) {
+    "use strict";
+    cc._RF.push(module, "64f51SGp1pDfYX1hhjReCnz", "CardInfo");
+    "use strict";
+    ddz.CardInfo = cc.Class({
+      ctor: function ctor() {
+        this._TAG = "ddz.CardInfo";
+        this._color = ddz.Enums.CardColor.CARD_COLOR_HONGTAO;
+        this._type = ddz.Enums.CardType.CARD_TYPE_NORMAL;
+        this._point = 0;
+        this._value = -1;
+        this._number = -1;
+        this._tag = ddz.CardInfoTag;
+        ddz.CardInfoTag++;
+      },
+      refreshInfoFromNum: function refreshInfoFromNum(num) {
+        this._number = num;
+        this._color = Math.floor(num / 13) + 1;
+        this._point = ddz.GlobalFuncs.numberToPoint(num);
+        this._value = ddz.GlobalFuncs.numberToValue(num);
+        this._type = ddz.Enums.CardType.CARD_TYPE_NORMAL;
+        52 != num && 53 != num || (this._type = ddz.Enums.CardType.CARD_TYPE_KING);
+        num > 53 && (this._type = ddz.Enums.CardType.CARD_TYPE_LAIZI);
+      },
+      dump: function dump() {
+        ddz.LOGD(this._TAG, "color : " + this._color);
+        ddz.LOGD(this._TAG, "type : " + this._type);
+        ddz.LOGD(this._TAG, "point: " + this._point);
+        ddz.LOGD(this._TAG, "value : " + this._value);
+        ddz.LOGD(this._TAG, "number : " + this._number);
+      }
+    });
+    cc._RF.pop();
+  }, {} ],
   CardType: [ function(require, module, exports) {
     "use strict";
     cc._RF.push(module, "3cf35z0LSBOVLxjK6Id8MpR", "CardType");
@@ -18646,18 +18680,15 @@ require = function() {
         this._touchCardIndexBegin = -1;
         this._touchCardIndexEnd = -1;
         this._multiNum = 1;
-        this._leftSeatinfo = new ddz.SeatInfo();
-        this._rightSeatinfo = new ddz.SeatInfo();
-        this._mySeatinfo = new ddz.SeatInfo();
+        this._leftSeatinfo = {};
+        this._rightSeatinfo = {};
+        this._mySeatinfo = {};
         this._mySeatIndex = 0;
         this._showCardIndex = 0;
         this._changeLaiZi = false;
-        this._tableInfo = new ddz._TableInfo();
-        this._tableState = new ddz._TableState();
         this._topCardType = null;
         this._playTips = null;
         this._tipNum = 0;
-        this._netMsgHandler = null;
         this._mode = ddz.Enums.PlayMode.PLAY_MODE_NET;
         this._type = ddz.Enums.PlayType.PLAY_TYPE_JINGDIAN;
         this._roomId = null;
@@ -18806,12 +18837,6 @@ require = function() {
         this.laiZiCardsNode.addChild(smallCard);
         smallCard.active = false;
         this.FIRSTLINECARDY = this.cardsContainer.height - ddz.CARD_BIG_SIZE.height;
-        this._netMsgHandler = new ddz.PlayingNetMsg(this);
-        if (ddz.quickStartModel.cache) {
-          this._netMsgHandler.onQuickStart(ddz.quickStartModel.cache);
-          ddz.quickStartModel.cache = null;
-        }
-        ddz.tableInfoModel.cache && this._netMsgHandler.onTableInfo(ddz.tableInfoModel.cache);
         this.myCardNote = [];
         ddz.isClickJiPaiQi = false;
         this.jipaiqi.active = false;
@@ -18981,8 +19006,6 @@ require = function() {
         hall.adManager.destroyWidthBannerAd();
         this.tableInfo().destroy();
         ddz.tableInfoModel.clean();
-        this._netMsgHandler.destroy();
-        this._netMsgHandler = null;
         this._cardAniPlayer.shut();
         this._cardAniPlayer = null;
         this._chatAniPlayer.shut();
@@ -25401,10 +25424,10 @@ require = function() {
         return this.avatar.getComponent("Avatar");
       },
       getIsFriend: function getIsFriend() {
-        return this._playController.tableInfo().getSceneType() == ddz.Enums.SceneType.FRIEND;
+        return false;
       },
       getIsGold: function getIsGold() {
-        return this._playcontroller.tableInfo().getSceneType() == ddz.Enums.SceneType.NORMAL;
+        return true;
       },
       onShoGameWinAni: function onShoGameWinAni(dizhuWin) {
         var dizhuIndex = this._playController._tableState.normalInfo.m_dizhu;
@@ -28531,7 +28554,6 @@ require = function() {
         ty.TuyooSDK.wechatLogin();
         ddz.needReLogin = null;
       }
-      ddz.tableChatModel.replay();
     });
     wx.onHide(function() {
       ty.UserInfo.scene_id = 0;
@@ -28541,7 +28563,6 @@ require = function() {
       hall.GlobalFuncs.setInLocalStorage(ddz.matchModel.ONHIDE_DATE, date);
       ty.NotificationCenter.trigger(ddz.EventType.GAME_HIDE);
       hall.LOGW("", "+++++++++++++++++onHide+++++++++++++++++");
-      ddz.friendModel.isEnterTable = false;
       ty.TCP.close();
     });
     var getNetSuccess = function getNetSuccess(res) {
@@ -28878,6 +28899,7 @@ require = function() {
     require("RecordManager");
     hall.ME = new UserInfo();
     hall.gameWorld = new HallGameWorld();
+    ddz.AI = new ddz.AIRobot();
     hall.staticSystemInfo = {
       version: 1
     };
@@ -31156,6 +31178,7 @@ require = function() {
     "use strict";
     cc._RF.push(module, "1ee1fCRQtlE1p2RTIk2JvsX", "ddzsingle_robot_chat");
     "use strict";
+    require("ddzsingle_string_resource");
     ddz.chatMsg = [ {
       msg: ddz.stringMode.DDZ_PLAY_CHAT_STRING_1000,
       index: 0
@@ -31267,7 +31290,9 @@ require = function() {
       }
     });
     cc._RF.pop();
-  }, {} ],
+  }, {
+    ddzsingle_string_resource: "ddzsingle_string_resource"
+  } ],
   ddzsingle_robot_longest: [ function(require, module, exports) {
     "use strict";
     cc._RF.push(module, "8de10f5OnhKz5cfJ1GekLbw", "ddzsingle_robot_longest");
@@ -31364,7 +31389,7 @@ require = function() {
         return false;
       }
     });
-    ddz.singleFinder = ddz.typeByNum.extends({
+    ddz.singleFinder = cc.Class({
       ctor: function ctor() {
         this._super(1);
       },
@@ -34246,4 +34271,4 @@ require = function() {
     });
     cc._RF.pop();
   }, {} ]
-}, {}, [ "PropagateInterface", "DdzTableAniPlayer", "DdzTableChatAni", "DdzTableScene", "ddz_rank", "Avatar", "Card", "ColorBg", "ControlPanel", "LaiZiAni", "MatchRankProgressScript", "PlayerPanel", "ProgressBarSub", "SingleReward", "boxTipsNode", "box_up", "conversionSuccess", "ddz_banner_close", "ddz_bubble_tips", "ddz_buttonList", "ddz_buttonList_2", "ddz_gameDetail_cell", "ddz_getRewardHistory", "ddz_item_ft_chat", "ddz_item_tipsWindow_buttonNode", "ddz_item_tipswindow_progress", "ddz_notify_cell", "ddz_progress", "ddz_redPacket", "ddz_resultTitle", "ddz_rewardCell", "ddz_rewardDetail_small", "ddz_tableView", "ddz_toast_cell", "ddz_zuanShiAni", "ddzsingle_robot", "ddzsingle_robot_chat", "ddzsingle_robot_longest", "ddzsingle_robot_type_finder", "ddzsingle_robot_typejudger", "ddzsingle_string_resource", "personalAssets", "userChat", "GoldModule", "BiLog", "EventType", "HttpUtil", "MsgCache", "NotificationCenter", "Recharge", "ServerStateManager", "Share", "SystemInfo", "TCP", "Timer", "TuyooSDK", "UserInfo", "AILongestType", "AIRobot", "AITypeJudger", "DdzAudioHelper", "DdzEventType", "DdzGlobalFuncs", "QrOption", "RobotGlobal", "ServerManager", "ddz_boot", "ddz_res", "game_world", "CardType", "GameModel", "MatchModel", "GlobalFuncs", "HallGameWorld", "HallNetWorkCenter", "MsgFactory", "boot", "CustomRoomInfo", "CustomRoomResult", "HallUserInfo", "LoginInfo", "LoginRewardInfo", "MatchInfo", "MsgInfo", "NormalInfo", "RebateRankInfo", "StoreItemInfo", "UserHeartBeat", "UserInfoGdata", "UserInfoUData", "AdManager", "AdManager_tywx", "BuyCenter", "GlobalTimer", "LoginBtnManager", "MsgBoxManager", "RecordManager", "sxAdManager" ]);
+}, {}, [ "PropagateInterface", "DdzTableAniPlayer", "DdzTableChatAni", "DdzTableScene", "ddz_rank", "Avatar", "Card", "ColorBg", "ControlPanel", "LaiZiAni", "MatchRankProgressScript", "PlayerPanel", "ProgressBarSub", "SingleReward", "boxTipsNode", "box_up", "conversionSuccess", "ddz_banner_close", "ddz_bubble_tips", "ddz_buttonList", "ddz_buttonList_2", "ddz_gameDetail_cell", "ddz_getRewardHistory", "ddz_item_ft_chat", "ddz_item_tipsWindow_buttonNode", "ddz_item_tipswindow_progress", "ddz_notify_cell", "ddz_progress", "ddz_redPacket", "ddz_resultTitle", "ddz_rewardCell", "ddz_rewardDetail_small", "ddz_tableView", "ddz_toast_cell", "ddz_zuanShiAni", "ddzsingle_robot", "ddzsingle_robot_chat", "ddzsingle_robot_longest", "ddzsingle_robot_type_finder", "ddzsingle_robot_typejudger", "ddzsingle_string_resource", "personalAssets", "userChat", "GoldModule", "BiLog", "EventType", "HttpUtil", "MsgCache", "NotificationCenter", "Recharge", "ServerStateManager", "Share", "SystemInfo", "TCP", "Timer", "TuyooSDK", "UserInfo", "AILongestType", "AIRobot", "AITypeJudger", "DdzAudioHelper", "DdzEventType", "DdzGlobalFuncs", "QrOption", "RobotGlobal", "ServerManager", "ddz_boot", "ddz_res", "game_world", "CardInfo", "CardType", "GameModel", "MatchModel", "GlobalFuncs", "HallGameWorld", "HallNetWorkCenter", "MsgFactory", "boot", "CustomRoomInfo", "CustomRoomResult", "HallUserInfo", "LoginInfo", "LoginRewardInfo", "MatchInfo", "MsgInfo", "NormalInfo", "RebateRankInfo", "StoreItemInfo", "UserHeartBeat", "UserInfoGdata", "UserInfoUData", "AdManager", "AdManager_tywx", "BuyCenter", "GlobalTimer", "LoginBtnManager", "MsgBoxManager", "RecordManager", "sxAdManager" ]);

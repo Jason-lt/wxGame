@@ -51,7 +51,7 @@ ddz.typeByNum = cc.Class({
 	}
 });
 
-ddz.singleFinder = ddz.typeByNum.extends({
+ddz.singleFinder = cc.Class({
 
 	ctor: function ctor() {
 		this._super(1);

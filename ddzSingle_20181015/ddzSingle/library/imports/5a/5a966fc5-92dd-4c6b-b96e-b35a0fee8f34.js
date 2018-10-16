@@ -71,10 +71,10 @@ cc.Class({
     },
 
     getIsFriend: function getIsFriend() {
-        return this._playController.tableInfo().getSceneType() == ddz.Enums.SceneType.FRIEND;
+        return false;
     },
     getIsGold: function getIsGold() {
-        return this._playcontroller.tableInfo().getSceneType() == ddz.Enums.SceneType.NORMAL;
+        return true;
     },
 
     onShoGameWinAni: function onShoGameWinAni(dizhuWin) {

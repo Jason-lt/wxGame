@@ -713,7 +713,6 @@ wx.onShow(function (result) {
         ty.TuyooSDK.wechatLogin();
         ddz.needReLogin = null;
     }
-    ddz.tableChatModel.replay();
 });
 
 wx.onHide(function () {
@@ -724,7 +723,6 @@ wx.onHide(function () {
     hall.GlobalFuncs.setInLocalStorage(ddz.matchModel.ONHIDE_DATE, date);
     ty.NotificationCenter.trigger(ddz.EventType.GAME_HIDE);
     hall.LOGW('',"+++++++++++++++++onHide+++++++++++++++++");
-    ddz.friendModel.isEnterTable = false;
     ty.TCP.close();
 });
 
