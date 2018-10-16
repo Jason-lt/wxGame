@@ -1,0 +1,102 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "getdiamond_ani",
+  "_duration": 1.6666666666666667,
+  "sample": 30,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "videoIcon/guanggao": {
+        "props": {
+          "position": [],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 1.1
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 0.9
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 1.05
+            },
+            {
+              "frame": 0.9,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0.9
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 1.1
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0.95
+            },
+            {
+              "frame": 0.9,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "videoIcon/guanggao/ddz_welfare_shipintx": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 150
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": 1.2
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": 1.2
+            }
+          ]
+        }
+      }
+    }
+  }
+}

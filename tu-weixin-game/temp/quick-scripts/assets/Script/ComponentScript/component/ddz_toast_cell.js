@@ -39,9 +39,11 @@ cc.Class({
     },
 
     closeAction: function closeAction() {
-        ty.Timer.cancelTimer(this, function () {});
-        this.node.destroy();
-        ddz.toastNode = null;
+        if (ddz.toastNode) {
+            ty.Timer.cancelTimer(this, function () {});
+            this.node.destroy();
+            ddz.toastNode = null;
+        }
     }
 
     // LIFE-CYCLE CALLBACKS:

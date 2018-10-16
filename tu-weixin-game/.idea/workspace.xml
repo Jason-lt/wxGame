@@ -3,11 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="87a64ba1-4e06-4b0e-848e-e727cd170181" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/CommonFrame/PropagateInterface.js" afterPath="$PROJECT_DIR$/assets/Script/CommonFrame/PropagateInterface.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_toast_cell.js" afterPath="$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_toast_cell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js" afterPath="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/Framework/EventType.js" afterPath="$PROJECT_DIR$/assets/Script/Framework/EventType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js" afterPath="$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/Framework/TuyooSDK.js" afterPath="$PROJECT_DIR$/assets/Script/Framework/TuyooSDK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/Framework/UserInfo.js" afterPath="$PROJECT_DIR$/assets/Script/Framework/UserInfo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/GlobalScript.js" afterPath="$PROJECT_DIR$/assets/Script/GlobalScript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/wechatgame/game.json" afterPath="$PROJECT_DIR$/build/wechatgame/game.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js" afterPath="$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js" afterPath="$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/assets.json" afterPath="$PROJECT_DIR$/local/assets.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/builder.json" afterPath="$PROJECT_DIR$/local/builder.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/console.json" afterPath="$PROJECT_DIR$/local/console.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/hierarchy.json" afterPath="$PROJECT_DIR$/local/hierarchy.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/layout.windows.json" afterPath="$PROJECT_DIR$/local/layout.windows.json" />
@@ -34,41 +39,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PropagateInterface.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/CommonFrame/PropagateInterface.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="92" column="7" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Share.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/Framework/Share.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="1072" column="14" selection-start-line="1072" selection-start-column="14" selection-end-line="1072" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SystemInfo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="180">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GlobalScript.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Script/GlobalScript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="260" column="9" selection-start-line="260" selection-start-column="9" selection-end-line="260" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PropagateInterface.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/Script/CommonFrame/PropagateInterface.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DdzNetWorkCenter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js">
+      <file leaf-file-name="GameModel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="731">
-              <caret line="330" column="25" selection-start-line="330" selection-start-column="23" selection-end-line="330" selection-end-column="28" />
+              <caret line="1672" column="4" selection-start-line="1672" selection-start-column="4" selection-end-line="1672" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ddz.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="288" column="82" selection-start-line="288" selection-start-column="82" selection-end-line="288" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sxAdManager.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/sxAdManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdManager_tywx.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/AdManager_tywx.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="558" column="37" selection-start-line="558" selection-start-column="33" selection-end-line="558" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomListScene.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/RoomListScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DdzTableScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="2907" column="16" selection-start-line="2907" selection-start-column="12" selection-end-line="2907" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -77,58 +134,8 @@
       <file leaf-file-name="MatchModel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/MatchModel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="718">
-              <caret line="887" column="22" selection-start-line="887" selection-start-column="22" selection-end-line="887" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServerManager.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Script/ddz/ServerManager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DdzTableScene.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="1514" column="32" selection-start-line="1514" selection-start-column="32" selection-end-line="1514" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ddz_game_result.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_game_result.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="56" column="67" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DdzGlobalFuncs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="259" column="49" selection-start-line="259" selection-start-column="43" selection-end-line="259" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserInfo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Script/Framework/UserInfo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="360">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -141,14 +148,11 @@
       <list>
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/jipaiqi.js" />
         <option value="$PROJECT_DIR$/assets/Script/hall/utils/AdManager.js" />
-        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js" />
-        <option value="$PROJECT_DIR$/assets/Script/Framework/UserInfo.js" />
         <option value="$PROJECT_DIR$/assets/Script/Framework/TuyooSDK.js" />
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js" />
         <option value="$PROJECT_DIR$/assets/Script/hall/utils/sxAdManager.js" />
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_new_reweard.js" />
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_reward_ani.js" />
-        <option value="$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js" />
         <option value="$PROJECT_DIR$/assets/Script/ddz/msg_handler/PlayingNetMsg.js" />
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_diamond_windows.js" />
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_main.js" />
@@ -157,10 +161,15 @@
         <option value="$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js" />
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js" />
         <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/shareRedPacket.js" />
-        <option value="$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js" />
         <option value="$PROJECT_DIR$/assets/Script/Framework/Share.js" />
-        <option value="$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js" />
+        <option value="$PROJECT_DIR$/assets/Script/Framework/EventType.js" />
+        <option value="$PROJECT_DIR$/assets/Script/Framework/UserInfo.js" />
         <option value="$PROJECT_DIR$/assets/Script/CommonFrame/PropagateInterface.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js" />
+        <option value="$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_toast_cell.js" />
+        <option value="$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js" />
+        <option value="$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js" />
       </list>
     </option>
   </component>
@@ -170,8 +179,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1910" />
-    <option name="y" value="77" />
+    <option name="x" value="128" />
+    <option name="y" value="94" />
     <option name="width" value="1805" />
     <option name="height" value="907" />
   </component>
@@ -454,33 +463,36 @@
       <workItem from="1539108244509" duration="313000" />
       <workItem from="1539108611041" duration="129000" />
       <workItem from="1539141604573" duration="873000" />
-      <workItem from="1539193917977" duration="6200000" />
+      <workItem from="1539193917977" duration="13018000" />
+      <workItem from="1539279719225" duration="15758000" />
+      <workItem from="1539381954016" duration="819000" />
+      <workItem from="1539623903053" duration="3930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87489000" />
+    <option name="totallyTimeSpent" value="114814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1910" y="77" width="1805" height="907" extended-state="0" />
+    <frame x="128" y="94" width="1805" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17264573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953104" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24957556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -499,28 +511,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/MatchModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15090">
-          <caret line="1011" column="39" selection-start-line="1011" selection-start-column="17" selection-end-line="1011" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -600,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/AdManager_tywx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="98" column="22" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/hall/boot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -618,13 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="739">
           <caret line="311" column="64" selection-start-line="311" selection-start-column="50" selection-end-line="311" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3435">
-          <caret line="229" column="9" selection-start-line="229" selection-start-column="9" selection-end-line="229" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -653,13 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5370">
           <caret line="358" column="50" selection-start-line="358" selection-start-column="50" selection-end-line="358" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/TuyooSDK.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10380">
-          <caret line="692" column="11" selection-start-line="692" selection-start-column="11" selection-end-line="692" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -706,20 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="360" column="12" selection-start-line="360" selection-start-column="12" selection-end-line="360" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17055">
-          <caret line="1145" column="72" selection-start-line="1145" selection-start-column="72" selection-end-line="1145" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/shareRedPacket.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1695">
@@ -741,19 +696,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13710">
-          <caret line="919" column="76" selection-start-line="919" selection-start-column="76" selection-end-line="919" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableAniPlayer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,39 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7050">
           <caret line="478" column="26" selection-start-line="478" selection-start-column="26" selection-end-line="478" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
-          <caret line="220" column="32" selection-start-line="220" selection-start-column="22" selection-end-line="220" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/Share.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15675">
-          <caret line="1053" column="2" selection-start-line="1053" selection-start-column="2" selection-end-line="1053" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/UserInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="259" column="49" selection-start-line="259" selection-start-column="43" selection-end-line="259" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,23 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="56" column="67" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/sxAdManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="1514" column="32" selection-start-line="1514" selection-start-column="32" selection-end-line="1514" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,47 +721,165 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/MatchModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
-          <caret line="887" column="22" selection-start-line="887" selection-start-column="22" selection-end-line="887" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/ddz/msg_handler/DdzNetWorkCenter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
+        <state relative-caret-position="4950">
           <caret line="330" column="25" selection-start-line="330" selection-start-column="23" selection-end-line="330" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/GlobalScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="3900">
           <caret line="260" column="9" selection-start-line="260" selection-start-column="9" selection-end-line="260" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/EventType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="98" column="27" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/window/ddz_fail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6360">
+          <caret line="424" column="92" selection-start-line="424" selection-start-column="92" selection-end-line="424" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/component/ddz_toast_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/UserInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/DdzGlobalFuncs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3795">
+          <caret line="259" column="49" selection-start-line="259" selection-start-column="43" selection-end-line="259" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/GlobalFuncs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18090">
+          <caret line="1211" column="37" selection-start-line="1211" selection-start-column="37" selection-end-line="1211" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/HallNetWorkCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9450">
+          <caret line="630" column="54" selection-start-line="630" selection-start-column="54" selection-end-line="630" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/TuyooSDK.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9915">
+          <caret line="661" column="32" selection-start-line="661" selection-start-column="22" selection-end-line="661" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/Framework/Share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="1072" column="14" selection-start-line="1072" selection-start-column="14" selection-end-line="1072" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/Framework/SystemInfo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/Script/CommonFrame/PropagateInterface.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        <state relative-caret-position="731">
+          <caret line="92" column="7" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/GameModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="1672" column="4" selection-start-line="1672" selection-start-column="4" selection-end-line="1672" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/Ddz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="288" column="82" selection-start-line="288" selection-start-column="82" selection-end-line="288" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/sxAdManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/DdzTableScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="2907" column="16" selection-start-line="2907" selection-start-column="12" selection-end-line="2907" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ddz/models/MatchModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/hall/utils/AdManager_tywx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="558" column="37" selection-start-line="558" selection-start-column="33" selection-end-line="558" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Script/ComponentScript/Scenes/RoomListScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

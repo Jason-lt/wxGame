@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "glow_gc_01",
+    "texture": "e392ea8f-c0bb-44ab-b223-c6cdce32afc6",
+    "atlas": "",
+    "rect": [
+      7,
+      6,
+      242,
+      249
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

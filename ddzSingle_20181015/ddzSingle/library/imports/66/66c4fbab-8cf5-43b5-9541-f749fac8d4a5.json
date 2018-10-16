@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_word_0002_dui",
+    "texture": "fd9a5b10-97cf-463e-9ac0-3ead5d4acac2",
+    "atlas": "8ab873c5-274d-40eb-b4c6-f35b5c40d332",
+    "rect": [
+      191,
+      446,
+      78,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      76
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_hongbao_bj2",
+    "texture": "d0ee72c6-008f-4c63-b543-c444e02c93e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      462,
+      135
+    ],
+    "capInsets": [
+      0,
+      27,
+      0,
+      99
+    ]
+  }
+}

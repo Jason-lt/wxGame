@@ -19,10 +19,10 @@ ty.SystemInfo = {
     // loginUrl: 'http://140.143.201.170:8000/', //仿真地址
     //
     // webSocketUrl: 'ws://39.107.104.141/',
-    // loginUrl: 'http://192.168.20.108:8000/',
+    loginUrl: 'http://192.168.20.108:8000/',
     // webSocketUrl: 'ws://192.168.10.88/',
     //
-    loginUrl : 'https://openrich.nalrer.cn/',  //正式
+    // loginUrl : 'https://openrich.nalrer.cn/',  //正式
 
     // webSocketUrl: 'wss://richwss.nalrer.cn/',
 

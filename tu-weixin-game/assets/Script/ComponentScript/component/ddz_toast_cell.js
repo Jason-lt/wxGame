@@ -29,13 +29,16 @@ cc.Class({
         var size = this.bgSprite.node.getContentSize();
         size.height = t_size.height + 31;
         this.bgSprite.node.setContentSize(size);
-        ty.Timer.setTimer(this, this.closeAction, 3)
+        ty.Timer.setTimer(this, this.closeAction, 3);
+
     },
 
     closeAction : function () {
-        ty.Timer.cancelTimer(this,function(){});
-        this.node.destroy();
-        ddz.toastNode= null;
+        if (ddz.toastNode) {
+            ty.Timer.cancelTimer(this,function(){});
+            this.node.destroy();
+            ddz.toastNode= null;
+        }
     },
 
     // LIFE-CYCLE CALLBACKS:

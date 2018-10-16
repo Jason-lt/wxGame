@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_tasks_di",
+    "texture": "43gM+GKrpLdIXQWsrHNddi",
+    "rect": [
+      0,
+      0,
+      50,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      86
+    ],
+    "capInsets": [
+      40,
+      0,
+      1,
+      0
+    ]
+  }
+}

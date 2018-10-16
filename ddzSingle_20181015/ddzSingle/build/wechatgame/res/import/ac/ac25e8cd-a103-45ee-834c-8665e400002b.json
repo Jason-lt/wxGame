@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_welfare_btn",
+    "texture": "3ew5pmzntHAbe2iX43Ee+u",
+    "rect": [
+      0,
+      0,
+      130,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      116
+    ],
+    "capInsets": [
+      50,
+      42,
+      49,
+      64
+    ]
+  }
+}

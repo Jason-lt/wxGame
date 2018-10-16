@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dda_tableScene_icon_wechat",
+    "texture": "1ef6d9c1-5eaf-4f4e-85fa-65040b1d54df",
+    "atlas": "e1b0399e-4c6a-4a2b-bd12-6c23c81e24bf",
+    "rect": [
+      852,
+      343,
+      68,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      59
+    ]
+  }
+}

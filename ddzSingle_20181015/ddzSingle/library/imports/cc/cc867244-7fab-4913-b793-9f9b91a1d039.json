@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_feiji_chuntian",
+    "texture": "aa645208-19fa-4cbd-aca5-38d8dfd1aa59",
+    "atlas": "88fa0491-53ab-4fc8-aca2-980c976c4410",
+    "rect": [
+      2,
+      2,
+      494,
+      267
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      494,
+      267
+    ]
+  }
+}

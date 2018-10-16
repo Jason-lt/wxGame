@@ -21,6 +21,7 @@ ty.UserInfo = {
     invite_id : 0,
     onShowParam : null,
     isInBSGS:true, //是否在北上广深
+    sharePredict:true,//用户分享价值预测值
     ip:'',
     tgCount:0,
     matchFailCount:0,

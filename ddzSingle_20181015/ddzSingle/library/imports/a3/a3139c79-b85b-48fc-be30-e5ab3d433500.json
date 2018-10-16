@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_rank_3",
+    "texture": "c641ee12-3ba0-42c9-b62a-008eecf6826c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      55
+    ]
+  }
+}

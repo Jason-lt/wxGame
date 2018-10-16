@@ -141,12 +141,12 @@ ty.PropagateInterface = {
 
         var reqObj = {};
         reqObj.act = "api.getUserFeature";
-        // reqObj.time = timeStamp
-        reqObj.time = 153248531
+        reqObj.time = parseInt(timeStamp/1000);
+        // reqObj.time = 153248531
         reqObj.cloud_id = ty.SystemInfo.cloudid;
         reqObj.game_id = ty.SystemInfo.gameId;
-        // reqObj.user_id = ty.UserInfo.userId;
-        reqObj.user_id = 10003;
+        reqObj.user_id = ty.UserInfo.userId;
+        // reqObj.user_id = 10003;
         var signStr = this.getConfigSignStr(reqObj);
         hall.LOGE("","file = [PropagateInterface] fun = [getShareValueConfig] _sign = " + JSON.stringify(signStr));
         var paramStrList = [];
@@ -155,12 +155,13 @@ ty.PropagateInterface = {
         }
         paramStrList.push('sign=' + signStr);
         var finalUrl = 'https://analy.ywdier.com/' + '?' + paramStrList.join('&');
-        var successcb = function(ret) {
-            ty.NotificationCenter.trigger(ty.EventType.GET_USER_FEATURE_SUCCESS, ret);
+
+        var successcb = function(res) {
+            ty.NotificationCenter.trigger(ty.EventType.GET_SHARE_VALUE_SUCCESS, res);
         };
 
-        var failcb = function(ret) {
-            ty.NotificationCenter.trigger(ty.EventType.GET_USER_FEATURE_FAIL, ret);
+        var failcb = function(res) {
+            ty.NotificationCenter.trigger(ty.EventType.GET_SHARE_VALUE_SUCCESS, res);
         };
         ty.HttpUtil.httpGet({'url':finalUrl}, successcb, failcb);
     },

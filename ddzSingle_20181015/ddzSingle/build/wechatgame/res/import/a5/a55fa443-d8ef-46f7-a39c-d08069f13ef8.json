@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "huodejinbi",
+  "_duration": 1.33,
+  "sample": 30,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 1
+        },
+        {
+          "frame": 0.36666666666666664,
+          "value": 0.1
+        },
+        {
+          "frame": 0.4666666666666667,
+          "value": 1
+        },
+        {
+          "frame": 0.5666666666666667,
+          "value": 0.1
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 1
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.1,
+          "value": 255
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": -128
+        },
+        {
+          "frame": 0.2,
+          "value": 94
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 0
+        }
+      ]
+    },
+    "paths": {
+      "glow_ringglowwhite3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 1.8
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 1.8
+            }
+          ]
+        }
+      }
+    }
+  }
+}

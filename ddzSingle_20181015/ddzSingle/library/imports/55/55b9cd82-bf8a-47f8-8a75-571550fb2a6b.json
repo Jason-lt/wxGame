@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "interactive_emo_brick_yan_5",
+    "texture": "16e739bf-898d-438c-88b7-53ba9ce94235",
+    "atlas": "ffe5b2c4-570e-4632-9e82-49bf9489b9af",
+    "rect": [
+      434,
+      2,
+      214,
+      202
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      202
+    ]
+  }
+}

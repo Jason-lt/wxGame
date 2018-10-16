@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_main_bg_ce",
+    "texture": "115dRmDmlKmLmnmibEn71W",
+    "rect": [
+      1,
+      0,
+      10,
+      70
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      11,
+      71
+    ],
+    "capInsets": [
+      1,
+      1,
+      0,
+      1
+    ]
+  }
+}

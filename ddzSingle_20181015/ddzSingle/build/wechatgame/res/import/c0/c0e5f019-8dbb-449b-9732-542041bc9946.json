@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_roomlist_bg",
+    "texture": "33cHAxnJxFyKtNNfTXbvEs",
+    "rect": [
+      1,
+      0,
+      66,
+      234
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      68,
+      235
+    ],
+    "capInsets": [
+      15,
+      14,
+      19,
+      31
+    ]
+  }
+}

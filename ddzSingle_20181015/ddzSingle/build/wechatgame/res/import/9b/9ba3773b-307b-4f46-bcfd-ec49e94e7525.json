@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_hongbao_bj8_1",
+    "texture": "97rArOq/BHwqD8hULUTMGA",
+    "rect": [
+      0,
+      0,
+      86,
+      167
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      167
+    ]
+  }
+}

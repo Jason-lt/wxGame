@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_card_fore_back_middle",
+    "texture": "70d68813-6fb5-459f-93d7-a9f070ffcedd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      123
+    ]
+  }
+}

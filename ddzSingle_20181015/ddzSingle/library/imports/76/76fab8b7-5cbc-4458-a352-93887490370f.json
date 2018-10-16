@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "interactive_emo1",
+    "texture": "16e739bf-898d-438c-88b7-53ba9ce94235",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      740,
+      401
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      744,
+      410
+    ]
+  }
+}

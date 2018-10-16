@@ -1173,6 +1173,45 @@ hall.GlobalFuncs.checkBSGS = function (cityName) {
 	return false;
 };
 
+/*
+* 预测该用户当日能否带来新增
+* 1为能带来新增，0为带不来新增
+* */
+
+hall.GlobalFuncs.checkPredict = function (val) {
+	if (val == "") {
+		return true;
+	}
+	try {
+		var arr = val.split(":");
+		var tArr = "".concat(arr[0]);
+		var _tt = tArr.replace(/-/g, '/');
+
+		var t = _tt + " 05:00:00";
+		ddz.LOGD("", "file = [GlobalFuncs] fun = [checkPredict] t = " + t);
+		var date = new Date(new Date(t).getTime());
+		console.log("date  日期:", date);
+		var _time = date.getTime();
+		ddz.LOGD("", "file = [GlobalFuncs] fun = [checkPredict] _time = " + _time);
+		date.setDate(date.getDate() + 1);
+		var _time_2 = date.getTime();
+		ddz.LOGD("", "file = [GlobalFuncs] fun = [checkPredict] _time_2 = " + _time_2);
+		var nowTime = new Date().getTime();
+		ddz.LOGD("", "file = [GlobalFuncs] fun = [checkPredict] nowTime = " + nowTime);
+		if (nowTime >= _time && nowTime <= _time_2) {
+			if (arr[1] == 0) {
+				return false;
+			} else if (arr[1] == 1) {
+				return true;
+			}
+		}
+	} catch (err) {
+		ddz.LOGD("", "file = [GlobalFuncs] fun = [checkPredict] err = " + JSON.stringify(err));
+		return true;
+	}
+	return true;
+};
+
 hall.GlobalFuncs._TAG = "hall.GlobalFuncs";
 
 cc._RF.pop();

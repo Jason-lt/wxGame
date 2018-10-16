@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_lizi_caidai02",
+    "texture": "431c2591-8e96-4f1d-b724-07b6da6684fc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      55
+    ]
+  }
+}

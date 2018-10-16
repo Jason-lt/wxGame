@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "glow_ringglowwhite3",
+    "texture": "b5bd9890-7bdb-462d-8124-fbb1c3b050c3",
+    "atlas": "",
+    "rect": [
+      14,
+      15,
+      226,
+      227
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}
