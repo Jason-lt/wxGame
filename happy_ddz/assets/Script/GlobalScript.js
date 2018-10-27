@@ -2,7 +2,7 @@ console.log("Global Script loaded");
 ty = {};
 hall = {};
 ddz = {};
-debugMode = false;
+debugMode = true;
 
 hall.LOGD = function(tag, msg) {
     if (!debugMode){

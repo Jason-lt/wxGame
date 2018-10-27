@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jianfen",
+    "texture": "53be97ec-92fb-47c0-8dd1-6a840a15fc6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      207
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      194,
+      208
+    ]
+  }
+}

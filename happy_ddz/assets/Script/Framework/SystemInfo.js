@@ -13,16 +13,17 @@ ty.SystemInfo = {
     clientIdInt: 24502,
     cloudid:24,
 
-    version:"1.1.1",
+    version:"1.1.3",
     //
     // loginUrl: 'https://fz.nalrer.cn/', //仿真地址
     // loginUrl: 'http://140.143.201.170:8000/', //仿真地址
+    loginUrl : 'https://openrichbx.nalrer.cn/',  //新仿真
     //
     // webSocketUrl: 'ws://39.107.104.141/',
     // loginUrl: 'http://192.168.20.108:8000/',
     // webSocketUrl: 'ws://192.168.10.88/',
     //
-    loginUrl : 'https://openrich.nalrer.cn/',  //正式
+    // loginUrl : 'https://openrich.nalrer.cn/',  //正式
 
     // webSocketUrl: 'wss://richwss.nalrer.cn/',
 
@@ -38,7 +39,7 @@ ty.SystemInfo = {
     tableBgMusicVolume: 0.4,
     cdnPath:"https://richqn.nalrer.cn/dizhu/",
 
-    remotePackPath:"happyDdz/remote_res/resNew13.zip",
+    remotePackPath:"happyDdz/remote_res/resNew16.zip",
 
     m_server_ip : "https://cbi.touch4.me/api/bilog5/text",
     // m_server_ip : "https://47.94.79.1/api/bilog5/text",

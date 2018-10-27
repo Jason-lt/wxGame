@@ -26,7 +26,7 @@ cc.Class({
     },
 
     refresh:function () {
-        this._tableScene.myAvatar.active = this._tableScene._tableState.normalInfo.m_state != ddz.Enums.TableState.TABLEDSTAT_PLAYING;
+        this._tableScene.myHead.active = this._tableScene._tableState.normalInfo.m_state != ddz.Enums.TableState.TABLEDSTAT_PLAYING;
 
         this.initScore();
         if (this._tableScene._leftSeatinfo.hasData && this._tableScene._rightSeatinfo.hasData){

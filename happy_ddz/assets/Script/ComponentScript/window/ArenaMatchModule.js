@@ -61,7 +61,7 @@ cc.Class({
     },
 
     hideAll: function() {
-        this._tableScene.myAvatar.active = false;
+        this._tableScene.myHead.active = false;
         this.bigBtnNode.active = false;
         this.jifenNode.active = false;
         this.jifenLeftNode.active = false;
@@ -83,7 +83,7 @@ cc.Class({
     },
 
     switchStage: function(state) {
-        this._tableScene.myAvatar.active = true;
+        this._tableScene.myHead.active = true;
         this.disableChatBtn();
         //if(this._tableScene._isOnReady) {
         //    this._tableScene.myAvatar.active = false;

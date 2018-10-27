@@ -27,6 +27,9 @@ cc.Class({
 
     properties: {
         avatar: cc.Node,
+        head: cc.Node,
+        boor: cc.Node,
+        landlord: cc.Node,
         lblMsg: cc.Label,
         lblNum: cc.Label,
         lblNumBg: cc.Sprite,
@@ -103,6 +106,7 @@ cc.Class({
 
     hideAll: function hideAll() {
         this.avatar.active = false;
+        this.head.active = false;
         this.setChatButtonActive(false);
         this.waitTimer.active = false;
 
@@ -135,7 +139,8 @@ cc.Class({
         if (force) {
             if (this.getIsFriend()) {
                 //好友桌,需要把原来头像显示回来
-                this.avatar.active = true;
+                // this.avatar.active = true;
+                this.head.active = true;
                 // var myAvatarM = this.avatar.getComponent("Avatar");
                 // myAvatarM.hideDizhuHat();
                 // this.setChatButtonActive(true);
@@ -145,7 +150,8 @@ cc.Class({
         } else {
             if (this.getIsFriend()) {
                 //好友桌,需要把原来头像显示回来
-                this.avatar.active = true;
+                // this.avatar.active = true;
+                this.head.active = true;
                 // var myAvatarM = this.avatar.getComponent("Avatar");
                 // myAvatarM.hideDizhuHat();
                 // this.setChatButtonActive(true);
@@ -154,11 +160,19 @@ cc.Class({
                 this.getAvatarCom().setPlayerName("");
             }
         }
+        this.boor.active = true;
+        this.landlord.active = false;
     },
 
     //设置“准备”是否显示，和图片
     setPrepareVisible: function setPrepareVisible(bVisible) {
         this.setLblMsg(bVisible ? "已准备" : " ");
+    },
+
+    setDizhuHead: function setDizhuHead() {
+        this.head.active = true;
+        this.boor.active = false;
+        this.landlord.active = true;
     },
 
     /**
@@ -195,8 +209,8 @@ cc.Class({
     refreshAvatarForeFriend: function refreshAvatarForeFriend(origin) {
         this.initData();
 
-        this.avatar.active = true;
-
+        // this.avatar.active = true;
+        this.head.active = true;
         var dizhuIndex = this._playController._tableState.normalInfo.m_dizhu;
         var myIndex = this.getMyIndex();
 
@@ -204,12 +218,14 @@ cc.Class({
         var nextCallBack = function nextCallBack() {
             var isDiZhu = myIndex == dizhuIndex;
             if (isDiZhu) {
-                var to_pos = that._playController.getEmoPos(myIndex);
-                if (origin) {
-                    that._playController.showDizhuHatOrigin(to_pos);
-                } else {
-                    that._playController.showDizhuHat(to_pos);
-                }
+                // var to_pos =  that._playController.getEmoPos(myIndex);
+                // if(origin){
+                //     that._playController.showDizhuHatOrigin(to_pos);
+                // }else {
+                //     that._playController.showDizhuHat(to_pos);
+                // }
+
+                that.setDizhuHead();
             }
         };
         requestAnimationFrame(nextCallBack);
@@ -228,15 +244,18 @@ cc.Class({
      * 转换动画形像
      */
     refreshAvatarForeFriendOrigin: function refreshAvatarForeFriendOrigin() {
-        this.avatar.active = true;
+        // this.avatar.active = true;
+        this.head.active = true;
         var dizhuIndex = this._playController._tableState.normalInfo.m_dizhu;
         var that = this;
         var nextCallBack = function nextCallBack() {
             var myIndex = that.getMyIndex();
             var isDiZhu = myIndex == dizhuIndex;
             if (isDiZhu) {
-                var to_pos = that._playController.getEmoPos(myIndex);
-                that._playController.showDizhuHatOrigin(to_pos);
+                // var to_pos =  that._playController.getEmoPos(myIndex);
+                // that._playController.showDizhuHatOrigin(to_pos);
+
+                that.setDizhuHead();
             }
         };
         requestAnimationFrame(nextCallBack);
@@ -264,7 +283,8 @@ cc.Class({
             return;
         }
 
-        this.avatar.active = true; //显示头像
+        // this.avatar.active = true; //显示头像
+        this.head.active = true;
 
         if (this.getIsFriend()) {
             //好友桌,进来后,互动表情就可以点击

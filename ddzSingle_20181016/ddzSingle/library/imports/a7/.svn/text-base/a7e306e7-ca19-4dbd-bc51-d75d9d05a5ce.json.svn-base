@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_pz_light_2",
+    "texture": "fd9a5b10-97cf-463e-9ac0-3ead5d4acac2",
+    "atlas": "8ab873c5-274d-40eb-b4c6-f35b5c40d332",
+    "rect": [
+      2,
+      2,
+      537,
+      187
+    ],
+    "offset": [
+      -2,
+      -1
+    ],
+    "originalSize": [
+      553,
+      199
+    ],
+    "rotated": 1
+  }
+}

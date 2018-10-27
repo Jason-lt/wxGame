@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_welfare_bg",
+    "texture": "b0f3d073-fa81-40d3-bac7-728d65cc1f65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      62
+    ],
+    "capInsets": [
+      17,
+      11,
+      14,
+      24
+    ]
+  }
+}

@@ -21,6 +21,69 @@
     },
     "ddz_withdraw_yellow_bg": {
       "__uuid__": "604341e1-e47b-4dc4-9061-7d2a0a9de7f0"
+    },
+    "single_btn_3": {
+      "__uuid__": "4b4cdea0-d4c8-49c3-a5b8-ebb267423350"
+    },
+    "single_btn_4": {
+      "__uuid__": "67b40b8d-d9e2-449f-b0f1-2c36ec49ed9c"
+    },
+    "single_btn_text_11": {
+      "__uuid__": "8b832558-70a6-4ef9-bdcc-031f9ae295d2"
+    },
+    "single_btn_text_12": {
+      "__uuid__": "f6a01524-d1fb-4226-932d-ffa6cd6aa9fa"
+    },
+    "single_btn_text_13": {
+      "__uuid__": "5a387ff7-11fd-4010-8934-b9d036f6d3ae"
+    },
+    "single_btn_text_14": {
+      "__uuid__": "841be2ea-e974-40a3-bd72-a17037af6f88"
+    },
+    "single_btn_text_15": {
+      "__uuid__": "f44ea9ec-94cf-4c9b-8372-d906abe476b2"
+    },
+    "single_btn_text_16": {
+      "__uuid__": "ffed046c-007f-4fae-a53d-8a0b2979ec71"
+    },
+    "single_btn_text_17": {
+      "__uuid__": "33bbc991-8878-45b6-9881-8c27be9cedda"
+    },
+    "single_btn_text_20": {
+      "__uuid__": "b09f5e31-97b2-4ff2-a7a1-448d9bde1de0"
+    },
+    "single_btn_text_21": {
+      "__uuid__": "7f939fc8-4873-4739-91a5-249d0f5a5557"
+    },
+    "single_btn_text_7": {
+      "__uuid__": "87de8795-4ac1-4784-a12a-9728d81495b3"
+    },
+    "single_dizhu_head": {
+      "__uuid__": "e7899d27-7850-43ff-acee-d5630a39ea8a"
+    },
+    "single_login_text": {
+      "__uuid__": "574c83ec-46bf-44ea-84a9-f662e06fc74f"
+    },
+    "single_nongming_head": {
+      "__uuid__": "bb3c9e04-0c43-4019-8078-b343c7240d5c"
+    },
+    "single_table_text_11": {
+      "__uuid__": "d1b5ffc3-e10b-4229-a786-efd4704d7014"
+    },
+    "single_table_text_13": {
+      "__uuid__": "682e31b0-645f-4111-861d-e61ce337c711"
+    },
+    "single_table_text_4": {
+      "__uuid__": "123d7030-5478-4656-a67a-5cc68399a758"
+    },
+    "single_table_text_5": {
+      "__uuid__": "cfbfa7ac-78ff-4b2c-9fcc-a886e74b3482"
+    },
+    "single_table_text_6": {
+      "__uuid__": "ea3c126e-095c-4f71-8933-6d76e1e853b5"
+    },
+    "single_table_text_8": {
+      "__uuid__": "ac93040d-2f45-4a1a-bb29-e1627eb507a5"
     }
   }
 }

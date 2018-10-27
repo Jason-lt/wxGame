@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddzSingle_result.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "djddz_jiesuan_sb_pd": {
+      "__uuid__": "53c25216-c08f-4890-a263-4798552de992"
+    },
+    "djddz_jiesuan_sb_zi": {
+      "__uuid__": "b72a58e6-b65d-4f85-9ffd-66be9ca05b66"
+    },
+    "djddz_jiesuan_sl_pd": {
+      "__uuid__": "678fb006-abd7-4e7e-819a-18652b33a6ab"
+    },
+    "djddz_jiesuan_sl_zi": {
+      "__uuid__": "d31b8bfc-0a4a-4fcb-9b7d-82e9da44958c"
+    },
+    "single_double": {
+      "__uuid__": "9b6cb9b5-ca3e-4412-8f47-a86a20c19328"
+    },
+    "single_halve": {
+      "__uuid__": "6da84436-948a-4b93-b2da-244bf49cedc9"
+    },
+    "single_result_coin": {
+      "__uuid__": "3d1c2c07-9783-4d66-89cc-ebd139897736"
+    },
+    "single_share_double": {
+      "__uuid__": "ea10afe2-56b2-498c-b664-be677b4dbd19"
+    },
+    "single_video_halve": {
+      "__uuid__": "96c2a289-5047-41ae-8546-ac24d26f6562"
+    },
+    "tymj_jsdh_guangxian": {
+      "__uuid__": "6e6a6042-4caf-4b1c-a3cc-14f2080a1ce9"
+    }
+  }
+}

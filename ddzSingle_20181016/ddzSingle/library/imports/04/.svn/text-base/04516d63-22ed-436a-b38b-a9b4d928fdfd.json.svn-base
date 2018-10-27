@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ele_arrow1_01a",
+    "texture": "0b944379-ad3a-44a7-b01f-13123b554cb9",
+    "atlas": "",
+    "rect": [
+      12,
+      6,
+      103,
+      116
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

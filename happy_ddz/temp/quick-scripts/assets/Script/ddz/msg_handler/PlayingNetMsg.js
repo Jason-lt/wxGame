@@ -122,7 +122,7 @@ ddz.PlayingNetMsg = cc.Class({
 				success: function success(res) {
 					if (!res.authSetting['scope.userInfo']) {
 						//把授权按钮显示在头像位置
-						hall.loginBtnManager.showTableAuthorizeBtn();
+						// hall.loginBtnManager.showTableAuthorizeBtn();
 					}
 				}
 			});

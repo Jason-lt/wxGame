@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_roket_light_4",
+    "texture": "f2b8d2d8-4d9e-4a14-be49-65eb33241e53",
+    "atlas": "93b69d8a-0d40-411b-93ea-aa805a3e9519",
+    "rect": [
+      450,
+      532,
+      99,
+      143
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      101,
+      145
+    ],
+    "rotated": 1
+  }
+}

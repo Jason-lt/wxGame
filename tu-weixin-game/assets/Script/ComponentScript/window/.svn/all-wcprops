@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 105
 /newsvn/hall-js/!svn/ver/20398/h5/tu-weixin-game/assets/Script/ComponentScript/window/ArenaMatchModule.js
 END
-ddz_getReward_main.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 112
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_getReward_main.js.meta
-END
 ddz_window_history.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 112
 /newsvn/hall-js/!svn/ver/17875/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_history.js.meta
+END
+ddz_getReward_main.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_getReward_main.js.meta
 END
 collectDeskTop.js
 K 25
@@ -69,11 +69,11 @@ svn:wc:ra_dav:version-url
 V 109
 /newsvn/hall-js/!svn/ver/20403/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_skip.js.meta
 END
-ddz_notifyWindow.js.meta
+ThroughModule.js
 K 25
 svn:wc:ra_dav:version-url
-V 110
-/newsvn/hall-js/!svn/ver/17957/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_notifyWindow.js.meta
+V 102
+/newsvn/hall-js/!svn/ver/20477/h5/tu-weixin-game/assets/Script/ComponentScript/window/ThroughModule.js
 END
 ddz_diamond_windows.js
 K 25
@@ -81,11 +81,11 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_diamond_windows.js
 END
-ThroughModule.js
+ddz_notifyWindow.js.meta
 K 25
 svn:wc:ra_dav:version-url
-V 102
-/newsvn/hall-js/!svn/ver/20477/h5/tu-weixin-game/assets/Script/ComponentScript/window/ThroughModule.js
+V 110
+/newsvn/hall-js/!svn/ver/17957/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_notifyWindow.js.meta
 END
 ddz_ceLaMenu.js
 K 25
@@ -195,23 +195,17 @@ svn:wc:ra_dav:version-url
 V 106
 /newsvn/hall-js/!svn/ver/19365/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_arena_levelup.js
 END
-ddz_window_gameDetail.js
-K 25
-svn:wc:ra_dav:version-url
-V 110
-/newsvn/hall-js/!svn/ver/20694/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_gameDetail.js
-END
 multiReward.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 105
 /newsvn/hall-js/!svn/ver/20185/h5/tu-weixin-game/assets/Script/ComponentScript/window/multiReward.js.meta
 END
-ddz_cell_history.js.meta
+ddz_window_gameDetail.js
 K 25
 svn:wc:ra_dav:version-url
 V 110
-/newsvn/hall-js/!svn/ver/17875/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_cell_history.js.meta
+/newsvn/hall-js/!svn/ver/20694/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_gameDetail.js
 END
 jipaiqi.js
 K 25
@@ -219,23 +213,29 @@ svn:wc:ra_dav:version-url
 V 96
 /newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ComponentScript/window/jipaiqi.js
 END
+ddz_cell_history.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/newsvn/hall-js/!svn/ver/17875/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_cell_history.js.meta
+END
 ddz_helpBox.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 105
 /newsvn/hall-js/!svn/ver/19937/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_helpBox.js.meta
 END
-ddz_bannerResurgence.js
-K 25
-svn:wc:ra_dav:version-url
-V 109
-/newsvn/hall-js/!svn/ver/20787/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_bannerResurgence.js
-END
 ddz_useDiamond.js
 K 25
 svn:wc:ra_dav:version-url
 V 103
 /newsvn/hall-js/!svn/ver/19272/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_useDiamond.js
+END
+ddz_bannerResurgence.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/hall-js/!svn/ver/20787/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_bannerResurgence.js
 END
 ddz_arena_result_lose.js.meta
 K 25
@@ -249,17 +249,17 @@ svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/17844/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_tipsWindow.js.meta
 END
-ddz_new_reward.js
-K 25
-svn:wc:ra_dav:version-url
-V 103
-/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_new_reward.js
-END
 ddz_getReward_Withdraw.js
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /newsvn/hall-js/!svn/ver/19469/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_getReward_Withdraw.js
+END
+ddz_new_reward.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_new_reward.js
 END
 ddz_fail.js.meta
 K 25
@@ -267,29 +267,29 @@ svn:wc:ra_dav:version-url
 V 102
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_fail.js.meta
 END
-ddz_arena_result_win.js
-K 25
-svn:wc:ra_dav:version-url
-V 109
-/newsvn/hall-js/!svn/ver/19879/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_arena_result_win.js
-END
 treasure_box.js
 K 25
 svn:wc:ra_dav:version-url
 V 101
 /newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/ComponentScript/window/treasure_box.js
 END
-ddz_window_dissolve.js.meta
+ddz_arena_result_win.js
 K 25
 svn:wc:ra_dav:version-url
-V 113
-/newsvn/hall-js/!svn/ver/17924/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_dissolve.js.meta
+V 109
+/newsvn/hall-js/!svn/ver/19879/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_arena_result_win.js
 END
 ddz_window_normal.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /newsvn/hall-js/!svn/ver/18731/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_normal.js.meta
+END
+ddz_window_dissolve.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/hall-js/!svn/ver/17924/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_dissolve.js.meta
 END
 ddz_window_fee_lack.js.meta
 K 25
@@ -303,17 +303,11 @@ svn:wc:ra_dav:version-url
 V 103
 /newsvn/hall-js/!svn/ver/20334/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_tipsWindow.js
 END
-ddz_diamond_windows.js.meta
+ddz_window_match_rewards.js
 K 25
 svn:wc:ra_dav:version-url
 V 113
-/newsvn/hall-js/!svn/ver/19912/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_diamond_windows.js.meta
-END
-choosePlayMode.js
-K 25
-svn:wc:ra_dav:version-url
-V 103
-/newsvn/hall-js/!svn/ver/19386/h5/tu-weixin-game/assets/Script/ComponentScript/window/choosePlayMode.js
+/newsvn/hall-js/!svn/ver/19051/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_match_rewards.js
 END
 ThroughModule.js.meta
 K 25
@@ -321,23 +315,17 @@ svn:wc:ra_dav:version-url
 V 107
 /newsvn/hall-js/!svn/ver/20398/h5/tu-weixin-game/assets/Script/ComponentScript/window/ThroughModule.js.meta
 END
-ddz_window_match_rewards.js
+choosePlayMode.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/hall-js/!svn/ver/19386/h5/tu-weixin-game/assets/Script/ComponentScript/window/choosePlayMode.js
+END
+ddz_diamond_windows.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 113
-/newsvn/hall-js/!svn/ver/19051/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_match_rewards.js
-END
-ddz_rank_list.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 107
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_rank_list.js.meta
-END
-ddz_fail.js
-K 25
-svn:wc:ra_dav:version-url
-V 97
-/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_fail.js
+/newsvn/hall-js/!svn/ver/19912/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_diamond_windows.js.meta
 END
 withdrawalMaintain.js.meta
 K 25
@@ -345,11 +333,17 @@ svn:wc:ra_dav:version-url
 V 112
 /newsvn/hall-js/!svn/ver/19173/h5/tu-weixin-game/assets/Script/ComponentScript/window/withdrawalMaintain.js.meta
 END
-FriendModule.js
+ddz_fail.js
 K 25
 svn:wc:ra_dav:version-url
-V 101
-/newsvn/hall-js/!svn/ver/19937/h5/tu-weixin-game/assets/Script/ComponentScript/window/FriendModule.js
+V 97
+/newsvn/hall-js/!svn/ver/21103/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_fail.js
+END
+ddz_rank_list.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_rank_list.js.meta
 END
 ddz_window_createRoom.js.meta
 K 25
@@ -357,17 +351,23 @@ svn:wc:ra_dav:version-url
 V 115
 /newsvn/hall-js/!svn/ver/17860/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_window_createRoom.js.meta
 END
-ddz_bannerResurgence.js.meta
+FriendModule.js
 K 25
 svn:wc:ra_dav:version-url
-V 114
-/newsvn/hall-js/!svn/ver/20073/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_bannerResurgence.js.meta
+V 101
+/newsvn/hall-js/!svn/ver/19937/h5/tu-weixin-game/assets/Script/ComponentScript/window/FriendModule.js
 END
 ddz_useDiamond.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 108
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_useDiamond.js.meta
+END
+ddz_bannerResurgence.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/newsvn/hall-js/!svn/ver/20073/h5/tu-weixin-game/assets/Script/ComponentScript/window/ddz_bannerResurgence.js.meta
 END
 ddz_ceLaMenu.js.meta
 K 25

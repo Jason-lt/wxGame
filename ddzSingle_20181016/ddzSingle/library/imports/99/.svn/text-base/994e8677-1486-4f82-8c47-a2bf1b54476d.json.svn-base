@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shibaibeishu",
+    "texture": "006cd3b2-b60c-4667-89b8-1c0e6bd1d475",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      209,
+      214
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      210,
+      215
+    ]
+  }
+}

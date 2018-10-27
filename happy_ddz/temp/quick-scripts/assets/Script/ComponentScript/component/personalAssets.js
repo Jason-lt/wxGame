@@ -85,10 +85,24 @@ cc.Class({
         // // ddz.gameModel.queryNewInviteInfo();
         // ddz.isClickShareReward = true;
         // ddz.gameModel.getDayInviteReward();
+
+        // hall.GlobalFuncs.gotoRechargeScene();
+
+        if (ty.TCP.connectStatus != ty.TCP.CONNECT_STATUS_OK) {
+            hall.MsgBoxManager.showToast({ title: "正在登录，请稍候" });
+            ddz.LOGD(null, "TCP is not ok! Please wait!");
+            return;
+        }
         ty.NotificationCenter.trigger(ddz.EventType.REMOVE_WINDOW_ANI);
         var curScene = cc.director.getScene();
-        ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick, ["assetsClickRecharge", curScene.name]);
-        hall.GlobalFuncs.gotoRechargeScene();
+        if (cc.sys.os == cc.sys.OS_IOS) {
+            ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick, ["assetsClickDiamond", "diamondReward", curScene.name]);
+            ddz.isClickShareReward = true;
+            ddz.gameModel.getDayInviteReward();
+        } else {
+            ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick, ["assetsClickDiamond", "recharge", curScene.name]);
+            hall.GlobalFuncs.gotoRechargeScene();
+        }
     },
 
     // 点击记牌器

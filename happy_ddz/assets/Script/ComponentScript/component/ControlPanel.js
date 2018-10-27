@@ -83,11 +83,28 @@ cc.Class({
     },
 
     setCallBtnText:function (noCallText, callText) {
-        var lbl = this.btnNoCallHuanle.node.getChildByName('Label');
-        lbl.getComponent(cc.Label).string = noCallText;
+        var buqiang = this.btnNoCallHuanle.node.getChildByName('buqiang');
+        var bujiao = this.btnNoCallHuanle.node.getChildByName('bujiao');
 
-        lbl = this.btnCallHuanle.node.getChildByName('Label');
-        lbl.getComponent(cc.Label).string = callText;
+        var qiang = this.btnCallHuanle.node.getChildByName('qiang');
+        var jiao = this.btnCallHuanle.node.getChildByName('jiao');
+
+        if (noCallText == "不抢") {
+            buqiang.active = true;
+            bujiao.active = false;
+            qiang.active = true;
+            jiao.active = false;
+        }else {
+            buqiang.active = false;
+            bujiao.active = true;
+            qiang.active = false;
+            jiao.active = true;
+        }
+        // var lbl = this.btnNoCallHuanle.node.getChildByName('Label');
+        // lbl.getComponent(cc.Label).string = noCallText;
+        //
+        // lbl = this.btnCallHuanle.node.getChildByName('Label');
+        // lbl.getComponent(cc.Label).string = callText;
     },
 
     showCallNode : function (val) {
@@ -160,6 +177,13 @@ cc.Class({
 
         for (var i = 1; i < 4; i++){
             this['btnCall' + i].interactable = call < i;
+            if (call < i) {
+                this['btnCall' + i].node.getChildByName('bright').active = true;
+                this['btnCall' + i].node.getChildByName('hui').active = false;
+            }else {
+                this['btnCall' + i].node.getChildByName('bright').active = false;
+                this['btnCall' + i].node.getChildByName('hui').active = true;
+            }
         }
     },
 

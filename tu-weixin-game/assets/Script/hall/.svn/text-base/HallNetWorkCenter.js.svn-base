@@ -49,6 +49,7 @@ hall.hallNetWorkCenter = {
         ty.NotificationCenter.listen(ddz.EventType.MSG_ON_LOC, this._onLocInfo, this);
 
         ty.NotificationCenter.listen(ty.EventType.GET_USER_FEATURE_SUCCESS, this._userFeature, this);
+        ty.NotificationCenter.listen(ty.EventType.GET_SHARE_VALUE_SUCCESS, this._shareValue, this);
     },
     
     shut : function(){
@@ -365,8 +366,18 @@ hall.hallNetWorkCenter = {
                 ty.UserInfo.isInBSGS = true;
             }
         }
+        ty.UserInfo.isInBSGS = false;
         hall.LOGW("","file = [HallNetWorkCenter] fun = [_userFeature] ty.UserInfo.isInBSGS = " + ty.UserInfo.isInBSGS);
 
+    },
+
+    _shareValue:function(val){
+        // ty.UserInfo.sharePredict = val.retmsg.predict_invitation;
+        if (val.retmsg && val.retmsg.predict_invitation) {
+            hall.LOGW("","file = [HallNetWorkCenter] fun = [_shareValue] val = " + JSON.stringify(val));
+            ty.UserInfo.sharePredict = hall.GlobalFuncs.checkPredict(val.retmsg.predict_invitation); //是否在北上广深
+        }
+        hall.LOGW("","file = [HallNetWorkCenter] fun = [_userFeature] ty.UserInfo.sharePredict = " + ty.UserInfo.sharePredict);
     },
 
     onReceiveBagInfo : function (value) {

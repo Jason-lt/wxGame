@@ -89,7 +89,7 @@ cc.Class({
             success: function success(res) {
                 if (!res.authSetting['scope.userInfo']) {
                     //把授权按钮显示在礼包位置
-                    hall.loginBtnManager.showHideAuthorizeBtn(ddz.GlobalFuncs.giftBtnClick);
+                    // hall.loginBtnManager.showHideAuthorizeBtn(ddz.GlobalFuncs.giftBtnClick);
                 }
             }
         });

@@ -67,7 +67,7 @@ cc.Class({
     refresh: function refresh() {
         var ftInfo = this._tableScene.tableInfo().ftInfo;
         this.setBtnReadyState(!ftInfo.allComplete && this._tableScene._mySeatinfo.model.m_state == ddz.Enums.SeatState.SEATDZSTAT_WAIT);
-        this._tableScene.myAvatar.active = this._tableScene._tableState.normalInfo.m_state != ddz.Enums.TableState.TABLEDSTAT_PLAYING;
+        this._tableScene.myHead.active = this._tableScene._tableState.normalInfo.m_state != ddz.Enums.TableState.TABLEDSTAT_PLAYING;
         // this._tableScene._leftPlayerController.setClockVisible(false);
         // this._tableScene._rightPlayerController.setClockVisible(false);
         this.updateDuiJuBtnLabel();

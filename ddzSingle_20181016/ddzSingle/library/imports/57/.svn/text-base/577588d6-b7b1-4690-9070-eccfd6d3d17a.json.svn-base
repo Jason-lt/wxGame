@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_table_roket_A5",
+    "texture": "f2b8d2d8-4d9e-4a14-be49-65eb33241e53",
+    "atlas": "93b69d8a-0d40-411b-93ea-aa805a3e9519",
+    "rect": [
+      623,
+      2,
+      249,
+      199
+    ],
+    "offset": [
+      -2,
+      3
+    ],
+    "originalSize": [
+      253,
+      205
+    ],
+    "rotated": 1
+  }
+}

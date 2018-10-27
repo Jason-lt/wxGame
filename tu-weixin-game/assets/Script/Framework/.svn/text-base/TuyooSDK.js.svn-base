@@ -378,6 +378,7 @@ ty.TuyooSDK = {
 
                 ty.PropagateInterface.getUserFeatureInfo();//获取用户特征
                 ty.PropagateInterface.getShareConfigInfo();//获取分享配置
+                ty.PropagateInterface.getShareValueConfig();//
                 // hall.adManager.requestADInfo();
 
                 var token = result.token;

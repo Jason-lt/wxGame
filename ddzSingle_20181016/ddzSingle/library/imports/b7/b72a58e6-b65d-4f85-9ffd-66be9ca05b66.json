@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "djddz_jiesuan_sb_zi",
+    "texture": "c1fac3aa-137b-4baf-aa6d-d63722241865",
+    "atlas": "37bcf1cd-b31f-4c6b-b165-4aea1dd64a3f",
+    "rect": [
+      878,
+      421,
+      233,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      65
+    ],
+    "rotated": 1
+  }
+}

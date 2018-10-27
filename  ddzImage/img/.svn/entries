@@ -130,14 +130,14 @@ has-props
 
 ddz_withdraw.plist
 file
+21154
 
 
 
-
-2018-09-11T17:40:16.000000Z
-e9fe19de2377f25b1347dd976fbede57
-2018-09-10T02:34:15.680547Z
-20903
+2018-10-18T01:59:27.000000Z
+30010608960598a395ec800a2cd924c7
+2018-10-26T14:59:18.885078Z
+21154
 liaotao
 
 
@@ -160,7 +160,7 @@ liaotao
 
 
 
-3605
+13624
 
 ddz_scene_main.png
 file
@@ -570,40 +570,6 @@ liaotao
 
 27065
 
-ddz_box.png
-file
-
-
-
-
-2018-09-11T17:40:16.000000Z
-73d922f74cfcb8b0538d8c691d636073
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-204859
-
 ddz_tx_map.png
 file
 
@@ -638,14 +604,14 @@ has-props
 
 16467
 
-ddz_ranking.png
+ddz_box.png
 file
 
 
 
 
 2018-09-11T17:40:16.000000Z
-76e7e9e49b8c0912c100d337b87dbab8
+73d922f74cfcb8b0538d8c691d636073
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -670,16 +636,16 @@ has-props
 
 
 
-133764
+204859
 
-ddz_newRoomList.plist
+dizhu_table_chuntian.plist
 file
 
 
 
 
 2018-09-11T17:40:16.000000Z
-f046a7a54442cbb48418f3a6a891e1f2
+830f6e94772b1ff86318bde564b7a78b
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -704,7 +670,7 @@ liaotao
 
 
 
-5526
+4106
 
 ddz_welfare_reward.png
 file
@@ -740,14 +706,14 @@ has-props
 
 93856
 
-dizhu_table_chuntian.plist
+ddz_newRoomList.plist
 file
 
 
 
 
 2018-09-11T17:40:16.000000Z
-830f6e94772b1ff86318bde564b7a78b
+f046a7a54442cbb48418f3a6a891e1f2
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -772,7 +738,41 @@ liaotao
 
 
 
-4106
+5526
+
+ddz_ranking.png
+file
+
+
+
+
+2018-09-11T17:40:16.000000Z
+76e7e9e49b8c0912c100d337b87dbab8
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+133764
 
 ddz_scene_ui.png
 file
@@ -876,40 +876,6 @@ liaotao
 
 16033
 
-ddz_guide.png
-file
-
-
-
-
-2018-09-11T17:40:16.000000Z
-36c1aabcfc04fe7e14efc8b243a7ac13
-2018-09-10T02:34:15.680547Z
-20903
-liaotao
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116634
-
 ddz_table_ani_common.plist
 file
 
@@ -944,17 +910,18 @@ liaotao
 
 9343
 
-ddz_box.plist
+ddz_guide.png
 file
 
 
 
 
 2018-09-11T17:40:16.000000Z
-6ec33766a34d3de3bbb2af9711cab231
+36c1aabcfc04fe7e14efc8b243a7ac13
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
+has-props
 
 
 
@@ -975,8 +942,7 @@ liaotao
 
 
 
-
-20353
+116634
 
 ddz_tx_map.plist
 file
@@ -1012,14 +978,14 @@ liaotao
 
 13090
 
-ddz_ranking.plist
+ddz_box.plist
 file
 
 
 
 
 2018-09-11T17:40:16.000000Z
-d1f12be22c90ccee32f8ac4d5d2d9967
+6ec33766a34d3de3bbb2af9711cab231
 2018-09-10T02:34:15.680547Z
 20903
 liaotao
@@ -1044,7 +1010,7 @@ liaotao
 
 
 
-7430
+20353
 
 ddz_welfare_reward.plist
 file
@@ -1079,6 +1045,40 @@ liaotao
 
 
 17490
+
+ddz_ranking.plist
+file
+
+
+
+
+2018-09-11T17:40:16.000000Z
+d1f12be22c90ccee32f8ac4d5d2d9967
+2018-09-10T02:34:15.680547Z
+20903
+liaotao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7430
 
 ddz_scene_ui_v2.png
 file
@@ -1592,14 +1592,14 @@ liaotao
 
 ddz_withdraw.png
 file
+21154
 
 
 
-
-2018-09-11T17:40:16.000000Z
-8f41b3e33cf4db8f4ffd56e38e2bcd0e
-2018-09-10T02:34:15.680547Z
-20903
+2018-10-18T01:59:52.000000Z
+37de2d6e9e6f6bc1d2f9fa938c7a7dcb
+2018-10-26T14:59:18.885078Z
+21154
 liaotao
 has-props
 
@@ -1622,5 +1622,5 @@ has-props
 
 
 
-11650
+50633
 

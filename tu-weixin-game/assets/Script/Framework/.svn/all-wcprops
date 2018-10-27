@@ -3,17 +3,17 @@ svn:wc:ra_dav:version-url
 V 72
 /newsvn/hall-js/!svn/ver/21042/h5/tu-weixin-game/assets/Script/Framework
 END
-Recharge.js.meta
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/newsvn/hall-js/!svn/ver/18957/h5/tu-weixin-game/assets/Script/Framework/Recharge.js.meta
-END
 Timer.js.meta
 K 25
 svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/Framework/Timer.js.meta
+END
+Recharge.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/newsvn/hall-js/!svn/ver/18957/h5/tu-weixin-game/assets/Script/Framework/Recharge.js.meta
 END
 TuyooSDK.js.meta
 K 25
@@ -57,17 +57,23 @@ svn:wc:ra_dav:version-url
 V 89
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/Framework/UserInfo.js.meta
 END
+Timer.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/Framework/Timer.js
+END
 Recharge.js
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /newsvn/hall-js/!svn/ver/19634/h5/tu-weixin-game/assets/Script/Framework/Recharge.js
 END
-Timer.js
+TuyooSDK.js
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/Framework/Timer.js
+V 84
+/newsvn/hall-js/!svn/ver/21103/h5/tu-weixin-game/assets/Script/Framework/TuyooSDK.js
 END
 BiLog.js.meta
 K 25
@@ -75,17 +81,11 @@ svn:wc:ra_dav:version-url
 V 86
 /newsvn/hall-js/!svn/ver/17836/h5/tu-weixin-game/assets/Script/Framework/BiLog.js.meta
 END
-TuyooSDK.js
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/Framework/TuyooSDK.js
-END
 EventType.js
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/newsvn/hall-js/!svn/ver/20884/h5/tu-weixin-game/assets/Script/Framework/EventType.js
+/newsvn/hall-js/!svn/ver/21103/h5/tu-weixin-game/assets/Script/Framework/EventType.js
 END
 SystemInfo.js.meta
 K 25
@@ -121,7 +121,7 @@ UserInfo.js
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/newsvn/hall-js/!svn/ver/21027/h5/tu-weixin-game/assets/Script/Framework/UserInfo.js
+/newsvn/hall-js/!svn/ver/21103/h5/tu-weixin-game/assets/Script/Framework/UserInfo.js
 END
 BiLog.js
 K 25
@@ -139,7 +139,7 @@ SystemInfo.js
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/newsvn/hall-js/!svn/ver/21042/h5/tu-weixin-game/assets/Script/Framework/SystemInfo.js
+/newsvn/hall-js/!svn/ver/21103/h5/tu-weixin-game/assets/Script/Framework/SystemInfo.js
 END
 Share.js
 K 25

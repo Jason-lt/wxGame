@@ -5,8 +5,8 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 43,
-      "y": 48,
+      "x": -1893,
+      "y": 100,
       "width": 1792,
       "height": 895,
       "layout": {
@@ -79,7 +79,7 @@
             "width": 1056
           },
           {
-            "active": 1,
+            "active": 0,
             "children": [
               "inspector",
               "builder"

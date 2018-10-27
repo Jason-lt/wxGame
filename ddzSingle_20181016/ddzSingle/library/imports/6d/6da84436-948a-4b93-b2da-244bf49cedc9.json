@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "single_halve",
+    "texture": "c1fac3aa-137b-4baf-aa6d-d63722241865",
+    "atlas": "37bcf1cd-b31f-4c6b-b165-4aea1dd64a3f",
+    "rect": [
+      903,
+      2,
+      149,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      97
+    ],
+    "rotated": 1
+  }
+}

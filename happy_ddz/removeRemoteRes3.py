@@ -12,11 +12,11 @@ remoteRes = [
 retainRes = [
     '05a7f3fe3.json',
     '043e46bcf.json',
-    '03355a6bd.json',
     '0f3fd8fcd.json',
-    '0c781b430.json',
     '01cebba05.json',
     '09a748761.json',
+    '03355a6bd.json',
+    '0c781b430.json',
     '0b72be2ae.json',
     '09f634a00.json',
 ]

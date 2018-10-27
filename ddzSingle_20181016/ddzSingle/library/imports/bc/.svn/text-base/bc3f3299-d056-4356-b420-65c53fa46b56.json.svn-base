@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_gameDetail_cel_number",
+    "texture": "3d8e6874-86b4-4d0a-8a79-f4286e698cfa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      45
+    ]
+  }
+}

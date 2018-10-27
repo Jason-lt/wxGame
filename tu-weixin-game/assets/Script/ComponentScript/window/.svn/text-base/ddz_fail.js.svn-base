@@ -41,8 +41,6 @@ cc.Class({
         titleS : "使用",
         count : "1",
 
-        isOnShare : false,
-
         conditionType : "",
         failCondition : null,
         toNext : false,
@@ -111,8 +109,9 @@ cc.Class({
                 }
             }
 
+            //分享次数达到配置,没有分享价值
             var shareNumber = hall.GlobalFuncs.ReadStringFromLocalStorage(ddz.Share.YESTERDAY_SHARE_NUMBER, 0);
-            if (shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail){
+            if ((shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail) || !ty.UserInfo.sharePredict){
                 this.titleS = "获取";
 
                 hall.adManager.checkVideoAd();
@@ -120,6 +119,7 @@ cc.Class({
                     this.diamondResurgenceTitle = "看广告得钻石";
                     this.windowBtnText = "看广告得钻石";
                 }else {
+                    //判断是否有分享价值
                     this.diamondResurgenceTitle = "分享";
                     this.windowBtnText = "分享";
                     ddz.gameModel.checkShareReward(ddz.Share.SharePointType.failWindw);
@@ -225,10 +225,6 @@ cc.Class({
             ddz.LOGD(null, "TCP is not ok! Please wait!");
             return;
         }
-        if(this.isOnShare){
-            return;
-        }
-        this.isOnShare = true;
         ddz.AudioHelper.playEffect(ddz.EffectPath_mp3.button_click_sound, false);
         if(this.conditionType == "share"){
             ddz.Share.shareWithType(ddz.Share.onShareType.clickStatShareTypeRevial);
@@ -238,18 +234,18 @@ cc.Class({
             var adId = this.adIds[hall.GlobalFuncs.getRandomNumberBefore(this.adIds.length)];
             // this.nowAdId = adId;
 
-            if (!hall.adManager.canPlay) {
-                // banner广告复活
-                var bc = ddz.gameModel.getBannerResurgenceConfigJson();
-                if (bc) {
-                    ddz.GlobalFuncs.showBannerResurgenceWindow();
-                    this.isOnShare = false;
-                }else {
-                    hall.adManager.showRewardedVideo(adId,"failResurgence");
-                }
-            }else {
-                hall.adManager.showRewardedVideo(adId,"failResurgence");
-            }
+            // if (!hall.adManager.canPlay) {
+            //     // banner广告复活
+            //     var bc = ddz.gameModel.getBannerResurgenceConfigJson();
+            //     if (bc) {
+            //         ddz.GlobalFuncs.showBannerResurgenceWindow();
+            //     }else {
+            //         hall.adManager.showRewardedVideo(adId,"failResurgence");
+            //     }
+            // }else {
+            //     hall.adManager.showRewardedVideo(adId,"failResurgence");
+            // }
+            hall.adManager.showRewardedVideo(adId,"failResurgence");
         }
     },
 
@@ -333,7 +329,7 @@ cc.Class({
         }
 
         var shareNumber = hall.GlobalFuncs.ReadStringFromLocalStorage(ddz.Share.YESTERDAY_SHARE_NUMBER, 0);
-        if (shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail){
+        if ((shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail) || !ty.UserInfo.sharePredict){
             hall.adManager.checkVideoAd();
             if (hall.adManager.canPlay) {
                 this.seeVideoGetReward();
@@ -409,7 +405,6 @@ cc.Class({
         this.restartButton.node.active = false;
         this.numberlabel.node.active = false;
         this.noticelabel.node.active = false;
-        this.isOnShare = false;
 
         ddz.AudioHelper.playMusic('/resources/sound/Failure.mp3', false);
 
@@ -419,25 +414,29 @@ cc.Class({
             // ddz.GlobalFuncs.showRevivalWindow(matchCondition,"match");
             this.failCondition = matchCondition;
             this.toNext = matchCondition.resurgenceCondition.toNext;
-            this.conditionType = matchCondition.resurgenceCondition.conditionType;
             this.requestCount = matchCondition.resurgenceCondition.requestCount;
             ddz.Share.shareKeywordReplace.repeatNumber = this.requestCount;
             this.nowCount = 0;
             ddz.Share.shareKeywordReplace.hadNumber = this.nowCount;
             this.adIds = matchCondition.resurgenceCondition.adIds;
-
             if (matchCondition.resurgenceCondition.requestCount > 1 &&  matchCondition.buttonText1.indexOf("hadNumber/repeatNumber") ==-1){
                 matchCondition.buttonText1 += "(hadNumber/repeatNumber)";
             }
             var centerString = hall.GlobalFuncs.replaceKeyWordInString(matchCondition.buttonText1);
             
             this.adResurgenceTitle = centerString;
+            this.conditionType = matchCondition.resurgenceCondition.conditionType;
+            hall.adManager.checkVideoAd();
+            if(this.conditionType == "share" && !ty.UserInfo.sharePredict && hall.adManager.canPlay) {
+                this.conditionType = "video";
+                this.adResurgenceTitle = "观看广告复活";
+                this.adIds = ["adunit-8bde7ac62d379503"];
+            }
 
             hall.GlobalFuncs.btnScaleEffect(this.topButton.node,1.13);
             //TODO:观看不了广告
             var bc = ddz.gameModel.getBannerResurgenceConfigJson();
             if (bc){
-                hall.adManager.checkVideoAd();
                 if (!hall.adManager.canPlay) {
                     if (centerString.indexOf("观看广告") >=0) {
                         var _toNext = matchCondition.resurgenceCondition.toNext;
@@ -530,7 +529,6 @@ cc.Class({
                 }
                 this.isGetJiPaiQi = false;
             }else {
-                this.isOnShare = false;
                 if(isEnded){
                     this.nowCount ++;
                     this.getDiamondToRevival();
@@ -541,7 +539,6 @@ cc.Class({
 
     errorShowRewardVideo : function (parArr) {
         hall.LOGW("=====","file = [ddz_fail] fun = [errorShowRewardVideo]");
-        this.isOnShare = false;
         this.finishShowRewardVideo(parseInt(parArr[1]));
     },
     
@@ -552,7 +549,6 @@ cc.Class({
     // },
 
     playAnimationAfterShareWithType : function (shareType) {
-        this.isOnShare = false;
         var reultType = ddz.Share.resultType;
         if (shareType == ddz.Share.onShareType.clickStatShareTypeGetDiamondFailSix) {
             ddz.gameModel.checkShareReward(ddz.Share.SharePointType.failSix);
@@ -649,7 +645,7 @@ cc.Class({
             }
 
             var shareNumber = hall.GlobalFuncs.ReadStringFromLocalStorage(ddz.Share.YESTERDAY_SHARE_NUMBER, 0);
-            if (shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail){
+            if ((shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail) || !ty.UserInfo.sharePredict){
                 return
             }
             var _shareType = ddz.Share.onShareType.clickStatShareTypeGetDiamondFailSix;
@@ -693,7 +689,7 @@ cc.Class({
             }
 
             var shareNumber = hall.GlobalFuncs.ReadStringFromLocalStorage(ddz.Share.YESTERDAY_SHARE_NUMBER, 0);
-            if (shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail){
+            if ((shareConfig && shareConfig.fail != null && shareNumber >= shareConfig.fail) || !ty.UserInfo.sharePredict){
                 return
             }
             var _shareType = ddz.Share.onShareType.clickStatShareTypeGetDiamondFailWindow;

@@ -192,18 +192,14 @@ cc.Class({
                 return;
             }
         }
-
+        var curScene = cc.director.getScene();
         if (cc.sys.os == cc.sys.OS_IOS) {
-            var curScene = cc.director.getScene();
             ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["mainClickMall",curScene.name]);
             hall.GlobalFuncs.gotoMallScene();
         }else {
-            var curScene = cc.director.getScene();
             ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["mainClickRecharge",curScene.name]);
             hall.GlobalFuncs.gotoRechargeScene();
         }
-
-
     },
 
     onClickGoldBtn:function(){
@@ -231,9 +227,16 @@ cc.Class({
             }
         }
         ty.NotificationCenter.trigger(ddz.EventType.REMOVE_WINDOW_ANI);
+
         var curScene = cc.director.getScene();
-        ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["MainClickDiamond",curScene.name]);
-        hall.GlobalFuncs.gotoRechargeScene();
+        if (cc.sys.os == cc.sys.OS_IOS) {
+            ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["MainClickDiamond",curScene.name]);
+            ddz.isClickShareReward = true;
+            ddz.gameModel.getDayInviteReward();
+        }else {
+            ty.BiLog.clickStat(ty.UserInfo.clickStatEventType.clickStatEventTypeButtonClick,["mainClickRecharge",curScene.name]);
+            hall.GlobalFuncs.gotoRechargeScene();
+        }
     },
 
     onDestroy:function () {

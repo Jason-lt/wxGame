@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dizhu_table_chuntian",
+    "texture": "aa645208-19fa-4cbd-aca5-38d8dfd1aa59",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      492,
+      595
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      498,
+      600
+    ]
+  }
+}

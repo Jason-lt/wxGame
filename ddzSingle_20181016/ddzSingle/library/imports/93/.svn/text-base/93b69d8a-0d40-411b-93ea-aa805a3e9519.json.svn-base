@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddz_table_ani_rocket.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ddz_table_roket_1": {
+      "__uuid__": "772e7ea4-142f-4cb3-b8ef-bc3f3c49478a"
+    },
+    "ddz_table_roket_A1": {
+      "__uuid__": "f817582e-834d-41dc-b584-0152f441e613"
+    },
+    "ddz_table_roket_A2": {
+      "__uuid__": "c945a140-62ae-4119-91bc-90125982251c"
+    },
+    "ddz_table_roket_A3": {
+      "__uuid__": "0068e79c-c6bd-4c9d-9763-223d55ebfba2"
+    },
+    "ddz_table_roket_A4": {
+      "__uuid__": "523be7f7-fb30-4ac8-aeba-1a0269dd266c"
+    },
+    "ddz_table_roket_A5": {
+      "__uuid__": "577588d6-b7b1-4690-9070-eccfd6d3d17a"
+    },
+    "ddz_table_roket_guangquan": {
+      "__uuid__": "a92aa747-a6f2-466d-8faa-772a8d3c8c3d"
+    },
+    "ddz_table_roket_light_1": {
+      "__uuid__": "72fc17be-9660-4d84-8bb3-cb2a12c7caef"
+    },
+    "ddz_table_roket_light_2": {
+      "__uuid__": "dc09e0ca-3fc9-4f4e-8f30-6a9566e6970b"
+    },
+    "ddz_table_roket_light_3": {
+      "__uuid__": "843c8daf-c199-43ed-ba16-66a5f5751615"
+    },
+    "ddz_table_roket_light_4": {
+      "__uuid__": "2c2bd8ec-4207-4d9f-8251-ec737f94cabd"
+    },
+    "ddz_table_roket_light_5": {
+      "__uuid__": "0c1186ec-9cbb-4e60-840a-d11b085ef512"
+    },
+    "ddz_table_roket_light_6": {
+      "__uuid__": "8a09ee65-5592-45bc-852d-384e6dce8ccc"
+    },
+    "ddz_table_roket_light_7": {
+      "__uuid__": "d4d0fef8-1ea4-4f32-b151-58edc5c928a4"
+    },
+    "ddz_table_shandian_1": {
+      "__uuid__": "47cf537d-a524-40f3-82db-47bb10ccb423"
+    },
+    "ddz_table_shandian_2": {
+      "__uuid__": "2a3a458d-437d-4fce-93ac-2f83cbc8e17e"
+    },
+    "ddz_table_shandian_3": {
+      "__uuid__": "a1e0b1a8-18fd-44e0-b5b1-5725c9af1fac"
+    },
+    "ddz_table_shandian_4": {
+      "__uuid__": "4962c430-7ca9-4c6c-8d9a-958d4c209dc9"
+    },
+    "ddz_table_shandian_5": {
+      "__uuid__": "45376742-6d01-4781-8d25-6224fb4d2a82"
+    },
+    "ddz_table_shandian_6": {
+      "__uuid__": "8b931400-b917-472a-89fd-273a270131f1"
+    },
+    "ddz_table_word_roket": {
+      "__uuid__": "0686f33a-c4ae-4389-bdfa-a213eba1314d"
+    }
+  }
+}

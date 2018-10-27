@@ -90,6 +90,9 @@ cc.Class({
         cardsTip: cc.Label,
         controlPanel: cc.Node,
         myAvatar: cc.Node,
+        myHead: cc.Node,
+        boor: cc.Node,
+        landlord: cc.Node,
         leftPlayerPanel: cc.Node,
         rightPlayerPanel: cc.Node,
         bottomPlayerPanel: cc.Node,
@@ -146,7 +149,8 @@ cc.Class({
         var numStr = "一二三四五六七"[curIndex];
         this.lblStage.string = "第" + numStr + "关";
 
-        this.myAvatar.active = true;
+        // this.myAvatar.active = true;
+        this.myHead.active = true;
         // var myAvatarM = this.myAvatar.getComponent("Avatar");
         // myAvatarM.hideDizhuHat();
 
@@ -188,7 +192,8 @@ cc.Class({
         this._cardBaseScale = this.playedCardArea.scale;
 
         this.faPai.active = false;
-        this.myAvatar.active = false;
+        // this.myAvatar.active = false;
+        this.myHead.active = false;
 
         if (ty.UserInfo.systemType == ty.UserInfo.SYSTEMTYPE.iPhoneXType) {
             var wid = this.leftPlayerPanel.getComponent(cc.Widget);
@@ -886,13 +891,16 @@ cc.Class({
         }
 
         this.myAvatar.active = false;
+        this.myHead.active = false;
         // var myAvatarM = this.myAvatar.getComponent("Avatar");
         // myAvatarM.hideDizhuHat();
         if (this._friendPanel) {
-            this.myAvatar.active = true;
+            // this.myAvatar.active = true;
+            this.myHead.active = true;
         }
         if (this._goldPanel) {
-            this.myAvatar.active = true;
+            // this.myAvatar.active = true;
+            this.myHead.active = true;
             this._goldPanel.reset();
         }
         if (this._throughPanel) {
@@ -901,7 +909,8 @@ cc.Class({
         }
 
         if (this._arenaPanel) {
-            this.myAvatar.active = true;
+            // this.myAvatar.active = true;
+            this.myHead.active = true;
             this._arenaPanel.reset();
         }
 
@@ -929,24 +938,48 @@ cc.Class({
     },
 
     showDizhuHat: function showDizhuHat(to_pos) {
-        this.dizhuHatSprite.spriteFrame = this.dizhuHatSpriteFrame[0];
-        this.dizhuPos = to_pos;
-        this.dizhuHat.active = true;
-        var animation = this.dizhuHat.getComponent(cc.Animation);
-        var anim1 = animation.getAnimationState('maozi1');
-        anim1.on('finished', this.completeHatAni, this);
-        anim1.play();
+        // this.dizhuHatSprite.spriteFrame = this.dizhuHatSpriteFrame[0];
+        // this.dizhuPos = to_pos;
+        // this.dizhuHat.active = true;
+        // var animation = this.dizhuHat.getComponent(cc.Animation);
+        // var anim1 = animation.getAnimationState('maozi1');
+        // anim1.on('finished', this.completeHatAni,this);
+        // anim1.play();
+        //
+        var dizhuIndex = this._tableState.normalInfo.m_dizhu;
+        if (dizhuIndex == this._mySeatIndex) {
+            this.boor.active = false;
+            this.landlord.active = true;
+        } else if (dizhuIndex == ddz.GlobalFuncs.getPreIndex(this._mySeatIndex)) {
+            //
+            this._leftPlayerController.setDizhuHead();
+        } else if (dizhuIndex == ddz.GlobalFuncs.GetNextIndex(this._mySeatIndex)) {
+            //
+            this._rightPlayerController.setDizhuHead();
+        }
     },
     showDizhuHatOrigin: function showDizhuHatOrigin(to_pos) {
-        this.dizhuHatSprite.spriteFrame = this.dizhuHatSpriteFrame[1];
+        // this.dizhuHatSprite.spriteFrame = this.dizhuHatSpriteFrame[1];
+        //
+        // this.ddz_maozi_1.opacity = 0;
+        // this.ddz_maozi_2.opacity = 0;
+        //
+        // this.dizhuPos = to_pos;
+        // this.dizhuHat.active = true;
+        // this.dizhuHat.x = to_pos.x;
+        // this.dizhuHat.y = to_pos.y ;
 
-        this.ddz_maozi_1.opacity = 0;
-        this.ddz_maozi_2.opacity = 0;
-
-        this.dizhuPos = to_pos;
-        this.dizhuHat.active = true;
-        this.dizhuHat.x = to_pos.x;
-        this.dizhuHat.y = to_pos.y;
+        var dizhuIndex = this._tableState.normalInfo.m_dizhu;
+        if (dizhuIndex == this._mySeatIndex) {
+            this.boor.active = false;
+            this.landlord.active = true;
+        } else if (dizhuIndex == ddz.GlobalFuncs.getPreIndex(this._mySeatIndex)) {
+            //
+            this._leftPlayerController.setDizhuHead();
+        } else if (dizhuIndex == ddz.GlobalFuncs.GetNextIndex(this._mySeatIndex)) {
+            //
+            this._rightPlayerController.setDizhuHead();
+        }
     },
     completeHatAni: function completeHatAni() {
         var to_pos = this.dizhuPos;
@@ -991,7 +1024,8 @@ cc.Class({
             this._rightPlayerController.refreshAvatarForeFriendOrigin();
         }
 
-        this.myAvatar.active = true;
+        // this.myAvatar.active = true;
+        this.myHead.active = true;
         var isDiZhu = this._mySeatIndex == this._tableState.normalInfo.m_dizhu;
         // var myAvatarM = this.myAvatar.getComponent("Avatar");
         if (isDiZhu) {
@@ -1038,7 +1072,11 @@ cc.Class({
             if (ddz.gameModel.isLimit) {
                 avatarCom.setAvatarUrl(hall.ME.udataInfo.m_purl);
             }
+            this.myAvatar.active = false;
         }
+        this.myHead.active = true;
+        this.boor.active = true;
+        this.landlord.active = false;
     },
 
     changeSelfHead: function changeSelfHead(data) {
@@ -1817,6 +1855,8 @@ cc.Class({
         }
         this._operateController.btnPlay.active = true;
         this._operateController.btnPlay.interactable = true;
+        this._operateController.btnPlay.node.getChildByName("bright").active = true;
+        this._operateController.btnPlay.node.getChildByName("hui").active = false;
         this._tipNum = (this._tipNum + 1) % len;
     },
 
@@ -3396,7 +3436,8 @@ cc.Class({
         }
 
         this._operateController.btnPlay.interactable = this._selectedCards.length > 0;
-
+        this._operateController.btnPlay.node.getChildByName("bright").active = this._selectedCards.length > 0;
+        this._operateController.btnPlay.node.getChildByName("hui").active = !(this._selectedCards.length > 0);
         return true;
     },
 
@@ -3491,7 +3532,8 @@ cc.Class({
             var nextCallBack = function nextCallBack() {
                 that._leftPlayerController.refreshAvatarForeFriendOrigin();
                 that._rightPlayerController.refreshAvatarForeFriendOrigin();
-                that.myAvatar.active = true;
+                // that.myAvatar.active = true;
+                that.myHead.active = true;
                 var isDiZhu = that._mySeatIndex == that._tableState.normalInfo.m_dizhu;
                 if (isDiZhu) {
                     var to_pos = that.getEmoPos(that._mySeatIndex);

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "single_table_text_6",
+    "texture": "043509ca-dbea-4940-9495-3de215ccc720",
+    "atlas": "f9560ec4-d326-4856-9a40-e1010911599d",
+    "rect": [
+      604,
+      443,
+      96,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      54
+    ],
+    "rotated": 1
+  }
+}

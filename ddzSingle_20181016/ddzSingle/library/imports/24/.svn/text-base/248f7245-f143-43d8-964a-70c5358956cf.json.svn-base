@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ele_sanjiao",
+    "texture": "f069279c-13b6-4801-ae53-577d3789d64f",
+    "atlas": "",
+    "rect": [
+      4,
+      21,
+      121,
+      90
+    ],
+    "offset": [
+      0.5,
+      -2
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

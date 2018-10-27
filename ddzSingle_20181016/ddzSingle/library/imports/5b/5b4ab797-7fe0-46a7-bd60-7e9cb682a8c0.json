@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anjian",
+    "texture": "98a58bb1-8d84-4d9c-b583-93d14d02ed23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      145
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      112,
+      146
+    ]
+  }
+}
